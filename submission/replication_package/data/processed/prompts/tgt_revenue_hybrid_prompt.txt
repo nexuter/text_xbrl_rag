@@ -1,0 +1,65 @@
+You are assisting with an auditing research task. Use only the information provided in the context.
+
+Task:
+Identify audit-relevant risk cues or assertion-mapping considerations for revenue recognition risk cue identification for Target Corporation, fiscal year 2024, period ended 2025-02-01, accession 0000027419-25-000018, based on the provided context.
+
+Instructions:
+1. Provide no more than five audit-relevant claims.
+2. Distinguish factual claims from risk-cue or assertion-mapping claims.
+3. Do not conclude that a misstatement exists.
+4. State when the provided context is insufficient.
+5. Avoid treating reported XBRL relationships as independent audit evidence.
+6. Do not use general company knowledge outside the provided context.
+7. For each risk-cue or assertion-mapping claim, state the inferential bridge from the source evidence to the audit consideration.
+8. Do not write "Limitation: None" for risk-cue or assertion-mapping claims; identify at least one missing audit evidence item, missing control detail, or source-bound limitation.
+9. For factual claims, state any period, source, or measurement limitation rather than treating the claim as unrestricted.
+
+Context:
+TEXT RETRIEVAL CONTEXT
+
+[Text Chunk 1]
+chunk_id: T-TGT-REVENUE-029
+source_file: tgt-20250201.htm
+construct_tag: revenue
+ranking_score: 25
+text: Merchandise Sales are net of expected returns, and our estimate of gift card breakage. Note 2 to the Financial Statements defines gift card "breakage." We use comparable sales to evaluate the performance of our stores and digital channels by measuring the change in sales for a period over the comparable, prior-year period of equivalent length. Comparable sales include all Merchandise Sales, except sales from stores open less than 13 months or that have been closed. Comparable sales measures vary across the retail industry. As a result, our comparable sales calculation is not necessarily comparable to similarly titled measures reported by other companies. Digitally originated sales include all Merchandise Sales initiated through mobile applications and our websites. Our stores fulfill the majority of digitally originated sales, including shipment from stores to guests, store Order Pickup or Drive Up, and Same Day Delivery. Digitally originated sales may also be fulfilled through our distribution centers, our vendors, or other third parties.
+
+[Text Chunk 2]
+chunk_id: T-TGT-REVENUE-042
+source_file: tgt-20250201.htm
+construct_tag: revenue
+ranking_score: 20
+text: Revenue from Target gift card sales is recognized upon gift card redemption, which is typically within one year of issuance. Our gift cards do not expire. Based on historical redemption rates, a small and relatively stable percentage of gift cards will never be redeemed, referred to as "breakage." Estimated breakage revenue is recognized over time in proportion to actual gift card redemptions.
+
+[Text Chunk 3]
+chunk_id: T-TGT-REVENUE-041
+source_file: tgt-20250201.htm
+construct_tag: revenue
+ranking_score: 12
+text: Merchandise sales – We record almost all retail store revenues at the point of sale. Digitally originated sales may include shipping revenue and are recorded upon delivery to the guest or upon guest pickup at the store. Merchandise sales do not include sales tax because we are a pass-through conduit for collecting and remitting sales taxes. Generally, guests may return national brand merchandise within 90 days of purchase and owned and exclusive brand merchandise within one year of purchase. Sales are recognized net of expected returns, which we estimate using historical return patterns and our expectation of future returns. As of February 1, 2025, and February 3, 2024, the liability for estimated returns was $ 172 million and $ 170 million, respectively.
+
+XBRL RELATIONAL RETRIEVAL CONTEXT
+
+Facts:
+1. fact_id=F-TGT-0003 concept=RevenueFromContractWithCustomerExcludingAssessedTax value=109120000000 unit=iso4217:USD period=duration:2022-01-30/2023-01-28 dimensions=none
+2. fact_id=F-TGT-0016 concept=RevenueFromContractWithCustomerExcludingAssessedTax value=17646000000 unit=iso4217:USD period=duration:2022-01-30/2023-01-28 dimensions=srt:ProductOrServiceAxis=tgt:ApparelAndAccessoriesMember
+3. fact_id=F-TGT-0019 concept=RevenueFromContractWithCustomerExcludingAssessedTax value=11092000000 unit=iso4217:USD period=duration:2022-01-30/2023-01-28 dimensions=srt:ProductOrServiceAxis=tgt:BeautyMember
+4. fact_id=F-TGT-0056 concept=ContractWithCustomerLiability value=1162000000 unit=iso4217:USD period=instant:2024-02-03 dimensions=none
+5. fact_id=F-TGT-0078 concept=ContractWithCustomerLiability value=1162000000 unit=iso4217:USD period=instant:2024-02-03 dimensions=none
+6. fact_id=F-TGT-0059 concept=ContractWithCustomerLiability value=1209000000 unit=iso4217:USD period=instant:2025-02-01 dimensions=none
+7. fact_id=F-TGT-0057 concept=ContractWithCustomerLiabilityLiabilitiesIncurred value=878000000 unit=iso4217:USD period=duration:2024-02-04/2025-02-01 dimensions=none
+8. fact_id=F-TGT-0062 concept=ContractWithCustomerLiabilityLoyaltyProgramCurrent value=117000000 unit=iso4217:USD period=instant:2024-02-03 dimensions=none
+
+Relation paths:
+1. path_id=X-TGT-0005 relation_type=presentation source=us-gaap:RevenueFromContractWithCustomerAbstract (Revenue from Contract with Customer [Abstract]) -> target=us-gaap:RevenueFromContractWithCustomerTextBlock (Revenue from Contract with Customer [Text Block]) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://corporate.target.com/role/NetSales
+2. path_id=X-TGT-0012 relation_type=presentation source=us-gaap:RevenueFromContractWithCustomerAbstract (Revenue from Contract with Customer [Abstract]) -> target=us-gaap:ContractWithCustomerAssetAndLiabilityTableTextBlock (Contract with Customer, Contract Asset, Contract Liability, and Receivable [Table Text Block]) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://corporate.target.com/role/NetSalesTables
+3. path_id=X-TGT-0065 relation_type=definition source=us-gaap:DisaggregationOfRevenueLineItems (Disaggregation of Revenue [Line Items]) -> target=us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax (Revenue from Contract with Customer, Excluding Assessed Tax) arcrole=http://xbrl.org/int/dim/arcrole/domain-member role=http://corporate.target.com/role/NetSalesDisaggregationofNetSalesDetails
+4. path_id=X-TGT-0030 relation_type=presentation source=tgt:ChangeinContractwithCustomerLiabilityRollForward (label unavailable) -> target=us-gaap:ContractWithCustomerLiabilityRevenueRecognized (Contract with Customer, Liability, Revenue Recognized) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://corporate.target.com/role/NetSalesGiftCardLiabilityActivityDetails
+5. path_id=X-TGT-0018 relation_type=presentation source=us-gaap:DisaggregationOfRevenueLineItems (Disaggregation of Revenue [Line Items]) -> target=us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax (Revenue from Contract with Customer, Excluding Assessed Tax) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://corporate.target.com/role/NetSalesDisaggregationofNetSalesDetails
+6. path_id=X-TGT-0027 relation_type=presentation source=us-gaap:RevenueFromContractWithCustomerAbstract (Revenue from Contract with Customer [Abstract]) -> target=tgt:ChangeinContractwithCustomerLiabilityRollForward (label unavailable) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://corporate.target.com/role/NetSalesGiftCardLiabilityActivityDetails
+
+Output format:
+- Claim:
+  - Claim type:
+  - Support used:
+  - Limitation:

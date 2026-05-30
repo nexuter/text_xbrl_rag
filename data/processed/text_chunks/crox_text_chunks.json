@@ -1,0 +1,1642 @@
+[
+  {
+    "chunk_id": "T-CROX-INVENTORY-001",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Our business is subject to a number of risks and uncertainties, including those described in Part I, Item 1A. Risk Factors of this Annual Report on Form 10-K. These risks include, but are not limited to, the following:",
+    "text": "\u2022 our substantial dependence on the value of our brands and our failure to strengthen and preserve this value;"
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-001",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "\u2022 the fact that we conduct significant business activity outside the U.S., which exposes us to risks of international commerce;",
+    "text": "\u2022 our inability to successfully execute our long-term growth strategy, maintain or grow our current revenue and profit levels, or accurately forecast demand and supply for our products;"
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-002",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "\u2022 the substantial fixed costs we incur with respect to company-operated retail stores;",
+    "text": "\u2022 if substantial investments in businesses and operations fail to produce expected returns;"
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-003",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "\u2022 that we may incur impairments of the carrying value of our goodwill and other intangible assets;",
+    "text": "\u2022 the fluctuations to which our quarterly revenues and operating results are subject;"
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-004",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "\u2022 Expand wearing occasions through thoughtful diversification of our product range to attract new and retain existing consumers \u2014 For the Crocs Brand, we see opportunity to diversify within our clog, sandal, personalizat",
+    "text": "\u2022 Drive market share gains across our Tier 1 markets through prioritization of investments behind our strategic markets \u2014 For the Crocs Brand, we are currently focused on six Tier 1 markets: (i) China, (ii) India, (iii) Japan, (iv) South Korea, (v), the U.S., and (vi) Western Europe. Our international sales in 2025 were 48.6% of Crocs Brand revenues compared to 44.1% and 41.0% in 2024 and 2023, respectively. For the HEYDUDE Brand, our current primary focus is to stabilize the U.S. marketplace, and we have made progress towards this goal. To support continued stabilization in the future, we plan to continue to support various marketing activities to ultimately drive higher brand awareness. This includes developing a pipeline of collaborations and brand activations."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-005",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "\u2022 Drive market share gains across our Tier 1 markets through prioritization of investments behind our strategic markets \u2014 For the Crocs Brand, we are currently focused on six Tier 1 markets: (i) China, (ii) India, (iii) ",
+    "text": "Across our portfolio, leading with digital remains a priority. Digital sales include sales directly to consumers through our company-owned websites and third-party marketplaces as well as wholesale sales to our global e-tailers. Our digital sales in 2025 were 37.8% of consolidated revenues, compared to 37.2% and 37.9% of consolidated revenues in 2024 and 2023, respectively."
+  },
+  {
+    "chunk_id": "T-CROX-INVENTORY-002",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "We are committed to taking steps to reduce our impact on the environment and are particularly focused on carbon reduction, sustainable operations, and product circularity.",
+    "text": "In 2025, we completed a greenhouse gas inventory for the Crocs, Inc. enterprise, including both the Crocs and HEYDUDE brands, based on 2024 data. In 2025, we refocused our bio-circular materials strategy to the Crocs Classic Clog Portfolio, maintaining 25% bio-circular content on a mass balance basis across Classics as verified by the International Sustainability and"
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-006",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "The broad appeal of our footwear has allowed us to market our products in more than 85 countries through two distribution channels: wholesale and direct-to-consumer (\u201cDTC\u201d).",
+    "text": "During the years ended December 31, 2025, 2024, and 2023, 47.9%, 50.3%, and 52.0% of our consolidated revenues, respectively, were derived through our wholesale channel. Our wholesale channel includes domestic and international multi-brand retailers, mono-branded partner stores, e-tailers, and distributors. Brick-and-mortar customers typically include family footwear retailers, international, national, and regional retail chains, sporting goods stores, and independent footwear retailers."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-007",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "During the years ended December 31, 2025, 2024, and 2023, 47.9%, 50.3%, and 52.0% of our consolidated revenues, respectively, were derived through our wholesale channel. Our wholesale channel includes domestic and intern",
+    "text": "Outside the U.S., we use distributors when we believe such arrangements are economically preferable to direct sales. Distributors purchase products pursuant to a price list and are granted the right to resell those products in a defined territory, usually a country or group of countries. Our typical distribution agreements have terms of one to five years and can be terminated or renegotiated if minimum requirements or other terms are not met."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-008",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Outside the U.S., we use distributors when we believe such arrangements are economically preferable to direct sales. Distributors purchase products pursuant to a price list and are granted the right to resell those produ",
+    "text": "Our DTC channel includes company-operated e-commerce sites, third-party marketplaces, company-operated full-price retail stores, outlet stores, and kiosks/store-in-store locations. During the years ended December 31, 2025, 2024, and 2023, 52.1%, 49.7%, and 48.0%, respectively, of our consolidated revenues were derived through our DTC channel."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-009",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Our DTC channel includes company-operated e-commerce sites, third-party marketplaces, company-operated full-price retail stores, outlet stores, and kiosks/store-in-store locations. During the years ended December 31, 202",
+    "text": "As of December 31, 2025, we offered our products through 23 company-operated e-commerce sites worldwide and also on third-party marketplaces. Our e-commerce presence facilitates a greater connection with our consumers and provides us with an opportunity to educate them about our products and brands. We continue to leverage increasingly sophisticated digital marketing activities to enhance the consumer experience and drive sales, thereby benefiting from the continued migration of consumers to online shopping."
+  },
+  {
+    "chunk_id": "T-CROX-INVENTORY-003",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "The primary raw materials for the HEYDUDE Brand are fabrics, including polyester and cotton, Ethylene-vinyl acetate (\u201cEVA\u201d) insoles and outsoles, and other materials such as leather and polyurethane. We purchase this mat",
+    "text": "Our sourcing strategy is to maintain a flexible, globally-diversified, cost-efficient third-party manufacturing base. We source our inventory production from multiple third-party manufacturers, primarily in:"
+  },
+  {
+    "chunk_id": "T-CROX-INVENTORY-004",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "We believe any potential concentration risk is mitigated by the fact that the manufacturing capabilities required to produce our footwear are broadly available for both brands. Nonetheless, see the risk factors under \u201cRi",
+    "text": "We strive to enhance our distribution and logistics network to further streamline our supply chain, increase our speed to market, and lower operating costs. As of December 31, 2025, we principally stored our finished goods inventory in company-operated warehouses and distribution and logistics facilities located in the U.S. and the Netherlands. We also utilized third-party operated distribution centers located in the United States, Japan, China, Australia, South Korea, Singapore, India, Brazil, Canada, the Netherlands, and the United Kingdom. As of December 31, 2025, our company-operated warehouse and distribution facilities provided us with 2.9 million square feet, and our third-party operated distribution facilities provided us with 1.0 million square feet, with additional area available based on inventory levels. Additionally, certain customers pick up orders directly from our third-party manufacturers or from the port of entry."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-010",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "We consider the formulations of the materials used to produce our Crocs Brand footwear covered by our trademarks Croslite\u2122, LiteRide\u2122, and Free Feel Technology\u2122, among others, valuable trade secrets. The material formula",
+    "text": "We also actively combat counterfeiting and other infringements of our brand by monitoring the global marketplace. We use our employees, sales representatives, distributors, and retailers, as well as outside investigators, attorneys, and customs agents, to police against infringing products by encouraging them to notify us of any suspect products and to assist law enforcement agencies. Our sales representatives and distributors are also educated on our patents, pending patents, trademarks, and trade dress to assist in preventing potentially infringing products from obtaining retail shelf space. The laws of certain countries do not protect intellectual property rights to the same extent or in the same manner as do the laws of the U.S., and, therefore, we may have difficulty obtaining legal protection for our intellectual property in certain foreign jurisdictions. See the risk factor under \u201cRisks Related to our Products \u2014 Failure to adequately protect our trademarks and other intellectual property rights and counterfeiting of our brands could divert sales, damage our brands\u2019 image, and adversely affect our business\u201d included in Item 1A. Risk Factors of this Annual Report on Form 10-K for more information."
+  },
+  {
+    "chunk_id": "T-CROX-INVENTORY-005",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "You should carefully consider the following risk factors and all other information presented within this Annual Report on Form 10-K. The risks set forth below are those that our management believes are applicable to our ",
+    "text": "Our success depends substantially on the value of our brands; failure to strengthen and preserve this value, either through our actions or those of our business partners, could have a negative impact on our financial results."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-011",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Our success depends substantially on the value of our brands; failure to strengthen and preserve this value, either through our actions or those of our business partners, could have a negative impact on our financial res",
+    "text": "We believe much of our success has been attributable to the strength of the Crocs and HEYDUDE brands. To be successful in the future, particularly outside of the U.S., where our brands may be relatively less well-known or perceived differently, we believe we must timely and appropriately respond to changing consumer demand and leverage the value of our brands across all sales channels. We may have difficulty managing the image of our brands across markets and international borders as certain consumers may perceive the image of either or both of our brands to be out of style, outdated, or otherwise undesirable. Maintaining, promoting, and growing our brands will depend on our design and marketing efforts, including product innovation and quality, advertising and consumer campaigns, as well as our ability to adapt to a rapidly changing media environment, including our continued reliance on social media and digital dissemination of advertising campaigns."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-001",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "We believe much of our success has been attributable to the strength of the Crocs and HEYDUDE brands. To be successful in the future, particularly outside of the U.S., where our brands may be relatively less well-known o",
+    "text": "In the past, several footwear companies, including ours, have experienced periods of rapid growth in revenues and earnings followed by periods of declining revenues and losses, and our business may be similarly affected in the future. For example, during the second quarter of the fiscal year ended 2025, there was a triggering event for the HEYDUDE Brand indefinite-lived intangible assets (which consists solely of the HEYDUDE trademark) (the \u201ctrademark\u201d) and the HEYDUDE Brand reporting unit (the \u2018reporting unit\u201d) goodwill. The triggering event was due to downward revisions during the second quarter of the fiscal year ended 2025 to our internal HEYDUDE Brand forecast as a result of the extended time we believed it would take us to stabilize the HEYDUDE Brand and return it to growth. This was partly due to the current and projected impact of a weak U.S. consumer and the disproportionate impact of tariffs on HEYDUDE Brand products, which became evident in the second quarter of the fiscal year ended 2025. See also the risk factor under \u201cFinancial and Accounting Risks \u2014 We may incur impairments of the carrying value of our goodwill and other intangible assets, which could have a material adverse effect on our business and financial results.\u201d Consumer demand for our products and the equity of our brands could also diminish significantly if we, among other things, fail to preserve the quality of our products, are perceived to act in an unethical or socially irresponsible manner, fail to comply with laws and regulations, or fail to deliver a consistently positive consumer experience in each of our markets."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-012",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "In the past, several footwear companies, including ours, have experienced periods of rapid growth in revenues and earnings followed by periods of declining revenues and losses, and our business may be similarly affected ",
+    "text": "Adverse publicity about regulatory or legal action against us, or by us, could also damage our reputation and the image of our brands, undermine consumer confidence in us, and reduce long-term demand for our products, even if the regulatory or legal action is unfounded or not material to our operations. Negative claims or publicity involving us, our products, or any of our key employees, endorsers, or business partners could materially damage our reputation and the image of our brands, regardless of whether such claims are accurate. Social media, which accelerates and potentially amplifies the scope of negative publicity, can accelerate, and increase the impact of, negative claims. Further, business incidents that erode consumer trust, such as perceived product safety issues, whether isolated or recurring, in particular incidents that receive considerable publicity or result in litigation, can significantly reduce brand value and have a negative impact on our business and financial results. Additionally, counterfeit reproductions of our products or other infringement of our intellectual property rights, including unauthorized uses of our trademarks by third parties, could harm our brands and adversely impact our business. See also the risk factor under \u201cRisks Related to our Products \u2014 Failure to adequately protect our trademarks and other intellectual property rights and counterfeiting of our brands could divert sales, damage our brands\u2019 image, and adversely affect our business.\u201d"
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-013",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Adverse publicity about regulatory or legal action against us, or by us, could also damage our reputation and the image of our brands, undermine consumer confidence in us, and reduce long-term demand for our products, ev",
+    "text": "The footwear industry is highly competitive. Our competitors include most major athletic and non-athletic footwear companies and retailers with their own private label footwear products. A number of our competitors have significantly greater financial resources, more comprehensive product lines, a broader market presence, longer standing relationships with wholesalers, a longer operating history, greater distribution capabilities, stronger brand recognition, less reliance on a small number of brands or product lines, and spend substantially more on product marketing than we do. Our competitors\u2019 greater financial resources and capabilities in these areas may enable them to better withstand periodic downturns in the footwear industry and general economic conditions, compete more effectively on the basis of price and production, price their products more aggressively in the face of inflationary or other competitive pressures, launch more extensive or diverse product lines, and more quickly develop new and popular products. Continued demand in the market for casual footwear and readily available offshore manufacturing capacity has also encouraged the entry of new competitors into the marketplace and has increased competition from established companies. Some of our competitors are offering products that are substantially similar, in design and materials, to our products. If we are unable to compete successfully in the future, our sales and profits may decline, we may lose market share, our business and financial results may deteriorate, and the market price of our common stock would likely fall."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-002",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "The footwear industry is highly competitive. Our competitors include most major athletic and non-athletic footwear companies and retailers with their own private label footwear products. A number of our competitors have ",
+    "text": "Additionally, our industry is subject to significant pricing pressure caused by many factors, including, but not limited to, continued inflationary pressure, intense competition and a highly promotional retail environment, consolidation in the retail industry, pressure from retailers to reduce the costs of our products, excess inventory levels in the marketplace, and changes in consumer spending habits and patterns. Although we plan to limit our promotional activity, these foregoing factors may require us to reduce our sales prices to retailers and consumers, which could cause our gross margin to decline. If our sales prices decline and we fail to sufficiently reduce our product costs or operating expenses, our profitability will, in turn decline. In addition, changes in our customer, channel, and geographic sales mix could have a negative impact on our profitability. Any of these outcomes could have a material adverse effect on our business, financial condition, and results of operations."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-014",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Additionally, our industry is subject to significant pricing pressure caused by many factors, including, but not limited to, continued inflationary pressure, intense competition and a highly promotional retail environmen",
+    "text": "Introducing new products may be difficult and expensive. If we are unable to do so successfully, our brands may be adversely affected, and we may not be able to maintain or grow our current revenue and profit levels."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-015",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Introducing new products may be difficult and expensive. If we are unable to do so successfully, our brands may be adversely affected, and we may not be able to maintain or grow our current revenue and profit levels.",
+    "text": "To successfully continue to evolve our footwear product line to appeal to our consumers, we must anticipate, understand, and react to the rapidly changing tastes of consumers and provide appealing merchandise in a timely manner. New footwear models, collaborations, and licenses that we introduce may not be successful with consumers or our brands may fall out of favor with consumers. If we are unable to anticipate, identify, or react appropriately to changes in consumer preferences, our revenues may decrease, the image of our brands may suffer, our operating performance may decline, and we may not be able to execute our growth plans."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-016",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "To successfully continue to evolve our footwear product line to appeal to our consumers, we must anticipate, understand, and react to the rapidly changing tastes of consumers and provide appealing merchandise in a timely",
+    "text": "In producing new footwear models, collaborations, and licenses, we may encounter difficulties that we did not anticipate during the product development stage. If we are not able to efficiently manufacture new products in quantities sufficient to support wholesale, retail, and e-commerce distribution, we may not be able to recover our investment in the development of new styles, product lines, collaborations, and licenses, and we would continue to be subject to the risks inherent to having a limited product line. Even if we develop and manufacture new footwear products that consumers find appealing, the ultimate success of a new style, collaboration, or license may depend on our pricing. We may introduce products that are not popular, set the prices of new styles too high for the market to bear, or we may not provide the appropriate level of marketing in order to educate the market and potential consumers about our new products. Achieving market acceptance will require us to exert substantial product development and marketing efforts, which could result in a material increase in our selling, general and administrative expenses. There can be no assurance that we will have the resources necessary to undertake such efforts effectively or that such efforts will be successful or that we will dedicate our limited marketing resources to the right product lines. Failure to gain market acceptance for new products could impede our ability to maintain or grow current revenue levels, reduce profits, adversely affect the image of our brands, erode our competitive position, and result in long-term harm to our business and financial results."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-017",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "See also the risk factor under \u201cRisks Specific to Our Company and Strategy \u2014 Our future growth may be dependent in part on HEYDUDE.\u201d",
+    "text": "Failure to adequately protect our trademarks and other intellectual property rights and counterfeiting of our brands could divert sales, damage our brands\u2019 image, and adversely affect our business."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-018",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "We utilize trademarks, trade names, copyrights, trade secrets, issued and pending patents and trade dress, and design rights on nearly all of our products. We believe that having distinctive marks that are readily identi",
+    "text": "do not protect intellectual property rights to the same extent as do U.S. laws. We frequently discover products that are counterfeit reproductions of our products or that otherwise infringe on our intellectual property rights. If we are unsuccessful in challenging another party\u2019s products on the basis of trademark or design or utility patent infringement or other infringement, particularly in some foreign countries, or if we are required to change our name or use a different logo, or it is otherwise found that we infringe on others\u2019 intellectual property rights, continued sales of such competing products by third parties could harm our brands or we may be forced to cease selling certain products, which could adversely impact our business, financial condition, revenues, and results of operations by resulting in the shift of consumer preference away from our products. If our brands are associated with inferior counterfeit reproductions, the integrity and reputation of our brands could be adversely affected. Furthermore, our efforts to enforce our intellectual property rights are typically met with defenses and counterclaims attacking the validity and enforceability of our intellectual property rights. We may face significant expenses and liability in connection with the protection of our intellectual property, and if we are unable to successfully protect our rights or resolve intellectual property conflicts with others, our business or financial condition could be adversely affected."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-019",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Failure to continue to obtain or maintain high-quality endorsers of our products and social media influencers could harm our business .",
+    "text": "We establish relationships with both celebrity endorsers and design, celebrity, and brand collaborators to develop, evaluate, and promote our products, as well as strengthen our brands. In a competitive environment, the costs associated with establishment and retention of these relationships may increase. If we are unable to maintain current associations and/or to establish new associations in the future, this could adversely affect our brands\u2019 visibility and strength and result in a negative impact to financial results. In addition, actions taken, allegations of wrongdoing, or statements made by celebrity endorsers and collaborators associated with our products that harm the public image and reputations of those endorsers and collaborators, or our decisions to cease collaborating with them in light of actions taken, allegations of wrongdoing, or statements made by them, could also seriously harm the image of our brands with consumers and, as a result, could have an adverse effect on our sales and financial condition."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-003",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "\u2022 Changes in foreign currency exchange rates relative to the USD could have a material impact on our reported financial results. See the risk factor under \u201cRisks Related to International Operations \u2014 Changes in foreign e",
+    "text": "\u2022 Slower consumer spending may result in our inability to maintain or increase our sales to new and existing customers and cause reduced product orders or product order delays or cancellations from wholesale accounts that are directly impacted by fluctuations in the broader economy, difficulties managing inventories, higher discounts, and lower product margins."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-020",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "\u2022 A decrease in credit available to our wholesale or distributor customers, product suppliers, and other service providers, or financial institutions that are counterparties to our Revolving Facility (as defined herein) ",
+    "text": "\u2022 If our wholesale customers experience diminished liquidity, we may experience a reduction in product orders, an increase in customer order cancellations, and/or the need to extend customer payment terms, which could lead to larger balances and delayed collection of our accounts receivable, reduced cash flows, greater expenses for collection efforts, and increased risk of nonpayment of our accounts receivable."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-021",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "\u2022 If our wholesale customers experience diminished liquidity, we may experience a reduction in product orders, an increase in customer order cancellations, and/or the need to extend customer payment terms, which could le",
+    "text": "\u2022 If our manufacturers or other parties in our supply chain experience diminished liquidity, and, as a result, are unable to fulfill their obligations to us, we may be unable to provide our customers with our products in a timely manner, resulting in lost sales opportunities or a deterioration in our customer relationships, which could in turn negatively impact future sales."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-022",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "\u2022 If our manufacturers or other parties in our supply chain experience diminished liquidity, and, as a result, are unable to fulfill their obligations to us, we may be unable to provide our customers with our products in",
+    "text": "\u2022 If we are unable to mitigate the impact of supply chain constraints, tariffs, and inflationary pressure through price increases or other measures, our results of operations and financial condition could be negatively impacted. Furthermore, even if we are able to raise the prices of our products, consumers might react negatively to such price increases, which could have a material adverse effect on, among other things, our brands, reputation, and sales."
+  },
+  {
+    "chunk_id": "T-CROX-INVENTORY-006",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "\u2022 If we are unable to mitigate the impact of supply chain constraints, tariffs, and inflationary pressure through price increases or other measures, our results of operations and financial condition could be negatively i",
+    "text": "In 2024, the Federal Reserve raised interest rates multiple times in response to concerns about inflation, though it subsequently lowered interest rates multiple times in 2025 and further interest rate changes remain uncertain. Higher interest rates, coupled with reduced government spending and volatility in financial markets may also increase economic uncertainty and negatively affect consumer spending. If the equity and credit markets deteriorate, including as a result of political unrest or war, it may make any necessary debt or equity financing more difficult to obtain in a timely manner, on favorable terms, or more dilutive."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-023",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Ongoing wars could cause further disruptions in the global economy as well as a negative impact on our business, financial condition, and results of operations.",
+    "text": "The ongoing war between Israel and Hamas as well as the ongoing war between Russia and Ukraine have adversely affected the global economy and have resulted in geopolitical instability. While we derived immaterial revenues from markets in and around these conflict zones in 2025, the instability resulting from these wars could cause an adverse effect on our business, financial condition, results of operations, supply chain, intellectual property, partners, customers, or employees should tensions escalate. Further escalation of geopolitical tensions could also result in, among other things, broader impacts that expand into other markets, cyberattacks, supply chain and logistics disruptions, lower consumer demand, and changes to foreign exchange rates and financial markets, any of which may adversely affect our business and supply chain."
+  },
+  {
+    "chunk_id": "T-CROX-INVENTORY-007",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "A pandemic, epidemic, or other public health emergency has had an adverse impact, and may have a future material adverse impact, on our business, operations, liquidity, financial condition, and results of operations.",
+    "text": "Pandemics, epidemics, and other public health emergencies have, among other things, caused global macroeconomic uncertainty, disrupted consumer spending and supply chains, contributed to various global shipping delays and port congestions, and created significant volatility and disruption of financial markets. For example, global supply chain disruptions during fiscal years 2021 and 2022 negatively impacted our gross margins and net income and any pandemics, epidemics, and other public health emergencies could do so again in the future, which could have a material adverse effect on our business, financial condition, and results of operations."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-004",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "We rely on third-party manufacturers outside of the U.S. to produce our products. See the risk factor under \u201cWe depend solely on third-party manufacturers located outside the U.S.\u201d for more information.",
+    "text": "We also rely on international shipping to transport our products to their various geographic markets. At times in the past, international shipping to the U.S. has been disrupted and delayed due to congestion in ports, and despite our actions to mitigate these impacts, we have been negatively impacted by global logistics challenges. Additional delays in shipping may cause us to have to use more expensive air freight or other more costly methods to ship our products. Furthermore, at times in the past,, our third-party manufacturers, distribution centers, where we manage our inventory, and our third-party partners experienced disruptions that impacted our supply chain and increased global lead-time for our products, including port congestion, temporary closures, and worker shortages. Additionally, as a consequence of the COVID-19 pandemic, reductions in the number of ocean carrier voyages and capacity delayed the arrival of imports and increased ocean transport costs globally. Additionally, supply chain labor costs have remained a significant pressure since 2023, as meaningful increases in pay rates were implemented to ensure a sufficient and stable workforce. As supply chain disruptions continue and we manage product availability, the timing of sales to our wholesale partners and consumers may continue to be impacted, and we face increased risk of order cancellations. In addition, global inflation has contributed to already higher incremental freight costs and such inflation may continue to result in higher freight costs. Failure to adequately produce and timely ship our products to customers"
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-024",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "We also rely on international shipping to transport our products to their various geographic markets. At times in the past, international shipping to the U.S. has been disrupted and delayed due to congestion in ports, an",
+    "text": "could lead to lost potential revenue, failure to meet customer demand, strained relationships with customers, including wholesalers, and diminished brand loyalty."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-025",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "All of our footwear products are manufactured by third-party manufacturers, the majority of which are located in Vietnam, China, Indonesia, India, and Mexico. We depend on the ability of these manufacturers to finance th",
+    "text": "Foreign manufacturing is subject to additional risks, including transportation delays and interruptions, including those caused by pandemics, work stoppages, political instability, including the ongoing war between Israel and Hamas, the ongoing war between Russia and Ukraine, expropriation, nationalization, foreign currency fluctuations, changing economic conditions, cost inflation, changes in governmental policies or laws, and the imposition of tariffs, import and export controls, and other barriers. Because we do not manufacture products internally, we cannot offset any interruption or decrease in supply of our products by increasing production in internal manufacturing facilities, and we may not be able to substitute suitable alternative third-party manufacturers in a timely manner or at acceptable prices. Any disruption in the supply of products from our third-party manufacturers may harm our business and could result in a loss of sales and an increase in production costs, which would adversely affect our results of operations. In addition, manufacturing delays or unexpected demand for our products have required us, and may require us again in the future, to use faster, more expensive transportation methods, such as aircraft, which could adversely affect our profit margins. Furthermore, the cost of fuel is a significant component in transportation costs. Increases in the price of petroleum products can increase our transportation costs and adversely affect our product margins."
+  },
+  {
+    "chunk_id": "T-CROX-INVENTORY-008",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "significant increase in demand, or if an existing third-party manufacturer needs to be replaced, we may have to expand our third-party manufacturing capacity. We cannot guarantee that this potential additional capacity w",
+    "text": "In addition, we rely on a number of company-operated and third-party operated distribution facilities around the world to warehouse and ship products to our customers and to our retail stores and perform other related logistics services. Our ability to meet our needs and the needs of our customers depends, in part, on the operation of these distribution centers. Our distribution centers generally utilize computer-controlled and automated equipment, which are subject to various risks, including software viruses, security breaches, power interruptions, or other system failures. If any of our distribution centers were to close or become inoperable or inaccessible for any reason, including, but not limited to, natural disasters, severe weather, labor shortages, fires, system failures, software viruses, security breaches, and/or pandemics, or if we fail to successfully consolidate existing facilities or transition to new facilities, we could experience a substantial loss of inventory, disruption of deliveries to our customers and our retail stores, increased costs, and longer lead times associated with the distribution of our products during the period that would be required to reopen or replace the facility. Any such disruptions could have a material adverse effect on our business, financial condition and results of operations."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-005",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Our operations are dependent on the global supply chain and impacts of supply chain constraints and inflationary pressure could adversely impact our operating results.",
+    "text": "Our operations have been in the past, and may continue to be, impacted by supply chain constraints and raw material shortages, resulting in increased material costs, longer lead times, port congestion, and increased freight costs, the uncertain economic environment, tariffs, and macroeconomic trends. In addition, current or future governmental policies may increase the risk of inflation, which could further increase the costs of raw materials and components for our business. Similarly, if costs of goods continue to increase, our suppliers may seek price increases from us. If we are unable to mitigate the impact of supply chain constraints and inflationary pressure through price increases or other measures, our gross margins, results of operations and financial condition could be negatively impacted. Even if we are able to raise the prices of our products, consumers might react negatively to such price increases, which could have a material adverse effect on, among other things, our brands, reputation, and sales. If our competitors substantially lower their prices, we may lose customers and mark down prices. Our profitability may be impacted by lower prices, which may negatively impact gross margins. We are unable to predict the impact of these constraints on the timing of revenue and operating costs of our business in the near future. Raw material supply shortages and supply chain constraints, including cost inflation, have impacted, and could continue to negatively impact our ability to meet consumer demand, which in turn has impacted, and could in the future impact our net sales revenues and market share. See the risk factor under \u201cSupply chain disruptions could interrupt product manufacturing and global logistics and increase product costs.\u201d"
+  },
+  {
+    "chunk_id": "T-CROX-INVENTORY-009",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Our operations have been in the past, and may continue to be, impacted by supply chain constraints and raw material shortages, resulting in increased material costs, longer lead times, port congestion, and increased frei",
+    "text": "If we do not accurately forecast consumer demand, we may have excess inventory to liquidate or have greater difficulty filling our customers\u2019 orders, either of which could adversely affect our business."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-006",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "If we do not accurately forecast consumer demand, we may have excess inventory to liquidate or have greater difficulty filling our customers\u2019 orders, either of which could adversely affect our business.",
+    "text": "The footwear industry is subject to cyclical variations, consolidation, contraction and closings, as well as fashion trends, rapid changes in consumer preferences, the effects of weather, general economic conditions, and other factors affecting consumer demand. In addition, purchase orders from our wholesale customers are generally subject to rights of cancellation and rescheduling by the wholesaler. These factors make it difficult to forecast consumer demand. If we overestimate demand for our products, we may be forced to liquidate excess inventories at discounted prices resulting in losses or lower gross margins. Conversely, if we underestimate consumer demand, we could have inventory shortages, which can result in lower sales, delays in shipments to customers, and expedited shipping costs, and adversely affect our relationships with our customers and diminish"
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-007",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "The footwear industry is subject to cyclical variations, consolidation, contraction and closings, as well as fashion trends, rapid changes in consumer preferences, the effects of weather, general economic conditions, and",
+    "text": "brand loyalty. Excess inventory, or any failure on our part to satisfy increased demand for our products, could adversely affect our business and financial results."
+  },
+  {
+    "chunk_id": "T-CROX-INVENTORY-010",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "For example, China\u2019s Xinjiang Uyghur Autonomous Region (the \u201cXUAR\u201d) is the source of large amounts of cotton and textiles for the global apparel and footwear supply chain. The United States Treasury Department placed san",
+    "text": "Although we do not believe that our suppliers source materials from such area of China for the products they sell to us or use to manufacture our products, we have no known involvement with XPCC or its subsidiaries and affiliates, and we prohibit our suppliers from doing business with XPCC or using forced labor, we do not have the ability to completely map our supply chain, and we could be subject to penalties, fines or sanctions if any of the suppliers from which we purchase goods is found to have dealings, directly or indirectly, with XPCC or entities it controls. Additionally, our products or materials (including potentially non-cotton materials) could be held or delayed by the U.S. CBP, which would cause delays and unexpectedly and negatively affect our inventory levels. Even if we were not subject to penalties, fines or sanctions, if products we source are linked in any way to XPCC, the XUAR, or an entity on the UFLPA entity list, our reputation could be damaged. In addition, the UFLPA has induced greater supply chain compliance costs and delays to us and to our suppliers. Compliance with the UFLPA could continue to affect the global supply chain, the price and scarcity of traceable cotton in the marketplace and could lead to an increase in our cost of goods sold, which may have an adverse effect on our profitability."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-026",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "We depend on a number of sources for the primary materials used to make our footwear. We source the elastomer resins that constitute the primary raw materials used in compounding our Croslite\u2122, LiteRide\u2122, and Free Feel T",
+    "text": "increase our production costs and could have an adverse impact on our product margins. If we are unable to obtain suitable elastomer resins, or if we are unable to procure sufficient quantities of the materials that go into the Croslite\u2122, LiteRide\u2122, and Free Feel Technology\u2122 formulations, we may not be able to meet our production requirements in a timely manner or may need to modify our product characteristics, which could result in less favorable market acceptance, lost potential sales, delays in shipments to customers, strained relationships with customers, and diminished brand loyalty."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-027",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Changes in foreign exchange rates, most significantly but not limited to the Euro, South Korean Won, and Chinese Yuan or other global currencies could have a material adverse effect on our business and financial results.",
+    "text": "As a global company, we have significant revenues and costs denominated in currencies other than the USD. We are exposed to the risk of losses resulting from changes in exchange rates on monetary assets and liabilities within our international subsidiaries that are denominated in currencies other than the subsidiaries\u2019 functional currencies. Likewise, our U.S. subsidiaries are also exposed to the risk of losses resulting from changes in exchange rates on monetary assets and liabilities that are denominated in a currency other than the USD. We have experienced, and will continue to experience, changes in exchange rates, impacting both our statements of operations and the value of our assets and liabilities denominated in foreign currencies."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-008",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "As a global company, we have significant revenues and costs denominated in currencies other than the USD. We are exposed to the risk of losses resulting from changes in exchange rates on monetary assets and liabilities w",
+    "text": "In accordance with our operating practices, we hedge a significant portion of our foreign currency transaction exposures arising in the ordinary course of business to reduce risks in our cash flows and earnings. We use cash flow hedges to minimize the variability in cash flows caused by fluctuations in foreign currency exchange rates related to our external sales and external purchases of inventory. Currency forward agreements involve fixing the exchange rates for delivery of a specified amount of foreign currency on a specified date. The currency forward agreements are typically settled in USD for their fair value at or close to their settlement date. We may also use currency option contracts under which we will pay a premium for the right to sell a specified amount of a foreign currency prior to the maturity date of the option. Our hedging strategy may not be effective in reducing all risks, and no hedging strategy can completely insulate us from foreign exchange risk. Further, our use of derivative financial instruments may expose us to counterparty risks. Although we only enter into hedging contracts with counterparties having investment grade credit ratings, it is possible that the credit quality of a counterparty could be downgraded or a counterparty could default on its obligations, which could have a material adverse impact on our financial condition, results of operations, and cash flows."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-009",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "In accordance with our operating practices, we hedge a significant portion of our foreign currency transaction exposures arising in the ordinary course of business to reduce risks in our cash flows and earnings. We use c",
+    "text": "Further, our ability to sell our products in foreign markets and the USD value of the sales made in foreign currencies can be significantly influenced by changes in exchange rates. A decrease in the value of foreign currencies relative to the USD could result in lower revenues, gross margin compression, and increased losses from currency exchange rates. Foreign exchange rate volatility could also disrupt the business of the third-party manufacturers that produce our products by making their purchases of raw materials more expensive and more difficult to finance. For the Crocs Brand, we pay the majority of our third-party manufacturers, located primarily in Vietnam and China, in USD. For the HEYDUDE Brand, we pay the majority of our third-party manufacturers, located primarily in Vietnam and China, in Chinese Yuan and USD. In 2025, we experienced increases in revenues of approximately $9.4 million, or 0.2%, primarily due to favorable fluctuations in the Euro, partially offset by unfavorable fluctuations in the South Korean Won, relative to the USD. Strengthening of the USD against Asian and European currencies, and various other global currencies, adversely impacts our USD reported results due to the impact on foreign currency translation. While we enter into foreign currency exchange forward contracts to reduce our exposure to changes in exchange rates on monetary assets and liabilities, the volatility of foreign currency exchange rates is dependent on many factors that cannot be forecasted with reliable accuracy and, as a result, our forward contracts may not prove effective in reducing our exposures."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-028",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "We conduct significant business activity outside the U.S., which exposes us to risks of international commerce.",
+    "text": "A significant portion of our revenues is generated from foreign sales. Our ability to maintain the current level of operations in our existing international markets is subject to risks associated with international sales operations. We operate retail stores and sell our products to retailers outside of the U.S. and utilize foreign-based third-party manufacturers. Foreign manufacturing and sales activities are subject to numerous risks, including:"
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-029",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "\u2022 difficulties in understanding and complying with local laws, regulations, and customs in foreign jurisdictions;",
+    "text": "\u2022 longer accounts receivable payment terms and difficulties in collecting foreign accounts receivables;"
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-030",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "\u2022 greater risk that our business partners do not comply with our policies and procedures relating to labor, health, and safety;",
+    "text": "\u2022 UFLPA detentions by U.S. CBP resulting in revenue loss and adverse media exposure; and"
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-031",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Furthermore, as a global company, we are subject to foreign and U.S. laws and regulations designed to combat governmental corruption, including the U.S. Foreign Corrupt Practices Act and the U.K. Bribery Act. Violations ",
+    "text": "We may be unable to successfully execute our long-term growth strategy, maintain or grow our current revenue and profit levels, or accurately forecast demand and supply for our products."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-032",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "We may be unable to successfully execute our long-term growth strategy, maintain or grow our current revenue and profit levels, or accurately forecast demand and supply for our products.",
+    "text": "Our ability to maintain our revenue and profit levels or to grow in the future depends on, among other things, the continued success of our efforts to maintain our brands\u2019 image, our ability to bring compelling and profit enhancing footwear offerings to market, our ability to effectively manage or reduce expenses and our ability to expand within our current distribution channels and increase sales of our products into new locations internationally."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-033",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "condition, control environment or results of operations. During these implementation periods, we also face a heightened risk of system interruptions and deficiencies or failures in our internal controls involving our inf",
+    "text": "Furthermore, despite our current security and cybersecurity measures, our systems and those of our third-party service providers may be vulnerable to information security breaches, acts of vandalism, computer viruses, credit card fraud, phishing, ransomware attacks, and interruption or loss of valuable business data, and we have been subject to, and will continue to be subject to, various third-party attacks and phishing scams. Any disruption to these systems or networks could result in product fulfillment delays, key personnel being unable to perform duties or communicate throughout the organization, loss of sales, significant costs for data restoration, the inability to interpret data timely to enhance operations, and other adverse impacts on our business and reputation. Denial of service attacks could also materially adversely affect our business."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-034",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Furthermore, despite our current security and cybersecurity measures, our systems and those of our third-party service providers may be vulnerable to information security breaches, acts of vandalism, computer viruses, cr",
+    "text": "We routinely possess sensitive customer and employee information. Hackers and data thieves are increasingly sophisticated and operate large-scale and complex automated attacks on a daily basis. Any breach of our network may result in the loss of valuable business data, misappropriation of our consumers\u2019 or employees\u2019 personal information, including credit card information, or a disruption of our business. Despite our existing cybersecurity procedures and controls, if our network is breached, it could give rise to unwanted media attention, materially damage our customer relationships, or harm our business, our reputation, and our financial results, which could result in fines or lawsuits. The costs we incur to protect against such information security breaches may materially increase, including increased investment in technology, the costs of compliance with consumer protection laws, and costs resulting from consumer fraud. Our business partners in our supply chain and customer base also rely significantly on information technology. Despite their existing cybersecurity procedures and controls, if their information systems become compromised, it could, among other things, cause delays in our product fulfillment or reduce our sales, which could harm our business. See Item 1C. Cybersecurity of this Annual Report on Form 10-K for more information on risks associated with cybersecurity procedures and controls."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-035",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "If our online e-commerce sites, or those of our customers, or third-party digital marketplaces on which we operate, do not function effectively, our business and financial results could be materially adversely affected.",
+    "text": "An increasing amount of our products are sold on our e-commerce sites and third-party e-commerce sites. Consumer expectations and the associated competitive pressures have increased and we expect that they will continue to increase relative to various aspects of our e-commerce channel, including speed of product delivery, the cost to ship our products, return policies and other evolving consumer expectations. Consumers are also increasingly using mobile-based applications and third-party digital marketplaces to engage with us and our competitors through digital experiences that are offered on mobile platforms, and we are increasingly using social media and other mobile applications to interact with our consumers as a means to market and sell our products to consumers and enhance their shopping experience. Any failure on our part or on the part of third parties to provide effective, reliable, user-friendly e-commerce platforms that offer a wide assortment of our products and that continually meet the evolving expectations of online shoppers or any failure to provide attractive digital experiences could place us at a competitive disadvantage, result in the loss of sales, and could have a material adverse impact on our business and financial results. Our e-commerce business may be particularly vulnerable to cyber threats including unauthorized access and denial of service attacks. Sales in our e-commerce channel may also divert sales from our retail and wholesale channels."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-036",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "An increasing amount of our products are sold on our e-commerce sites and third-party e-commerce sites. Consumer expectations and the associated competitive pressures have increased and we expect that they will continue ",
+    "text": "Furthermore, these third-party platforms may unilaterally and with little or no notice change, among other things, their algorithms, policies, fee structures, content moderation rules, data access, and programs in ways that could, among other things, increase our customer acquisition costs, or otherwise diminish the effectiveness and economics of our efforts. They may also modify order routing, payment processing, and fulfillment requirements or impose new seller standards that are costly or impracticable for us to meet. Any such changes could materially reduce traffic to our store fronts, negatively impact our conversion, impair our ability to target or retarget customers, or increase returns and chargebacks."
+  },
+  {
+    "chunk_id": "T-CROX-INVENTORY-011",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Furthermore, these third-party platforms may unilaterally and with little or no notice change, among other things, their algorithms, policies, fee structures, content moderation rules, data access, and programs in ways t",
+    "text": "Our participation on these platforms also exposes us to certain operational and reputational risks. We have in the past, and may again in the future, encounter counterfeit, gray market, or unauthorized sellers offering similar or infringing products at lower prices, which could impact, among other things, our pricing and brand equity. In addition, because these platforms often control payment flows and dispute resolution processes, we may experience withheld funds, increased reserves, or unfavorable chargeback determinations that we are unable to contest effectively. In addition, platform\u2011mandated logistics or return policies may increase our shipping, warehousing, and reverse\u2011logistics costs, and fulfillment errors by platform partners may be attributed to us by consumers."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-010",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "We are also exposed to evolving legal, regulatory, and geopolitical developments that may materially impact social commerce channels. Governmental actions, investigations, or restrictions targeting specific platforms or ",
+    "text": "Furthermore, the economics of social commerce remain uncertain. Platforms may, among other things, raise fees, reduce incentives or subsidies, revise revenue\u2011share arrangements, or introduce paid placement requirements that increase our customer acquisition costs or compress margins. Shifts in platform algorithms and consumer behavior can rapidly change traffic patterns and demand, and our investments in content, creative, and influencer relationships may not yield the anticipated returns. We depend on access to accurate, timely, and sufficiently granular data from these platforms to optimize marketing and inventory and restrictions on data availability, quality, or portability, whether due to platform policy, privacy laws, or technical changes, could also have a negative impact on our ability to measure performance and manage our business."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-037",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Furthermore, the economics of social commerce remain uncertain. Platforms may, among other things, raise fees, reduce incentives or subsidies, revise revenue\u2011share arrangements, or introduce paid placement requirements t",
+    "text": "Any significant disruption, degradation, or change affecting one or more key social commerce platforms, or our inability to adapt to platform dynamics, could materially and adversely affect our revenue growth, brand perception, customer acquisition"
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-038",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Our financial success depends in part on the strength of our relationships with, and the success of, our wholesale and distributor customers.",
+    "text": "Our financial success is related to the willingness of our current and prospective wholesale and distributor customers to carry our products. We do not have long-term contracts with most wholesale customers, and sales to these customers are generally on an order-by-order basis and subject to cancellation and rescheduling. Our contracts with distributors typically have terms of one to five years and can be terminated or renegotiated if minimum requirements or other terms are not met. If we cannot fill orders in a timely manner, the sales of our products and our relationships may suffer. Alternatively, if our wholesalers or distributors experience diminished liquidity or other financial issues, we may experience a reduction in product orders, an increase in order cancellations and/or the need to extend payment terms, which could lead to larger outstanding balances, delays in collections of accounts receivable, increased expenses associated with collection efforts, increases in bad debt expenses, and reduced cash flows if our collection efforts are unsuccessful. We have recorded material allowances for doubtful accounts in the past and could do so again in the future. Future problems with customers may have a material adverse effect on our product sales, financial condition, results of operations, and our ability to grow our product line."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-039",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Our financial success is related to the willingness of our current and prospective wholesale and distributor customers to carry our products. We do not have long-term contracts with most wholesale customers, and sales to",
+    "text": "Operating company-operated retail stores incurs substantial fixed costs. If we are unable to generate sales, operate our retail stores profitably, or otherwise fail to meet expectations, we may be unable to reduce such fixed costs and avoid losses or negative cash flows."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-040",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Operating company-operated retail stores incurs substantial fixed costs. If we are unable to generate sales, operate our retail stores profitably, or otherwise fail to meet expectations, we may be unable to reduce such f",
+    "text": "Opening and operating company-operated retail stores requires substantial financial commitments, including fixed costs, and are subject to numerous risks including consumer preferences, location, and other factors that we do not control. Declines in revenue and operating performance of our company-operated retail stores could cause us to record impairment charges and have a material adverse effect on our business and financial results. During 2025, we opened 88 and closed 16 retail stores, and we operated 514 retail stores at December 31, 2025."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-041",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Opening and operating company-operated retail stores requires substantial financial commitments, including fixed costs, and are subject to numerous risks including consumer preferences, location, and other factors that w",
+    "text": "Many of our company-operated retail stores are located in shopping malls and outlet malls, and our success depends in part on obtaining prominent locations and the overall ability of the malls to successfully generate and maintain customer traffic. We cannot control the success of individual malls or store closures by other retailers, which may lead to mall vacancies and reduced customer foot-traffic. In addition, consumer spending and shopping preferences have shifted, and may continue to further shift, away from brick-and-mortar retail to e-commerce channels, both prior to, and as a result of, the COVID-19 pandemic, which may contribute to declining foot-traffic in company-operated retail locations. Continued reduced customer foot-traffic could reduce sales at our company-operated retail stores, including kiosks and store-in-store locations, or hinder our ability to open retail stores in new markets, which could in turn negatively affect our business and financial results. In addition, some of our company-operated retail stores occupy street locations that are heavily dependent on customer traffic generated by tourism. Any substantial decrease in tourism, resulting from an economic slowdown, political, terrorism, social, or military events, natural disasters, public health issues like a pandemic, or otherwise, is likely to adversely affect sales in our stores."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-042",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Many of our company-operated retail stores are located in shopping malls and outlet malls, and our success depends in part on obtaining prominent locations and the overall ability of the malls to successfully generate an",
+    "text": "Our financial results may be adversely affected if substantial investments in businesses and operations fail to produce expected returns."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-043",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Our financial results may be adversely affected if substantial investments in businesses and operations fail to produce expected returns.",
+    "text": "From time to time, we may invest in business infrastructure, expansion of existing businesses or operations, and acquisitions of new businesses, such as HEYDUDE, which require substantial cash investment and management attention. We believe cost effective investments are essential to business growth and profitability; however, significant investments are subject to risks and uncertainties. The failure of any significant investment to provide the returns or profitability we expect, or implementation issues, or the failure to integrate newly acquired businesses could have a material adverse effect on our financial results and divert management attention from more profitable business operations."
+  },
+  {
+    "chunk_id": "T-CROX-INVENTORY-012",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "We rely on executives and senior management to drive the financial and operational performance of our business. Turnover of executives and senior management can adversely impact our stock price, our results of operations",
+    "text": "Further, our business depends on our ability to source and distribute products in a timely, efficient, and cost-effective manner. Labor disputes impacting our suppliers, manufacturers, transportation carriers, or ports pose significant threats to our business, particularly if such disputes result in work slowdowns, lockouts, strikes or other disruptions during our peak importing, or manufacturing and selling seasons. Any such disruption could result in delayed or canceled orders by customers, unplanned inventory accumulation or shortages, and increased transportation and labor costs, negatively impacting our results of operations and financial position."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-044",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Further, our business depends on our ability to source and distribute products in a timely, efficient, and cost-effective manner. Labor disputes impacting our suppliers, manufacturers, transportation carriers, or ports p",
+    "text": "We acquired HEYDUDE in 2022. If we fail to execute our strategy, we may not accelerate the growth and success of HEYDUDE, and the brand may not perform as expected. If we are unsuccessful at, among other things, continuing to stabilize the U.S. marketplace by supporting and refining various marketing activities to drive higher brand awareness, enhancing digital capabilities, managing our wholesale relationships and refreshing the marketplace, investing in the brand\u2019s infrastructure as well as sales and business operations, our sales and/or results of operations could be adversely affected, and our business could suffer. In addition, HEYDUDE\u2019s product sales may not meet our expectations or those of third parties such as investors, analysts and/or other stakeholders."
+  },
+  {
+    "chunk_id": "T-CROX-INVENTORY-013",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "We may be required to record impairments of long-lived assets or incur other charges relating to our company-operated retail operations.",
+    "text": "Impairment testing of our retail stores\u2019 long-lived assets requires us to make estimates about our future performance and cash flows that are inherently uncertain. These estimates can be affected by numerous factors, including changes in economic conditions, our results of operations, and competitive conditions in the industry. Due to the fixed-cost structure associated with our retail operations, negative cash flows, or the closure of a store could result in impairment of leasehold improvements, impairment of right-of-use assets, impairment of other long-lived assets, write-downs of inventory, severance costs, significant lease termination costs or the loss of working capital, which could adversely impact our business and financial results. Impairment charges may increase as we continue to evaluate our retail operations. The recording of additional impairments in the future may have a material adverse impact on our business and financial results."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-045",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "We may incur impairments of the carrying value of our goodwill and other intangible assets, which could have a material adverse effect on our business and financial results.",
+    "text": "In connection with the HEYDUDE acquisition, we allocated approximately $710.0 million and $1,780.0 million to goodwill and definite- and indefinite-lived intangible assets, respectively. We evaluate the carrying value of our indefinite-lived intangible assets and goodwill at least annually or when an interim triggering event has occurred indicating potential impairment. During the second quarter of the fiscal year ended 2025, there was a triggering event for the trademark and the reporting unit goodwill, which resulted in non-cash impairment charges of $430.0 million for the trademark and $307.0 million for the reporting unit goodwill. The triggering event was due to downward revisions during the second quarter of the fiscal year ended 2025 to our internal HEYDUDE Brand forecast as a result of the extended time we believed it would take us to stabilize the HEYDUDE Brand and return it to growth. This was partly due to the current and projected impact of a weak U.S. consumer and the disproportionate impact of tariffs on HEYDUDE Brand products, which became evident in the second quarter of the fiscal year ended 2025. Our impairment evaluations represent a critical accounting policy as they require significant judgments and assumptions that we believe to be reasonable but that are inherently uncertain and unpredictable. Changes in the assumptions used to estimate the fair value of our goodwill and indefinite-lived intangible assets could result in impairment charges in future periods as the key assumptions are inherently uncertain, require significant judgment and are subject to change based on, among others, industry and geopolitical conditions, our ability to navigate changing macroeconomic conditions and trends as well as the timing and success of strategic initiatives. In addition, certain factors, such as failure to achieve forecasted revenue growth rates, earnings before interest, taxes, depreciation, and amortization, or increases in the discount rates, have the potential to create variances in the estimated fair values of our goodwill and indefinite-lived intangible assets that could result in additional impairment charges in future periods. See Part II - Item 7. Management\u2019s Discussion and Analysis of Financial Condition and Results of Operations and Note 4 \u2014 Goodwill and Intangible Assets, Net in the accompanying notes to the consolidated financial statements included in Part II - Item 8. Financial Statements and Supplementary Data of this Annual Report on Form 10-K for more information."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-046",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "In connection with the HEYDUDE acquisition, we allocated approximately $710.0 million and $1,780.0 million to goodwill and definite- and indefinite-lived intangible assets, respectively. We evaluate the carrying value of",
+    "text": "Our quarterly revenues and operating results are subject to fluctuation as a result of a variety of factors, which could increase the volatility of the price of our common stock."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-047",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "We are subject to income taxes in the U.S. and numerous foreign jurisdictions. Our effective income tax rate in the future could be adversely affected by a number of factors, including changes in the mix of earnings in c",
+    "text": "Future changes in domestic or international tax laws and regulations could also adversely affect our effective tax rate or result in higher income tax liabilities. In August 2022, the U.S. government enacted the Inflation Reduction Act of 2022, which included among other provisions, a 15% minimum tax on \u201cadjusted financial statement income\u201d and became effective for us beginning January 1, 2023. In July 2025, the One Big Beautiful Bill Act (the \u201cOBBBA\u201d) was enacted into law in the U.S. The OBBBA includes various provisions which permanently extend certain expiring provisions from the Tax Cuts and Jobs Act of 2017, many of which have different effective dates. Changes in the OBBBA include the accelerated tax recovery for certain capital investments and research and development expenditures, and changes to the business interest expense limitation. Recently, intergovernmental organizations such as the Organization for Economic Co-operation and Development (\u201cOECD\u201d) and European Union (\u201cEU\u201d) have proposed changes to the existing tax laws of member countries. For example, the OECD has introduced model rules for a new 15% global minimum tax framework, as well as a proposal on the allocation of profit among tax jurisdictions in which companies operate. In December 2022, the EU member states agreed to incorporate the 15% global minimum tax into their respective domestic laws effective for fiscal years beginning on or after December 31, 2023. Additionally, several non-EU countries, including the United Kingdom, have recently proposed and/or adopted legislation consistent with the OECD global minimum tax framework. These tax laws and regulations could adversely impact our financial position and results of operations beyond 2026. Continued economic and political pressures to increase tax revenues in jurisdictions in which we operate, or the adoption of new or reformed tax legislation or regulation, may make resolving tax disputes more difficult, and prior decisions by tax authorities regarding treatments and positions of corporate income taxes could be subject to enforcement activities, as well as legislative investigation and inquiry, which could also result in changes in tax policies or prior tax rulings. The final resolution of such tax audits and any related litigation can differ from our historical provisions and accruals, resulting in an adverse effect on our financial performance. These and any other additional changes could adversely affect our effective tax rate or result in higher cash tax liabilities."
+  },
+  {
+    "chunk_id": "T-CROX-INVENTORY-014",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "We rely on our information technology (\u201cIT\u201d) systems and networks in connection with our business activities. Some of these networks and systems are managed by third-party service providers and are not under our direct c",
+    "text": "Despite the security measures we have implemented, certain cyber incidents could materially disrupt operational systems. Disruptions may include intentional attacks that results in loss of trade secrets or other proprietary or competitively sensitive information; compromise personally identifiable information regarding customers or employees; delay our ability to deliver products to customers; jeopardize the security of our facilities; or cause other damage. Although the risks from cybersecurity threats, including as a result of any previous cybersecurity incidents, have not materially affected or are reasonably likely to materially affect the Company, including its business strategy, results of operations, or financial condition, such incidents could have a material adverse effect in the future as cyberattacks continue to increase in frequency and sophistication. We continuously seek to maintain a robust program of information security and controls, but the impact of a material cybersecurity incident could have an adverse effect on our competitive position, reputation, results of operations, financial condition, and cash flows. Additionally, while we have a cybersecurity program designed to protect and preserve the confidentiality, integrity, and availability of our information systems, we also maintain cybersecurity insurance to manage potential liabilities resulting from specific cyber-attacks. Although we maintain cybersecurity insurance, there can be no guarantee that our insurer(s) will cover specific claims, pay the full costs of an incident, or provide payment in a timely manner."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-048",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "The cybersecurity team reports to the CISO and has responsibility to prevent, mitigate, detect, and remediate cybersecurity incidents through various processes. These processes include regular vulnerability assessments a",
+    "text": "Our principal executive and administrative offices are located at 500 Eldorado Blvd., Building 5, Broomfield, CO 80021. We lease all of our domestic and international facilities. We currently enter into short-term and long-term leases for office, warehouse, and retail, including kiosk and store-in-store, space. The terms of our leases include fixed monthly rents and/or contingent rents based on percentage of revenues for certain of our retail locations and expire at various dates through the year 2037. The general location, use, and approximate size of our principal properties, as well as the reportable operating segment that utilizes each property, are given below."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-049",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Westwood, Massachusetts Crocs Brand, HEYDUDE Brand Regional office and HEYDUDE Brand headquarters 70,000",
+    "text": "We believe these properties, particularly our distribution centers and warehouses, along with various third-party distribution centers not included above, are adequate for our operations. Aside from the principal properties listed above, we lease various other offices and distribution centers worldwide to meet our sales and operational needs. We also lease 514 retail locations worldwide as of December 31, 2025. See Item 1. Business of this Annual Report on Form 10-K for further discussion regarding global company-operated stores."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-011",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Management uses constant currency to assist in comparing business trends from period to period on a consistent basis in communications with the Board, stockholders, analysts, and investors concerning our financial perfor",
+    "text": "Management utilizes the key performance metrics of gross margin, operating margin, footwear unit sales, and average footwear selling price to gauge the Company\u2019s operational efficiency and market competitiveness, identify trends, formulate financial projections, and make strategic decisions. Management continuously monitors and analyzes these metrics in an effort to ensure we remain agile, competitive, and aligned with our long-term growth objectives. The titles and/or definitions of certain of these metrics may vary from company to company. As a result, our calculation of certain of these metrics may not be comparable to similarly titled metrics used by other companies."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-012",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Management utilizes the key performance metrics of gross margin, operating margin, footwear unit sales, and average footwear selling price to gauge the Company\u2019s operational efficiency and market competitiveness, identif",
+    "text": "Gross margin is defined as gross profit divided by revenues. Management uses this metric and believes it is useful for investors because it provides insights into profitability, cost management, and pricing strategy."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-050",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Gross margin is defined as gross profit divided by revenues. Management uses this metric and believes it is useful for investors because it provides insights into profitability, cost management, and pricing strategy.",
+    "text": "Operating margin is defined as income from operations divided by revenues. Management uses this metric and believes it is useful for investors because it provides a comprehensive view of profitability from its core business operations, excluding the effects of financing and tax considerations."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-051",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Operating margin is defined as income from operations divided by revenues. Management uses this metric and believes it is useful for investors because it provides a comprehensive view of profitability from its core busin",
+    "text": "Footwear unit sales is defined as wholesale and DTC footwear only sales. Management uses this metric and believes it is useful for investors because it provides a direct measure of our sales volume and can offer valuable insights into its market performance and growth potential."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-052",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Footwear unit sales is defined as wholesale and DTC footwear only sales. Management uses this metric and believes it is useful for investors because it provides a direct measure of our sales volume and can offer valuable",
+    "text": "Average footwear selling price is defined as footwear and footwear accessories revenues divided by footwear units. Management uses this metric and believes it is useful for investors because it provides insights into our pricing strategy, market positioning, and revenue generation capabilities."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-053",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Average footwear selling price is defined as footwear and footwear accessories revenues divided by footwear units. Management uses this metric and believes it is useful for investors because it provides insights into our",
+    "text": "Revenues were $4,040.6 million for the year ended December 31, 2025, a 1.5% decrease compared to the year ended December 31, 2024. The decrease was due to the net effects of: (i) lower unit sales volume in the HEYDUDE Brand, which decreased revenues by $87.4 million, or 2.1%; (ii) higher average selling price on a constant currency basis (\u201cASP\u201d) driven by the HEYDUDE Brand, which increased revenues by $16.5 million, or 0.4%; and (iii) net favorable changes in exchange rates, which increased revenues by $9.4 million, or 0.2%."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-054",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "The following were significant developments affecting our businesses during the year ended December 31, 2025:",
+    "text": "\u2022 We grew Crocs Brand revenues 1.5% compared to the same period in 2024. HEYDUDE Brand revenues decreased 13.3%."
+  },
+  {
+    "chunk_id": "T-CROX-INVENTORY-015",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "\u2022 We grew Crocs Brand revenues 1.5% compared to the same period in 2024. HEYDUDE Brand revenues decreased 13.3%.",
+    "text": "\u2022 Gross margin was 58.3% compared to 58.8% in 2024, a decrease of 50 basis points, primarily due to unfavorable duties for both brands as a result of the aforementioned incremental tariffs."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-055",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "\u2022 Gross margin was 58.3% compared to 58.8% in 2024, a decrease of 50 basis points, primarily due to unfavorable duties for both brands as a result of the aforementioned incremental tariffs.",
+    "text": "\u2022 Selling, general & administrative expenses (\u201cSG&A\u201d) were $1,469.4 million compared to $1,364.3 million 2024, primarily as a result of increased investment in talent and higher costs in the DTC channel. As a percent of revenues, SG&A increased to 36.4% of revenues compared to 33.3% in 2024."
+  },
+  {
+    "chunk_id": "T-CROX-INVENTORY-016",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "A discussion of our comparison between 2025 and 2024 is presented below. A discussion of the changes in our results of operations between the years ended December 31, 2024, and December 31, 2023, has been omitted from th",
+    "text": "(1) Changes for gross margin and operating margin are shown in basis points (\u201cbp\u201d)."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-056",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "(1) Changes for gross margin and operating margin are shown in basis points (\u201cbp\u201d).",
+    "text": "(2) Average footwear selling price is calculated as footwear and footwear accessories revenues divided by footwear units."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-057",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "(1) Reflects year over year change as if the current period results were in constant currency, which is a non-GAAP financial measure. See \u201cUse of Non-GAAP Financial Measures\u201d for more information.",
+    "text": "Revenues. In the year ended December 31, 2025, revenues decreased $61.5 million, or 1.5%, compared to 2024. The decrease in revenue was driven by lower volume of $87.4 million, or 2.1%, primarily due to lower volume in the HEYDUDE Brand, partially offset by higher volume in the Crocs Brand. Higher average selling price on a constant currency basis (\u201cASP\u201d) for the HEYDUDE Brand increased revenues by $26.7 million, or 0.7%, driven mostly by favorable channel mix, partially offset by unfavorable product mix. This increase was partially offset by lower ASP for the Crocs Brand, which decreased revenues by $10.2 million, or 0.2%, driven mostly by increased discounting, partially offset by favorable channel mix. Net favorable foreign currency fluctuations also increased revenues by $9.4 million, or 0.2%, primarily due to favorable fluctuations in the Euro, partially offset by unfavorable fluctuations in the South Korean Won."
+  },
+  {
+    "chunk_id": "T-CROX-INVENTORY-017",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Revenues. In the year ended December 31, 2025, revenues decreased $61.5 million, or 1.5%, compared to 2024. The decrease in revenue was driven by lower volume of $87.4 million, or 2.1%, primarily due to lower volume in t",
+    "text": "Gross margin. Gross margin was 58.3% compared to 58.8% in 2024. This was primarily due to incremental duties of 130 basis points and higher freight and fulfillment costs of 40 basis points, for both brands. The overall decrease in gross margin was offset in part by lower product costs in the Crocs Brand of 70 basis points, and favorable brand mix of 30 basis points."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-013",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Gross margin. Gross margin was 58.3% compared to 58.8% in 2024. This was primarily due to incremental duties of 130 basis points and higher freight and fulfillment costs of 40 basis points, for both brands. The overall d",
+    "text": "In the years ended December 31, 2025, and 2024, cost of sales included $488.4 million and $487.1 million, respectively, of distribution expenses primarily related to receiving, inspecting, warehousing, and packaging product in owned and third-party warehouses, combined with transportation costs associated with delivering products from distribution centers to wholesale partners, retail stores, and end customers."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-058",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "In the years ended December 31, 2025, and 2024, cost of sales included $488.4 million and $487.1 million, respectively, of distribution expenses primarily related to receiving, inspecting, warehousing, and packaging prod",
+    "text": "Selling, general and administrative expenses. SG&A increased $105.2 million, or 7.7%, during the year ended December 31, 2025, compared to the same period in 2024, primarily driven by increased investment in talent of $45.1 million, costs associated with an operational workforce reduction of $13.4 million, increased marketing of $16.1 million, higher DTC costs, as a result of investment in the channel and variable costs associated with increased channel revenues, of $39.1 million, and net decreases in other costs of $8.5 million."
+  },
+  {
+    "chunk_id": "T-CROX-INVENTORY-018",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "In 2025, in one relevant jurisdiction, we settled a portion of the uncertain tax positions associated with the 2023 IP transactions that resulted in the release of uncertain tax positions of $34.1 million . The other rel",
+    "text": "In 2024, we completed an intra-entity transaction related to certain intellectual property rights primarily to align with current and future international operations. The transaction resulted in a step-up in tax basis of intellectual property rights and a correlated increase in foreign deferred tax assets based on the fair value of the intellectual property rights. Foreign deferred tax assets increased by $268.8 million and this benefit was offset by an increase in uncertain tax positions of $145.6 million. As such, a net change in deferred tax asset of $123.2 million was recognized along with a corresponding foreign income tax benefit in 2024. In 2024, we received new information and remeasured the reserve for uncertain tax positions related to the 2020 and 2021 intellectual property rights transactions which resulted in the release of uncertain tax positions of $141.2 million along with a corresponding foreign income tax benefit. As of December 31, 2025, the related net deferred tax asset, net of applicable valuation allowance and uncertain tax positions, was $289.8 million."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-059",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "The following table sets forth information related to our reportable operating segments for the years ended December 31, 2025 and 2024.",
+    "text": "714,840 824,141 (13.3) % (13.5) % Total consolidated revenues $ 4,040,647 $ 4,102,108 (1.5) % (1.7) % Income from operations:"
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-060",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "(1) Reflects year over year change as if the current period results were in constant currency, which is a non-GAAP financial measure. See \u201cUse of Non-GAAP Financial Measures\u201d for more information.",
+    "text": "Revenues. The Crocs Brand segment grew revenues for the year ended December 31, 2025, compared to 2024, primarily due to higher volume. Net favorable currency fluctuations also increased revenues. The overall increase in Crocs Brand revenues was offset in part by lower ASP, mainly due to increased discounting, partially offset by favorable channel mix."
+  },
+  {
+    "chunk_id": "T-CROX-INVENTORY-019",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Revenues. The Crocs Brand segment grew revenues for the year ended December 31, 2025, compared to 2024, primarily due to higher volume. Net favorable currency fluctuations also increased revenues. The overall increase in",
+    "text": "Income from Operations. During the year ended December 31, 2025, income from operations for our Crocs Brand segment was $1,111.7 million, a decrease of $70.3 million, or 6.0% from 2024. Gross margin was 61.3% for the year ended December 31, 2025, a decrease of 30 basis points compared to 2024. The decrease in gross margin was primarily due to unfavorable duties and higher freight and fulfillment costs, partially offset by lower product costs."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-061",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "During the year ended December 31, 2025, SG&A for our Crocs Brand segment increased by $89.5 million, or 10.7%, compared to 2024, primarily due to increased investments in talent and marketing and higher costs in the DTC",
+    "text": "Revenues. During the year ended December 31, 2025, HEYDUDE revenues decreased compared to 2024, primarily due to lower volume. The overall decrease in revenues was partially offset by higher ASP, primarily due to favorable channel mix, partially offset by unfavorable product mix."
+  },
+  {
+    "chunk_id": "T-CROX-INVENTORY-020",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Revenues. During the year ended December 31, 2025, HEYDUDE revenues decreased compared to 2024, primarily due to lower volume. The overall decrease in revenues was partially offset by higher ASP, primarily due to favorab",
+    "text": "Income from Operations. For the HEYDUDE Brand, loss from operations during the year ended December 31, 2025, was $668.9 million, a decrease of $806.3 million, or 586.8%, compared to 2024. Gross margin was 44.8% for the year ended December 31, 2025, a decrease of 290 basis points, primarily due to unfavorable duties, higher freight and fulfillment costs, and higher product costs, partially offset by favorable channel mix."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-062",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "As of December 31, 2025, we had 439 company-operated retail locations for the Crocs Brand, inclusive of 200 retail locations in North America and 239 retail locations internationally. As of December 31, 2025, we had 75 c",
+    "text": "Digital sales, which includes sales through our company-owned website, third-party marketplaces, and e-tailers (which are reported in our wholesale channel), as a percent of total revenues, by reportable operating segment were:"
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-014",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Net change in cash, cash equivalents, and restricted cash $ (49,767) $ 30,581 $ (80,348) (262.7) %",
+    "text": "Operating Activities. Our primary source of liquidity is cash provided by operating activities, consisting of net income adjusted for non-cash items and changes in working capital. Cash provided by operating activities decreased $282.1 million for the year ended December 31, 2025, compared to the year ended December 31, 2024, driven by decreases in operating assets and liabilities of $288.9 million, primarily due to the decrease in income taxes payable, accounts receivable, and inventories, partially offset by an increase in net income, adjusted for non-cash items, of $6.8 million."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-063",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "We had no material off-balance sheet arrangements as of December 31, 2025, other than certain purchase commitments, as described in the footnote (2) above.",
+    "text": "Our discussion and analysis of financial condition and results of operations, outside of discussions regarding constant currency, is based on the consolidated financial statements, which have been prepared in accordance with GAAP. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, and contingencies as of the date of the financial statements and the reported amounts of revenues and expenses during the reporting periods. We evaluate our assumptions and estimates on an on-going basis."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-064",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "When performing our annual test for impairment, we may assess goodwill and indefinite-lived intangible assets for potential impairment using either a qualitative or quantitative assessment. The qualitative assessment may",
+    "text": "Our impairment evaluations represent a critical accounting policy as they require significant judgments and assumptions that we believe to be reasonable but that are inherently uncertain and unpredictable. The primary assumptions developed by management and used in the quantitative assessments included annual revenue growth rates, averaging approximately 8% for both the trademark and reporting unit goodwill, projected earnings before interest, taxes, depreciation, and amortization (\u201cEBITDA\u201d) margins, averaging approximately 20% for both the trademark and reporting unit goodwill, and a market-based discount rate of 15% for both the trademark and reporting unit goodwill, which was based on, most significantly, a risk-free rate of return, an equity market risk premium, and a company-specific risk premium. Changes in the assumptions used to estimate the fair value of our goodwill and indefinite-lived intangible assets could result in additional impairment charges in future periods as the key assumptions are inherently uncertain, require significant judgment and are subject to change based on, among others, industry and geopolitical conditions, our ability to navigate changing macroeconomic conditions and trends as well as the timing and success of strategic initiatives."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-065",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Our impairment evaluations represent a critical accounting policy as they require significant judgments and assumptions that we believe to be reasonable but that are inherently uncertain and unpredictable. The primary as",
+    "text": "Certain factors, such as failure to achieve forecasted revenue growth rates, EBITDA, or increases in the discount rates, have the potential to create variances in the estimated fair values of our goodwill and indefinite-lived intangible assets that could result in impairment charges in future periods. Refer to the risk factor under \u201cFinancial and Accounting Risks \u2014 We may incur impairments of the carrying value of our goodwill and other intangible assets, which could have a material adverse effect on our business and financial results\u201d included in Item 1A. Risk Factors of this Annual Report on Form 10-K for additional information."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-015",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "In 2025, we recorded non-cash impairments of $1.1 million related to the discontinuation of an information technology project. In 2024, we recorded non-cash impairments of $18.2 million for information technology systems",
+    "text": "While our revenue recognition does not involve significant judgment, it does represent a key accounting policy as it is important to our results of operations. Revenues are recognized in the amount expected to be received when control of the product transfers to customers. Revenues are reported net of various promotions, which range from contractually-fixed percentage price reductions to sales returns, discounts, rebates, and other incentives that may vary in amount, must be estimated, and are reported as a reduction in revenues. An area of judgment affecting our reported revenues and net income involves estimating reserves for sales returns and allowances, which represent a portion of revenues not expected to be realized. Revenues in our direct-to-consumer channels are reduced by an estimate of returns. We may also accept returns from our wholesale customers, on an exception basis, to ensure that our products are merchandised in the proper assortments and may provide markdown allowances at our sole discretion to key wholesalers and distributors to facilitate sales of slower moving products. Wholesale revenues are reduced by estimates of returns and allowances."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-016",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "While our revenue recognition does not involve significant judgment, it does represent a key accounting policy as it is important to our results of operations. Revenues are recognized in the amount expected to be receive",
+    "text": "Our estimated sales returns and allowances are based on customer return history and actual outstanding returns yet to be received. Changes to our estimates for customer returns and allowances may be caused by many factors, including, but not limited to, whether customers accept our new styles, customer inventory levels, shipping delays or errors, known or suspected product defects, the seasonal nature of our products, and macroeconomic factors affecting our customers. Historically, actual amounts of customer returns and allowances have not differed significantly from our estimates. A hypothetical 10% increase in our reserves for returns and allowances as of December 31, 2025, would have decreased our revenues during the year ended December 31, 2025, by $0.7 million."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-017",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "In 2025, in one relevant jurisdiction, we settled a portion of the uncertain tax positions associated with the 2023 intellectual property (\u201cIP\u201d) transactions that resulted in the release of uncertain tax positions of $34",
+    "text": "In 2024, we completed an intra-entity transaction related to certain IP rights primarily to align with current and future international operations. The transaction was executed using transfer pricing guidelines issued by the relevant taxing authorities. Significant estimates and assumptions were required to compute the valuation of this transaction. These estimates and assumptions include, but are not limited to, estimated future revenue growth, which is inherently uncertain and, therefore, may ultimately differ materially from our actual results. Foreign deferred tax assets increased by $268.8 million and this benefit was offset by an increase in uncertain tax positions of $145.6 million. As such, a net change in deferred tax asset of $123.2 million was recognized along with a corresponding foreign income tax benefit in 2024. In 2024, we received new information and remeasured the reserve for uncertain tax positions related to the 2020 and 2021 intellectual property rights transactions which resulted in the release of uncertain tax positions of $141.2 million along with a corresponding foreign income tax benefit. As of December 31, 2025, the related net deferred tax asset, net of applicable valuation allowance and uncertain tax positions, was $289.8 million."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-066",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "In 2024, we completed an intra-entity transaction related to certain IP rights primarily to align with current and future international operations. The transaction was executed using transfer pricing guidelines issued by",
+    "text": "In 2023, we completed transactions that created an amortizable step-up in tax basis of the intangible asset and a corresponding increase in foreign deferred tax assets based on the fair value of that IP. These transactions were also executed using transfer pricing guidelines issued by the relevant taxing authorities. Significant estimates and assumptions were required to compute the valuation of these transactions. These estimates and assumptions include, but are not limited to, estimated future revenue growth and discount rates, which by their nature are inherently uncertain and, therefore, may ultimately differ materially from our actual results. As of December 31, 2024, the related net deferred tax asset, net of applicable valuation allowance and uncertain tax positions was $271.7 million."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-018",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "In 2023, we completed transactions that created an amortizable step-up in tax basis of the intangible asset and a corresponding increase in foreign deferred tax assets based on the fair value of that IP. These transactio",
+    "text": "In 2020 and in 2021, we completed transactions that created an amortizable step-up in tax basis of the intangible asset and a corresponding increase in foreign deferred tax assets based on the fair value of that IP. These transactions were also executed using transfer pricing guidelines issued by the relevant taxing authorities. Significant estimates and assumptions were required to compute the valuation of these transactions. These estimates and assumptions include, but are not limited to, estimated future revenue growth and discount rates, which by their nature are inherently uncertain and, therefore, may ultimately differ materially from our actual results. As of December 31, 2024, the related net deferred tax asset, net of applicable valuation allowance and uncertain tax positions was $377.1 million. In 2024, we received new information and remeasured the reserve for uncertain tax positions related to the 2020 and 2021 intellectual property rights transactions which resulted in the release of uncertain tax positions of $141.2 million along with a corresponding foreign income tax benefit. As of December 31, 2025, the related net deferred tax asset, net of applicable valuation allowance and uncertain tax positions was $401.6 million."
+  },
+  {
+    "chunk_id": "T-CROX-INVENTORY-021",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "In order to support and sustain the amortizable tax basis for these transactions (and associated deferred tax asset, net of uncertain tax position), we must demonstrate economic ownership, including the appropriate autho",
+    "text": "We have also recorded certain tax reserves to address potential differences involving our income tax positions. These potential tax liabilities result from the varying application of statutes, rules, regulations and interpretations by different taxing jurisdictions. While our tax position is not uncertain, because of the significant estimates used in the value of certain intellectual property rights, our tax reserves contain assumptions based on past experiences and judgments about the interpretation of statutes, rules and regulations by taxing jurisdictions. It is possible that the costs of the ultimate tax liability or benefit from these matters may be materially more or less than the amount that we estimated."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-067",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Changes in exchange rates have a direct effect on our reported U.S. Dollar consolidated financial statements because we translate the operating results and financial position of our international subsidiaries to U.S. Dol",
+    "text": "An increase of 1% of the value of the U.S. Dollar relative to foreign currencies when translating our financial results would have decreased our revenues and income before taxes during the year ended December 31, 2025, by $17.8 million and $9.0 million, respectively. This analysis does not account for transactional fluctuations in accounts, such as those driven by purchasing power, which is defined as purchasing foreign goods in the U.S. Dollar but recognizing the cost in foreign currencies. The volatility of the exchange rates is dependent on many factors that cannot be forecasted with reliable accuracy."
+  },
+  {
+    "chunk_id": "T-CROX-INVENTORY-022",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "The information required by this item is incorporated herein by reference to our definitive proxy statement for the 2026 Annual Meeting of Stockholders to be filed with the SEC within 120 days after December 31, 2025, wi",
+    "text": "As shown in the table below, we reserved 1.1 million shares of common stock for future issuance pursuant to exercise of outstanding awards under equity compensation plans as of December 31, 2025."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-068",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Goodwill and Intangible Assets, net \u2013 Impairment of HEYDUDE trademark and the HEYDUDE Brand reporting unit goodwill - Refer to Notes 1 and 4 to the consolidated financial statements",
+    "text": "The Company evaluates the carrying value of goodwill and indefinite-lived intangible assets for impairment at least annually or when an interim triggering event has occurred indicating potential impairment. During the second quarter of the fiscal year ended 2025, management identified a triggering event for the HEYDUDE trademark (\u201ctrademark\u201d) and the HEYDUDE Brand reporting unit (\u201creporting unit\u201d) goodwill. The Company completed quantitative assessments for the trademark and the reporting unit goodwill to compare the estimated fair value of the trademark and reporting unit with their respective carrying values. The Company measures the estimated fair value of the trademark under an income-based approach by using a multi-period excess earnings method and of the reporting unit under an income-based approach by using a discounted cash flow valuation method. Each method requires management to make significant estimates and assumptions related to the forecasted revenue growth rates and market-based discount rate. During the fiscal year ended 2025, the fair value of the trademark and"
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-069",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "reporting unit did not exceed their carrying values resulting in impairment charges of $430.0 million and $307.0 million, respectively.",
+    "text": "Given the significant judgments made by management to estimate the fair value of the trademark and reporting unit, and the difference between their fair values and carrying values, performing auditing procedures to evaluate the reasonableness of management\u2019s judgments regarding the business and valuation assumptions utilized in the valuation model, particularly the forecasted revenue growth rates and the selection of the market-based discount rate, required a high degree of auditor judgment and an increased extent of effort, including the need to involve our fair value specialists."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-070",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Given the significant judgments made by management to estimate the fair value of the trademark and reporting unit, and the difference between their fair values and carrying values, performing auditing procedures to evalu",
+    "text": "Our audit procedures related to forecasted revenue growth rates and the market-based discount rate used by management to estimate the fair value of the trademark and reporting unit included the following, among others:"
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-071",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Our audit procedures related to forecasted revenue growth rates and the market-based discount rate used by management to estimate the fair value of the trademark and reporting unit included the following, among others:",
+    "text": "\u2022 We tested the design, implementation and operating effectiveness of internal controls over the Company\u2019s assumptions related to the selection of the forecasted revenue growth rates and the selection of the market-based discount rate."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-072",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "\u2022 We tested the design, implementation and operating effectiveness of internal controls over the Company\u2019s assumptions related to the selection of the forecasted revenue growth rates and the selection of the market-based",
+    "text": "\u2022 We obtained an understanding of management\u2019s key assumptions in developing the forecasted revenue growth rates and the market-based discount rate."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-073",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "\u2022 We obtained an understanding of management\u2019s key assumptions in developing the forecasted revenue growth rates and the market-based discount rate.",
+    "text": "\u2022 We assessed the reasonableness of management\u2019s forecasted revenue growth rates by comparing to:"
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-074",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "\u2022 We assessed the reasonableness of management\u2019s forecasted revenue growth rates by comparing to:",
+    "text": "\u2022 We evaluated whether the forecasted revenue growth rates and market-based discount rate were consistent with evidence obtained in other areas of the audit."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-019",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Our consolidated financial statements include our accounts and those of our wholly-owned subsidiaries, and they reflect all adjustments which are necessary for a fair statement of results of operations, financial positio",
+    "text": "Our consolidated financial statements are prepared in accordance with U.S. GAAP. These accounting principles require us to make certain estimates, judgments, and assumptions. We believe that the estimates, judgments, and assumptions used to determine certain amounts that affect the financial statements are reasonable, based on information available at the time they are made. Management believes that the estimates, judgments, and assumptions made when accounting for items and matters such as, but not limited to, the allowance for doubtful accounts, customer rebates, sales returns and allowances, impairment assessments and charges, recoverability of long-lived assets, deferred tax assets, valuation allowances, uncertain tax positions, income tax expense, share-based compensation expense, the assessment of lower of cost or net realizable value on inventory, goodwill, indefinite-lived intangible assets, and useful lives assigned to long-lived assets."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-075",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "We have reclassified certain amounts on the consolidated statements of operations, consolidated statements of cash flows, Note 8 \u2014 Derivative Financial Instruments, and in Note 13 \u2014 Income Taxes to conform to current per",
+    "text": "Cash and cash equivalents represent cash and short-term, highly-liquid investments with maturities of three months or less at the date of purchase. We report receivables from credit card companies in cash and cash equivalents."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-020",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Cash and cash equivalents represent cash and short-term, highly-liquid investments with maturities of three months or less at the date of purchase. We report receivables from credit card companies in cash and cash equiva",
+    "text": "Accounts receivable are recorded at invoiced amounts, net of reserves and allowances. We reduce the carrying value for estimated uncollectible accounts based on a variety of factors including the length of time receivables are past due, economic"
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-021",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Accounts receivable are recorded at invoiced amounts, net of reserves and allowances. We reduce the carrying value for estimated uncollectible accounts based on a variety of factors including the length of time receivabl",
+    "text": "trends and conditions affecting our customer base, and historical collection experience. Specific provisions are recorded for individual receivables when we become aware of a customer\u2019s inability to meet its financial obligations. We write off accounts receivable to the reserves when they are deemed uncollectible or, in certain jurisdictions, when legally able to do so."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-022",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "(1) Deductions for allowance for doubtful accounts primarily include accounts written off.",
+    "text": "Inventories are comprised of finished goods, are stated at the lower of cost or net realizable value, and are recognized using the first-in-first-out method of inventory costing. We estimate the market value of inventory based on an analysis of historical sales trends of our individual product lines, the impact of market trends and economic conditions, and a forecast of future demand, giving consideration to the value of current orders in-house for future sales of inventory, as well as plans to sell discontinued or end-of-life inventory through our outlet stores, among other off-price channels. Estimates may differ from actual results due to the quantity, quality, and mix of products in inventory, consumer and retailer preferences, and market conditions. If the estimated net realizable value is less than its carrying value, the carrying value is adjusted to the net realizable value, and the difference is recorded in \u2018Cost of sales\u2019 in our consolidated statements of operations."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-023",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Inventories are comprised of finished goods, are stated at the lower of cost or net realizable value, and are recognized using the first-in-first-out method of inventory costing. We estimate the market value of inventory",
+    "text": "Reserves for the risk of physical loss of inventory at retail stores are estimated based on historical experience and are adjusted based upon physical inventory counts, and they are recorded within \u2018Cost of sales\u2019 in our consolidated statements of operations."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-024",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Reserves for the risk of physical loss of inventory at retail stores are estimated based on historical experience and are adjusted based upon physical inventory counts, and they are recorded within \u2018Cost of sales\u2019 in our",
+    "text": "Property, equipment, furniture, and fixtures are stated at original cost, less accumulated depreciation. Depreciation is provided using the straight-line method over the estimated useful asset lives. The useful lives are reviewed periodically and typically range from 2 to 10 years for machinery and equipment and furniture, fixtures and others. Leasehold improvements are stated at cost and amortized on a straight-line basis over their estimated economic useful lives or the lease term, whichever is shorter. Costs of enhancements or modifications that substantially extend the capacity or useful life of an asset are capitalized and depreciated accordingly. Ordinary repairs and maintenance are expensed as incurred. Depreciation of warehouse- and distribution-related assets is included in \u2018Cost of sales\u2019 in our consolidated statements of operations. Depreciation related to retail store, corporate, and non-product assets is included in \u2018Selling, general and administrative expenses\u2019 in our consolidated statements of operations. When property is retired or otherwise disposed of, the cost and accumulated depreciation are removed from our consolidated balance sheets, and the resulting gain or loss, if any, is reflected in \u2018Income from operations\u2019 in the consolidated statements of operations."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-025",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "We also capitalize certain costs incurred during the application development stage of implementation of internal-use software in cloud computing arrangements. Amounts capitalized are amortized on a straight-line basis ov",
+    "text": "Amortization of capitalized software used in warehouse- and distribution-related activities is included in \u2018Cost of sales\u2019 in the consolidated statements of operations. Amortization related to corporate and non-product, assets, such as our global information systems, is included in \u2018Selling, general, and administrative expenses\u2019 in the consolidated statements of operations."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-076",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Due to our centralized treasury function, we utilize a portfolio approach to discount our lease obligations. We assess the expected lease term at lease inception and discount the lease using a fully-secured annual increm",
+    "text": "Certain of our retail store leases include rental payments based upon a percentage of retail sales in excess of a minimum fixed rental. In some cases, there is no fixed minimum rental, and the entire rental payment is based upon a percentage of sales. In addition, certain leases include rental payments adjusted periodically for changes in price level indices. We recognize expense for these types of payments as incurred and report them as variable lease expense. See Note 6 \u2014 Leases for additional information."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-077",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Certain of our retail store leases include rental payments based upon a percentage of retail sales in excess of a minimum fixed rental. In some cases, there is no fixed minimum rental, and the entire rental payment is ba",
+    "text": "We transact business in various foreign entities and are therefore exposed to foreign currency exchange rate risk that impacts the reported U.S. Dollar (\u201cUSD\u201d) amounts of revenues, expenses, and certain foreign currency monetary assets and liabilities."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-026",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "As of December 31, 2025, we have derivatives not designated as hedging instruments (\u201cnon-hedged derivatives\u201d), which consist of foreign currency forward contracts primarily used to hedge monetary assets and liabilities d",
+    "text": "We also have cash flow hedges (\u201chedged derivatives\u201d) as of December 31, 2025. We are exposed to fluctuations in various foreign currencies against our functional currency, the USD. Specifically, we have subsidiaries that transact in currencies other than their functional currency. We use cash flow hedges to minimize the variability in cash flows caused by fluctuations in foreign currency exchange rates related to our external sales and external purchases of inventory. Currency forward agreements involve fixing the exchange rates for delivery of a specified amount of foreign currency on a specified date. The currency forward agreements are typically cash settled in USD for their fair value at or close to their settlement date. We may also use currency option contracts under which we will pay a premium for the right to sell a specified amount of a foreign currency prior to the maturity date of the option."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-027",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "We also have cash flow hedges (\u201chedged derivatives\u201d) as of December 31, 2025. We are exposed to fluctuations in various foreign currencies against our functional currency, the USD. Specifically, we have subsidiaries that",
+    "text": "For derivatives designated and that qualify as cash flow hedges of foreign exchange risk, the gain or loss on the derivative is recorded in \u2018Accumulated other comprehensive loss\u2019 in the consolidated balance sheets. In the period during which the hedged transaction affects earnings, the related gain or loss is subsequently reclassified to \u2018Revenues\u2019 or \u2018Cost of sales\u2019 in the consolidated statement of operations, which is consistent with the nature of the hedged transaction."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-078",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "See Note 8 \u2014 Derivative Financial Instruments for further information on derivative financial instruments.",
+    "text": "Our foreign subsidiaries generally use their foreign currency as their functional currency. Functional currency assets and liabilities are translated into USD using exchange rates in effect at the balance sheet date, and revenues and expenses are translated at average exchange rates during the period. Resulting translation gains and losses are reported in other comprehensive income (loss), until the substantial liquidation of a subsidiary, at which time accumulated translation gains or losses are reclassified into net income."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-079",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Our foreign subsidiaries generally use their foreign currency as their functional currency. Functional currency assets and liabilities are translated into USD using exchange rates in effect at the balance sheet date, and",
+    "text": "Revenues are recognized in the amount expected to be received in exchange for when control of the products transfers to customers and excludes various forms of promotions, which range from contractually-fixed percentage price reductions to sales returns, discounts, rebates, and other incentives that may vary in amount, must be estimated, and are reported as a reduction in revenues. Variable amounts are estimated based on an analysis of historical experience and adjusted as better estimates become"
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-080",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Revenues are recognized in the amount expected to be received in exchange for when control of the products transfers to customers and excludes various forms of promotions, which range from contractually-fixed percentage ",
+    "text": "available. During the years ended December 31, 2025, 2024, and 2023, we recognized no changes to estimates for wholesale or direct-to-consumer revenues."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-081",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "We have also elected to expense incremental costs to obtain customer contracts, consisting primarily of commission incentives, when incurred because the related amortization period is less than one year. These costs are ",
+    "text": "The following is a description of our principal revenue-generating activities by distribution channel. We have two reportable operating segments and sell our products using two primary distribution channels. For more detailed information about reportable operating segments, see Note 16 \u2014 Operating Segments and Geographic Information."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-028",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "The following is a description of our principal revenue-generating activities by distribution channel. We have two reportable operating segments and sell our products using two primary distribution channels. For more det",
+    "text": "For the majority of wholesale customers, control transfers and revenues are recognized when the product is shipped or delivered from a manufacturing facility or distribution center to the wholesale customer. In certain cases, control of the product transfers and revenues are recognized when the customer receives the product at the designated delivery point. For certain customers, primarily in international markets, cash payment is required in advance of delivery and revenues continue to be recognized upon the transfer of control to the customer. We may accept returns from our wholesale customers, on an exception basis, to ensure that our products are merchandised in the proper assortments and may provide markdown allowances at our sole discretion to key wholesalers and distributors to facilitate sales of slower moving products. Wholesale revenues are reduced by estimates of returns and allowances based on historical experience, and adjustments to our estimates are made when the expected value changes."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-082",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "For the majority of wholesale customers, control transfers and revenues are recognized when the product is shipped or delivered from a manufacturing facility or distribution center to the wholesale customer. In certain c",
+    "text": "We have arrangements that grant certain wholesale customers exclusive licenses, concurrent with the terms of the related distribution agreements, to use our intellectual property in exchange for a sales-based royalty. Sales-based royalty revenues are recognized over the terms of the related license agreements as sales are made by the wholesalers."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-083",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "We have arrangements that grant certain wholesale customers exclusive licenses, concurrent with the terms of the related distribution agreements, to use our intellectual property in exchange for a sales-based royalty. Sa",
+    "text": "Direct-to-consumer revenues consist of sales generated through our company-operated retail stores and company-operated e-commerce websites and third-party e-commerce marketplaces. We transfer control of products and recognize revenues at company-operated retail stores at the point of sale, in exchange for cash or other payment. For sales made through company-operated e-commerce websites and third-party e-commerce marketplaces, we transfer control and recognize revenues when the product is shipped from the distribution centers, the point at which payment, primarily through debit and credit card and other e-payment methods, is made. A portion of the transaction price charged to our customers is variable, primarily due to returns. When recognizing revenues, the amount of revenues associated with expected sales returns is estimated based on historical experience, and adjustments to our estimates are made when the most likely amount of consideration we expect to receive changes."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-029",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Direct-to-consumer revenues consist of sales generated through our company-operated retail stores and company-operated e-commerce websites and third-party e-commerce marketplaces. We transfer control of products and reco",
+    "text": "Shipping and handling costs are expensed as incurred and are included in \u2018Cost of sales\u2019 in the consolidated statements of operations. Shipping and handling fees billed to customers are included in revenues."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-084",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Shipping and handling costs are expensed as incurred and are included in \u2018Cost of sales\u2019 in the consolidated statements of operations. Shipping and handling fees billed to customers are included in revenues.",
+    "text": "Taxes assessed by governmental authorities that are directly imposed on a revenue transaction, including value added tax, are recorded on a net basis and are therefore excluded from revenues."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-030",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Taxes assessed by governmental authorities that are directly imposed on a revenue transaction, including value added tax, are recorded on a net basis and are therefore excluded from revenues.",
+    "text": "Our cost of sales includes costs incurred to design, produce, procure, and ship our footwear. These costs include our raw materials, both direct and indirect labor, shipping and handling including freight costs, utilities, maintenance costs, licensing fees, depreciation, amortization, packaging, and other warehouse and distribution overhead and costs."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-085",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Our cost of sales includes costs incurred to design, produce, procure, and ship our footwear. These costs include our raw materials, both direct and indirect labor, shipping and handling including freight costs, utilitie",
+    "text": "Selling, general and administrative expenses consist primarily of labor and outside services, rent expense, bad debt expense, legal costs, amortization of intangible assets, as well as certain depreciation costs related to corporate and non-product assets and share-based compensation. Selling, general and administrative expenses also include costs for our marketing and sales organizations, and other functions including finance, legal, human resources, and information technology."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-086",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Our non-financial assets, which primarily consist of property and equipment, right-of-use assets, goodwill, and other intangible assets, are not required to be carried at fair value on a recurring basis and are reported ",
+    "text": "In December 2023, the Financial Accounting Standards Board (\u201cFASB\u201d) issued authoritative guidance related to the disclosure of rate reconciliation and income taxes paid. This guidance became effective for annual periods beginning after December 15, 2024 and allows for prospective or retrospective adoption. We adopted on a prospective basis. The standard has been adopted and the rate reconciliation and cash paid for income taxes, net of refunds, have been updated within the notes to our consolidated financial statements. There is not a material impact on our consolidated financial statements. See Note 13 \u2014 Income Taxes for additional information regarding our tax disclosures."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-031",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "We are contractually obligated, under certain of our lease agreements, to restore certain retail and office facilities back to their original condition. At lease inception, the estimated fair value of these liabilities i",
+    "text": "Depreciation and amortization expense related to property and equipment, reported in \u2018Cost of sales\u2019 and \u2018Selling, general and administrative expenses\u2019 was:"
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-032",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Depreciation and amortization expense related to property and equipment, reported in \u2018Cost of sales\u2019 and \u2018Selling, general and administrative expenses\u2019 was:",
+    "text": "During the years ended December 31, 2025, 2024, and 2023, we recognized net losses on disposals of property and equipment and intangible assets of $ 1.1 million, $ 1.0 million, and $ 0.4 million, respectively. Gains and losses on disposals of property and equipment and intangible assets are included in \u2018Selling, general and administrative expenses\u2019 and \u2018Cost of sales\u2019 in the consolidated statements of operations."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-087",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "For the quantitative assessments, we compared the estimated fair values of the trademark and reporting unit with their respective carrying values. If the carrying value of the trademark or reporting unit exceeded the est",
+    "text": "The quantitative assessment of the trademark was performed using the Multi-Period Excess Earnings approach. The primary assumptions developed by management and used in the assessment included annual revenue growth rates averaging approximately 8 %, projected earnings before interest, taxes, depreciation, and amortization (\u201cEBITDA\u201d) margins averaging approximately 20 %, and a market-based discount rate of 15.0 %, which was based on, most significantly, a risk-free rate of return, an equity market risk premium, and a company-specific risk premium. The estimated fair value of the trademark did not exceed its carrying value. In the second quarter of the fiscal year ended 2025, we recorded an impairment charge of $ 430.0 million within \u2018Asset impairments\u2019 in our condensed consolidated statements of operations related to the trademark, after which the estimated fair value equaled its carrying value. This impairment charge reflects lower than previously expected annual revenue growth rates and EBITDA as well as increases in market-based discount rates, specifically the risk-free rate of return, when compared to those used in our most recent annual impairment test completed prior to the second quarter of 2025."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-088",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "The quantitative assessment of the trademark was performed using the Multi-Period Excess Earnings approach. The primary assumptions developed by management and used in the assessment included annual revenue growth rates ",
+    "text": "We performed the quantitative assessment for the reporting unit goodwill using the discounted cash flow method. The primary assumptions developed by management and used in the assessment included annual revenue growth rates, projected EBITDA margins, and a market-based discount rate. The estimated fair value of the reporting unit goodwill did not exceed its carrying value. In the second quarter of the fiscal year ended 2025, we recorded an impairment charge of $ 307.0 million within \u2018Goodwill impairment\u2019 in our condensed consolidated statements of operations related to the reporting unit goodwill, after which the estimated fair value equaled its carrying value. This impairment charge reflects lower than previously expected annual revenue growth rates and EBITDA as well as increases in market-based discount rates, specifically the risk-free rate of return, when compared to those used in our most recent annual impairment test completed in the fourth quarter of 2024."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-033",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "At December 31, 2025, the weighted average useful life of intangibles subject to amortization was approximately 13.8 years.",
+    "text": "Amortization expense related to definite-lived intangible assets, reported in \u2018Cost of sales\u2019 and \u2018Selling, general and administrative expenses\u2019 was:"
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-034",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Amounts reported in \u2018Accrued expenses and other liabilities\u2019 in the consolidated balance sheets were:",
+    "text": "Lease-related costs reported within \u2018Cost of sales\u2019 and \u2018Selling, general and administrative expenses\u2019 were:"
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-089",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "The financial assets and liabilities that are measured and recorded at fair value on a recurring basis consist of our derivative instruments. Our derivative instruments are forward foreign currency exchange contracts. We",
+    "text": "The carrying amounts of our cash, cash equivalents, and restricted cash approximate their fair value and are classified as Level 1 of the fair value hierarchy. The carrying amounts of our accounts receivable, accounts payable, and current accrued expenses and other liabilities approximate their fair value as recorded due to the short-term maturity of these instruments and are classified as Level 2 of the fair value hierarchy."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-035",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "(4) During the year ended December 31, 2024, we recognized an impairment of $ 5.5 million for our former HEYDUDE Brand warehouses in Las Vegas, Nevada, and $ 0.4 million for our former Crocs Brand warehouse in Oudenbosch",
+    "text": "As of December 31, 2025, we have derivatives not designated as hedging instruments (\u201cnon-hedged derivatives\u201d), which consist of foreign currency forward contracts primarily used to hedge monetary assets and liabilities denominated in non-functional currencies, and cash flow hedges (\u201chedged derivatives\u201d), which are used to minimize the variability in cash flows caused by fluctuations in foreign currency exchange rates related to our external sales and external purchases of inventory. During the years ended December 31, 2025, December 31, 2024, and December 31, 2023, there was a gain of $ 0.2 million, a gain of $ 0.8 million, and a loss of $ 0.8 million, respectively, recognized due to reclassification from \u2018Accumulated other comprehensive loss\u2019 to \u2018Revenues\u2019 or \u2018Cost of sales\u2019 related to our hedged derivatives. During the next twelve months, we estimate that a loss of $ 0.9 million will be reclassified to the consolidated statement of operations."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-090",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "We have authorized and available for issuance 5.0 million shares of preferred stock. Of these preferred shares, 1.0 million were authorized as Series A Convertible Preferred Stock with a par value of $ 0.001 per share an",
+    "text": "Contract liabilities consist of advance cash deposits received from wholesale customers to secure product orders in connection with selling seasons and payments received in advance of delivery. As products are shipped and control transfers, we recognize the deferred revenue in \u2018Revenues\u2019 in the consolidated statements of operations. At December 31, 2025, we did not record any deferred revenues, and at December 31, 2024, we recorded an insignificant amount of deferred revenues associated with advance customer deposits in \u2018Accrued expenses and other liabilities\u2019 in the consolidated balance sheets."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-091",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Contract liabilities consist of advance cash deposits received from wholesale customers to secure product orders in connection with selling seasons and payments received in advance of delivery. As products are shipped an",
+    "text": "Refund liabilities, primarily associated with product sales returns, are estimated based on an analysis of historical experience, and adjustments to our estimates are made when the expected value changes. At December 31, 2025, and 2024, $ 38.0 million and $ 34.3 million, respectively, of refund liabilities, primarily associated with product returns, were reported in \u2018Accrued expenses and other liabilities\u2019 in the consolidated balance sheets."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-036",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Our share-based compensation awards are issued under the 2020 Equity Incentive Plan (\u201c2020 Plan\u201d) and predecessor plan, the 2015 Equity Incentive Plan (\u201c2015 Plan\u201d). Any awards that expire or are forfeited under the 2015",
+    "text": "The majority of share-based compensation expense is reported in our consolidated statements of operations as \u2018Selling, general and administrative expenses\u2019 with an insignificant amount recorded within \u2018Cost of sales.\u2019"
+  },
+  {
+    "chunk_id": "T-CROX-INVENTORY-023",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "decreased. As of December 31, 2025, the related deferred tax asset, net of applicable valuation allowance and uncertain tax positions, was $ 114.2 million.",
+    "text": "In 2024, we completed an intra-entity transaction related to certain IP rights primarily to align with current and future international operations. The transaction resulted in a step-up in tax basis of IP rights and a correlated increase in foreign deferred tax assets based on the fair value of the IP righ ts. Foreign deferred tax assets increased by $ 268.8 million and this benefit was offset by an increase in uncertain tax positions of $ 145.6 million. As such, a net change in deferred tax asset of $ 123.2 million was recognized along with a corresponding foreign income tax benefit in 2024. In 2024, we received new information and remeasured the reserve for uncertain tax positions related to the 2020 and 2021 IP rights transactions which resulted in the release of uncertain tax positions of $ 141.2 million along with a corresponding foreign income tax benefit. As of December 31, 2025, the related deferred tax asset, net of applicable valuation allowance and uncertain tax positions, was $ 289.8 million."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-092",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "In 2024, we completed an intra-entity transaction related to certain IP rights primarily to align with current and future international operations. The transaction resulted in a step-up in tax basis of IP rights and a co",
+    "text": "During 2020, 2021, 2023 and 2024, w e completed intra-entity transactions related to certain IP rights primarily to align with current and future international operations. The transactions were executed using transfer pricing guidelines issued by the relevant taxing authorities. Significant estimates and assumptions were required to compute the valuation of this transaction. These estimates and assumptions include, but are not limited to, estimated future revenue growth and discount rates, which by their nature are inherently uncertain, and, therefore, may ultimately differ materially from our actual results."
+  },
+  {
+    "chunk_id": "T-CROX-INVENTORY-024",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "During 2020, 2021, 2023 and 2024, w e completed intra-entity transactions related to certain IP rights primarily to align with current and future international operations. The transactions were executed using transfer pr",
+    "text": "We have recorded certain tax reserves to address potential differences involving our income tax positions. These potential tax liabilities result from the varying application of statutes, rules, regulations, and interpretations by different taxing jurisdictions. While our tax position is not uncertain, because of the significant estimates used in the value of certain IP rights, our tax reserves contain assumptions based on past experiences and judgments about the interpretation of statutes, rules and regulations by taxing jurisdictions. It is possible that the costs of the ultimate tax liability or benefit from these matters may be materially more or less than the amount that we estimated."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-093",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Income tax expense and rate attributable to: Federal income tax rate 191,223 21.0 % $ 184,017 21.0 %",
+    "text": "The following tables set forth cash paid for income taxes, net of refunds, reflecting the adoption of ASU 2023-09. A subsequent table below provides the corresponding information for the prior years before the adoption of ASU 2023-09 and is provided for comparative purposes only."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-094",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "The following tables set forth cash paid for income taxes, net of refunds, reflecting the adoption of ASU 2023-09. A subsequent table below provides the corresponding information for the prior years before the adoption o",
+    "text": "(1) During the year ended December 31, 2025, we revised our presentation for cash paid for income taxes. Previously, cash paid for income taxes was presented excluding income tax refunds received. Under the revised presentation, cash paid for income taxes is presented net of refunds. We believe the revised presentation provides more meaningful and transparent information regarding our operating cash flows. Amounts for the years ended December 31, 2024, and 2023, have been recast to conform to current period presentation."
+  },
+  {
+    "chunk_id": "T-CROX-INVENTORY-025",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Deferred income taxes reflect the net effects of temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes. The following t",
+    "text": "In 2024, the intra-entity transaction related to IP rights resulted in an increase in the intangible assets deferred tax asset of $ 268.8 million, and this benefit was offset by an increase in uncertain tax positions of $ 145.6 million. I n 2024, we received new information and remeasured the reserve for uncertain tax positions related to the 2020 and 2021 IP rights transactions which resulted in the release of uncertain tax positions of $ 141.2 million along with a corresponding foreign income tax benefit."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-095",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "See Note 17 \u2014 Legal Proceedings for further details regarding potential loss contingencies related to government tax audits and other current legal proceedings.",
+    "text": "We have two reportable operating segments: the Crocs Brand and the HEYDUDE Brand. Each of the reportable operating segments derives its revenues from the sale of footwear and accessories to external customers."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-096",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Additionally, \u2018Enterprise corporate\u2019 costs include global corporate costs associated with both brands, including legal, information technology, human resources, and finance.",
+    "text": "Each segment\u2019s performance is evaluated based on segment results without allocating Enterprise corporate expenses. Segment profits or losses include adjustments to eliminate inter-segment sales. Reconciling items between segment income from operations and income from operations consist of unallocated Enterprise corporate expenses. Our chief operating decision maker is Andrew Rees, Chief Executive Officer. Mr. Rees uses income from operations as a measure of profit or loss. Mr. Rees considers the performance of these measures against management expectations when making decisions about the allocation of operating and capital resources to each segment."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-037",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "The following tables set forth information related to reportable operating segments:",
+    "text": "(1) In the first quarter of 2024, to reflect a change in the way management evaluates segment performance, makes operating decisions, and allocates resources, we made changes to segment profitability related to certain foreign currency amounts impacting cost of sales. These amounts have shifted costs or benefits that were previously presented in each of our reportable segments to \u2018Enterprise corporate.\u2019 We believe that the impact of these changes on prior periods is insignificant to each segment and thus have not recast prior periods."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-038",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "(1) In the first quarter of 2024, to reflect a change in the way management evaluates segment performance, makes operating decisions, and allocates resources, we made changes to segment profitability related to certain f",
+    "text": "(2) The amounts of depreciation and amortization disclosed by reportable segment and \u2018Enterprise corporate\u2019 are included within \u2018Cost of sales\u2019 and \u2018Selling, general and administrative expenses.\u2019"
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-097",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "(2) The amounts of depreciation and amortization disclosed by reportable segment and \u2018Enterprise corporate\u2019 are included within \u2018Cost of sales\u2019 and \u2018Selling, general and administrative expenses.\u2019",
+    "text": "There were no customers who represented 10% or more of consolidated revenues during the years ended December 31, 2025, 2024, and 2023. The following table sets forth certain geographical information regarding our consolidated revenues for the periods as shown:"
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-098",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "There were no customers who represented 10% or more of consolidated revenues during the years ended December 31, 2025, 2024, and 2023. The following table sets forth certain geographical information regarding our consoli",
+    "text": "(1) No individual international country represented 10% or more of consolidated revenues in any of the years presented."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-039",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "(1) As of December 31, 2025, and 2024, property and equipment, net in the Netherlands represented approximately 10 % of consolidated property and equipment, net, comprised primarily of property and equipment related to t",
+    "text": "On January 22, 2025, a putative class action lawsuit titled Carretta v. Crocs, Inc., et al., Case No. 1:25-cv-00096, was filed in the District Court for the District of Delaware against the Company and certain of its current officers. On December 15, 2025, lead plaintiffs filed an amended complaint on behalf of a purported class consisting of all purchasers of the Company\u2019s common stock between August 4, 2022, and October 28, 2024, inclusive. The amended complaint asserts violations of Sections 10(b) and 20(a) of the Securities Exchange Act of 1934, as amended, and Rule 10b-5 based on allegedly false and misleading statements related to the Company\u2019s wholesaler inventory and its alleged impact on the Company\u2019s revenue. The amended complaint seeks unspecified damages, an award of costs and expenses, and other unspecified relief."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE_INVENTORY-040",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "On January 22, 2025, a putative class action lawsuit titled Carretta v. Crocs, Inc., et al., Case No. 1:25-cv-00096, was filed in the District Court for the District of Delaware against the Company and certain of its cur",
+    "text": "Four purported shareholders of the Company have filed derivative actions against certain of the Company\u2019s current directors and officers, as well as the Company as a nominal defendant, alleging claims for breach of fiduciary duties, aiding and abetting breach of fiduciary duties, unjust enrichment, insider trading, waste of corporate assets, abuse of control, and gross mismanagement related to the Company\u2019s wholesaler inventory and its alleged impact on the Company\u2019s revenue. They seek damages and changes to the Company\u2019s corporate governance structure. See James O\u2019Connor v. Smach, et. al., C.A. No. 1:25-cv-00576 (D. Colo.); The Berger Trust v. Rees, et. al., C.A. No. 1:25-cv-00597 (D. Colo.); Sarabia v. Rees, et. al., C.A. No. 2025CV30069 (Dist. Ct. Broomfield Cnty., Colo.); Lesanto v. Bickley, et. al., C.A. No. 2025CV30071 (Dist. Ct. Broomfield Cnty., Colo.)."
+  },
+  {
+    "chunk_id": "T-CROX-REVENUE-099",
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "crox-20251231.htm",
+    "preceding_context": "Although we are subject to other litigation from time to time in the ordinary course of business, including employment, intellectual property, and product liability claims, other than as set forth above, we are not party",
+    "text": "We sponsor a qualified defined contribution benefit plan (the \u201cPlan\u201d), covering substantially all of our U.S. employees. The Plan includes a savings plan feature under Section 401(k) of the Internal Revenue Code. We make matching contributions to the plans equal to 100 % of the first 3 %, and up to 50 % of the next 2 % of salary contributed by an eligible employee. Participants are vested 100 % in our matching contributions when made. Contributions made by us under the Plan were $ 17.4 million, $ 14.8 million, and $ 12.6 million for the years ended December 31, 2025, 2024, and 2023, respectively."
+  }
+]

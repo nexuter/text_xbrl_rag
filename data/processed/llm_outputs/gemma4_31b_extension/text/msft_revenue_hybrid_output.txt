@@ -1,0 +1,27 @@
+- Claim: As of 2025-06-30, the current contract liability was $64,555,000,000.
+  - Claim type: Factual
+  - Support used: F-MSFT-0028
+  - Limitation: This is a point-in-time measurement based on XBRL data for the specific date of 2025-06-30.
+
+- Claim: Management utilizes estimates and assumptions to determine the standalone selling price (SSP) of performance obligations, variable consideration, and the nature and timing of the satisfaction of performance obligations.
+  - Claim type: Factual
+  - Support used: T-MSFT-REVENUE-089
+  - Limitation: This claim is based on management's qualitative description of their financial statement preparation process in the provided text.
+
+- Claim: The reliance on management estimates for determining the standalone selling price (SSP) and the timing of satisfaction of performance obligations creates a risk related to the Accuracy and Cut-off assertions for revenue.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-MSFT-REVENUE-089
+  - Inferential bridge: Because the reported revenue amounts and timing are dependent on subjective estimates rather than purely objective triggers, there is a risk that revenue is recorded in the incorrect period or at an incorrect value.
+  - Limitation: The provided context does not include the specific controls or validation procedures used to verify the accuracy of the SSP calculations.
+
+- Claim: The practice of decoupling the timing of revenue recognition from the timing of invoicing (e.g., recording receivables for multi-year licenses or unearned revenue for subscriptions) creates a risk related to the Occurrence and Cut-off assertions.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-MSFT-REVENUE-102, T-MSFT-REVENUE-105
+  - Inferential bridge: When revenue is recognized without a corresponding contemporaneous invoice (or vice versa), there is an increased risk that revenue is recognized before the performance obligation is actually satisfied or that the revenue is recorded in the wrong fiscal period.
+  - Limitation: The context lacks information regarding the reconciliation process between the invoicing system and the revenue recognition ledger.
+
+- Claim: Management's judgment that contracts generally do not include a significant financing component creates a risk related to the Accuracy assertion of revenue measurement.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-MSFT-REVENUE-105
+  - Inferential bridge: If the determination that no significant financing component exists is incorrect, the transaction price would need to be adjusted for the time value of money, meaning the currently reported revenue amount would be inaccurate.
+  - Limitation: The provided context does not specify the quantitative thresholds or the specific policy criteria used to determine the absence of a significant financing component.

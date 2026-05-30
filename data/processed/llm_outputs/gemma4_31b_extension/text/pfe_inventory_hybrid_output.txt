@@ -1,0 +1,26 @@
+- Claim: Pfizer records inventories at the lower of cost or net realizable value, with the cost of finished goods, work in process, and raw materials determined using average actual cost.
+  - Claim type: Factual
+  - Support used: T-PFE-INVENTORY-011
+  - Limitation: This claim is limited to the accounting policies disclosed in the provided text for the 2025 fiscal year.
+
+- Claim: In 2023, Biopharma earnings included approximately $6.2 billion of inventory write-offs and related charges to Cost of sales, primarily due to lower-than-expected demand for COVID-19 products.
+  - Claim type: Factual
+  - Support used: T-PFE-REVENUE_INVENTORY-035
+  - Limitation: This is a historical measurement for the 2023 period and does not provide the specific write-off amounts for the 2025 fiscal year.
+
+- Claim: The occurrence of significant historical inventory write-offs (e.g., $6.2 billion in 2023) and non-cash favorable product return adjustments ($771 million in 2024) suggests a risk regarding the valuation assertion for inventory.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-PFE-REVENUE_INVENTORY-035, F-PFE-0134
+  - Inferential bridge: Large-scale write-offs driven by demand volatility (specifically for COVID-19 products) and adjustments for returned inventory indicate that the "lower of cost or net realizable value" estimate is highly sensitive to demand forecasts, increasing the risk of valuation errors.
+  - Limitation: Missing current 2025 demand forecasts and the specific methodology used to calculate the "net realizable value" for current inventory.
+
+- Claim: The policy of classifying inventories not expected to be sold within 12 months as "Other noncurrent assets" presents a risk to the valuation and classification assertions.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-PFE-INVENTORY-011
+  - Inferential bridge: The determination of whether inventory will be sold within 12 months requires management judgment; an error in this estimate would result in a classification error and may indicate a failure to recognize a necessary impairment (valuation).
+  - Limitation: Missing the internal control details or specific criteria used by management to determine the expected sale timeline for noncurrent inventory.
+
+- Claim: As of 2023-12-14, Pfizer recognized $3.273 billion in inventory from the Seagen acquisition, comprising $1.1 billion in current inventory and $2.1 billion in noncurrent inventory.
+  - Claim type: Factual
+  - Support used: F-PFE-0037, F-PFE-0038, F-PFE-0039
+  - Limitation: This is a point-in-time measurement at the date of acquisition and does not reflect subsequent valuation adjustments or depreciation/write-downs through the 2025 period.

@@ -1,0 +1,21 @@
+- Claim: Caterpillar Inc. states inventories at the lower of cost or net realizable value, primarily determining cost using the last-in, first-out (LIFO) method.
+  - Claim type: Factual
+  - Support used: T-CAT-INVENTORY-016
+  - Limitation: This claim is limited to the accounting policies disclosed in the source file cat-20251231.htm for the period ended December 31, 2025.
+
+- Claim: Inventories valued on the LIFO basis represented approximately 70 percent of total inventories at December 31, 2025, and 65 percent at December 31, 2024.
+  - Claim type: Factual
+  - Support used: T-CAT-INVENTORY-016
+  - Limitation: This claim is based on approximate percentage measurements provided in the source file cat-20251231.htm.
+
+- Claim: The identification of inventory write-downs and LIFO inventory decrement benefits arising from liquidations at closed facilities presents a risk to the inventory valuation assertion.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-CAT-INVENTORY-008, T-CAT-INVENTORY-023
+  - Inferential bridge: The explicit mention of "inventory write-downs" and "LIFO inventory decrement benefits" in the context of "closed facilities" indicates that the company must perform valuation adjustments when facilities are shuttered, which directly maps to the valuation assertion.
+  - Limitation: The provided context does not detail the specific controls used to trigger these write-downs or the quantitative impact of these liquidations on the total inventory balance.
+
+- Claim: The inventory management decisions of independent dealers and OEMs, influenced by market conditions and used equipment inventory levels, may create valuation risks for Caterpillar's finished products.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-CAT-REVENUE_INVENTORY-003
+  - Inferential bridge: Because dealers may postpone purchases if their own inventory levels are too high, Caterpillar may experience a buildup of finished goods; such a buildup, coupled with shifting market conditions, increases the risk that the carrying value of inventory may exceed its net realizable value.
+  - Limitation: The context lacks specific data on current dealer inventory levels or the company's internal process for monitoring dealer stock to determine if a valuation reserve is required.

@@ -1,0 +1,59 @@
+You are assisting with an auditing research task. Use only the information provided in the context.
+
+Task:
+Identify audit-relevant risk cues or assertion-mapping considerations for inventory valuation assertion mapping for Pfizer Inc., fiscal year 2025, period ended 2025-12-31, accession 0000078003-26-000026, based on the provided context.
+
+Instructions:
+1. Provide no more than five audit-relevant claims.
+2. Distinguish factual claims from risk-cue or assertion-mapping claims.
+3. Do not conclude that a misstatement exists.
+4. State when the provided context is insufficient.
+5. Avoid treating reported XBRL relationships as independent audit evidence.
+6. Do not use general company knowledge outside the provided context.
+7. For each risk-cue or assertion-mapping claim, state the inferential bridge from the source evidence to the audit consideration.
+8. Do not write "Limitation: None" for risk-cue or assertion-mapping claims; identify at least one missing audit evidence item, missing control detail, or source-bound limitation.
+9. For factual claims, state any period, source, or measurement limitation rather than treating the claim as unrestricted.
+
+Context:
+TEXT RETRIEVAL CONTEXT
+
+[Text Chunk 1]
+chunk_id: T-PFE-INVENTORY-011
+source_file: pfe-20251231.htm
+construct_tag: inventory
+ranking_score: 10
+text: Inventories are recorded at the lower of cost or net realizable value. The cost of finished goods, work in process and raw materials is determined using average actual cost. We regularly review our inventories for impairment and reserves are established when necessary. Inventories that are not expected to be sold within 12 months are classified as Other noncurrent assets . See Note 8A .
+
+[Text Chunk 2]
+chunk_id: T-PFE-REVENUE_INVENTORY-035
+source_file: pfe-20251231.htm
+construct_tag: revenue_inventory
+ranking_score: 7
+text: (c) Biopharma’s earnings in 2025 reflects credits to Cost of Sales representing favorable revisions of our estimate of accrued royalties. Biopharma’s revenues and earnings in 2024 reflected a non-cash favorable product return adjustment of $ 771 million recorded in the first quarter of 2024 and in 2023 reflected a non-cash revenue reversal of $ 3.5 billion (see Note 1 7C ). In 2023, Biopharma earnings included approximately $ 6.2 billion of inventory write-offs and related charges to Cost of sales mainly due to lower-than-expected demand for our COVID-19 products. Biopharma’s earnings also include dividend income from our investment in ViiV of $ 265 million in 2025, $ 272 million in 2024 and $ 265 million in 2023.
+
+[Text Chunk 3]
+chunk_id: T-PFE-REVENUE_INVENTORY-020
+source_file: pfe-20251231.htm
+construct_tag: revenue_inventory
+ranking_score: 6
+text: Payments to and from our collaboration partners are presented in our consolidated statements of operations based on the nature of the arrangement (including its contractual terms), the nature of the payments and applicable accounting guidance. Under co-commercialization agreements, we record the amounts received for our share of gross profits from our collaboration partners as Alliance revenues, when our collaboration partners are the principal in the transaction and we receive a share of their net sales or profits. Alliance revenues are recorded as we perform co-promotion activities for the collaboration and the collaboration partners sell the products to their customers. The related expenses for selling and marketing these products including reimbursements to or from our collaboration partners for these costs are included in Selling, informational and administrative expenses. In collaborative arrangements where we manufacture a product for our collaboration partners, we record revenues when we transfer control of the product to our collaboration partners. In collaboration arrangements where we are the principal in the transaction, we record amounts paid to collaboration partners for their share of net sales or profits earned, and all royalty payments to collaboration partners as Cost of sales . Royalty payments received from collaboration partners are included in Royalty revenues.
+
+[Text Chunk 4]
+chunk_id: T-PFE-REVENUE_INVENTORY-028
+source_file: pfe-20251231.htm
+construct_tag: revenue_inventory
+ranking_score: 6
+text: (a) OID = Other (income)/deductions—net, included in Other (income)/deductions—net in the consolidated statements of operations . COS = Cost of Sales, included in Cost of sales in the consolidated statements of operations. OCI = Other comprehensive income/(loss), included in the consolidated statements of comprehensive income/(loss) .
+
+[Text Chunk 5]
+chunk_id: T-PFE-INVENTORY-004
+source_file: pfe-20251231.htm
+construct_tag: inventory
+ranking_score: 5
+text: We estimate the fair value of acquired inventory, including finished goods and work in process, by determining the estimated selling price when completed, less an estimate of costs to be incurred to complete and sell the inventory, and an estimate of a reasonable profit allowance for those manufacturing and selling efforts. The fair value of inventory is recognized in our results of operations as the inventory is sold. Some of the more significant estimates and assumptions inherent in the estimate of the fair value of inventory include stage of completion, costs to complete, costs to dispose and selling price.
+
+Output format:
+- Claim:
+  - Claim type:
+  - Support used:
+  - Limitation:

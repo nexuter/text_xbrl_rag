@@ -1,0 +1,4 @@
+- Claim:
+  - Claim type: N/A
+  - Support used: The provided context states, "No retrieved filing context is provided in this diagnostic baseline."
+  - Limitation: The provided context is insufficient to identify any audit-relevant risk cues or assertion-mapping considerations for revenue recognition risk cue identification for Nike, Inc., fiscal year 2025, period ended 2025-05-31.

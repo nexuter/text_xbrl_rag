@@ -1,0 +1,27 @@
+- Claim: The current refund liability as of 2025-05-31 was $1,277,000,000.
+  - Claim type: Factual
+  - Support used: F-NKE-0252
+  - Limitation: This is a point-in-time measurement as of the fiscal year-end 2025-05-31.
+
+- Claim: Accounts Receivable Net as of 2025-05-31 was $4,717,000,000.
+  - Claim type: Factual
+  - Support used: F-NKE-0010
+  - Limitation: This is a point-in-time measurement as of the fiscal year-end 2025-05-31.
+
+- Claim: The increase in the current refund liability from $799 million (as of 2024-05-31) to $1.277 billion (as of 2025-05-31) presents a risk cue for the valuation assertion of revenue.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-NKE-0253, F-NKE-0252
+  - Inferential bridge: A significant increase in the liability for refunds suggests a potential change in customer return behavior or estimation logic, which directly impacts the net revenue recognized and the valuation of the refund reserve.
+  - Limitation: Missing the specific accounting policy used to estimate refund liabilities and historical return rate data to evaluate the reasonableness of the increase.
+
+- Claim: The stated risk that failures in providing reliable, secure, and user-friendly digital commerce platforms could result in the loss of digital commerce sales indicates a risk cue for the completeness and occurrence assertions of revenue.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-NKE-REVENUE-021
+  - Inferential bridge: If the digital infrastructure is unreliable or insecure, there is a risk that valid sales transactions may not be captured (completeness) or that system errors could lead to incorrect transaction recording (occurrence).
+  - Limitation: Missing information regarding the IT general controls (ITGCs) and the specific reconciliation processes between the digital storefront and the general ledger.
+
+- Claim: The significant decline in digital sales in North America (19%) and APLA (9%) indicates a risk cue for the valuation and accuracy of revenue within these specific channels.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-NKE-REVENUE-062, T-NKE-REVENUE-071
+  - Inferential bridge: Sharp declines in specific revenue streams can create pressure to overstate performance or may be associated with an increase in returns and allowances that must be accurately captured to avoid overstating net revenue.
+  - Limitation: Missing the underlying transaction-level data or a detailed breakdown of the causes of the decline to determine if the trend is consistent across all digital product lines.

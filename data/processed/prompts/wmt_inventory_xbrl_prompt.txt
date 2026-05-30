@@ -1,0 +1,49 @@
+You are assisting with an auditing research task. Use only the information provided in the context.
+
+Task:
+Identify audit-relevant risk cues or assertion-mapping considerations for inventory valuation assertion mapping for Walmart Inc., fiscal year 2026, period ended 2026-01-31, accession 0000104169-26-000055, based on the provided context.
+
+Instructions:
+1. Provide no more than five audit-relevant claims.
+2. Distinguish factual claims from risk-cue or assertion-mapping claims.
+3. Do not conclude that a misstatement exists.
+4. State when the provided context is insufficient.
+5. Avoid treating reported XBRL relationships as independent audit evidence.
+6. Do not use general company knowledge outside the provided context.
+7. For each risk-cue or assertion-mapping claim, state the inferential bridge from the source evidence to the audit consideration.
+8. Do not write "Limitation: None" for risk-cue or assertion-mapping claims; identify at least one missing audit evidence item, missing control detail, or source-bound limitation.
+9. For factual claims, state any period, source, or measurement limitation rather than treating the claim as unrestricted.
+
+Context:
+XBRL RELATIONAL RETRIEVAL CONTEXT
+
+Facts:
+1. fact_id=F-WMT-0013 concept=InventoryNet value=56435000000 unit=iso4217:USD period=instant:2025-01-31 dimensions=none
+2. fact_id=F-WMT-0012 concept=InventoryNet value=58851000000 unit=iso4217:USD period=instant:2026-01-31 dimensions=none
+3. fact_id=F-WMT-0009 concept=CostOfRevenue value=490142000000 unit=iso4217:USD period=duration:2023-02-01/2024-01-31 dimensions=none
+4. fact_id=F-WMT-0044 concept=CostOfRevenue value=323563000000 unit=iso4217:USD period=duration:2023-02-01/2024-01-31 dimensions=srt:ConsolidationItemsAxis=us-gaap:OperatingSegmentsMember; us-gaap:StatementBusinessSegmentsAxis=wmt:WalmartUSMember
+5. fact_id=F-WMT-0053 concept=CostOfRevenue value=89831000000 unit=iso4217:USD period=duration:2023-02-01/2024-01-31 dimensions=srt:ConsolidationItemsAxis=us-gaap:OperatingSegmentsMember; us-gaap:StatementBusinessSegmentsAxis=wmt:WalmartInternationalMember
+6. fact_id=F-WMT-0074 concept=CostOfRevenueSellingGeneralAndAdministrativeExpensesForFuelSales value=10600000000 unit=iso4217:USD period=duration:2023-02-01/2024-01-31 dimensions=us-gaap:StatementBusinessSegmentsAxis=wmt:SamsClubUSMember
+7. fact_id=F-WMT-0073 concept=CostOfRevenueSellingGeneralAndAdministrativeExpensesForFuelSales value=9900000000 unit=iso4217:USD period=duration:2024-02-01/2025-01-31 dimensions=us-gaap:StatementBusinessSegmentsAxis=wmt:SamsClubUSMember
+8. fact_id=F-WMT-0072 concept=CostOfRevenueSellingGeneralAndAdministrativeExpensesForFuelSales value=8700000000 unit=iso4217:USD period=duration:2025-02-01/2026-01-31 dimensions=us-gaap:StatementBusinessSegmentsAxis=wmt:SamsClubUSMember
+9. fact_id=F-WMT-0019 concept=IncreaseDecreaseInRetailRelatedInventories value=-2017000000 unit=iso4217:USD period=duration:2023-02-01/2024-01-31 dimensions=none
+10. fact_id=F-WMT-0018 concept=IncreaseDecreaseInRetailRelatedInventories value=2755000000 unit=iso4217:USD period=duration:2024-02-01/2025-01-31 dimensions=none
+11. fact_id=F-WMT-0017 concept=IncreaseDecreaseInRetailRelatedInventories value=1443000000 unit=iso4217:USD period=duration:2025-02-01/2026-01-31 dimensions=none
+
+Relation paths:
+1. path_id=X-WMT-0065 relation_type=calculation source=us-gaap:AssetsCurrent (Assets, Current) -> target=us-gaap:InventoryNet (Inventory, Net) arcrole=http://www.xbrl.org/2003/arcrole/summation-item role=http://www.walmart.com/role/ConsolidatedBalanceSheets
+2. path_id=X-WMT-0070 relation_type=calculation source=us-gaap:DeferredIncomeTaxLiabilities (Deferred Tax Liabilities, Gross) -> target=us-gaap:DeferredTaxLiabilitiesDeferredExpenseCapitalizedInventoryCosts (Deferred Tax Liabilities, Inventory) arcrole=http://www.xbrl.org/2003/arcrole/summation-item role=http://www.walmart.com/role/TaxesScheduleofDeferredTaxBalancesDetails
+3. path_id=X-WMT-0066 relation_type=calculation source=us-gaap:NetCashProvidedByUsedInOperatingActivities (Cash Provided by (Used in) Operating Activity, Including Discontinued Operation) -> target=us-gaap:IncreaseDecreaseInRetailRelatedInventories (Increase (Decrease) in Retail Related Inventories) arcrole=http://www.xbrl.org/2003/arcrole/summation-item role=http://www.walmart.com/role/ConsolidatedStatementsofCashFlows
+4. path_id=X-WMT-0007 relation_type=presentation source=us-gaap:AssetsCurrentAbstract (Assets, Current [Abstract]) -> target=us-gaap:InventoryNet (Inventory, Net) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.walmart.com/role/ConsolidatedBalanceSheets
+5. path_id=X-WMT-0026 relation_type=presentation source=us-gaap:DeferredTaxLiabilitiesAbstract (Deferred Tax Liabilities, Gross [Abstract]) -> target=us-gaap:DeferredTaxLiabilitiesDeferredExpenseCapitalizedInventoryCosts (Deferred Tax Liabilities, Inventory) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.walmart.com/role/TaxesScheduleofDeferredTaxBalancesDetails
+6. path_id=X-WMT-0009 relation_type=presentation source=us-gaap:IncreaseDecreaseInOperatingCapitalAbstract (Adjustment to Reconcile Net Income to Cash Provided by (Used in) Operating Activity, Increase (Decrease) in Operating Capital [Abstract]) -> target=us-gaap:IncreaseDecreaseInRetailRelatedInventories (Increase (Decrease) in Retail Related Inventories) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.walmart.com/role/ConsolidatedStatementsofCashFlows
+7. path_id=X-WMT-0011 relation_type=presentation source=us-gaap:OrganizationConsolidationAndPresentationOfFinancialStatementsAbstract (Organization, Consolidation and Presentation of Financial Statements [Abstract]) -> target=us-gaap:InventoryPolicyTextBlock (Inventory, Policy [Policy Text Block]) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.walmart.com/role/SummaryofSignificantAccountingPoliciesPolicies
+8. path_id=X-WMT-0063 relation_type=calculation source=us-gaap:OperatingIncomeLoss (Operating Income (Loss)) -> target=us-gaap:CostOfRevenue (Cost of Revenue) arcrole=http://www.xbrl.org/2003/arcrole/summation-item role=http://www.walmart.com/role/ConsolidatedStatementsofIncome
+9. path_id=X-WMT-0080 relation_type=definition source=us-gaap:SegmentReportingInformationLineItems (Segment Reporting Information [Line Items]) -> target=us-gaap:CostOfRevenue (Cost of Revenue) arcrole=http://xbrl.org/int/dim/arcrole/domain-member role=http://www.walmart.com/role/SegmentsandDisaggregatedRevenueScheduleofSegmentReportingInformationbySegmentDetails
+10. path_id=X-WMT-0081 relation_type=definition source=us-gaap:SegmentReportingInformationLineItems (Segment Reporting Information [Line Items]) -> target=wmt:CostOfRevenueSellingGeneralAndAdministrativeExpensesForFuelSales (label unavailable) arcrole=http://xbrl.org/int/dim/arcrole/domain-member role=http://www.walmart.com/role/SegmentsandDisaggregatedRevenueScheduleofSegmentReportingInformationbySegmentDetails
+
+Output format:
+- Claim:
+  - Claim type:
+  - Support used:
+  - Limitation:

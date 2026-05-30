@@ -1,0 +1,27 @@
+- Claim: North America and International operations sell coffee and other beverages, complementary food, packaged coffees, single-serve coffee products, and a focused selection of merchandise through company-operated stores and licensed stores for the period 2024-09-30 to 2025-09-28.
+  - Claim type: Factual
+  - Support used: F-SBUX-0085
+  - Limitation: This claim is limited to the specific product categories and sales channels described in the provided text for the stated duration.
+
+- Claim: Channel Development revenues for the period 2024-09-30 to 2025-09-28 include packaged coffee, tea, foodservice products, and ready-to-drink beverage sales to customers outside of company-operated and licensed stores, with the majority of these revenues derived from product sales to and royalty revenues from Nestlé via the Global Coffee Alliance.
+  - Claim type: Factual
+  - Support used: F-SBUX-0086
+  - Limitation: This claim is limited to the source description of Channel Development revenue streams and the identified primary partner.
+
+- Claim: The recognition of revenue from "Stored Value Cards and Loyalty Program Breakage" (as evidenced by deferred revenue balances in F-SBUX-0071 and additions in F-SBUX-0077) presents a risk cue for the Accuracy assertion.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-SBUX-0071, F-SBUX-0077
+  - Inferential bridge: Revenue from breakage is typically based on management's estimates of customer redemption patterns; any inaccuracies in the estimation model used to determine when the obligation is extinguished would result in inaccurate revenue recognition.
+  - Limitation: The provided context is missing the specific accounting policy, estimation methodology, or historical breakage rates used to calculate these amounts.
+
+- Claim: Revenue derived from the Global Coffee Alliance with Nestlé (F-SBUX-0086) presents a risk cue for the Occurrence and Accuracy assertions.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-SBUX-0086
+  - Inferential bridge: Revenue streams concentrated within a single strategic alliance often involve complex contractual royalty terms and specific performance obligations that increase the risk of recording revenue that has not occurred or is calculated incorrectly.
+  - Limitation: The provided context is missing the underlying contractual terms and the specific controls used to validate royalty calculations from Nestlé.
+
+- Claim: The movement of funds from "Deferred Revenue" (F-SBUX-0071) to "Contract with Customer Liability Revenue Recognized" (F-SBUX-0039) presents a risk cue for the Cut-off assertion.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-SBUX-0039, F-SBUX-0071
+  - Inferential bridge: Because revenue is recognized only when the performance obligation is met or the breakage threshold is reached, there is a risk that revenue is recognized in the incorrect accounting period.
+  - Limitation: The provided context is missing the specific trigger events or time-based criteria used to determine the exact moment deferred revenue is recognized as earned revenue.

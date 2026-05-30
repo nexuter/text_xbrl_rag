@@ -1,0 +1,21 @@
+- Claim: As of 2025-06-30, the current contract liability was 64,555,000,000 USD.
+  - Claim type: Factual
+  - Support used: F-MSFT-0028
+  - Limitation: This claim is limited to the specific point-in-time measurement provided for the period ended 2025-06-30.
+
+- Claim: As of 2025-06-30, the noncurrent contract liability was 2,710,000,000 USD.
+  - Claim type: Factual
+  - Support used: F-MSFT-0030
+  - Limitation: This claim is limited to the specific point-in-time measurement provided for the period ended 2025-06-30.
+
+- Claim: The recognition of 179,876,000,000 USD in revenue from contract liabilities during the period 2024-07-01 to 2025-06-30 presents a risk cue regarding the accuracy and cut-off assertions for revenue.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-MSFT-0067
+  - Inferential bridge: The high magnitude of revenue transitioned from contract liabilities to recognized revenue indicates a significant volume of performance obligations being satisfied, which increases the risk of timing errors in revenue recognition.
+  - Limitation: Missing detailed control descriptions regarding the triggers used to move amounts from contract liabilities to recognized revenue.
+
+- Claim: The allocation of contract liabilities across the Productivity and Business Processes, Intelligent Cloud, and More Personal Computing segments (as of 2024-06-30) suggests a risk cue regarding the consistent application of revenue recognition assertions across diverse business models.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-MSFT-0057, F-MSFT-0059, F-MSFT-0061
+  - Inferential bridge: The existence of substantial liabilities across three distinct business segments implies different types of performance obligations and delivery schedules, increasing the complexity of ensuring revenue is recognized in the correct period for each segment.
+  - Limitation: Missing the specific revenue recognition policies and criteria applicable to each individual business segment.

@@ -1,0 +1,27 @@
+- Claim: As of February 1, 2025, the Contract With Customer Liability was $1,209,000,000.
+  - Claim type: Factual
+  - Support used: F-TGT-0059
+  - Limitation: This claim is limited to the specific point-in-time measurement provided for the period end.
+
+- Claim: For the period from February 4, 2024, to February 1, 2025, the amount of revenue recognized from contract liabilities was $831,000,000.
+  - Claim type: Factual
+  - Support used: F-TGT-0058
+  - Limitation: This claim is limited to the aggregate duration provided in the context without a monthly or quarterly breakdown.
+
+- Claim: The significant decrease in the current loyalty program liability from $117,000,000 (as of 2024-02-03) to $19,000,000 (as of 2025-02-01) represents a risk cue for revenue recognition.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-TGT-0062, F-TGT-0061
+  - Inferential bridge: A substantial reduction in a liability account may indicate either a high volume of loyalty point redemptions or a change in the estimation of breakage, which impacts the Accuracy and Cut-off assertions for the associated revenue.
+  - Limitation: Missing the company's specific accounting policy for loyalty program breakage and the detailed ledger of redemption activity.
+
+- Claim: The recognition of $831,000,000 in revenue from contract liabilities during the fiscal year 2024 requires mapping to the Occurrence assertion.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-TGT-0058
+  - Inferential bridge: Because revenue is being recognized from a previously recorded liability, the auditor must verify that the underlying performance obligations were actually satisfied to ensure the revenue is not overstated.
+  - Limitation: Missing the internal control details regarding the triggers used to move balances from contract liabilities to recognized revenue.
+
+- Claim: The reporting of $388,000,000 in noncurrent deferred revenue as of February 1, 2025, presents a consideration for the Presentation and Classification assertions.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-TGT-0089
+  - Inferential bridge: The distinction between current and noncurrent deferred revenue depends on the expected timing of the performance obligation; incorrect classification would misstate the balance sheet presentation.
+  - Limitation: Missing the specific criteria or time-horizon definitions used by the company to classify deferred revenue as noncurrent.

@@ -1,0 +1,27 @@
+- Claim: Merchandise inventories were $25.8 billion as of February 1, 2026.
+  - Claim type: Factual
+  - Support used: T-HD-INVENTORY-020, F-HD-0004
+  - Limitation: Measurement is limited to the consolidated balance sheet date of February 1, 2026.
+
+- Claim: Home Depot utilizes the retail inventory method (RIM) for the majority of its merchandise inventories, while inventories in Canada, Mexico, distribution centers, and SRS distribution operations are recorded using cost methods (primarily moving average and first-in, first-out).
+  - Claim type: Factual
+  - Support used: T-HD-INVENTORY-028, T-HD-INVENTORY-020
+  - Limitation: Source is limited to the company's descriptive accounting policy disclosures.
+
+- Claim: There is a risk regarding the valuation assertion due to inherent uncertainty in the final determination of inventory cost and gross profit when applying the retail inventory method.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-HD-INVENTORY-018
+  - Inferential bridge: The text explicitly states that because the retail inventory method is based on factors such as markups, markdowns, and shrink, "there exists an inherent uncertainty in the final determination of inventory cost and gross profit," which directly impacts the precision of the valuation assertion.
+  - Limitation: Missing detail on the specific internal controls used to mitigate this inherent uncertainty or the quantitative materiality of the uncertainty.
+
+- Claim: The valuation of inventory is subject to estimation risk because the determination of markups and markdowns relies on subjective and variable factors, including anticipated demand, customer preferences, buying trends, age of merchandise, and weather conditions.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-HD-INVENTORY-018
+  - Inferential bridge: Since the retail value is adjusted based on these external and predictive variables to approximate the lower of cost or market, any inaccuracies in these judgments would directly result in a valuation misstatement.
+  - Limitation: Missing evidence regarding the specific data sources, forecasting models, or validation processes used to determine these market-based factors.
+
+- Claim: The valuation of inventory acquired through business combinations (specifically SRS and GMS Inc) may require distinct audit consideration as these assets are recorded under different valuation frameworks than the majority of the company's inventory.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-HD-0172, F-HD-0169, T-HD-INVENTORY-028
+  - Inferential bridge: The company acquired significant inventory via SRS ($1.988 billion) and GMS Inc ($568 million), and the context specifies that SRS distribution operations are valued using cost methods (moving average/FIFO) rather than the retail inventory method used for the majority of merchandise, necessitating a separate valuation verification for these segments.
+  - Limitation: Missing information regarding the initial fair value assessments and the subsequent transition of these acquired inventories into the company's standard cost-accounting systems.

@@ -1,0 +1,24 @@
+- Claim:
+  - Claim type: Risk-cue/Assertion-mapping
+  - Support used: Text Chunk 3 (North America revenues decreased 12% due to declines in digital sales of 19%) and Text Chunk 4 (NIKE Direct revenues decreased 16% due to a decline in digital sales of 30%) and Text Chunk 5 (NIKE Direct revenues decreased 12% due to declines in digital sales of 22%).
+  - Limitation: The context only provides the magnitude of the decline and does not detail the underlying causes of the digital sales decline, making it impossible to assess the completeness or accuracy of the revenue recognition process for digital channels.
+
+- Claim:
+  - Claim type: Risk-cue/Assertion-mapping
+  - Support used: Text Chunk 1 (Revenues decreased primarily due to lower revenues in the Jordan Brand and Men's.), Text Chunk 3 (North America revenues decreased 8%... primarily due to lower revenues in the Jordan Brand, Men's and Women's.), Text Chunk 4 (EMEA revenues decreased 10%... due to lower revenues in Men's, the Jordan Brand, Kids' and Women's.), and Text Chunk 5 (Greater China revenues decreased 12%... due to lower revenues in Men's, the Jordan Brand, Women's and Kids').
+  - Limitation: The context identifies consistent declines in specific product lines (e.g., Jordan Brand, Men's) across multiple regions, but does not provide information regarding the underlying sales mix changes or the valuation of inventory related to these specific product lines.
+
+- Claim:
+  - Claim type: Risk-cue
+  - Support used: Text Chunk 2 (Any failure on our part to provide attractive effective reliable secure and user-friendly digital commerce platforms... could place us at a competitive disadvantage result in the loss of digital commerce and other sales harm our reputation with consumers have a material adverse impact on the growth of our digital commerce business globally and have a material adverse impact on our business and results of operations.)
+  - Limitation: The context describes the operational risk associated with digital platform failure but does not provide specific details on the internal controls or management's assessment of the likelihood or impact of such a failure on revenue recognition.
+
+- Claim:
+  - Claim type: Risk-cue/Assertion-mapping
+  - Support used: Text Chunk 1 (Wholesale revenues decreased 3%.), Text Chunk 3 (Wholesale revenues decreased 5%.), Text Chunk 4 (Wholesale revenues decreased 6%.), and Text Chunk 5 (Wholesale revenues decreased 13%).
+  - Limitation: The context shows a consistent decline in wholesale revenues across all reported regions, but it does not provide sufficient detail regarding the contractual terms, payment schedules, or the specific revenue recognition criteria applied to these wholesale transactions.
+
+- Claim:
+  - Claim type: Risk-cue
+  - Support used: Text Chunk 2 (In addition if use of our digital platforms continues to grow we will need an increasing amount of technical infrastructure to continue to satisfy our consumers needs. If we fail to continue to effectively scale and adapt our digital platforms to accommodate increased consumer demand our business may...).
+  - Limitation: The context highlights the need for increasing technical infrastructure to support digital growth, but it does not provide any information regarding the company's current capacity, investment plans, or the specific controls in place to manage this scaling risk.

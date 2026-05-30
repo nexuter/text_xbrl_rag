@@ -1,0 +1,27 @@
+XBRL RELATIONAL RETRIEVAL CONTEXT
+
+Facts:
+1. fact_id=F-CAT-0802 concept=InventoryFinishedGoodsNetOfReserves value=8329000000 unit=iso4217:USD period=instant:2024-12-31 dimensions=none
+2. fact_id=F-CAT-0801 concept=InventoryFinishedGoodsNetOfReserves value=8725000000 unit=iso4217:USD period=instant:2025-12-31 dimensions=none
+3. fact_id=F-CAT-0049 concept=InventoryLIFOReserve value=3864000000 unit=iso4217:USD period=instant:2024-12-31 dimensions=none
+4. fact_id=F-CAT-0048 concept=InventoryLIFOReserve value=4305000000 unit=iso4217:USD period=instant:2025-12-31 dimensions=none
+5. fact_id=F-CAT-1037 concept=InventoryMethodologyDifference value=3560000000 unit=iso4217:USD period=instant:2024-12-31 dimensions=srt:ConsolidationItemsAxis=us-gaap:CorporateNonSegmentMember
+6. fact_id=F-CAT-1036 concept=InventoryMethodologyDifference value=3622000000 unit=iso4217:USD period=instant:2025-12-31 dimensions=srt:ConsolidationItemsAxis=us-gaap:CorporateNonSegmentMember
+7. fact_id=F-CAT-0019 concept=InventoryNet value=16827000000 unit=iso4217:USD period=instant:2024-12-31 dimensions=none
+8. fact_id=F-CAT-0806 concept=InventoryNet value=16827000000 unit=iso4217:USD period=instant:2024-12-31 dimensions=none
+9. fact_id=F-CAT-0018 concept=InventoryNet value=18135000000 unit=iso4217:USD period=instant:2025-12-31 dimensions=none
+10. fact_id=F-CAT-0798 concept=InventoryRawMaterialsNetOfReserves value=6681000000 unit=iso4217:USD period=instant:2024-12-31 dimensions=none
+11. fact_id=F-CAT-0797 concept=InventoryRawMaterialsNetOfReserves value=7434000000 unit=iso4217:USD period=instant:2025-12-31 dimensions=none
+12. fact_id=F-CAT-0804 concept=InventorySuppliesNetOfReserves value=379000000 unit=iso4217:USD period=instant:2024-12-31 dimensions=none
+
+Relation paths:
+1. path_id=X-CAT-0312 relation_type=calculation source=us-gaap:InventoryNet (Inventory, Net) -> target=us-gaap:InventoryFinishedGoodsNetOfReserves (Inventory, Finished Goods, Net of Reserves) arcrole=http://www.xbrl.org/2003/arcrole/summation-item role=http://www.cat.com/role/InventoriesDetails
+2. path_id=X-CAT-0310 relation_type=calculation source=us-gaap:InventoryNet (Inventory, Net) -> target=us-gaap:InventoryRawMaterialsNetOfReserves (Inventory, Raw Materials, Net of Reserves) arcrole=http://www.xbrl.org/2003/arcrole/summation-item role=http://www.cat.com/role/InventoriesDetails
+3. path_id=X-CAT-0313 relation_type=calculation source=us-gaap:InventoryNet (Inventory, Net) -> target=us-gaap:InventorySuppliesNetOfReserves (Inventory, Supplies, Net of Reserves) arcrole=http://www.xbrl.org/2003/arcrole/summation-item role=http://www.cat.com/role/InventoriesDetails
+4. path_id=X-CAT-0311 relation_type=calculation source=us-gaap:InventoryNet (Inventory, Net) -> target=us-gaap:InventoryWorkInProcessNetOfReserves (Inventory, Work in Process, Net of Reserves) arcrole=http://www.xbrl.org/2003/arcrole/summation-item role=http://www.cat.com/role/InventoriesDetails
+5. path_id=X-CAT-0018 relation_type=presentation source=us-gaap:InventoryDisclosureAbstract (Inventory Disclosure [Abstract]) -> target=us-gaap:InventoryDisclosureTextBlock (Inventory Disclosure [Text Block]) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.cat.com/role/Inventories
+6. path_id=X-CAT-0215 relation_type=presentation source=us-gaap:InventoryDisclosureAbstract (Inventory Disclosure [Abstract]) -> target=us-gaap:InventoryFinishedGoodsNetOfReserves (Inventory, Finished Goods, Net of Reserves) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.cat.com/role/InventoriesDetails
+7. path_id=X-CAT-0217 relation_type=presentation source=us-gaap:InventoryDisclosureAbstract (Inventory Disclosure [Abstract]) -> target=us-gaap:InventoryNet (Inventory, Net) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.cat.com/role/InventoriesDetails
+8. path_id=X-CAT-0213 relation_type=presentation source=us-gaap:InventoryDisclosureAbstract (Inventory Disclosure [Abstract]) -> target=us-gaap:InventoryRawMaterialsNetOfReserves (Inventory, Raw Materials, Net of Reserves) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.cat.com/role/InventoriesDetails
+9. path_id=X-CAT-0216 relation_type=presentation source=us-gaap:InventoryDisclosureAbstract (Inventory Disclosure [Abstract]) -> target=us-gaap:InventorySuppliesNetOfReserves (Inventory, Supplies, Net of Reserves) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.cat.com/role/InventoriesDetails
+10. path_id=X-CAT-0214 relation_type=presentation source=us-gaap:InventoryDisclosureAbstract (Inventory Disclosure [Abstract]) -> target=us-gaap:InventoryWorkInProcessNetOfReserves (Inventory, Work in Process, Net of Reserves) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.cat.com/role/InventoriesDetails

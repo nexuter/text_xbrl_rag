@@ -1,0 +1,27 @@
+- Claim: Inventories are recorded at the lower of cost or net realizable value, and the cost of finished goods, work in process, and raw materials is determined using average actual cost.
+  - Claim type: Factual
+  - Support used: [Text Chunk 1]
+  - Limitation: This claim is limited to the accounting policies disclosed in the provided text for the fiscal year ended 2025-12-31.
+
+- Claim: In 2023, Biopharma earnings included approximately $6.2 billion of inventory write-offs and related charges to Cost of sales, primarily due to lower-than-expected demand for COVID-19 products.
+  - Claim type: Factual
+  - Support used: [Text Chunk 2]
+  - Limitation: This is a historical measurement pertaining to the 2023 period.
+
+- Claim: The historical occurrence of $6.2 billion in inventory write-offs in 2023 due to demand volatility for COVID-19 products serves as a risk cue for the valuation assertion of current inventory.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 1], [Text Chunk 2]
+  - Inferential bridge: Because the company records inventory at the lower of cost or net realizable value (NRV), the history of massive write-offs due to demand shifts indicates that NRV estimates are highly sensitive to demand forecasts, increasing the risk that current inventory may be overvalued if demand for existing products declines.
+  - Limitation: Missing current 2025 demand forecasts or an inventory aging report to identify slow-moving items.
+
+- Claim: The valuation of acquired inventory is subject to risk due to the reliance on significant estimates, including stage of completion, costs to complete, costs to dispose, and selling price.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 5]
+  - Inferential bridge: The determination of fair value for acquired inventory requires multiple subjective inputs; inaccuracies in any of these estimates (e.g., overestimating the selling price or underestimating costs to complete) would directly result in a valuation misstatement.
+  - Limitation: Missing the specific controls used to validate the "reasonable profit allowance" or the "stage of completion" assumptions.
+
+- Claim: The requirement to classify inventories not expected to be sold within 12 months as "Other noncurrent assets" creates a risk regarding the accuracy of inventory classification and valuation.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 1]
+  - Inferential bridge: The determination of whether an item will be sold within 12 months is a management judgment; an error in this judgment would lead to incorrect classification between current and noncurrent assets and may signal a need for impairment (valuation) if the product is not moving.
+  - Limitation: Missing the specific criteria or evidence management uses to determine the 12-month sale expectation.

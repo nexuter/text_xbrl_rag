@@ -1,0 +1,7 @@
+condition,construct,claims,factual_claims,risk_or_assertion_claims,insufficient_context_claims,text_supported_prelim_mean,text_supported_prelim_n,graph_valid_prelim_mean,graph_valid_prelim_n,audit_valid_prelim_mean,audit_valid_prelim_n,integrated_prelim_mean,integrated_prelim_n
+hybrid,inventory,25,12,13,0,0.50,25,0.85,10,1.00,25,0.58,25
+hybrid,revenue,5,2,3,0,0.50,5,1.00,1,1.00,5,0.50,5
+text,inventory,24,10,14,0,0.71,24,NA,0,1.00,24,NA,0
+text,revenue,5,2,3,0,0.70,5,NA,0,1.00,5,NA,0
+xbrl,inventory,25,11,14,0,NA,0,0.72,25,1.00,25,NA,0
+xbrl,revenue,4,2,2,0,NA,0,0.75,4,1.00,4,NA,0

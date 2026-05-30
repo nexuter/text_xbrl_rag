@@ -1,0 +1,65 @@
+You are assisting with an auditing research task. Use only the information provided in the context.
+
+Task:
+Identify audit-relevant risk cues or assertion-mapping considerations for inventory valuation assertion mapping for Caterpillar Inc., fiscal year 2025, period ended 2025-12-31, accession 0000018230-26-000008, based on the provided context.
+
+Instructions:
+1. Provide no more than five audit-relevant claims.
+2. Distinguish factual claims from risk-cue or assertion-mapping claims.
+3. Do not conclude that a misstatement exists.
+4. State when the provided context is insufficient.
+5. Avoid treating reported XBRL relationships as independent audit evidence.
+6. Do not use general company knowledge outside the provided context.
+7. For each risk-cue or assertion-mapping claim, state the inferential bridge from the source evidence to the audit consideration.
+8. Do not write "Limitation: None" for risk-cue or assertion-mapping claims; identify at least one missing audit evidence item, missing control detail, or source-bound limitation.
+9. For factual claims, state any period, source, or measurement limitation rather than treating the claim as unrestricted.
+
+Context:
+TEXT RETRIEVAL CONTEXT
+
+[Text Chunk 1]
+chunk_id: T-CAT-INVENTORY-016
+source_file: cat-20251231.htm
+construct_tag: inventory
+ranking_score: 9
+text: We state inventories at the lower of cost or net realizable value. We principally determine cost using the last-in, first-out (LIFO) method. The value of inventories on the LIFO basis represented about 70 percent and 65 percent of total inventories at December 31, 2025 and 2024, respectively.
+
+[Text Chunk 2]
+chunk_id: T-CAT-INVENTORY-008
+source_file: cat-20251231.htm
+construct_tag: inventory
+ranking_score: 6
+text: Restructuring costs also include other exit-related costs, which may consist of accelerated depreciation, inventory write-downs, building demolition, equipment relocation and project management costs and LIFO inventory decrement benefits from inventory liquidations at closed facilities, all of which are primarily included in Cost of goods sold.
+
+[Text Chunk 3]
+chunk_id: T-CAT-INVENTORY-023
+source_file: cat-20251231.htm
+construct_tag: inventory
+ranking_score: 6
+text: • Restructuring income/costs: May include costs for employee separation, long-lived asset impairments, contract terminations and (gains)/losses on divestitures. These costs are included in Other operating (income) expenses except for defined-benefit plan curtailment losses and special termination benefits, which are included in Other income (expense). Restructuring costs also include other exit-related costs, which may consist of accelerated depreciation, inventory write-downs, building demolition, equipment relocation and project management costs and LIFO inventory decrement benefits from inventory liquidations at closed facilities, all of which are primarily included in Cost of goods sold. See Note 24 for more information.
+
+XBRL RELATIONAL RETRIEVAL CONTEXT
+
+Facts:
+1. fact_id=F-CAT-0802 concept=InventoryFinishedGoodsNetOfReserves value=8329000000 unit=iso4217:USD period=instant:2024-12-31 dimensions=none
+2. fact_id=F-CAT-0801 concept=InventoryFinishedGoodsNetOfReserves value=8725000000 unit=iso4217:USD period=instant:2025-12-31 dimensions=none
+3. fact_id=F-CAT-0049 concept=InventoryLIFOReserve value=3864000000 unit=iso4217:USD period=instant:2024-12-31 dimensions=none
+4. fact_id=F-CAT-0048 concept=InventoryLIFOReserve value=4305000000 unit=iso4217:USD period=instant:2025-12-31 dimensions=none
+5. fact_id=F-CAT-1037 concept=InventoryMethodologyDifference value=3560000000 unit=iso4217:USD period=instant:2024-12-31 dimensions=srt:ConsolidationItemsAxis=us-gaap:CorporateNonSegmentMember
+6. fact_id=F-CAT-1036 concept=InventoryMethodologyDifference value=3622000000 unit=iso4217:USD period=instant:2025-12-31 dimensions=srt:ConsolidationItemsAxis=us-gaap:CorporateNonSegmentMember
+7. fact_id=F-CAT-0019 concept=InventoryNet value=16827000000 unit=iso4217:USD period=instant:2024-12-31 dimensions=none
+8. fact_id=F-CAT-0806 concept=InventoryNet value=16827000000 unit=iso4217:USD period=instant:2024-12-31 dimensions=none
+
+Relation paths:
+1. path_id=X-CAT-0312 relation_type=calculation source=us-gaap:InventoryNet (Inventory, Net) -> target=us-gaap:InventoryFinishedGoodsNetOfReserves (Inventory, Finished Goods, Net of Reserves) arcrole=http://www.xbrl.org/2003/arcrole/summation-item role=http://www.cat.com/role/InventoriesDetails
+2. path_id=X-CAT-0310 relation_type=calculation source=us-gaap:InventoryNet (Inventory, Net) -> target=us-gaap:InventoryRawMaterialsNetOfReserves (Inventory, Raw Materials, Net of Reserves) arcrole=http://www.xbrl.org/2003/arcrole/summation-item role=http://www.cat.com/role/InventoriesDetails
+3. path_id=X-CAT-0313 relation_type=calculation source=us-gaap:InventoryNet (Inventory, Net) -> target=us-gaap:InventorySuppliesNetOfReserves (Inventory, Supplies, Net of Reserves) arcrole=http://www.xbrl.org/2003/arcrole/summation-item role=http://www.cat.com/role/InventoriesDetails
+4. path_id=X-CAT-0311 relation_type=calculation source=us-gaap:InventoryNet (Inventory, Net) -> target=us-gaap:InventoryWorkInProcessNetOfReserves (Inventory, Work in Process, Net of Reserves) arcrole=http://www.xbrl.org/2003/arcrole/summation-item role=http://www.cat.com/role/InventoriesDetails
+5. path_id=X-CAT-0018 relation_type=presentation source=us-gaap:InventoryDisclosureAbstract (Inventory Disclosure [Abstract]) -> target=us-gaap:InventoryDisclosureTextBlock (Inventory Disclosure [Text Block]) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.cat.com/role/Inventories
+6. path_id=X-CAT-0215 relation_type=presentation source=us-gaap:InventoryDisclosureAbstract (Inventory Disclosure [Abstract]) -> target=us-gaap:InventoryFinishedGoodsNetOfReserves (Inventory, Finished Goods, Net of Reserves) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.cat.com/role/InventoriesDetails
+
+Output format:
+- Claim:
+  - Claim type:
+  - Support used:
+  - Limitation:

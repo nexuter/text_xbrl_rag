@@ -1,0 +1,27 @@
+- Claim: The recognition of revenue from stored value card breakage is subject to estimation risk.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: Text Chunk 3
+  - Inferential bridge: The company recognizes breakage "over time in proportion to stored value card redemptions" based on "historical redemption patterns" and "unclaimed property laws," which indicates that revenue recognition for breakage relies on management's estimates and historical analysis rather than a fixed trigger.
+  - Limitation: Missing the specific quantitative methodology or the historical percentage rates used to calculate the breakage amount.
+
+- Claim: Revenue recognition for the Nestlé prepaid royalty depends on the assessment of performance obligations.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: Text Chunk 2
+  - Inferential bridge: The context states that deferred revenue includes an up-front prepaid royalty from Nestlé for which there are "continuing performance obligations," implying that the timing of revenue recognition is contingent upon the satisfaction of these obligations.
+  - Limitation: Missing the specific contractual terms or the defined duration of the "continuing performance obligations" associated with the Global Coffee Alliance.
+
+- Claim: The multi-channel nature of stored value card activation and redemption creates a risk regarding the accuracy of the transition from deferred revenue to recognized revenue.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: Text Chunk 1
+  - Inferential bridge: Because cards are activated and redeemed across diverse channels (company-operated stores, licensed stores, online, mobile, and third-party websites), the company must accurately track redemptions across all these platforms to recognize revenue from the initial deferred liability.
+  - Limitation: Missing details on the IT controls or reconciliation processes used to aggregate redemption data from third-party websites and licensed stores.
+
+- Claim: Starbucks Corporation derives revenue from North America and International operations (selling coffee, beverages, food, packaged coffees, single-serve coffee, and merchandise) and Channel Development (selling packaged coffee, tea, foodservice products, ready-to-drink beverages, and receiving royalties from Nestlé).
+  - Claim type: Factual
+  - Support used: F-SBUX-0085, F-SBUX-0086
+  - Limitation: This claim is limited to the period from 2024-09-30 to 2025-09-28.
+
+- Claim: Stored value cards can be activated at company-operated stores, most licensed stores, Starbucks.com, via mobile devices, and at certain third-party websites and locations, although they cannot be reloaded at third-party sites.
+  - Claim type: Factual
+  - Support used: Text Chunk 1
+  - Limitation: This claim is limited to the narrative descriptions provided in the provided text retrieval context.

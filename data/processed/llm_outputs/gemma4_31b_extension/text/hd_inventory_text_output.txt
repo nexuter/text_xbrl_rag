@@ -1,0 +1,27 @@
+- Claim: As of February 1, 2026, the Company's merchandise inventories were $25.8 billion.
+  - Claim type: Factual
+  - Support used: [Text Chunk 2]
+  - Limitation: This is a point-in-time measurement as of the fiscal year-end date.
+
+- Claim: The majority of merchandise inventories are valued using the retail inventory method (lower of cost or market), while inventories in Canada, Mexico, distribution centers, and SRS distribution operations are valued using a cost method (moving average and FIFO) at the lower of cost or net realizable value.
+  - Claim type: Factual
+  - Support used: [Text Chunk 1], [Text Chunk 2]
+  - Limitation: This claim is based on the company's descriptive accounting policy disclosures for the period ended 2026-02-01.
+
+- Claim: There is a valuation risk associated with the inherent uncertainty in determining inventory cost and gross profit due to the reliance on the retail inventory method.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 3]
+  - Inferential bridge: The company explicitly states that "inherent uncertainty" exists because the retail method depends on markups and markdowns, which are themselves determined by subjective factors such as anticipated demand, customer preferences, and weather conditions. This subjectivity directly impacts the valuation assertion.
+  - Limitation: The provided context does not detail the specific controls or validation processes used to ensure the "variety of factors" used for markups and markdowns are applied consistently.
+
+- Claim: The valuation of inventory is subject to risk regarding the accuracy of estimated shrink recorded between physical inventory counts.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 5]
+  - Inferential bridge: Because the company calculates shrink using "estimated inventory losses occurring between physical inventory counts" based on "recent shrink results" rather than actual counts, there is a risk that the inventory balance is misstated if these estimates deviate from actual losses.
+  - Limitation: The context does not provide the frequency of the physical/cycle counts or the specific mathematical formula used to derive the interim shrink estimates.
+
+- Claim: Inventory held in distribution centers and SRS distribution operations presents a valuation risk requiring specific quarterly assessment for net realizable value (NRV).
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 1]
+  - Inferential bridge: Unlike the retail method (which adjusts regularly for market conditions), these specific inventories are recorded via cost methods and must be evaluated at the end of each quarter to ensure they are carried at the lower of cost or NRV. This periodic manual or systemic evaluation creates a risk of overvaluation if the NRV assessment is inaccurate.
+  - Limitation: The context is insufficient regarding the specific data sources or benchmarks used to determine the net realizable value during the quarterly evaluations.

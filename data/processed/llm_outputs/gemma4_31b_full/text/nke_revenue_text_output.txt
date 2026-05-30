@@ -1,0 +1,27 @@
+- Claim: Revenue decreased on a currency-neutral basis across all reported regions, including Asia Pacific & Latin America (3%), North America (8%), EMEA (10%), and Greater China (12%).
+  - Claim type: Factual claim
+  - Support used: [Text Chunk 1], [Text Chunk 3], [Text Chunk 4], [Text Chunk 5]
+  - Limitation: The measurement is limited to a "currency-neutral basis," which excludes the impact of foreign exchange rate fluctuations.
+
+- Claim: The significant and widespread decline in digital sales across all regions (ranging from -9% in APLA to -30% in EMEA) represents a risk cue for the accuracy and occurrence assertions of revenue.
+  - Claim type: Risk-cue or assertion-mapping claim
+  - Support used: [Text Chunk 1], [Text Chunk 3], [Text Chunk 4], [Text Chunk 5]
+  - Inferential bridge: Sharp declines in a specific revenue stream (digital) can create management pressure to overstate results or may indicate underlying system issues that affect the recording of transactions.
+  - Limitation: The provided context does not include the specific revenue recognition policies for digital sales or the materiality thresholds used by the company.
+
+- Claim: The stated risk that failure to effectively scale and adapt technical infrastructure to meet consumer demand could impact business operations suggests a risk to the completeness assertion of revenue.
+  - Claim type: Risk-cue or assertion-mapping claim
+  - Support used: [Text Chunk 2]
+  - Inferential bridge: If the technical infrastructure fails to scale or provide reliable services, digital transactions may not be captured or processed entirely, leading to an understatement of revenue.
+  - Limitation: The context lacks information regarding the current capacity of the technical infrastructure or the existing IT general controls (ITGCs) governing the digital platforms.
+
+- Claim: The divergence in performance between digital sales and store sales in certain regions (e.g., EMEA digital sales decreased 30% while store sales increased 5%) indicates a risk cue for the classification assertion of revenue.
+  - Claim type: Risk-cue or assertion-mapping claim
+  - Support used: [Text Chunk 4]
+  - Inferential bridge: When different sales channels exhibit opposing trends, there is an increased risk that revenue may be misclassified between "digital" and "store" channels during the recording process.
+  - Limitation: The context does not provide the accounting policies or the system logic used to differentiate and allocate revenue between digital and physical store channels.
+
+- Claim: NIKE Direct revenues decreased in North America (12%), EMEA (16%), Greater China (12%), and APLA (3%).
+  - Claim type: Factual claim
+  - Support used: [Text Chunk 1], [Text Chunk 3], [Text Chunk 4], [Text Chunk 5]
+  - Limitation: This claim is limited to the specific regional data provided in the text and does not include a consolidated global figure for NIKE Direct.

@@ -1,0 +1,36 @@
+TEXT RETRIEVAL CONTEXT
+
+[Text Chunk 1]
+chunk_id: T-CROX-REVENUE_INVENTORY-022
+source_file: crox-20251231.htm
+construct_tag: revenue_inventory
+ranking_score: 21
+text: Inventories are comprised of finished goods, are stated at the lower of cost or net realizable value, and are recognized using the first-in-first-out method of inventory costing. We estimate the market value of inventory based on an analysis of historical sales trends of our individual product lines, the impact of market trends and economic conditions, and a forecast of future demand, giving consideration to the value of current orders in-house for future sales of inventory, as well as plans to sell discontinued or end-of-life inventory through our outlet stores, among other off-price channels. Estimates may differ from actual results due to the quantity, quality, and mix of products in inventory, consumer and retailer preferences, and market conditions. If the estimated net realizable value is less than its carrying value, the carrying value is adjusted to the net realizable value, and the difference is recorded in ‘Cost of sales’ in our consolidated statements of operations.
+
+[Text Chunk 2]
+chunk_id: T-CROX-INVENTORY-017
+source_file: crox-20251231.htm
+construct_tag: inventory
+ranking_score: 9
+text: Gross margin. Gross margin was 58.3% compared to 58.8% in 2024. This was primarily due to incremental duties of 130 basis points and higher freight and fulfillment costs of 40 basis points, for both brands. The overall decrease in gross margin was offset in part by lower product costs in the Crocs Brand of 70 basis points, and favorable brand mix of 30 basis points.
+
+[Text Chunk 3]
+chunk_id: T-CROX-REVENUE_INVENTORY-019
+source_file: crox-20251231.htm
+construct_tag: revenue_inventory
+ranking_score: 7
+text: Our consolidated financial statements are prepared in accordance with U.S. GAAP. These accounting principles require us to make certain estimates, judgments, and assumptions. We believe that the estimates, judgments, and assumptions used to determine certain amounts that affect the financial statements are reasonable, based on information available at the time they are made. Management believes that the estimates, judgments, and assumptions made when accounting for items and matters such as, but not limited to, the allowance for doubtful accounts, customer rebates, sales returns and allowances, impairment assessments and charges, recoverability of long-lived assets, deferred tax assets, valuation allowances, uncertain tax positions, income tax expense, share-based compensation expense, the assessment of lower of cost or net realizable value on inventory, goodwill, indefinite-lived intangible assets, and useful lives assigned to long-lived assets.
+
+[Text Chunk 4]
+chunk_id: T-CROX-INVENTORY-019
+source_file: crox-20251231.htm
+construct_tag: inventory
+ranking_score: 6
+text: Income from Operations. During the year ended December 31, 2025, income from operations for our Crocs Brand segment was $1,111.7 million, a decrease of $70.3 million, or 6.0% from 2024. Gross margin was 61.3% for the year ended December 31, 2025, a decrease of 30 basis points compared to 2024. The decrease in gross margin was primarily due to unfavorable duties and higher freight and fulfillment costs, partially offset by lower product costs.
+
+[Text Chunk 5]
+chunk_id: T-CROX-REVENUE_INVENTORY-005
+source_file: crox-20251231.htm
+construct_tag: revenue_inventory
+ranking_score: 6
+text: Our operations have been in the past and may continue to be impacted by supply chain constraints and raw material shortages resulting in increased material costs longer lead times port congestion and increased freight costs the uncertain economic environment tariffs and macroeconomic trends. In addition current or future governmental policies may increase the risk of inflation which could further increase the costs of raw materials and components for our business. Similarly if costs of goods continue to increase our suppliers may seek price increases from us. If we are unable to mitigate the impact of supply chain constraints and inflationary pressure through price increases or other measures our gross margins results of operations and financial condition could be negatively impacted. Even if we are able to raise the prices of our products consumers might react negatively to such price increases which could have a material adverse effect on among other things our brands reputation and sales. If our competitors substantially lower their prices we may lose customers and mark down prices. Our profitability may be impacted by lower prices which may negatively impact gross margins. We are unable to predict the impact of these constraints on the timing of revenue and operating costs of our business in the near future. Raw material supply shortages and supply chain constraints including cost ...

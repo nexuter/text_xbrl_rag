@@ -1,0 +1,36 @@
+TEXT RETRIEVAL CONTEXT
+
+[Text Chunk 1]
+chunk_id: T-SBUX-INVENTORY-015
+source_file: sbux-20250928.htm
+construct_tag: inventory
+ranking_score: 17
+text: Inventories are stated at the lower of cost (primarily moving average cost) or net realizable value. We record inventory reserves for obsolete and slow-moving inventory and for estimated shrinkage between physical inventory counts. Inventory reserves are based on inventory obsolescence trends, historical experience, and application of the specific identification method. As of September 28, 2025, and September 29, 2024, inventory reserves were $ 56.6 million and $ 58.0 million, respectively.
+
+[Text Chunk 2]
+chunk_id: T-SBUX-INVENTORY-008
+source_file: sbux-20250928.htm
+construct_tag: inventory
+ranking_score: 3
+text: resulted, and may in the future result, in insufficient or excess inventory, increased inventory markdowns, and higher costs. Any of these outcomes could adversely affect our results of operations and financial condition.
+
+[Text Chunk 3]
+chunk_id: T-SBUX-REVENUE_INVENTORY-001
+source_file: sbux-20250928.htm
+construct_tag: revenue_inventory
+ranking_score: 3
+text: Revenues from our licensed stores accounted for 12% of total net revenues in fiscal 2025. Licensed stores generally have a lower gross margin and a higher operating margin than company-operated stores. Under the licensed model, Starbucks receives a margin on branded products and supplies sold to the licensed store operator along with a royalty on retail sales. Licensees are responsible for operating costs and capital investments, which more than offset the lower revenues we receive under the licensed store model.
+
+[Text Chunk 4]
+chunk_id: T-SBUX-REVENUE_INVENTORY-006
+source_file: sbux-20250928.htm
+construct_tag: revenue_inventory
+ranking_score: 3
+text: Preparing financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues, and expenses. Examples include, but are not limited to, estimates for inventory reserves, asset and goodwill impairments, assumptions underlying self-insurance reserves, income from unredeemed stored value cards, stock-based compensation forfeiture rates, future asset retirement obligations, commitments and contingencies, and the potential outcome of future tax consequences of events that have been recognized in the financial statements. Actual results and outcomes may differ from these estimates and assumptions due to risks and uncertainties, including uncertainty in the current economic environment.
+
+[Text Chunk 5]
+chunk_id: T-SBUX-REVENUE_INVENTORY-009
+source_file: sbux-20250928.htm
+construct_tag: revenue_inventory
+ranking_score: 3
+text: Our share of income and losses from our equity method investments is included in income from equity investees on our consolidated statements of earnings. Also included in this line item is our proportionate share of gross profit resulting from coffee and other product sales to, and royalty and license fee revenues generated from, equity investees. Revenues generated from these entities were $ 58.1 million, $ 62.6 million, and $ 85.7 million in fiscal 2025, 2024, and 2023, respectively. Related product and distribution costs were $ 57.7 million, $ 58.6 million, and $ 85.6 million in fiscal 2025, 2024, and 2023, respectively. As of September 28, 2025, and September 29, 2024, there were $ 17.3 million and $ 12.2 million of accounts receivable from equity investees, respectively, on our consolidated balance sheets, primarily related to product sales and royalty revenues.

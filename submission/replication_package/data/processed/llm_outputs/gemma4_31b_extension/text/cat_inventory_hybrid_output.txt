@@ -1,0 +1,26 @@
+- Claim: Caterpillar Inc. values inventories at the lower of cost or net realizable value, primarily using the last-in, first-out (LIFO) method.
+  - Claim type: Factual
+  - Support used: T-CAT-INVENTORY-016
+  - Limitation: This claim is limited to the accounting policies disclosed in the provided text for the 2025 fiscal year.
+
+- Claim: As of December 31, 2025, the Inventory LIFO Reserve was $4,305,000,000.
+  - Claim type: Factual
+  - Support used: F-CAT-0048
+  - Limitation: This is a point-in-time measurement as of the 2025-12-31 period end.
+
+- Claim: The reliance on the LIFO method for approximately 70% of total inventories as of December 31, 2025, presents a valuation risk regarding the accuracy of the LIFO reserve.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-CAT-INVENTORY-016, F-CAT-0048
+  - Inferential bridge: Because a significant majority of inventory is valued using LIFO, any errors in the calculation of the LIFO reserve or the tracking of cost layers would materially impact the overall inventory valuation assertion.
+  - Limitation: The provided context does not include the internal controls used to calculate the LIFO reserve or the detailed LIFO layer schedules.
+
+- Claim: The occurrence of inventory write-downs and LIFO inventory decrement benefits associated with restructuring and closed facilities indicates a risk to the valuation assertion.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-CAT-INVENTORY-008, T-CAT-INVENTORY-023
+  - Inferential bridge: Facility closures typically trigger the need to assess inventory for obsolescence (requiring write-downs to net realizable value) and may trigger LIFO liquidations (decrement benefits), both of which require precise valuation adjustments to avoid overstating inventory.
+  - Limitation: The context does not provide the specific amount of write-downs incurred in 2025 or the specific facilities that were closed.
+
+- Claim: As of December 31, 2025, Inventory Finished Goods Net of Reserves was $8,725,000,000.
+  - Claim type: Factual
+  - Support used: F-CAT-0801
+  - Limitation: This is a point-in-time measurement as of the 2025-12-31 period end.

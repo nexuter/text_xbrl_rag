@@ -1,0 +1,21 @@
+- Claim: Inventories are stated at the lower of cost and net realizable value (NRV) and are valued using either an average or a specific identification cost basis.
+  - Claim type: Factual
+  - Support used: [Text Chunk 3]
+  - Limitation: This claim is limited to the accounting policies disclosed in the provided text for the period ended 2025-05-31 and does not specify the percentage of inventory allocated to each valuation method.
+
+- Claim: As of May 31, 2025, the Company's inventory reserve was $233 million, compared to $155 million as of May 31, 2024.
+  - Claim type: Factual
+  - Support used: [Text Chunk 2]
+  - Limitation: This is a point-in-time measurement limited to the fiscal year-end dates provided in the source text.
+
+- Claim: The increase in the inventory reserve to $233 million and the attribution of a 190 basis point decrease in gross margin to "higher inventory obsolescence reserves" indicate a risk regarding the valuation assertion for inventory.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 2], [Text Chunk 4]
+  - Inferential bridge: The combination of a quantitative increase in reserves and a qualitative statement linking these reserves to declining profit margins suggests that inventory may be losing value more rapidly, increasing the risk that the valuation of remaining inventory is incorrect.
+  - Limitation: Missing the detailed breakdown of which specific product categories or geographic regions contributed to the higher obsolescence reserves.
+
+- Claim: The use of "ongoing estimates" based on subjective assumptions—including future demand, market conditions, and sales trends—to determine NRV creates a risk of estimation uncertainty for the inventory valuation assertion.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 1]
+  - Inferential bridge: Because the NRV is derived from forward-looking assumptions rather than static historical costs, there is an inherent risk that management's assumptions may be overly optimistic or inconsistent, potentially leading to an overstatement of inventory.
+  - Limitation: Missing the specific internal controls or validation mechanisms used to review and approve the assumptions regarding future demand and market conditions.

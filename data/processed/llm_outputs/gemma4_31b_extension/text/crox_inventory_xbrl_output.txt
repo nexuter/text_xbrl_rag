@@ -1,0 +1,27 @@
+- Claim: As of 2025-12-31, the net inventory balance for Crocs, Inc. was 368,687,000 USD.
+  - Claim type: Factual
+  - Support used: F-CROX-0014
+  - Limitation: This measurement is limited to the reported balance at the specific instant of 2025-12-31.
+
+- Claim: For the period 2025-01-01 to 2025-12-31, Crocs, Inc. recorded an inventory write-down of 871,000 USD.
+  - Claim type: Factual
+  - Support used: F-CROX-0020
+  - Limitation: This figure represents an aggregate annual amount and does not provide a monthly or quarterly breakdown.
+
+- Claim: The company has recorded inventory write-downs for three consecutive years (2023: 2,078,000 USD; 2024: 812,000 USD; 2025: 871,000 USD).
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-CROX-0022, F-CROX-0021, F-CROX-0020
+  - Inferential bridge: The recurring recognition of write-downs across multiple periods indicates a persistent risk that inventory may become obsolete or fall below net realizable value, necessitating a focus on the valuation assertion.
+  - Limitation: Missing the specific underlying causes for these write-downs (e.g., product obsolescence, damage, or pricing changes) and the internal controls used to trigger these adjustments.
+
+- Claim: InventoryNet increased from 356,254,000 USD at 2024-12-31 to 368,687,000 USD at 2025-12-31, while a write-down of 871,000 USD was recognized in 2025.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-CROX-0015, F-CROX-0014, F-CROX-0020
+  - Inferential bridge: An increase in the total inventory asset base alongside the recognition of write-downs suggests a risk that the current write-down amount may not be sufficient to cover potential obsolescence within the larger inventory pool.
+  - Limitation: Missing inventory aging reports or inventory turnover ratios to determine if the increase in inventory is commensurate with sales volume.
+
+- Claim: Cost of Goods and Services Sold is distributed across different business segments (Crocs Brand and HEYDUDE Brand).
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-CROX-0108, F-CROX-0114
+  - Inferential bridge: Because different brands typically have different product lifecycles and market demand profiles, the valuation risk (specifically the risk of obsolescence) may vary significantly between the Crocs and HEYDUDE segments.
+  - Limitation: The provided context lacks 2025 segment-specific inventory balances or segment-specific write-down data to assess current valuation risks by brand.

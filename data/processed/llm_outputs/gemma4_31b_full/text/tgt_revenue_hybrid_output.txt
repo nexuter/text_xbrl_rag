@@ -1,0 +1,27 @@
+- Claim: Revenue for digitally originated sales is recognized upon delivery to the guest or upon guest pickup at the store.
+  - Claim type: Factual claim
+  - Support used: Text Chunk 3
+  - Limitation: This claim is limited to the specific recognition triggers for digitally originated sales as described in the provided text.
+
+- Claim: As of February 1, 2025, the liability for estimated returns was $172 million.
+  - Claim type: Factual claim
+  - Support used: Text Chunk 3
+  - Limitation: This is a point-in-time measurement limited to the fiscal year-end date of February 1, 2025.
+
+- Claim: The timing of revenue recognition for digitally originated sales presents a cut-off risk.
+  - Claim type: Risk-cue or assertion-mapping claim
+  - Support used: Text Chunk 3
+  - Inferential bridge: Because revenue is recognized upon delivery or pickup rather than at the time of order, the accuracy of the revenue period depends on the precise timing of the delivery/pickup event.
+  - Limitation: The provided context lacks detail regarding the internal controls used to verify delivery dates from third-party carriers or store pickup logs.
+
+- Claim: The estimation of expected returns introduces a risk to the accuracy and valuation of revenue and the associated return liability.
+  - Claim type: Risk-cue or assertion-mapping claim
+  - Support used: Text Chunk 3
+  - Inferential bridge: Revenue is recognized net of expected returns based on a combination of historical patterns and management's "expectation of future returns," which introduces subjectivity into the measurement.
+  - Limitation: The context does not provide the specific methodology or the variables used to determine "future expectations" beyond historical patterns.
+
+- Claim: The recognition of gift card breakage revenue is subject to estimation risk.
+  - Claim type: Risk-cue or assertion-mapping claim
+  - Support used: Text Chunk 2
+  - Inferential bridge: Breakage revenue is recognized over time based on the assumption that a "small and relatively stable percentage" of cards will never be redeemed; any deviation in actual redemption behavior from this historical estimate would impact revenue accuracy.
+  - Limitation: There is no information provided regarding the frequency or process for updating the historical redemption rates used to calculate breakage.

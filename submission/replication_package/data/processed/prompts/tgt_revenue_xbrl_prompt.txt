@@ -1,0 +1,50 @@
+You are assisting with an auditing research task. Use only the information provided in the context.
+
+Task:
+Identify audit-relevant risk cues or assertion-mapping considerations for revenue recognition risk cue identification for Target Corporation, fiscal year 2024, period ended 2025-02-01, accession 0000027419-25-000018, based on the provided context.
+
+Instructions:
+1. Provide no more than five audit-relevant claims.
+2. Distinguish factual claims from risk-cue or assertion-mapping claims.
+3. Do not conclude that a misstatement exists.
+4. State when the provided context is insufficient.
+5. Avoid treating reported XBRL relationships as independent audit evidence.
+6. Do not use general company knowledge outside the provided context.
+7. For each risk-cue or assertion-mapping claim, state the inferential bridge from the source evidence to the audit consideration.
+8. Do not write "Limitation: None" for risk-cue or assertion-mapping claims; identify at least one missing audit evidence item, missing control detail, or source-bound limitation.
+9. For factual claims, state any period, source, or measurement limitation rather than treating the claim as unrestricted.
+
+Context:
+XBRL RELATIONAL RETRIEVAL CONTEXT
+
+Facts:
+1. fact_id=F-TGT-0003 concept=RevenueFromContractWithCustomerExcludingAssessedTax value=109120000000 unit=iso4217:USD period=duration:2022-01-30/2023-01-28 dimensions=none
+2. fact_id=F-TGT-0016 concept=RevenueFromContractWithCustomerExcludingAssessedTax value=17646000000 unit=iso4217:USD period=duration:2022-01-30/2023-01-28 dimensions=srt:ProductOrServiceAxis=tgt:ApparelAndAccessoriesMember
+3. fact_id=F-TGT-0019 concept=RevenueFromContractWithCustomerExcludingAssessedTax value=11092000000 unit=iso4217:USD period=duration:2022-01-30/2023-01-28 dimensions=srt:ProductOrServiceAxis=tgt:BeautyMember
+4. fact_id=F-TGT-0056 concept=ContractWithCustomerLiability value=1162000000 unit=iso4217:USD period=instant:2024-02-03 dimensions=none
+5. fact_id=F-TGT-0078 concept=ContractWithCustomerLiability value=1162000000 unit=iso4217:USD period=instant:2024-02-03 dimensions=none
+6. fact_id=F-TGT-0059 concept=ContractWithCustomerLiability value=1209000000 unit=iso4217:USD period=instant:2025-02-01 dimensions=none
+7. fact_id=F-TGT-0057 concept=ContractWithCustomerLiabilityLiabilitiesIncurred value=878000000 unit=iso4217:USD period=duration:2024-02-04/2025-02-01 dimensions=none
+8. fact_id=F-TGT-0062 concept=ContractWithCustomerLiabilityLoyaltyProgramCurrent value=117000000 unit=iso4217:USD period=instant:2024-02-03 dimensions=none
+9. fact_id=F-TGT-0061 concept=ContractWithCustomerLiabilityLoyaltyProgramCurrent value=19000000 unit=iso4217:USD period=instant:2025-02-01 dimensions=none
+10. fact_id=F-TGT-0058 concept=ContractWithCustomerLiabilityRevenueRecognized value=831000000 unit=iso4217:USD period=duration:2024-02-04/2025-02-01 dimensions=none
+11. fact_id=F-TGT-0090 concept=DeferredRevenueNoncurrent value=419000000 unit=iso4217:USD period=instant:2024-02-03 dimensions=none
+12. fact_id=F-TGT-0089 concept=DeferredRevenueNoncurrent value=388000000 unit=iso4217:USD period=instant:2025-02-01 dimensions=none
+
+Relation paths:
+1. path_id=X-TGT-0005 relation_type=presentation source=us-gaap:RevenueFromContractWithCustomerAbstract (Revenue from Contract with Customer [Abstract]) -> target=us-gaap:RevenueFromContractWithCustomerTextBlock (Revenue from Contract with Customer [Text Block]) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://corporate.target.com/role/NetSales
+2. path_id=X-TGT-0012 relation_type=presentation source=us-gaap:RevenueFromContractWithCustomerAbstract (Revenue from Contract with Customer [Abstract]) -> target=us-gaap:ContractWithCustomerAssetAndLiabilityTableTextBlock (Contract with Customer, Contract Asset, Contract Liability, and Receivable [Table Text Block]) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://corporate.target.com/role/NetSalesTables
+3. path_id=X-TGT-0065 relation_type=definition source=us-gaap:DisaggregationOfRevenueLineItems (Disaggregation of Revenue [Line Items]) -> target=us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax (Revenue from Contract with Customer, Excluding Assessed Tax) arcrole=http://xbrl.org/int/dim/arcrole/domain-member role=http://corporate.target.com/role/NetSalesDisaggregationofNetSalesDetails
+4. path_id=X-TGT-0030 relation_type=presentation source=tgt:ChangeinContractwithCustomerLiabilityRollForward (label unavailable) -> target=us-gaap:ContractWithCustomerLiabilityRevenueRecognized (Contract with Customer, Liability, Revenue Recognized) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://corporate.target.com/role/NetSalesGiftCardLiabilityActivityDetails
+5. path_id=X-TGT-0018 relation_type=presentation source=us-gaap:DisaggregationOfRevenueLineItems (Disaggregation of Revenue [Line Items]) -> target=us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax (Revenue from Contract with Customer, Excluding Assessed Tax) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://corporate.target.com/role/NetSalesDisaggregationofNetSalesDetails
+6. path_id=X-TGT-0027 relation_type=presentation source=us-gaap:RevenueFromContractWithCustomerAbstract (Revenue from Contract with Customer [Abstract]) -> target=tgt:ChangeinContractwithCustomerLiabilityRollForward (label unavailable) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://corporate.target.com/role/NetSalesGiftCardLiabilityActivityDetails
+7. path_id=X-TGT-0013 relation_type=presentation source=us-gaap:RevenueFromContractWithCustomerAbstract (Revenue from Contract with Customer [Abstract]) -> target=us-gaap:DisaggregationOfRevenueTable (Disaggregation of Revenue [Table]) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://corporate.target.com/role/NetSalesDisaggregationofNetSalesDetails
+8. path_id=X-TGT-0019 relation_type=presentation source=us-gaap:RevenueFromContractWithCustomerAbstract (Revenue from Contract with Customer [Abstract]) -> target=us-gaap:DisaggregationOfRevenueTable (Disaggregation of Revenue [Table]) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://corporate.target.com/role/NetSalesNarrativeDetails
+9. path_id=X-TGT-0011 relation_type=presentation source=us-gaap:RevenueFromContractWithCustomerAbstract (Revenue from Contract with Customer [Abstract]) -> target=us-gaap:DisaggregationOfRevenueTableTextBlock (Disaggregation of Revenue [Table Text Block]) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://corporate.target.com/role/NetSalesTables
+10. path_id=X-TGT-0069 relation_type=definition source=us-gaap:DisaggregationOfRevenueLineItems (Disaggregation of Revenue [Line Items]) -> target=us-gaap:ContractWithCustomerRefundLiability (Contract with Customer, Refund Liability) arcrole=http://xbrl.org/int/dim/arcrole/domain-member role=http://corporate.target.com/role/NetSalesNarrativeDetails
+
+Output format:
+- Claim:
+  - Claim type:
+  - Support used:
+  - Limitation:

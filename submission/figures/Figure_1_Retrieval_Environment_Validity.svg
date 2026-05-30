@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="980" viewBox="0 0 1200 980" role="img" aria-labelledby="title desc">
+  <title id="title">Figure 1. Retrieval-Environment Validity Framework</title>
+  <desc id="desc">Flow diagram showing that the intended audit construct drives retrieval design, which creates an information environment for the LLM; the LLM generates claims, researchers draw inferences, and retrieval-environment validity assesses whether the chain supports those inferences.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#1f2937"/>
+    </marker>
+    <style>
+      .box { fill: #ffffff; stroke: #1f2937; stroke-width: 3; rx: 10; }
+      .assessment { fill: #f3f6fb; stroke: #1f2937; stroke-width: 3; rx: 10; }
+      .label { font-family: "Times New Roman", serif; font-size: 34px; fill: #111827; text-anchor: middle; dominant-baseline: middle; }
+      .small { font-family: "Times New Roman", serif; font-size: 24px; fill: #374151; text-anchor: middle; }
+      .arrow { stroke: #1f2937; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+    </style>
+  </defs>
+  <rect x="270" y="40" width="660" height="95" class="box"/>
+  <text x="600" y="88" class="label">Intended audit construct</text>
+  <line x1="600" y1="135" x2="600" y2="190" class="arrow"/>
+  <rect x="270" y="190" width="660" height="95" class="box"/>
+  <text x="600" y="238" class="label">Retrieval design choice</text>
+  <line x1="600" y1="285" x2="600" y2="340" class="arrow"/>
+  <rect x="210" y="340" width="780" height="105" class="box"/>
+  <text x="600" y="382" class="label">Retrieval-created</text>
+  <text x="600" y="418" class="label">information environment</text>
+  <line x1="600" y1="445" x2="600" y2="500" class="arrow"/>
+  <rect x="270" y="500" width="660" height="95" class="box"/>
+  <text x="600" y="548" class="label">LLM-generated claims</text>
+  <line x1="600" y1="595" x2="600" y2="650" class="arrow"/>
+  <rect x="270" y="650" width="660" height="95" class="box"/>
+  <text x="600" y="698" class="label">Research inference</text>
+  <line x1="600" y1="745" x2="600" y2="800" class="arrow"/>
+  <rect x="210" y="800" width="780" height="105" class="assessment"/>
+  <text x="600" y="842" class="label">Retrieval-environment</text>
+  <text x="600" y="878" class="label">validity assessment</text>
+  <text x="600" y="948" class="small">Retrieval is evaluated as part of research design, not only as preprocessing.</text>
+</svg>

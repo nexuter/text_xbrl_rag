@@ -1,0 +1,27 @@
+- Claim: Target Corporation values its inventory at the lower of LIFO cost or market, utilizing the retail inventory accounting method (RIM).
+  - Claim type: Factual claim
+  - Support used: [Text Chunk 1], [Text Chunk 3], [Text Chunk 4]
+  - Limitation: This claim is limited to the accounting policies disclosed in the provided text for the period ended February 1, 2025.
+
+- Claim: The estimation of the inventory shrink reserve presents a valuation risk due to the sensitivity of the cost of sales to changes in the estimate.
+  - Claim type: Risk-cue or assertion-mapping claim
+  - Support used: [Text Chunk 1]
+  - Inferential bridge: The text states that a 10 percent change in the 2024 year-end shrink reserve would impact cost of sales by approximately $150 million; this high level of sensitivity indicates that small errors in the shrink estimate can lead to material valuation misstatements.
+  - Limitation: The provided context lacks detail regarding the specific internal controls used to validate the "historical losses" used to calculate the shrink estimate.
+
+- Claim: There is a risk that inventory may be overvalued if the company fails to accurately predict consumer demand and respond to changing preferences.
+  - Claim type: Risk-cue or assertion-mapping claim
+  - Support used: [Text Chunk 1], [Text Chunk 5]
+  - Inferential bridge: The company notes that salability is impacted by consumer preferences and seasonality, and that failure to predict demand has previously resulted in excess inventory and increased markdowns; since inventory is valued at the lower of cost or market, failure to record these markdowns timely would result in an overstatement of inventory value.
+  - Limitation: The context does not provide the specific criteria or quantitative thresholds used to determine when the "salability of the merchandise has diminished" enough to trigger a market adjustment.
+
+- Claim: The use of internally measured retail price indices to calculate the LIFO provision introduces a risk to the valuation assertion.
+  - Claim type: Risk-cue or assertion-mapping claim
+  - Support used: [Text Chunk 4]
+  - Inferential bridge: Because the LIFO provision (which directly affects the stated value of inventory) is derived from "internally measured retail price indices," any inaccuracies or biases in these internal measurements would directly impact the final inventory valuation.
+  - Limitation: The provided text does not describe the methodology for calculating these internal indices or how they are verified for accuracy.
+
+- Claim: Inventory was valued at $12.7 billion as of February 1, 2025, and $11.9 billion as of February 3, 2024.
+  - Claim type: Factual claim
+  - Support used: [Text Chunk 1]
+  - Limitation: These are aggregate measurements; the context does not provide a breakdown of these values by merchandise category or geographic location.

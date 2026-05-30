@@ -1,0 +1,65 @@
+You are assisting with an auditing research task. Use only the information provided in the context.
+
+Task:
+Identify audit-relevant risk cues or assertion-mapping considerations for inventory valuation assertion mapping for Crocs, Inc., fiscal year 2025, period ended 2025-12-31, accession 0001334036-26-000006, based on the provided context.
+
+Instructions:
+1. Provide no more than five audit-relevant claims.
+2. Distinguish factual claims from risk-cue or assertion-mapping claims.
+3. Do not conclude that a misstatement exists.
+4. State when the provided context is insufficient.
+5. Avoid treating reported XBRL relationships as independent audit evidence.
+6. Do not use general company knowledge outside the provided context.
+7. For each risk-cue or assertion-mapping claim, state the inferential bridge from the source evidence to the audit consideration.
+8. Do not write "Limitation: None" for risk-cue or assertion-mapping claims; identify at least one missing audit evidence item, missing control detail, or source-bound limitation.
+9. For factual claims, state any period, source, or measurement limitation rather than treating the claim as unrestricted.
+
+Context:
+TEXT RETRIEVAL CONTEXT
+
+[Text Chunk 1]
+chunk_id: T-CROX-REVENUE_INVENTORY-022
+source_file: crox-20251231.htm
+construct_tag: revenue_inventory
+ranking_score: 21
+text: Inventories are comprised of finished goods, are stated at the lower of cost or net realizable value, and are recognized using the first-in-first-out method of inventory costing. We estimate the market value of inventory based on an analysis of historical sales trends of our individual product lines, the impact of market trends and economic conditions, and a forecast of future demand, giving consideration to the value of current orders in-house for future sales of inventory, as well as plans to sell discontinued or end-of-life inventory through our outlet stores, among other off-price channels. Estimates may differ from actual results due to the quantity, quality, and mix of products in inventory, consumer and retailer preferences, and market conditions. If the estimated net realizable value is less than its carrying value, the carrying value is adjusted to the net realizable value, and the difference is recorded in ‘Cost of sales’ in our consolidated statements of operations.
+
+[Text Chunk 2]
+chunk_id: T-CROX-INVENTORY-017
+source_file: crox-20251231.htm
+construct_tag: inventory
+ranking_score: 9
+text: Gross margin. Gross margin was 58.3% compared to 58.8% in 2024. This was primarily due to incremental duties of 130 basis points and higher freight and fulfillment costs of 40 basis points, for both brands. The overall decrease in gross margin was offset in part by lower product costs in the Crocs Brand of 70 basis points, and favorable brand mix of 30 basis points.
+
+[Text Chunk 3]
+chunk_id: T-CROX-REVENUE_INVENTORY-019
+source_file: crox-20251231.htm
+construct_tag: revenue_inventory
+ranking_score: 7
+text: Our consolidated financial statements are prepared in accordance with U.S. GAAP. These accounting principles require us to make certain estimates, judgments, and assumptions. We believe that the estimates, judgments, and assumptions used to determine certain amounts that affect the financial statements are reasonable, based on information available at the time they are made. Management believes that the estimates, judgments, and assumptions made when accounting for items and matters such as, but not limited to, the allowance for doubtful accounts, customer rebates, sales returns and allowances, impairment assessments and charges, recoverability of long-lived assets, deferred tax assets, valuation allowances, uncertain tax positions, income tax expense, share-based compensation expense, the assessment of lower of cost or net realizable value on inventory, goodwill, indefinite-lived intangible assets, and useful lives assigned to long-lived assets.
+
+XBRL RELATIONAL RETRIEVAL CONTEXT
+
+Facts:
+1. fact_id=F-CROX-0015 concept=InventoryNet value=356254000 unit=iso4217:USD period=instant:2024-12-31 dimensions=none
+2. fact_id=F-CROX-0014 concept=InventoryNet value=368687000 unit=iso4217:USD period=instant:2025-12-31 dimensions=none
+3. fact_id=F-CROX-0022 concept=InventoryWriteDown value=2078000 unit=iso4217:USD period=duration:2023-01-01/2023-12-31 dimensions=none
+4. fact_id=F-CROX-0021 concept=InventoryWriteDown value=812000 unit=iso4217:USD period=duration:2024-01-01/2024-12-31 dimensions=none
+5. fact_id=F-CROX-0020 concept=InventoryWriteDown value=871000 unit=iso4217:USD period=duration:2025-01-01/2025-12-31 dimensions=none
+6. fact_id=F-CROX-0009 concept=GrossProfit value=2210010000 unit=iso4217:USD period=duration:2023-01-01/2023-12-31 dimensions=none
+7. fact_id=F-CROX-0008 concept=GrossProfit value=2410258000 unit=iso4217:USD period=duration:2024-01-01/2024-12-31 dimensions=none
+8. fact_id=F-CROX-0007 concept=GrossProfit value=2357055000 unit=iso4217:USD period=duration:2025-01-01/2025-12-31 dimensions=none
+
+Relation paths:
+1. path_id=X-CROX-0057 relation_type=calculation source=us-gaap:GrossProfit (Gross Profit) -> target=us-gaap:CostOfGoodsAndServicesSold (Cost of Product and Service Sold) arcrole=http://www.xbrl.org/2003/arcrole/summation-item role=http://www.crocs.com/role/CONSOLIDATEDSTATEMENTSOFOPERATIONS
+2. path_id=X-CROX-0060 relation_type=calculation source=us-gaap:AssetsCurrent (Assets, Current) -> target=us-gaap:InventoryNet (Inventory, Net) arcrole=http://www.xbrl.org/2003/arcrole/summation-item role=http://www.crocs.com/role/CONSOLIDATEDBALANCESHEETS
+3. path_id=X-CROX-0065 relation_type=calculation source=us-gaap:NetCashProvidedByUsedInOperatingActivities (Cash Provided by (Used in) Operating Activity, Including Discontinued Operation) -> target=us-gaap:IncreaseDecreaseInInventories (Increase (Decrease) in Inventories) arcrole=http://www.xbrl.org/2003/arcrole/summation-item role=http://www.crocs.com/role/CONSOLIDATEDSTATEMENTSOFCASHFLOWS
+4. path_id=X-CROX-0063 relation_type=calculation source=us-gaap:NetCashProvidedByUsedInOperatingActivities (Cash Provided by (Used in) Operating Activity, Including Discontinued Operation) -> target=us-gaap:InventoryWriteDown (Inventory Write-down) arcrole=http://www.xbrl.org/2003/arcrole/summation-item role=http://www.crocs.com/role/CONSOLIDATEDSTATEMENTSOFCASHFLOWS
+5. path_id=X-CROX-0102 relation_type=definition source=us-gaap:SegmentReportingInformationLineItems (Segment Reporting Information [Line Items]) -> target=us-gaap:CostOfGoodsAndServicesSold (Cost of Product and Service Sold) arcrole=http://xbrl.org/int/dim/arcrole/domain-member role=http://www.crocs.com/role/OPERATINGSEGMENTSANDGEOGRAPHICINFORMATIONInformationRelatedToReportableOperatingBusinessSegmentsDetails
+6. path_id=X-CROX-0009 relation_type=presentation source=us-gaap:AdjustmentsToReconcileNetIncomeLossToCashProvidedByUsedInOperatingActivitiesAbstract (Adjustment to Reconcile Net Income to Cash Provided by (Used in) Operating Activity [Abstract]) -> target=us-gaap:InventoryWriteDown (Inventory Write-down) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.crocs.com/role/CONSOLIDATEDSTATEMENTSOFCASHFLOWS
+
+Output format:
+- Claim:
+  - Claim type:
+  - Support used:
+  - Limitation:

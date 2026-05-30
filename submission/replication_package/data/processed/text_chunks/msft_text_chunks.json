@@ -1,0 +1,1502 @@
+[
+  {
+    "chunk_id": "T-MSFT-REVENUE-001",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Tackling security from all angles with our integrated, end-to-end solutions spanning security, compliance, identity, and management, across all clouds and platforms.",
+    "text": "Our future growth depends on our ability to transcend current product category definitions, business models, and sales motions."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-002",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Microsoft is committed to sustainability and our approach to addressing climate change starts with the sustainability of our own business. In 2020, we announced goals to become a carbon negative, water positive, and zero",
+    "text": "We operate our business and report our financial performance using three segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing. Our segments provide management with a comprehensive financial view of our key businesses. The segments enable the alignment of strategies and objectives across the development, sales, marketing, and services organizations, and they provide a framework for timely and rational allocation of resources within businesses."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-003",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Microsoft 365 Consumer products and cloud services, including Microsoft 365 Consumer subscriptions, Office licensed on-premises, and other consumer services.",
+    "text": "\u2022 LinkedIn, including Talent Solutions, Marketing Solutions, Premium Subscriptions, and Sales Solutions."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-004",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Dynamics products and cloud services, including Dynamics 365, comprising a set of intelligent, cloud-based applications across ERP, CRM, Power Apps, and Power Automate; and on-premises ERP and CRM applications.",
+    "text": "Microsoft 365 Commercial is an AI-powered business and productivity solutions platform that brings together Office, Windows, Microsoft 365 Copilot, and Enterprise Mobility + Security to help organizations empower their employees. Growth depends on our ability to reach new users in new markets such as frontline workers, small and medium businesses, and growth markets, as well as add AI-enabled tools, features, and agentic scenarios to our core product and service offerings across communication, collaboration, analytics, security, compliance, and other AI business productivity categories. Microsoft 365 Commercial revenue is mainly affected by a combination of continued installed base growth and average revenue per user expansion, as well as the continued shift from Office licensed on-premises to Microsoft 365."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-005",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Microsoft 365 Commercial is an AI-powered business and productivity solutions platform that brings together Office, Windows, Microsoft 365 Copilot, and Enterprise Mobility + Security to help organizations empower their e",
+    "text": "Microsoft 365 Consumer is designed to increase personal productivity and creativity through a range of products and services. Growth depends on our ability to reach new users, add value to our core product set with new features including AI tools, and continue to expand our product and service offerings into new markets. Microsoft 365 Consumer cloud revenue and Office Consumer products revenue is mainly affected by the percentage of customers that buy Office with their new devices and the continued shift from Office licensed on-premises to Microsoft 365 Consumer subscriptions. Microsoft 365 Consumer cloud revenue is also affected by the demand for communication and storage through Outlook.com and OneDrive, which is largely driven by subscriptions and advertising."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-006",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Microsoft 365 Consumer is designed to increase personal productivity and creativity through a range of products and services. Growth depends on our ability to reach new users, add value to our core product set with new f",
+    "text": "LinkedIn connects the world\u2019s professionals to make them more productive and successful and transforms the way companies hire, market, sell, and learn. In addition to LinkedIn\u2019s free services, LinkedIn offers monetized solutions designed to offer AI-enabled insights and productivity: Talent Solutions, Marketing Solutions, Premium Subscriptions, and Sales Solutions. Growth will depend on our ability to increase LinkedIn member engagement on the platform and our ability to continue offering insight and AI-enabled services that provide value for our members and customers. LinkedIn revenue is mainly affected by demand from enterprises and professionals for subscriptions to Talent Solutions, Sales Solutions, and Premium Subscriptions offerings, as well as member engagement and the quality of the sponsored content delivered to those members to drive Marketing Solutions."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-007",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "LinkedIn connects the world\u2019s professionals to make them more productive and successful and transforms the way companies hire, market, sell, and learn. In addition to LinkedIn\u2019s free services, LinkedIn offers monetized s",
+    "text": "Dynamics provides cloud-based and on-premises business solutions for financial management, enterprise resource planning (\u201cERP\u201d), customer relationship management (\u201cCRM\u201d), and supply chain management, as well as agentic AI and other low code application development platforms, for small and medium businesses, large organizations, and divisions of global enterprises. Dynamics revenue is driven by the number of users licensed and applications consumed, expansion of average revenue per user, and the continued shift to Dynamics 365, a unified set of cloud-based intelligent business applications, including our low code development platforms, such as Power Apps and Power Automate."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-008",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Our Enterprise Mobility + Security offerings compete with products from a range of competitors including identity vendors, security solution vendors, and numerous other security point solution vendors.",
+    "text": "LinkedIn faces competition from online professional networks; recruiting, talent management, and human resource services companies; job boards; companies that provide learning and development products and services; online and offline outlets that generate revenue from advertisers and marketers; and online and offline outlets for companies with lead generation and customer intelligence and insights."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-009",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Enterprise and partner services, including Enterprise Support Services, Industry Solutions, Nuance professional services, Microsoft Partner Network, and Learning Experience.",
+    "text": "Azure is a comprehensive set of cloud services that offer developers, IT professionals, and enterprises freedom to build, deploy, and manage applications on any platform or device. Customers can use Azure through our global network of datacenters for computing, networking, storage, mobile and web application services, AI, Internet of Things, cognitive services, and machine learning. Azure enables customers to devote more resources to development and use of applications that benefit their organizations, rather than managing on-premises hardware and software. Azure revenue is mainly affected by infrastructure-as-a-service and platform-as-a-service consumption-based services."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-010",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Azure AI offerings provide a competitive advantage as companies seek ways to optimize and scale their business with AI. We offer supercomputing power for AI at scale to run large workloads, complemented by our rapidly ex",
+    "text": "Our server products are designed to make IT professionals, developers, and their systems more productive and efficient. Server software is integrated server infrastructure and middleware designed to support software applications built on the Windows Server operating system. This includes the server platform, database, business intelligence, storage, management and operations, virtualization, service-oriented architecture platform, security, and identity software. We also license standalone and software development lifecycle tools for software architects, developers, testers, and project managers. Server products revenue is mainly affected by purchases through volume licensing programs, licenses sold to OEMs, and retail packaged products. CALs provide access rights to certain server products, including SQL Server and Windows Server, and revenue is reported along with the associated server product."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-011",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Search and news advertising, comprising Bing and Copilot, Microsoft News, Microsoft Edge, and third-party affiliates.",
+    "text": "The Windows operating system is designed to deliver a more personal computing experience for users by enabling consistency of experience, applications, and information across their devices. Windows OEM revenue is impacted significantly by the number of Windows operating system licenses purchased by OEMs, which they pre-install on the devices they sell. In addition to computing device market volume, Windows OEM revenue is impacted by:"
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-012",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "The gamer remains at the heart of the Xbox ecosystem. We are identifying new opportunities to attract gamers across a variety of different end points through our first- and third-party content and business diversificatio",
+    "text": "Xbox enables people to connect and share online gaming experiences that are accessible on Xbox consoles, Windows-enabled devices, and other devices. Xbox is designed to benefit users by providing access to a network of certified applications and services and to benefit our developer and partner ecosystems by providing access to a large customer base. Xbox revenue is mainly affected by subscriptions and sales of first- and third-party content, as well as advertising. Growth of our Gaming business is determined by the overall active user base through Xbox enabled content, availability of games, providing exclusive game content that gamers seek, the computational power and reliability of the devices used to access our content and services, and the ability to create new experiences."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-013",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Our Search and news advertising business competes with search engines, and a wide array of websites, social platforms, and portals that provide content and online offerings to end users.",
+    "text": "As of June 30, 2025, we employed approximately 228,000 people on a full-time basis, 125,000 in the U.S. and 103,000 internationally. Of the total employees, 89,000 were in operations, including product support and consulting services, datacenter operations, and manufacturing and distribution; 80,000 were in product research and development; 44,000 were in sales and marketing; and 15,000 were in general and administration. Certain employees are subject to collective bargaining agreements."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-014",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "While it may be necessary in the future to seek or renew licenses relating to various aspects of our products and services, we believe, based upon past experience and industry practice, such licenses generally can be obt",
+    "text": "Our customers include individual consumers, small and medium organizations, large global enterprises, public-sector institutions, service providers, application developers, and OEMs. We market and distribute our products and services through the following channels: direct, distributors and resellers, and OEMs. Our sales organization performs a variety of functions, including working directly with commercial enterprises and public-sector organizations worldwide to identify and meet their technology and digital transformation requirements; supporting system integrators, independent software vendors, and other partners who engage directly with our customers to perform sales, consulting, and fulfillment functions for our products and services; and managing OEM relationships."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-015",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Our customers include individual consumers, small and medium organizations, large global enterprises, public-sector institutions, service providers, application developers, and OEMs. We market and distribute our products",
+    "text": "Many organizations that license our products and services transact directly with us through Enterprise Agreements and Enterprise Services contracts, with sales support from system integrators, independent software vendors, web agencies, and partners that advise organizations on licensing our products and services (\u201cEnterprise Agreement Software Advisors\u201d or \u201cESA\u201d). Microsoft offers direct sales programs targeted to reach small, medium, and corporate customers, in addition to those offered through the reseller channel. A large network of partner advisors support many of these sales."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-016",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Organizations also license our products and services indirectly, primarily through licensing solution partners (\u201cLSP\u201d), distributors, value-added resellers (\u201cVAR\u201d), and retailers. Although each type of reselling partner ",
+    "text": "We distribute our retail packaged products primarily through independent non-exclusive distributors, authorized replicators, resellers, and retail outlets. Individual consumers obtain these products primarily through retail outlets. We distribute our devices through third-party retailers. We have a network of field sales representatives and field support personnel that solicit orders from distributors and resellers and provide product training and sales support."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-017",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Mr. Numoto was appointed Executive Vice President and Chief Marketing Officer in October 2023. He served as Executive Vice President and Commercial Chief Marketing Officer from March 2020. Mr. Numoto served as a Corporat",
+    "text": "Mr. Smith was appointed Vice Chair and President in September 2021. Prior to that, he served as President and Chief Legal Officer since September 2015. He served as Executive Vice President, General Counsel, and Secretary from 2011 to 2015, and served as Senior Vice President, General Counsel, and Secretary from 2001 to 2011. Mr. Smith was also named Chief Compliance Officer in 2002. Since joining Microsoft in 1993, he was Deputy General Counsel for Worldwide Sales and previously was responsible for managing the European Law and Corporate Affairs Group, based in Paris. Mr. Smith also serves on the Board of Directors of Netflix, Inc."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-018",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "An important element of our business model has been to create platform-based ecosystems on which many participants can build diverse solutions. A well-established ecosystem creates beneficial network effects among users,",
+    "text": "\u2022 A competing vertically-integrated model, in which a single firm controls the hardware and software elements of a product and related services, has succeeded with some consumer products such as PCs, tablets, smartphones, gaming consoles, wearables, and other endpoint devices. Competitors pursuing this model also earn revenue from services integrated with the hardware and software platform, including applications and content sold through their integrated marketplaces. They may also be able to claim security and performance benefits from their vertically-integrated offer. We also offer some vertically-integrated hardware and software products and services. Shifting a portion of our business to a vertically-integrated model may increase our cost of revenue and reduce our operating margins."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-019",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 A competing vertically-integrated model, in which a single firm controls the hardware and software elements of a product and related services, has succeeded with some consumer products such as PCs, tablets, smartphones",
+    "text": "\u2022 We derive substantial revenue from licenses of Windows operating systems on PCs. We face significant competition from competing platforms developed for new devices and form factors such as smartphones and tablets. These devices compete on multiple bases including price and the perceived utility of the device and its platform. Users continue to turn to these devices to perform functions that in the past were performed by PCs. Even if many users view these devices as complementary to a PC, the prevalence of these devices may make it more difficult to attract application developers to our PC operating system platforms. Competing with operating systems licensed at low or no cost may decrease our PC operating system margins. Popular products or services offered on competing platforms could increase their competitive strength. In addition, some of our devices compete with products made by our OEM partners, which may affect their commitment to our platform."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-020",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 We derive substantial revenue from licenses of Windows operating systems on PCs. We face significant competition from competing platforms developed for new devices and form factors such as smartphones and tablets. Thes",
+    "text": "\u2022 Competing platforms have content and application marketplaces with scale and significant installed bases. The variety and utility of content and applications available on a platform are important to device purchasing decisions. Users may incur costs to move data and buy new content and applications when switching platforms. To compete, we must successfully enlist developers to write applications for our platform and ensure that these applications have high quality, security, customer appeal, and value. Efforts to compete with competitors\u2019 content and application marketplaces may increase our cost of revenue and lower our operating margins. Competitors\u2019 rules governing their content and applications marketplaces may restrict our ability to distribute products and services through them in accordance with our technical and business model objectives."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-021",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 We are investing in artificial intelligence (\u201cAI\u201d) across the entire company and infusing generative AI capabilities into our consumer and commercial offerings. AI technology and services are a highly competitive and r",
+    "text": "\u2022 Even as we transition more of our business to infrastructure-, platform-, and software-as-a-service business models, the license-based proprietary software model generates a substantial portion of our software revenue. We bear the costs of converting original ideas into software products through investments in research and development, offsetting these costs with the revenue received from licensing our products. Many of our competitors also develop and sell software to businesses and consumers under this model."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-022",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Even as we transition more of our business to infrastructure-, platform-, and software-as-a-service business models, the license-based proprietary software model generates a substantial portion of our software revenue.",
+    "text": "\u2022 Other competitors develop and offer free applications, online services, and content, and make money by selling third-party advertising. Advertising revenue funds development of products and services these competitors provide to users at little or no cost, competing directly with our revenue-generating products."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-023",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Other competitors develop and offer free applications, online services, and content, and make money by selling third-party advertising. Advertising revenue funds development of products and services these competitors p",
+    "text": "\u2022 Some companies compete with us by modifying and then distributing open source software at little or no cost to end users, developing, making available, or using AI models that are open, and earning revenue on advertising or integrated products and services. These firms do not bear the full costs of research and development for the open source products. Some open source products mimic the features and functionality of our products."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-024",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Some companies compete with us by modifying and then distributing open source software at little or no cost to end users, developing, making available, or using AI models that are open, and earning revenue on advertisi",
+    "text": "The competitive pressures described above may cause decreased sales volumes, price reductions, and/or increased operating costs, such as for research and development, marketing, and sales incentives, which could adversely affect our financial condition and results of operations."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-025",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Making our suite of cloud-based services platform-agnostic, available on a wide range of devices and ecosystems, including those of our competitors.",
+    "text": "It is uncertain whether our strategies will continue to attract users or generate the revenue required to succeed. If we are not effective in executing organizational and technical changes to increase efficiency and accelerate innovation, or if we fail to generate sufficient usage of our new products and services, we may not grow revenue in line with the infrastructure and development investments described above. This could adversely affect our operations, financial condition, and results of operations."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-026",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Our AI systems offer users powerful tools and capabilities. However, there may be instances where these systems are used in ways that are unintended or inappropriate. In addition, some users may also engage in fraudulent",
+    "text": "We make significant investments in products and services that may not achieve expected returns. We will continue to make significant investments in research, development, and marketing for existing products, services, and technologies, including AI-based products and services. We also invest in the development and acquisition of a variety of hardware for productivity, communication, and entertainment, including PCs, tablets, and gaming devices. Investments in new technology are speculative. Commercial success depends on many factors, including innovation, developer support, and effective distribution and marketing. If customers do not perceive our latest offerings as providing significant new functionality or other value, they may reduce their purchases of new software and hardware products or upgrades, unfavorably affecting revenue. We may not achieve significant revenue from new product, service, and distribution channel investments for several years, if at all. New products and services may not be profitable or may not achieve operating margins as high as we have experienced historically. We may not get engagement in certain features that drive post-sale monetization opportunities. Our data-handling practices across our products and services will continue to be under scrutiny. Perceptions of mismanagement, driven by regulatory activity or negative public reaction to our practices or product experiences, could negatively impact product and feature adoption. Developing new technologies is complex. It can require long development and testing periods. We could experience significant delays in new releases or significant problems in creating new products or services. These factors could adversely affect our business, financial condition, and results of operations."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-027",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "We make significant investments in products and services that may not achieve expected returns. We will continue to make significant investments in research, development, and marketing for existing products, services, an",
+    "text": "Acquisitions, joint ventures, and strategic alliances could have an adverse effect on our business. We expect to continue making acquisitions and entering into joint ventures and strategic alliances as part of our long-term business strategy. For example, in October 2023 we completed our acquisition of Activision Blizzard , Inc. (\u201cActivision Blizzard\u201d). In January 2023 we announced the third phase of our OpenAI strategic partnership. Acquisitions and other transactions and arrangements involve significant challenges and risks, including that they do not advance our business strategy, that we get an unsatisfactory return on our investment, that they raise new compliance-related obligations and challenges, that we have difficulty integrating and retaining new employees, business systems, and technology, that they distract management from our other businesses, or that announced transactions may not be completed. If an arrangement fails to adequately anticipate changing circumstances and interests of a party, it may result in early termination or renegotiation of the arrangement. We also have limited ability to control or influence third parties with whom we have arrangements, which may impact our ability to realize the anticipated benefits. The success of these transactions and arrangements depend in part on our ability to leverage them to enhance our existing products and services or develop compelling new ones, as well as the acquired companies\u2019 ability to meet our policies and processes in areas such as data governance, privacy, digital safety, responsible AI, and cybersecurity. It may take longer than expected to realize the full economic benefits from these transactions and arrangements, such as increased revenue or enhanced efficiencies, or the benefits may ultimately be smaller than we expected, which could cause an impairment of goodwill or intangibles. We have recorded, and may in the future be required to record, a significant charge in our consolidated financial statements during the period in which any impairment of our goodwill or amortizable intangible assets is determined, negatively affecting our results of operations. In addition, an acquisition may be subject to challenge even after it has been completed. These events could adversely affect our business, operations, financial condition, and results of operations."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-028",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Acquisitions, joint ventures, and strategic alliances could have an adverse effect on our business. We expect to continue making acquisitions and entering into joint ventures and strategic alliances as part of our long-t",
+    "text": "Cyberattacks and security vulnerabilities could lead to reduced revenue, increased costs, liability claims, or harm to our reputation or competitive position."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-029",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Cyberattacks could adversely impact our customers even if our production services are not directly compromised. We are committed to notifying our customers whose systems have been impacted as we become aware and have act",
+    "text": "Any of the foregoing events could result in reputational harm, loss of revenue, increased costs, or otherwise adversely affect our business, financial condition, and results of operations."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-030",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Our products operate in conjunction with and are dependent on products and components across a broad ecosystem of third parties. If there is a security vulnerability in one of these components, and if there is a security",
+    "text": "Disclosure and misuse of personal data could result in liability and harm our reputation. As we continue to grow the number, breadth, and scale of our cloud-based offerings, we store and process increasingly large amounts of personal data of our customers and users. The continued occurrence of high-profile data breaches provides evidence of an external environment increasingly hostile to information security. Despite our efforts to improve the security controls across our business groups and geographies, it is possible our security controls over personal data, our training of employees and third parties on data security, and other practices we follow may not prevent the improper disclosure or misuse of customer or user data we or our vendors store and manage. Relatedly, despite our efforts to continuously improve security controls, it is possible that we may fail to identify or mitigate insider threat activities that could lead to the misuse of our systems or customer and user data. In addition, third parties who have limited access to our customer or user data may use this data in unauthorized ways. Improper disclosure or misuse could harm our reputation, lead to legal exposure to customers or users, or subject us to liability under laws that protect personal data, resulting in increased costs or loss of revenue. Our software products and services also enable our customers and users to store and process personal data on-premises or in a cloud-based environment we host. Government authorities can sometimes require us to produce customer or user data in response to valid legal orders. In the U.S. and elsewhere, we advocate for transparency concerning these requests and appropriate limitations on government authority to compel disclosure. Despite our efforts to protect customer and user data, perceptions that the collection, use, and retention of personal information is not satisfactorily protected could inhibit sales of our products or services and could limit adoption of our cloud-based solutions by consumers, businesses, and government entities. Additional security measures we take to address customer or user concerns, or constraints on our flexibility to determine where and how to operate datacenters in response to customer or user expectations or governmental rules or actions, may increase costs or hinder sales of our products and services."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE_INVENTORY-001",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "We may have excessive outages, data losses, and disruptions of our online services if we fail to maintain an adequate operations infrastructure. Our increasing user traffic, growth in services, and the complexity of our ",
+    "text": "We may experience supply or quality problems. There are limited suppliers for certain device and datacenter components. We continue to identify and evaluate opportunities to expand our datacenter locations and increase our server capacity to meet the evolving needs of our customers, particularly given the growing demand for AI services. Capacity available to us may be affected as competitors use some of the same suppliers and materials for hardware components. If components are delayed or become unavailable, whether because of supplier capacity constraint, industry shortages, legal or regulatory changes that restrict supply sources, or other reasons, we may not obtain timely replacement supplies, resulting in reduced sales or inadequate datacenter capacity to support the delivery and continued development of our products and services. Component shortages, excess or obsolete inventory, or price reductions resulting in inventory adjustments may increase our cost of revenue. Datacenter servers, Xbox consoles, Surface devices, and other hardware are assembled in Asia and other geographies that may be subject to disruptions in the supply chain, resulting in shortages which could adversely affect our business, operations, financial condition, and results of operations."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-031",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "We may experience supply or quality problems. There are limited suppliers for certain device and datacenter components. We continue to identify and evaluate opportunities to expand our datacenter locations and increase o",
+    "text": "Our software products and services also have and may in the future experience quality or reliability problems. The processes we use to develop our software are imperfect. Like all software, our software contains bugs and other defects that interfere with their intended operation. Our customers increasingly rely on us for critical business functions and multiple workloads. Many of our products and services are interdependent on one another. Our products and services may be impacted by interaction with third-party products and services. Our customers may also utilize their own or third-party products and services whose reliability is dependent on interaction with our products and services. Each of these circumstances potentially magnifies the impact of quality or reliability issues. Weaknesses in our processes could result in defects we do not detect and fix in pre-release testing, which could cause reduced sales, damage to our reputation, repair or remediation costs, delays in the release of new products or versions, or legal liability, and could adversely affect our business, financial condition, and results of operations. Although our license agreements typically contain provisions that eliminate or limit our exposure to liability, there is no assurance these provisions will withstand legal challenge."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-032",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "New, existing, and evolving laws and regulations, or interpretations or applications of existing laws and regulations in a manner inconsistent with our interpretations of such laws and regulations or our practices, may r",
+    "text": "\u2022 Competition laws and new market regulation: Government agencies closely scrutinize us under U.S. and foreign competition laws. Governments are actively enforcing competition laws and regulations and enacting new regulations to intervene in digital markets, and this includes markets such as the EU, the United Kingdom, the U.S., and China. Some jurisdictions also allow competitors or consumers to assert claims of anti-competitive conduct. U.S. and foreign antitrust authorities have previously brought enforcement actions and continue to scrutinize our business. Competition law enforcement actions and court decisions along with new market regulations may result in fines or hinder our ability to provide the benefits of our software to consumers and businesses, reducing the attractiveness of our products and the revenue that comes from them. New competition law actions or obligations under market regulation schemes could be initiated, potentially using previous actions as precedent."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-033",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "We have claims and lawsuits against us that may result in adverse outcomes. We are subject to a variety of claims and lawsuits. These claims may arise from a wide variety of business practices and initiatives, including ",
+    "text": "Our business with government customers may present additional uncertainties. We derive substantial revenue from government contracts. Government contracts and regulatory requirements can present risks and challenges not present in private commercial agreements. For instance, we are subject to government audits and investigations relating to these contracts, and we are required to provide assurance and attestations about our products and processes. If we do not satisfy contractual or regulatory requirements, we could be suspended or debarred as a governmental contractor, we could incur civil and criminal fines and penalties, and under certain circumstances contracts may be rescinded. Some agreements may allow a government to terminate without cause and provide for higher liability limits for certain losses. Some contracts may be subject to periodic funding approval, reductions, cancellations, or delays which could adversely impact public-sector demand for our products and services. These events could negatively impact our financial condition, results of operations, and reputation."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-034",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "We may have additional tax liabilities. We are subject to income taxes in the U.S. and many foreign jurisdictions. Significant judgment is required in determining our worldwide provision for income taxes. In the course o",
+    "text": "We are regularly under audit by tax authorities in different jurisdictions. Although we believe that our provision for income taxes and our tax estimates are reasonable, tax authorities may disagree with certain positions we have taken. In addition, economic and political pressures to increase tax revenue in various jurisdictions may make resolving tax disputes favorably more difficult. We are currently under IRS audit for prior tax years and have received Notices of Proposed Adjustment (\u201cNOPAs\u201d) from the IRS for the tax years 2004 to 2013. The primary issues in the NOPAs relate to intercompany transfer pricing. In the NOPAs, the IRS is seeking an additional tax payment of $28.9 billion plus penalties and interest. The final resolution of the proposed adjustments, and other audits or litigation, may differ from the amounts recorded in our consolidated financial statements and adversely affect our results of operations in the period or periods in which that determination is made."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-035",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Adverse economic or market conditions could harm our business. Worsening economic conditions, including inflation, recession, pandemic, or other changes in economic conditions, may cause lower IT spending and adversely a",
+    "text": "Our product distribution system relies on an extensive partner and retail network. OEMs building devices that run our software have also been a significant means of distribution. The impact of economic conditions on our partners, such as the bankruptcy of a major distributor, OEM, or retailer, could cause sales channel disruption."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-036",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Our product distribution system relies on an extensive partner and retail network. OEMs building devices that run our software have also been a significant means of distribution. The impact of economic conditions on our ",
+    "text": "Challenging economic conditions also may impair the ability of our customers to pay for products and services they have purchased. As a result, allowances for doubtful accounts and write-offs of accounts receivable may increase."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-037",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "We maintain an investment portfolio of various holdings, types, and maturities. These investments are subject to general credit, liquidity, market, and interest rate risks, which may be exacerbated by market downturns or",
+    "text": "Catastrophic events or geopolitical conditions could disrupt our business. A disruption or failure of our systems, operations, or supply chain because of a major earthquake, weather event, cyberattack, terrorist attack, pandemic, or other catastrophic event could cause delays in completing sales, providing services, or performing other critical functions. Our corporate headquarters, a significant portion of our research and development activities, and certain other essential business operations are in the Seattle, Washington area, and we have other business operations in the Silicon Valley area of California, both of which are seismically active regions. A catastrophic event that results in the destruction or disruption of any of our critical business or systems, or the infrastructure or systems they rely on, such as power grids, could harm our ability to conduct normal business operations or adversely affect our results of operations. Providing our customers with more services and solutions in the cloud puts a premium on the resilience of our systems and strength of our business continuity management plans and magnifies the potential negative consequences of prolonged service outages."
+  },
+  {
+    "chunk_id": "T-MSFT-INVENTORY-001",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "The occurrence of regional epidemics or a global pandemic, such as COVID-19, could adversely affect our business, operations, financial condition, and results of operations. The extent to which global pandemics impact ou",
+    "text": "The long-term effects of climate change on the global economy and the IT industry in particular are unclear. Environmental regulations or changes in the supply, demand, or available sources of energy or other resources may affect the availability or cost of goods and services, including natural resources, necessary to run our business. Changes in climate where we operate may increase the costs of powering and cooling computer hardware we use to develop software and provide cloud-based services."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-038",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "The long-term effects of climate change on the global economy and the IT industry in particular are unclear. Environmental regulations or changes in the supply, demand, or available sources of energy or other resources m",
+    "text": "Our global business exposes us to operational and economic risks. Our customers, employees, and infrastructure are located throughout the world and a significant part of our revenue comes from international sales. The global nature of our business creates operational, economic, and geopolitical risks. Global, regional, and local economic developments, monetary policy, geopolitical tension, particularly between the U.S. and Europe, restrictions on international trade, such as tariffs and other controls on imports or exports, inflation, and recession, as well as political and military disputes, could adversely affect our results of operations. Non-compliance with sanctions as well as general ecosystem disruptions could result in reputational harm, operational delays, monetary fines, loss of revenue, increased costs, loss of export privileges, or criminal sanctions, which could adversely affect our business, financial condition, and results of operations."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-039",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Our CISO leads the strategy, engineering, and operations of cybersecurity across the company, and reports to the EVP of Cloud + AI. Our CISO has extensive experience assessing and managing cybersecurity programs and cybe",
+    "text": "Our corporate headquarters are located in Redmond, Washington. We have approximately 15 million square feet of space located in King County, Washington that is used for engineering, sales, marketing, and operations, among other general and administrative purposes. These facilities include approximately 12 million square feet of owned space situated on approximately 530 acres of land we own at our corporate headquarters, and approximately 3 million square feet of space we lease."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-040",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Microsoft is a technology company committed to making digital technology and artificial intelligence (\u201cAI\u201d) available broadly and doing so responsibly, with a mission to empower every person and every organization on the",
+    "text": "We generate revenue by offering a wide range of cloud-based solutions, content, and other services to people and businesses; licensing and supporting an array of software products; delivering relevant online advertising to a global audience; and designing and selling devices. Our most significant expenses are related to compensating employees; supporting and investing in our cloud-based services, including datacenter operations; designing, manufacturing, marketing, and selling our other products and services; and income taxes."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-041",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "We generate revenue by offering a wide range of cloud-based solutions, content, and other services to people and businesses; licensing and supporting an array of software products; delivering relevant online advertising ",
+    "text": "\u2022 Microsoft 365 Commercial products and cloud services revenue increased 14% driven by Microsoft 365 Commercial cloud revenue growth of 15%."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-042",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Microsoft 365 Commercial products and cloud services revenue increased 14% driven by Microsoft 365 Commercial cloud revenue growth of 15%.",
+    "text": "\u2022 Microsoft 365 Consumer products and cloud services revenue increased 11% driven by Microsoft 365 Consumer cloud revenue growth of 11%."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-043",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Microsoft 365 Consumer products and cloud services revenue increased 11% driven by Microsoft 365 Consumer cloud revenue growth of 11%.",
+    "text": "\u2022 Dynamics products and cloud services revenue increased 15% driven by Dynamics 365 revenue growth of 19%."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-044",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Dynamics products and cloud services revenue increased 15% driven by Dynamics 365 revenue growth of 19%.",
+    "text": "\u2022 Server products and cloud services revenue increased 23% driven by Azure and other cloud services revenue growth of 34%."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-045",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Server products and cloud services revenue increased 23% driven by Azure and other cloud services revenue growth of 34%.",
+    "text": "\u2022 Search and news advertising revenue excluding traffic acquisition costs increased 20%."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-046",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Our industry is dynamic and highly competitive, with frequent changes in both technologies and business models. Each industry shift is an opportunity to conceive new products, new technologies, or new ideas that can furt",
+    "text": "Microsoft and OpenAI maintain a long-term strategic partnership originally established in 2019. Microsoft is a major investor in OpenAI, and the companies have reciprocal revenue-sharing arrangements. We hold rights to OpenAI\u2019s intellectual property, including models and infrastructure, for integration into our products. The OpenAI API is exclusive to Azure, runs on Azure, and is available through the Azure OpenAI Service. We also have a right of first refusal on OpenAI's new capacity needs."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-047",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Our success is highly dependent on our ability to attract and retain qualified employees. We hire a mix of university and industry talent worldwide. We compete for talented individuals globally by offering an exceptional",
+    "text": "Our international operations provide a significant portion of our total revenue and expenses. Many of these revenue and expenses are denominated in currencies other than the U.S. dollar. As a result, changes in foreign exchange rates may significantly affect revenue and expenses. Fluctuations in the U.S. dollar relative to certain foreign currencies did not have a material impact on reported revenue and expenses from our international operations in fiscal year 2025."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-048",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Refer to Risk Factors (Part I, Item 1A of this Form 10-K) for a discussion of these factors and other risks.",
+    "text": "Our revenue fluctuates quarterly and is generally higher in the fourth quarter of our fiscal year. Fourth quarter revenue is driven by a higher volume of multi-year contracts executed during the period."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-049",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "We use metrics in assessing the performance of our business and to make informed decisions regarding the allocation of resources. We disclose metrics to enable investors to evaluate progress against our ambitions, provid",
+    "text": "In the first quarter of fiscal year 2025, we made updates to our metrics in connection with the segment changes described above. These changes align our metrics with how we manage and monitor certain businesses. The key change was bringing the commercial components of Microsoft 365 together and creating a new Microsoft 365 Commercial cloud revenue growth metric. Other changes include combining Windows OEM and Devices into a single revenue growth metric that brings revenue from PC market-driven businesses together, as well as elevating our cloud revenue growth metrics to align to our strategic focus on cloud growth."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-050",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Our commercial business primarily consists of Server products and cloud services, Microsoft 365 Commercial products and cloud services, the commercial portion of LinkedIn, Dynamics products and cloud services, and Enterp",
+    "text": "Commercial portion of revenue allocated to remaining performance obligations, which includes unearned revenue and amounts that will be invoiced and recognized as revenue in future periods"
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-051",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Commercial portion of revenue allocated to remaining performance obligations, which includes unearned revenue and amounts that will be invoiced and recognized as revenue in future periods",
+    "text": "Revenue from Microsoft 365 Commercial cloud, Azure and other cloud services, the commercial portion of LinkedIn, and Dynamics 365"
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-052",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Metrics related to our Productivity and Business Processes and Intelligent Cloud segments assess the health of our core businesses within these segments. The metrics primarily reflect growth across our cloud services.",
+    "text": "Revenue from Microsoft 365 Commercial subscriptions, comprising Microsoft 365 Commercial, Enterprise Mobility + Security, the cloud portion of Windows Commercial, the per-user portion of Power BI, Exchange, SharePoint, Microsoft Teams, Microsoft 365 Security and Compliance, and Microsoft 365 Copilot"
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-053",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "The number of Microsoft 365 Commercial seats at end of period where seats are paid users covered by a Microsoft 365 Commercial subscription",
+    "text": "Revenue from LinkedIn, including Talent Solutions, Marketing Solutions, Premium Subscriptions, and Sales Solutions"
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-054",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Revenue from LinkedIn, including Talent Solutions, Marketing Solutions, Premium Subscriptions, and Sales Solutions",
+    "text": "Revenue from Dynamics 365, including a set of intelligent, cloud-based applications across ERP, CRM, Power Apps, and Power Automate"
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-055",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Revenue from Dynamics 365, including a set of intelligent, cloud-based applications across ERP, CRM, Power Apps, and Power Automate",
+    "text": "Revenue from Azure and other cloud services, including cloud and AI consumption-based services, GitHub cloud services, Nuance Healthcare cloud services, virtual desktop offerings, and other cloud services"
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-056",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Metrics related to our More Personal Computing segment assess the performance of our key consumer businesses.",
+    "text": "Revenue from sales of Windows Pro and non-Pro licenses sold through the OEM channel and sales of first-party Devices, including Surface and PC accessories"
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-057",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Revenue from sales of Windows Pro and non-Pro licenses sold through the OEM channel and sales of first-party Devices, including Surface and PC accessories",
+    "text": "Revenue from Xbox content and services, comprising first- and third-party content (including games and in-game content), Xbox Game Pass and other subscriptions, Xbox Cloud Gaming, advertising, and other cloud services"
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-058",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Revenue from Xbox content and services, comprising first- and third-party content (including games and in-game content), Xbox Game Pass and other subscriptions, Xbox Cloud Gaming, advertising, and other cloud services",
+    "text": "Revenue from search and news advertising excluding traffic acquisition costs (\u201cTAC\u201d) paid to Bing Ads network publishers and news partners"
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-059",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Revenue from search and news advertising excluding traffic acquisition costs (\u201cTAC\u201d) paid to Bing Ads network publishers and news partners",
+    "text": "Revenue increased $36.6 billion or 15% with growth across each of our segments. Intelligent Cloud revenue increased driven by Azure. Productivity and Business Processes revenue increased driven by Microsoft 365 Commercial cloud. More Personal Computing revenue increased driven by Gaming and Search and news advertising."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-060",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Revenue increased $36.6 billion or 15% with growth across each of our segments. Intelligent Cloud revenue increased driven by Azure. Productivity and Business Processes revenue increased driven by Microsoft 365 Commercia",
+    "text": "Cost of revenue increased $13.7 billion or 19% driven by growth in Microsoft Cloud."
+  },
+  {
+    "chunk_id": "T-MSFT-INVENTORY-002",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Cost of revenue increased $13.7 billion or 19% driven by growth in Microsoft Cloud.",
+    "text": "Gross margin increased $22.9 billion or 13% with growth across each of our segments."
+  },
+  {
+    "chunk_id": "T-MSFT-INVENTORY-003",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Gross margin increased $22.9 billion or 13% with growth across each of our segments.",
+    "text": "\u2022 Gross margin percentage decreased slightly driven by Intelligent Cloud, offset in part by More Personal Computing."
+  },
+  {
+    "chunk_id": "T-MSFT-INVENTORY-004",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Gross margin percentage decreased slightly driven by Intelligent Cloud, offset in part by More Personal Computing.",
+    "text": "\u2022 Microsoft Cloud gross margin percentage decreased to 69% driven by the impact of scaling our AI infrastructure, offset in part by efficiency gains in Azure."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-061",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Operating income increased $19.1 billion or 17% with growth across each of our segments.",
+    "text": "\u2022 Microsoft 365 Commercial products and cloud services revenue increased $10.8 billion or 14%. Microsoft 365 Commercial cloud revenue grew 15% with Microsoft 365 Commercial seat growth of 6% driven by small and medium businesses and frontline worker offerings, as well as growth in revenue per user. Microsoft 365 Commercial products revenue grew 7% driven by the Windows Commercial on-premises components of Microsoft 365 suite sales and an increase in Office transactional purchasing with the launch of Office 2024."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-062",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Microsoft 365 Commercial products and cloud services revenue increased $10.8 billion or 14%. Microsoft 365 Commercial cloud revenue grew 15% with Microsoft 365 Commercial seat growth of 6% driven by small and medium bu",
+    "text": "\u2022 Microsoft 365 Consumer products and cloud services revenue increased $756 million or 11%. Microsoft 365 Consumer cloud revenue grew 11% driven by Microsoft 365 Consumer subscriber growth of 8% to 89.0 million, as well as growth in revenue per user from the price increase announced in January 2025."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-063",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Microsoft 365 Consumer products and cloud services revenue increased $756 million or 11%. Microsoft 365 Consumer cloud revenue grew 11% driven by Microsoft 365 Consumer subscriber growth of 8% to 89.0 million, as well ",
+    "text": "\u2022 LinkedIn revenue increased $1.4 billion or 9% with growth across all lines of business."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-064",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 LinkedIn revenue increased $1.4 billion or 9% with growth across all lines of business.",
+    "text": "\u2022 Dynamics products and cloud services revenue increased $996 million or 15% driven by growth in Dynamics 365, offset in part by a decline in Dynamics on-premises products. Dynamics 365 revenue grew 19% with growth across all workloads."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-065",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Dynamics products and cloud services revenue increased $996 million or 15% driven by growth in Dynamics 365, offset in part by a decline in Dynamics on-premises products. Dynamics 365 revenue grew 19% with growth acros",
+    "text": "\u2022 Cost of revenue increased $2.8 billion or 14% driven by growth in Microsoft 365 Commercial cloud."
+  },
+  {
+    "chunk_id": "T-MSFT-INVENTORY-005",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Cost of revenue increased $2.8 billion or 14% driven by growth in Microsoft 365 Commercial cloud.",
+    "text": "\u2022 Gross margin increased $11.2 billion or 13% driven by growth in Microsoft 365 Commercial cloud. Gross margin percentage decreased slightly primarily driven by the impact of scaling our AI infrastructure, offset in part by efficiency gains in Microsoft 365 Commercial cloud."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-066",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Gross margin increased $11.2 billion or 13% driven by growth in Microsoft 365 Commercial cloud. Gross margin percentage decreased slightly primarily driven by the impact of scaling our AI infrastructure, offset in part",
+    "text": "\u2022 Operating expenses increased $1.1 billion or 4% driven by investments in cloud and AI engineering and commercial sales."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-067",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Operating expenses increased $1.1 billion or 4% driven by investments in cloud and AI engineering and commercial sales.",
+    "text": "\u2022 Server products and cloud services revenue increased $18.6 billion or 23% driven by Azure and other cloud services. Azure and other cloud services revenue grew 34% driven by demand for our portfolio of services. Server products revenue decreased 3% driven by a decrease in transactional purchasing with continued customer shift to cloud offerings."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-068",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Server products and cloud services revenue increased $18.6 billion or 23% driven by Azure and other cloud services. Azure and other cloud services revenue grew 34% driven by demand for our portfolio of services. Server",
+    "text": "\u2022 Enterprise and partner services revenue increased $166 million or 2% driven by growth in Enterprise Support Services, offset in part by a decline in Industry Solutions."
+  },
+  {
+    "chunk_id": "T-MSFT-INVENTORY-006",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Enterprise and partner services revenue increased $166 million or 2% driven by growth in Enterprise Support Services, offset in part by a decline in Industry Solutions.",
+    "text": "\u2022 Gross margin increased $8.2 billion or 14% driven by growth in Azure. Gross margin percentage decreased driven by the impact of scaling our AI infrastructure, offset in part by efficiency gains in Azure."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-069",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Operating expenses increased $1.5 billion or 7% driven by investments in cloud and AI engineering.",
+    "text": "\u2022 Windows and Devices revenue increased $288 million or 2%. Windows OEM and Devices revenue increased 3% driven by growth in Windows OEM, offset in part by a decline in Devices."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-070",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Windows and Devices revenue increased $288 million or 2%. Windows OEM and Devices revenue increased 3% driven by growth in Windows OEM, offset in part by a decline in Devices.",
+    "text": "\u2022 Gaming revenue increased $2.0 billion or 9% driven by growth in Xbox content and services, offset in part by a decline in Xbox hardware. Xbox content and services revenue increased 16% driven by the impact of the Activision Blizzard acquisition and Xbox Game Pass. Xbox hardware revenue decreased 25% driven by lower volume of consoles sold."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-071",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Gaming revenue increased $2.0 billion or 9% driven by growth in Xbox content and services, offset in part by a decline in Xbox hardware. Xbox content and services revenue increased 16% driven by the impact of the Activ",
+    "text": "\u2022 Search and news advertising revenue increased $1.6 billion or 13%. Search and news advertising revenue excluding traffic acquisition costs increased 20% driven by higher search volume and higher revenue per search."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-072",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Search and news advertising revenue increased $1.6 billion or 13%. Search and news advertising revenue excluding traffic acquisition costs increased 20% driven by higher search volume and higher revenue per search.",
+    "text": "\u2022 Cost of revenue increased $346 million or 1% driven by growth in Search and news advertising."
+  },
+  {
+    "chunk_id": "T-MSFT-INVENTORY-007",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Cost of revenue increased $346 million or 1% driven by growth in Search and news advertising.",
+    "text": "\u2022 Gross margin increased $3.5 billion or 13% with growth across all businesses. Gross margin percentage increased with improvement across all businesses."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-073",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Research and development expenses increased $3.0 billion or 10% driven by investments in cloud and AI engineering and Gaming, including the impact of the Activision Blizzard acquisition.",
+    "text": "Sales and marketing expenses include payroll, employee benefits, stock-based compensation expense, and other headcount-related expenses associated with sales and marketing personnel, and the costs of advertising, promotions, trade shows, seminars, and other programs."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-074",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Sales and marketing expenses include payroll, employee benefits, stock-based compensation expense, and other headcount-related expenses associated with sales and marketing personnel, and the costs of advertising, promoti",
+    "text": "Sales and marketing expenses increased $1.2 billion or 5% driven by investments in commercial sales and Gaming, including the impact of the Activision Blizzard acquisition."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-075",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "General and administrative expenses decreased $386 million or 5% driven by Gaming, including the impact of the Activision Blizzard acquisition.",
+    "text": "We use derivative instruments to manage risks related to foreign currencies, interest rates, equity prices, and credit; to enhance investment returns; and to facilitate portfolio diversification. Gains and losses from changes in fair values of derivatives that are not designated as hedging instruments are primarily recognized in other income (expense), net."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-076",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "We expect existing cash, cash equivalents, short-term investments, cash flows from operations, and access to capital markets to continue to be sufficient to fund our operating activities and cash commitments for investin",
+    "text": "Cash, cash equivalents, and short-term investments totaled $94.6 billion and $75.5 billion as of June 30, 2025 and 2024, respectively. Equity and other investments were $15.4 billion and $14.6 billion as of June 30, 2025 and 2024, respectively. Our short-term investments are primarily intended to facilitate liquidity and capital preservation. They consist predominantly of highly liquid investment-grade fixed-income securities, diversified among industries and individual issuers. The investments are predominantly U.S. dollar-denominated securities, but also include foreign currency-denominated securities to diversify risk. Our fixed-income investments are exposed to interest rate risk and credit risk. The credit risk and average maturity of our fixed-income portfolio are managed to achieve economic returns that correlate to certain fixed-income indices. The settlement risk related to these investments is insignificant given that the short-term investments held are primarily highly liquid investment-grade fixed-income securities."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-077",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "A majority of our investments are priced by pricing vendors and are generally Level 1 or Level 2 investments as these vendors either provide a quoted market price in an active market or use observable inputs for their pr",
+    "text": "Cash from operations increased $17.6 billion to $136.2 billion for fiscal year 2025, primarily due to an increase in cash received from customers, offset in part by an increase in cash paid to suppliers and employees and cash used to pay income taxes. Cash used in financing increased $13.9 billion to $51.7 billion for fiscal year 2025, primarily due to a $9.5 billion increase in cash used for repayments of debt, net of proceeds. Cash used in investing decreased $24.4 billion to $72.6 billion for fiscal year 2025, primarily due to a $63.2 billion decrease in cash used for acquisitions of companies, net of cash acquired and divestitures, and purchases of intangible and other assets, offset in part by a $22.3 billion increase in cash used in net investment purchases, sales, and maturities, and a $20.1 billion increase in additions to property and equipment."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-078",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "We issue debt to take advantage of favorable pricing and liquidity in the debt markets, reflecting our credit rating. The proceeds of these issuances were or will be used for general corporate purposes, which may include",
+    "text": "Unearned revenue comprises mainly unearned revenue related to volume licensing programs, which may include cloud services and Software Assurance (\u201cSA\u201d). Unearned revenue is generally invoiced annually at the beginning of each contract period for multi-year agreements and recognized ratably over the coverage period. Unearned revenue also includes payments for other offerings for which we have been paid in advance and earn the revenue when we transfer control of the product or service. Refer to Note 1 \u2013 Accounting Policies of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K)."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-079",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Unearned revenue comprises mainly unearned revenue related to volume licensing programs, which may include cloud services and Software Assurance (\u201cSA\u201d). Unearned revenue is generally invoiced annually at the beginning of",
+    "text": "The following table outlines the expected future recognition of unearned revenue as of June 30, 2025:"
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-080",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "The following table outlines the expected future recognition of unearned revenue as of June 30, 2025:",
+    "text": "If our customers choose to license cloud-based versions of our products and services rather than licensing transaction-based products and services, the associated revenue will shift from being recognized at the time of the transaction to being recognized over the subscription period or upon consumption, as applicable. Refer to Note 12 \u2013 Unearned Revenue of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K)."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-081",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "During fiscal years 2025 and 2024, our Board of Directors declared dividends totaling $24.7 billion and $22.3 billion, respectively. We intend to continue returning capital to shareholders in the form of dividends, subje",
+    "text": "We will continue to invest in sales, marketing, product support infrastructure, and existing and advanced areas of technology, as well as acquisitions that align with our business strategy. Additions to property and equipment will continue, including new facilities, datacenters, and computer systems for research and development, sales and marketing, support, and administrative staff. We will continue to invest in capital expenditures to support growth in our cloud offerings and our investments in AI infrastructure and training. We have operating and finance leases for datacenters, corporate offices, research and development facilities, Microsoft Experience Centers, and certain equipment. We have not engaged in any related party transactions or arrangements with unconsolidated entities or other persons that are reasonably likely to materially affect liquidity or the availability of capital resources."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-082",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Refer to Note 1 \u2013 Accounting Policies of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K).",
+    "text": "Our consolidated financial statements and accompanying notes are prepared in accordance with GAAP. Preparing consolidated financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, and expenses. Critical accounting estimates are those estimates that involve a significant level of estimation uncertainty and could have a material impact on our financial condition or results of operations. We have critical accounting estimates in the areas of revenue recognition, impairment of investment securities, goodwill, research and development costs, legal and other contingencies, and income taxes."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-083",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Our consolidated financial statements and accompanying notes are prepared in accordance with GAAP. Preparing consolidated financial statements requires management to make estimates and assumptions that affect the reporte",
+    "text": "Our contracts with customers often include promises to transfer multiple products and services to a customer. Determining whether products and services are considered distinct performance obligations that should be accounted for separately versus together may require significant judgment. When a cloud-based service includes both on-premises software licenses and cloud services, judgment is required to determine whether the software license is considered distinct and accounted for separately, or not distinct and accounted for together with the cloud service and recognized over time. Certain cloud services, primarily Office 365, depend on a significant level of integration, interdependency, and interrelation between the desktop applications and cloud services, and are accounted for together as one performance obligation. Revenue from Office 365 is recognized ratably over the period in which the cloud services are provided."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-084",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Due to the various benefits from and the nature of our SA program, judgment is required to assess the pattern of delivery, including the exercise pattern of certain benefits across our portfolio of customers.",
+    "text": "Our products are generally sold with a right of return, we may provide other credits or incentives, and in certain instances we estimate customer usage of our products and services, which are accounted for as variable consideration when determining the amount of revenue to recognize. Returns and credits are estimated at contract inception and updated at the end of each reporting period if additional information becomes available. Changes to our estimated variable consideration were not material for the periods presented."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-085",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "The estimates used to calculate the fair value of a reporting unit change from year to year based on operating results, market conditions, and other factors. Changes in these estimates and assumptions could materially af",
+    "text": "Costs incurred internally in researching and developing a software product to be marketed or sold to external users are charged to expense until technological feasibility has been established for the product. Once technological feasibility is established, software costs are capitalized until the product is available for general release to customers. Judgment is required in determining when technological feasibility of a product is established. We have determined that technological feasibility for our software products is reached after all high-risk development issues have been resolved through coding and testing. Generally, this occurs shortly before the products are released to production. The amortization of these costs is included in cost of revenue over the estimated life of the products."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-086",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "The outcomes of legal proceedings and claims brought against us are subject to significant uncertainty. An estimated loss from a loss contingency such as a legal proceeding or claim is accrued by a charge to income if it",
+    "text": "The objectives of accounting for income taxes are to recognize the amount of taxes payable or refundable for the current year, and deferred tax liabilities and assets for the future tax consequences of events that have been recognized in an entity\u2019s financial statements or tax returns. We recognize the tax benefit from an uncertain tax position only if it is more likely than not that the tax position will be sustained on examination by the taxing authorities, based on the technical merits of the position. The tax benefits recognized in the financial statements from such a position are measured based on the largest benefit that has a greater than 50% likelihood of being realized upon ultimate settlement. Accounting literature also provides guidance on derecognition of income tax assets and liabilities, classification of deferred income tax assets and liabilities, accounting for interest and penalties associated with tax positions, and income tax disclosures. Judgment is required in assessing the future tax consequences of events that have been recognized in our consolidated financial statements or tax returns. Variations in the actual outcome of these future tax consequences could materially impact our consolidated financial statements."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-087",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Certain forecasted transactions, assets, and liabilities are exposed to foreign currency risk. We monitor our foreign currency exposures daily to maximize the economic effectiveness of our foreign currency positions, inc",
+    "text": "Securities held in our fixed-income portfolio are subject to different interest rate risks based on their maturities. We manage the average maturity of the fixed-income portfolio to achieve economic returns that correlate to certain global fixed-income indices."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-088",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "The consolidated financial statements include the accounts of Microsoft Corporation and its subsidiaries. Intercompany transactions and balances have been eliminated.",
+    "text": "In August 2024, we announced changes to the composition of our segments. These changes align our segments with how we currently manage our business, most notably bringing the commercial components of Microsoft 365 together in the Productivity and Business Processes segment. Beginning in fiscal year 2025, the information that our chief operating decision maker is regularly provided and reviews for purposes of allocating resources and assessing performance reflects these segment changes. Prior period segment information has been recast to conform to the way we internally manage and monitor our business during fiscal year 2025. These changes primarily impacted Note 8 \u2013 Goodwill, Note 12 \u2013 Unearned Revenue, and Note 18 \u2013 Segment Information and Geographic Data."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-089",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "The recast of prior period information had no impact on our consolidated balance sheets, consolidated income statements, or consolidated cash flows statements.",
+    "text": "Preparing financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, and expenses. Examples of estimates and assumptions include: for revenue recognition, determining the nature and timing of satisfaction of performance obligations, and determining the standalone selling price (\"SSP\") of performance obligations, variable consideration, and other obligations such as product returns and refunds; loss contingencies; the fair value of and/or potential impairment of goodwill and intangible assets for our reporting units; product life cycles; useful lives of our tangible and intangible assets; allowances for doubtful accounts; stock-based compensation forfeiture rates; when technological feasibility is achieved for our products; the potential outcome of uncertain tax positions that have been recognized in our consolidated financial statements or tax returns; and determining the timing and amount of impairments for investments. Actual results and outcomes may differ from management\u2019s estimates and assumptions due to risks and uncertainties."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-090",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Preparing financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, and expenses. Examples of estimates and assumptions include: for reve",
+    "text": "Assets and liabilities recorded in foreign currencies are translated at the exchange rate on the balance sheet date. Revenue and expenses are translated at average rates of exchange prevailing during the year. Translation adjustments resulting from this process are recorded to other comprehensive income."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-091",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Assets and liabilities recorded in foreign currencies are translated at the exchange rate on the balance sheet date. Revenue and expenses are translated at average rates of exchange prevailing during the year. Translatio",
+    "text": "Product revenue includes sales from operating systems, cross-device productivity and collaboration applications, server applications, business solution applications, desktop and server management tools, software development tools, video games, and hardware such as PCs, tablets, gaming and entertainment consoles, other intelligent devices, and related accessories."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-092",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Product revenue includes sales from operating systems, cross-device productivity and collaboration applications, server applications, business solution applications, desktop and server management tools, software developm",
+    "text": "Service and other revenue includes sales from cloud-based solutions that provide customers with software, services, platforms, and content such as Office 365, Azure, Dynamics 365, and gaming; solution support; and consulting services. Service and other revenue also includes sales from online advertising and LinkedIn."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-093",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Service and other revenue includes sales from cloud-based solutions that provide customers with software, services, platforms, and content such as Office 365, Azure, Dynamics 365, and gaming; solution support; and consul",
+    "text": "Revenue is recognized upon transfer of control of promised products or services to customers in an amount that reflects the consideration we expect to receive in exchange for those products or services. We enter into contracts that can include various combinations of products and services, which are generally capable of being distinct and accounted for as separate performance obligations. Revenue is recognized net of allowances for returns and any taxes collected from customers, which are subsequently remitted to governmental authorities."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-094",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Revenue is recognized upon transfer of control of promised products or services to customers in an amount that reflects the consideration we expect to receive in exchange for those products or services. We enter into con",
+    "text": "Licenses for on-premises software provide the customer with a right to use the software as it exists when made available to the customer. Customers may purchase perpetual licenses or subscribe to licenses, which provide customers with the same functionality and differ mainly in the duration over which the customer benefits from the software. Revenue from distinct on-premises licenses is recognized upfront at the point in time when the software is made available to the customer. In cases where we allocate revenue to software updates, primarily because the updates are provided at no additional charge, revenue is recognized as the updates are provided, which is generally ratably over the estimated life of the related device or license."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-095",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Licenses for on-premises software provide the customer with a right to use the software as it exists when made available to the customer. Customers may purchase perpetual licenses or subscribe to licenses, which provide ",
+    "text": "Cloud services, which allow customers to use hosted software over the contract period without taking possession of the software, are provided on either a subscription or consumption basis. Revenue related to cloud services provided on a subscription basis is recognized ratably over the contract period. Revenue related to cloud services provided on a consumption basis, such as the amount of storage used in a period, is recognized based on the customer utilization of such resources. When cloud services require a significant level of integration and interdependency with software and the individual components are not considered distinct, all revenue is recognized over the period in which the cloud services are provided."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-096",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Cloud services, which allow customers to use hosted software over the contract period without taking possession of the software, are provided on either a subscription or consumption basis. Revenue related to cloud servic",
+    "text": "Certain volume licensing programs, including Enterprise Agreements, include on-premises licenses combined with Software Assurance (\u201cSA\u201d). SA conveys rights to new software and upgrades released over the contract period and provides support, tools, and training to help customers deploy and use products more efficiently. On-premises licenses are considered distinct performance obligations when sold with SA. Revenue allocated to SA is generally recognized ratably over the contract period as customers simultaneously consume and receive benefits, given that SA comprises distinct performance obligations that are satisfied over time."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-097",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Certain volume licensing programs, including Enterprise Agreements, include on-premises licenses combined with Software Assurance (\u201cSA\u201d). SA conveys rights to new software and upgrades released over the contract period a",
+    "text": "Revenue from search advertising is recognized when the advertisement appears in the search results or when the action necessary to earn the revenue has been completed. Revenue from consulting services is recognized as services are provided."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-098",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Revenue from search advertising is recognized when the advertisement appears in the search results or when the action necessary to earn the revenue has been completed. Revenue from consulting services is recognized as se",
+    "text": "Our hardware is generally highly dependent on, and interrelated with, the underlying operating system and cannot function without the operating system. In these cases, the hardware and software license are accounted for as a single performance obligation and revenue is recognized at the point in time when ownership is transferred to resellers or directly to end customers through retail stores and online marketplaces."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-099",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Our hardware is generally highly dependent on, and interrelated with, the underlying operating system and cannot function without the operating system. In these cases, the hardware and software license are accounted for ",
+    "text": "Refer to Note 18 \u2013 Segment Information and Geographic Data for further information, including revenue by significant product and service offering."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-100",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Refer to Note 18 \u2013 Segment Information and Geographic Data for further information, including revenue by significant product and service offering.",
+    "text": "Our contracts with customers often include promises to transfer multiple products and services to a customer. Determining whether products and services are considered distinct performance obligations that should be accounted for separately versus together may require significant judgment. When a cloud-based service includes both on-premises software licenses and cloud services, judgment is required to determine whether the software license is considered distinct and accounted for separately, or not distinct and accounted for together with the cloud service and recognized over time. Certain cloud services, primarily Office 365, depend on a significant level of integration, interdependency, and interrelation between the desktop applications and cloud services, and are accounted for together as one performance obligation. Revenue from Office 365 is recognized ratably over the period in which the cloud services are provided."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-101",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Due to the various benefits from and the nature of our SA program, judgment is required to assess the pattern of delivery, including the exercise pattern of certain benefits across our portfolio of customers.",
+    "text": "Our products are generally sold with a right of return, we may provide other credits or incentives, and in certain instances we estimate customer usage of our products and services, which are accounted for as variable consideration when determining the amount of revenue to recognize. Returns and credits are estimated at contract inception and updated at the end of each reporting period if additional information becomes available. Changes to our estimated variable consideration were not material for the periods presented."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-102",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Our products are generally sold with a right of return, we may provide other credits or incentives, and in certain instances we estimate customer usage of our products and services, which are accounted for as variable co",
+    "text": "Timing of revenue recognition may differ from the timing of invoicing to customers. We record a receivable when revenue is recognized prior to invoicing, or unearned revenue when revenue is recognized subsequent to invoicing. For multi-year agreements, we generally invoice customers annually at the beginning of each annual coverage period. We record a receivable related to revenue recognized for multi-year on-premises licenses as we have an unconditional right to invoice and receive payment in the future related to those licenses."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-103",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Timing of revenue recognition may differ from the timing of invoicing to customers. We record a receivable when revenue is recognized prior to invoicing, or unearned revenue when revenue is recognized subsequent to invoi",
+    "text": "Unearned revenue comprises mainly unearned revenue related to volume licensing programs, which may include cloud services and SA. Unearned revenue is generally invoiced annually at the beginning of each contract period for multi-year agreements and recognized ratably over the coverage period. Unearned revenue also includes payments for consulting services to be performed in the future, LinkedIn subscriptions, Office 365 subscriptions, Xbox subscriptions, Windows post-delivery support, Dynamics business solutions, and other offerings for which we have been paid in advance and earn the revenue when we transfer control of the product or service."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-104",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Unearned revenue comprises mainly unearned revenue related to volume licensing programs, which may include cloud services and SA. Unearned revenue is generally invoiced annually at the beginning of each contract period f",
+    "text": "Refer to Note 12 \u2013 Unearned Revenue for further information, including unearned revenue by segment and changes in unearned revenue during the period."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-105",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Refer to Note 12 \u2013 Unearned Revenue for further information, including unearned revenue by segment and changes in unearned revenue during the period.",
+    "text": "Payment terms and conditions vary by contract type, although terms generally include a requirement of payment within 30 to 60 days. In instances where the timing of revenue recognition differs from the timing of invoicing, we have determined our contracts generally do not include a significant financing component. The primary purpose of our invoicing terms is to provide customers with simplified and predictable ways of purchasing our products and services, not to receive financing from our customers or to provide customers with financing. Examples include invoicing at the beginning of a subscription term with revenue recognized ratably over the contract period, and multi-year on-premises licenses that are invoiced annually with revenue recognized upfront."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-106",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Payment terms and conditions vary by contract type, although terms generally include a requirement of payment within 30 to 60 days. In instances where the timing of revenue recognition differs from the timing of invoicin",
+    "text": "As of June 30, 2025 and 2024, long-term accounts receivable, net of allowance for doubtful accounts, was $ 5.2 billion and $ 4.9 billion, respectively, and is included in other long-term assets in our consolidated balance sheets."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-107",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "As of June 30, 2025 and 2024, long-term accounts receivable, net of allowance for doubtful accounts, was $ 5.2 billion and $ 4.9 billion, respectively, and is included in other long-term assets in our consolidated balanc",
+    "text": "As of June 30, 2025 and 2024, other receivables related to activities to facilitate the purchase of server components were $ 8.2 billion and $ 10.5 billion, respectively, and are included in other current assets in our consolidated balance sheets."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-108",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "As of June 30, 2025 and 2024, other receivables related to activities to facilitate the purchase of server components were $ 8.2 billion and $ 10.5 billion, respectively, and are included in other current assets in our c",
+    "text": "We record financing receivables when we offer certain customers the option to acquire our software products and services offerings through a financing program in a limited number of countries. As of June 30, 2025 and 2024, our financing receivables, net were $ 4.3 billion and $ 4.5 billion, respectively, for short-term and long-term financing receivables, which are included in other current assets and other long-term assets in our consolidated balance sheets."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-109",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "We record financing receivables when we offer certain customers the option to acquire our software products and services offerings through a financing program in a limited number of countries. As of June 30, 2025 and 202",
+    "text": "We record an allowance for doubtful accounts which reflects our best estimate of credit losses inherent in the accounts receivable and financing receivable balances. We determine the allowance based on known troubled accounts, historical experience, and other currently available evidence."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-110",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "We record an allowance for doubtful accounts which reflects our best estimate of credit losses inherent in the accounts receivable and financing receivable balances. We determine the allowance based on known troubled acc",
+    "text": "We recognize an asset for the incremental costs of obtaining a contract with a customer if we expect the benefit of those costs to be longer than one year. We have determined that certain sales incentive programs meet the requirements to be capitalized. Total capitalized costs to obtain a contract were immaterial during the periods presented and are included in other current and long-term assets in our consolidated balance sheets."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-111",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "We recognize an asset for the incremental costs of obtaining a contract with a customer if we expect the benefit of those costs to be longer than one year. We have determined that certain sales incentive programs meet th",
+    "text": "We apply a practical expedient to expense costs as incurred for costs to obtain a contract with a customer when the amortization period would have been one year or less. These costs include our internal sales organization compensation program and certain partner sales incentive programs as we have determined annual compensation is commensurate with annual sales activities."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-112",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "We apply a practical expedient to expense costs as incurred for costs to obtain a contract with a customer when the amortization period would have been one year or less. These costs include our internal sales organizatio",
+    "text": "Cost of revenue includes: costs incurred to support and maintain cloud-based and other online products and services, including datacenter costs and royalties; manufacturing and distribution costs for products sold and programs licensed; operating costs related to product support service centers and product distribution centers; traffic acquisition costs to drive traffic to our websites and to acquire online advertising space; and costs associated with the delivery of consulting services."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-113",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Cost of revenue includes: costs incurred to support and maintain cloud-based and other online products and services, including datacenter costs and royalties; manufacturing and distribution costs for products sold and pr",
+    "text": "Research and development expenses include payroll, employee benefits, stock-based compensation expense, and other headcount-related expenses associated with product development. Research and development expenses also include third-party development and programming costs and the depreciation and amortization of assets used to conduct research and development. Such costs related to software development are included in research and development expense until the point that technological feasibility is reached, which for our software products is generally shortly before the products are released to production. Once technological feasibility is reached, such costs are capitalized and amortized to cost of revenue over the estimated lives of the products."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-114",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Research and development expenses include payroll, employee benefits, stock-based compensation expense, and other headcount-related expenses associated with product development. Research and development expenses also inc",
+    "text": "Sales and marketing expenses include payroll, employee benefits, stock-based compensation expense, and other headcount-related expenses associated with sales and marketing personnel, and the costs of advertising, promotions, trade shows, seminars, and other programs. Advertising costs are expensed as incurred. Advertising expense was $ 2.1 billion, $ 1.7 billion, and $ 904 million in fiscal years 2025, 2024, and 2023, respectively."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-115",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Compensation expense for the employee stock purchase plan (\u201cESPP\u201d) is measured as the discount the employee is entitled to upon purchase and is recognized in the period of purchase.",
+    "text": "Income tax expense includes U.S. and international income taxes, and interest and penalties on uncertain tax positions. Certain income and expenses are not reported in tax returns and financial statements in the same year. The tax effect of such temporary differences is reported as deferred income taxes. Deferred tax assets are reported net of a valuation allowance when it is more likely than not that a tax benefit will not be realized. All deferred income taxes are classified as long-term in our consolidated balance sheets."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-116",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "In March 2024, we entered into an agreement with Inflection AI, Inc. (\u201cInflection\u201d), pursuant to which we obtained a non-exclusive license to Inflection\u2019s intellectual property. Reid Hoffman, a member of our Board of Dir",
+    "text": "In November 2023, the Financial Accounting Standards Board (\u201cFASB\u201d) issued a new standard to improve reportable segment disclosures. The guidance expands the disclosures required for reportable segments in our annual and interim consolidated financial statements, primarily through enhanced disclosures about significant segment expenses. We adopted the standard beginning with our annual reporting for fiscal year 2025. The adoption resulted in incremental segment reporting disclosures, most notably disclosure of cost of revenue and operating expenses for each reportable segment. Refer to Note 18 \u2013 Segment Information and Geographic Data."
+  },
+  {
+    "chunk_id": "T-MSFT-INVENTORY-008",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "In December 2023, the FASB issued a new standard to improve income tax disclosures. The guidance requires disclosure of disaggregated income taxes paid, prescribes standardized categories for the components of the effect",
+    "text": "In November 2024, the FASB issued a new standard to expand disclosures about income statement expenses. The guidance requires disaggregation of certain costs and expenses included in each relevant expense caption on our consolidated income statements in a separate note to the financial statements at each interim and annual reporting period, including amounts of purchases of inventory, employee compensation, depreciation, and intangible asset amortization. The standard will be effective for us beginning with our annual reporting for fiscal year 2028 and interim periods thereafter, with early adoption permitted. We are currently evaluating the impact of this standard on our disclosures."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-117",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "The following table outlines maturities of our debt investments as of June 30, 2025:",
+    "text": "We use derivative instruments to manage risks related to foreign currencies, interest rates, equity prices, and credit; to enhance investment returns; and to facilitate portfolio diversification. Our objectives for holding derivatives include reducing, eliminating, and efficiently managing the economic impact of these exposures as effectively as possible. Our derivative programs include strategies that both qualify and do not qualify for hedge accounting treatment."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-118",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Interest rate risks related to certain fixed-rate debt are hedged using interest rate swaps that are designated as fair value hedging instruments to effectively convert the fixed interest rates to floating interest rates",
+    "text": "Securities held in our fixed-income portfolio are subject to different interest rate risks based on their maturities. We manage the average maturity of our fixed-income portfolio to achieve economic returns that correlate to certain broad-based fixed-income indices using option, futures, and swap contracts. These contracts are not designated as hedging instruments and are included in \u201cOther contracts\u201d in the tables below."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-119",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "The valuation allowance disclosed in the table above relates to the foreign net operating loss carryforwards, federal capital loss carryforwards, and other net deferred tax assets that may not be realized.",
+    "text": "Income taxes paid, net of refunds, were $ 28.7 billion, $ 23.4 billion, and $ 23.1 billion in fiscal years 2025, 2024, and 2023, respectively."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-120",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "We have recast certain prior period amounts to conform to the way we internally manage and monitor our business. Refer to Note 1 \u2013 Accounting Policies for further information.",
+    "text": "Revenue allocated to remaining performance obligations, which includes unearned revenue and amounts that will be invoiced and recognized as revenue in future periods, was $ 375 billion as of June 30, 2025, of which $ 368 billion is related to the commercial portion of revenue. We expect to recognize approximately 40 % of our total company remaining performance obligation revenue over the next 12 months and the remainder thereafter."
+  },
+  {
+    "chunk_id": "T-MSFT-INVENTORY-009",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "We have an ESPP for all eligible employees. Shares of our common stock may be purchased by employees at three-month intervals at 90 % of the fair market value on the last trading day of each three-month period. Employees",
+    "text": "As of June 30, 2025, 62 million shares of our common stock were reserved for future issuance through the ESPP."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-121",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "As of June 30, 2025, 62 million shares of our common stock were reserved for future issuance through the ESPP.",
+    "text": "We have savings plans in the U.S. that qualify under Section 401(k) of the Internal Revenue Code, and a number of savings plans in international locations. Eligible U.S. employees may contribute a portion of their salary into the savings plans, subject to certain limitations. We match a portion of each dollar a participant contributes into the plans. Employer-funded retirement benefits for all plans were $ 1.8 billion, $ 1.7 billion, and $ 1.6 billion in fiscal years 2025, 2024, and 2023, respectively, and were expensed as contributed."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-122",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Microsoft 365 Consumer products and cloud services, including Microsoft 365 Consumer subscriptions, Office licensed on-premises, and other consumer services.",
+    "text": "\u2022 LinkedIn, including Talent Solutions, Marketing Solutions, Premium Subscriptions, and Sales Solutions."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE_INVENTORY-002",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Search and news advertising, comprising Bing and Copilot, Microsoft News, Microsoft Edge, and third-party affiliates.",
+    "text": "Revenue and costs are generally directly attributed to our segments. However, due to the integrated structure of our business, certain revenue recognized and costs incurred by one segment may benefit other segments. Revenue from certain contracts is allocated among the segments based on the relative value of the underlying products and services, which can include allocation based on actual prices charged, prices when sold separately, or estimated costs plus a profit margin. Cost of revenue is allocated in certain cases based on a relative revenue methodology. Operating expenses that are allocated primarily include those relating to marketing of products and services from which multiple segments benefit and are generally allocated based on relative gross margin."
+  },
+  {
+    "chunk_id": "T-MSFT-INVENTORY-010",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Revenue and costs are generally directly attributed to our segments. However, due to the integrated structure of our business, certain revenue recognized and costs incurred by one segment may benefit other segments. Reve",
+    "text": "In addition, certain costs are incurred at a corporate level and allocated to our segments. These allocated costs generally include legal, including settlements and fines, information technology, human resources, finance, excise taxes, field selling, shared facilities services, customer service and support, and severance incurred as part of a corporate program. Each allocation is measured differently based on the specific facts and circumstances of the costs being allocated and is generally based on relative gross margin or relative headcount."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-123",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "In addition, certain costs are incurred at a corporate level and allocated to our segments. These allocated costs generally include legal, including settlements and fines, information technology, human resources, finance",
+    "text": "Segment revenue, cost of revenue, operating expenses, and operating income were as follows during the periods presented:"
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-124",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Segment revenue, cost of revenue, operating expenses, and operating income were as follows during the periods presented:",
+    "text": "No sales to an individual customer or country other than the United States accounted for more than 10% of revenue for fiscal years 2025, 2024, or 2023. Revenue, classified by the major geographic areas in which our customers were located, was as follows:"
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-125",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "No sales to an individual customer or country other than the United States accounted for more than 10% of revenue for fiscal years 2025, 2024, or 2023. Revenue, classified by the major geographic areas in which our custo",
+    "text": "(a) Includes billings to OEMs and certain multinational organizations because of the nature of these businesses and the impracticability of determining the geographic source of the revenue."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-126",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "(a) Includes billings to OEMs and certain multinational organizations because of the nature of these businesses and the impracticability of determining the geographic source of the revenue.",
+    "text": "Revenue, classified by significant product and service offerings, was as follows:"
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-127",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Revenue, classified by significant product and service offerings, was as follows:",
+    "text": "Our Microsoft Cloud revenue, which includes Microsoft 365 Commercial cloud, Azure and other cloud services, the commercial portion of LinkedIn, and Dynamics 365, was $ 168.9 billion, $ 137.7 billion, and $ 111.6 billion in fiscal years 2025, 2024, and 2023, respectively. These amounts are included in Microsoft 365 Commercial products and cloud services, Server products and cloud services, LinkedIn, and Dynamics products and cloud services in the table above."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-128",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "The critical audit matters communicated below are matters arising from the current-period audit of the financial statements that were communicated or required to be communicated to the audit committee and that (1) relate",
+    "text": "The Company recognizes revenue upon transfer of control of promised products or services to customers in an amount that reflects the consideration the Company expects to receive in exchange for those products or services. The Company offers customers the ability to acquire multiple licenses of software products and services, including cloud-based services, in its customer agreements through its volume licensing programs."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-129",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "The Company recognizes revenue upon transfer of control of promised products or services to customers in an amount that reflects the consideration the Company expects to receive in exchange for those products or services",
+    "text": "Significant judgment is exercised by the Company in determining revenue recognition for certain customer agreements, and includes the following:"
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-130",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Determination of whether products and services are considered distinct performance obligations that should be accounted for separately versus together, such as software licenses and related services that are sold with ",
+    "text": "\u2022 The pattern of delivery (i.e., timing of when revenue is recognized) for each distinct performance obligation."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-131",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 The pattern of delivery (i.e., timing of when revenue is recognized) for each distinct performance obligation.",
+    "text": "\u2022 Identification and treatment of contract terms that may impact the timing and amount of revenue recognized (e.g., variable consideration, optional purchases, and free services)."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-132",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 Determination of stand-alone selling prices for each distinct performance obligation and for products and services that are not sold separately.",
+    "text": "Given these factors and due to the volume of transactions, the related audit effort in evaluating management's judgments in determining revenue recognition for certain customer agreements was extensive and required a high degree of auditor judgment."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-133",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Given these factors and due to the volume of transactions, the related audit effort in evaluating management's judgments in determining revenue recognition for certain customer agreements was extensive and required a hig",
+    "text": "Our principal audit procedures related to the Company's revenue recognition for certain customer agreements included the following:"
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-134",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Our principal audit procedures related to the Company's revenue recognition for certain customer agreements included the following:",
+    "text": "\u2022 We tested the effectiveness of controls related to the identification of distinct performance obligations, the determination of the timing of revenue recognition, and the estimation of variable consideration."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-135",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "o Obtained and read contract source documents for each selection, including master agreements, and other documents that were part of the agreement.",
+    "text": "o Assessed the terms in the customer agreement and evaluated the appropriateness of management's application of their accounting policies, along with their use of estimates, in the determination of revenue recognition conclusions."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-136",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "\u2022 We evaluated the reasonableness of management's estimate of stand-alone selling prices for products and services that are not sold separately.",
+    "text": "\u2022 We tested the mathematical accuracy of management's calculations of revenue and the associated timing of revenue recognized in the financial statements."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-137",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "Income Taxes \u2013 Uncertain Tax Positions \u2013 Refer to Note 11 to the financial statements",
+    "text": "The Company\u2019s long-term income taxes liability includes uncertain tax positions related to transfer pricing issues that remain unresolved with the Internal Revenue Service (\u201cIRS\u201d). The Company remains under IRS audit, or subject to IRS audit, for tax years subsequent to 2003. During fiscal year 2024, the Company received Notices of Proposed Adjustments (\u201cNOPAs\u201d) for the tax years 2004 to 2013, primarily related to intercompany transfer pricing. While the Company has settled a portion of the IRS audits, resolution of the remaining matters could have a material impact on the Company\u2019s financial statements."
+  },
+  {
+    "chunk_id": "T-MSFT-REVENUE-138",
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "msft-20250630.htm",
+    "preceding_context": "The Company\u2019s long-term income taxes liability includes uncertain tax positions related to transfer pricing issues that remain unresolved with the Internal Revenue Service (\u201cIRS\u201d). The Company remains under IRS audit, or",
+    "text": "Conclusions on recognizing and measuring uncertain tax positions involve significant estimates and management judgment and include complex considerations of the Internal Revenue Code, related regulations, tax case laws, and prior-year audit settlements. Given the complexity and the subjective nature of certain transfer pricing issues that remain unresolved with the IRS, evaluating management\u2019s estimates relating to their determination of uncertain tax positions required a high degree of auditor judgment, including involvement of our tax specialists."
+  }
+]

@@ -1,0 +1,1252 @@
+[
+  {
+    "chunk_id": "T-HD-REVENUE_INVENTORY-001",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Certain statements contained herein, as well as in other filings we make with the SEC and other written and oral information we release, including statements regarding our performance, estimates, expectations, beliefs, i",
+    "text": "Forward-looking statements may relate to, among other things, our brand and reputation; the demand for our products and services, including as a result of macroeconomic conditions and changing customer preferences and expectations; net sales growth; comparable sales; the effects of competition; implementation of interconnected, store, supply chain, technology, innovation and other strategic initiatives, including with respect to real estate; inventory, on-shelf availability, and in-stock positions; the state of the economy; the state of the housing and home improvement markets; the state of the credit markets, including mortgages, home equity loans, and consumer and trade credit; the impact of tariffs; trade policy changes or restrictions, or international trade disputes and efforts and ability to continue to diversify our supply chain; issues related to the payment methods we accept; demand for credit offerings, including trade credit; management of relationships with our associates, jobseekers, suppliers and service providers; cost and availability of labor; costs of fuel and other energy sources; events that could disrupt our business, supply chain, technology infrastructure, or demand for our products and services, such as tariffs, trade policy changes or restrictions or international trade disputes, natural disasters, climate change, public health issues, cybersecurity events, and labor disputes; geopolitical tensions or conflicts, military conflicts, or acts of war; our ability to maintain a safe and secure store environment; our ability to address expectations regarding sustainability and human capital management matters and meet related goals; continuation or suspension of share repurchases; net earnings and margin performance; earnings per share; future dividends; capital allocation and expenditures; productivity; liquidity; ROIC; expense and debt leverage; changes in interest rates; changes in foreign currency exchange rates; commodity or other price inflation and deflation; our ability to issue debt on terms and at rates acceptable to us; the impact and expected outcome of investigations, inquiries, claims, and litigation, including compliance with related settlements; the challenges of operating in international markets; the adequacy of insurance coverage; the effect of accounting charges; the effect of adopting certain accounting standards; the impact of legal and regulatory changes, including executive orders and other administrative or legislative actions, such as changes to tax laws and regulations; store openings and closures; financial outlook; and the impact of acquired companies, including SRS and GMS, on our organization and the ability to recognize the anticipated benefits of completed or pending acquisitions."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-001",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "These statements are not guarantees of future performance and are subject to future events, risks and uncertainties \u2014 many of which are beyond our control, dependent on the actions of third parties, or currently unknown ",
+    "text": "The Home Depot, Inc. is the world\u2019s largest home improvement retailer based on net sales for fiscal 2025. We offer our customers a wide assortment of home improvement products, building materials, lawn and garden products, d\u00e9cor products, and facilities MRO products, in stores and online. We also provide a number of services, including home improvement installation services, and tool and equipment rental. As of the end of fiscal 2025, we o perated 2,359 stor es located throughout the U.S. (including the Commonwealth of Puerto Rico and the territories of the U.S. Virgin Islands and Guam), Canada, and Mexico. The Home Depot stores average approximately 104,000 square feet of enclosed space, with approximately 24,000 additional square feet of outside garden area. We also maintain a network of distribution and fulfillment centers, as well as mobile applications and e-commerce websites in the U.S., Canada, and Mexico. For disclosure purposes, the geographic operating segments of the U.S., Canada and Mexico are aggregated into one reportable segment (the \u201cPrimary segment\u201d)."
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-001",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "The Home Depot, Inc. is the world\u2019s largest home improvement retailer based on net sales for fiscal 2025. We offer our customers a wide assortment of home improvement products, building materials, lawn and garden product",
+    "text": "In fiscal 2024, we acquired SRS, a leading residential specialty trade distribution company across several verticals engaged in the distribution of residential and commercial roofing products and complementary building products, landscape supplies, and swimming pool supplies serving the professional roofer, landscaper, and pool contractor. In fiscal 2025, SRS completed the acquisition of GMS, a leading distributor of specialty building products, including drywall, ceilings, steel framing and other complementary construction products. At the end of fiscal 2025, SRS, which includes GMS, operated over 1,250 locations throughout the U.S. and Canada, most of which have a distribution center, material handling and delivery equipment, and inventory. Following the GMS acquisition, SRS is organized as four different lines of business: roofing and building products, interior and construction products, landscape, and pool. Each line of business was determined to represent an operating segment, none of which are deemed reportable segments."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-002",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "These customers are primarily professional renovators/remodelers, general contractors, homebuilders, maintenance professionals, handymen, property managers, building service contractors and specialty tradespeople, such a",
+    "text": "We have a number of initiatives designed to drive growth with Pros, including those working on both simple and complex projects. We remain focused on providing a customized digital experience tailored to Pros\u2019 needs, a dedicated sales force, a broad and deep assortment of Pro-focused products and brands, an extensive delivery network, our Pro Xtra loyalty program, and enhanced credit offerings. Building on our historical strength as a destination for all Pros, we are continuing to invest in differentiated capabilities that will help us better serve our Pros\u2019 needs, including differentiated fulfillment options, preferred pricing, additional trade credit offerings including our Pro Trade Credit program, more convenient locations and showroom space, and technology tools designed to streamline order management and project planning and management. In fiscal 2024, we acquired SRS, which sells products to specialty trade roofers, landscapers, and pool contractors. The acquisition of GMS by SRS in fiscal 2025 further expanded our ability to serve Pros by adding specialty interior building products such as wallboard, ceilings, steel framing and complementary products for residential and commercial projects. We also provide MRO products and related value-added services to multifamily, hospitality, healthcare, and government housing facilities, among others, primarily through our subsidiary HD Supply."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-003",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "We believe these investments in differentiated capabilities support our goal to serve as the preferred partner for our Pros across their entire project, giving them the choice to streamline their purchasing to optimize e",
+    "text": "Intersecting our DIY customers and our Pros are our DIFM customers. These customers are typically homeowners who use Pros to complete their projects or installations. Currently, we offer installation services in a variety of categories, such as flooring, water heaters, bath, garage doors, cabinets, cabinet makeovers, countertops, sheds, furnaces and central air systems, windows, and window coverings. DIFM customers can purchase these services in our stores, online, or in their homes through in-home consultations. In addition to serving our DIFM customer needs, we believe our focus on Pros who perform services for these customers helps us drive higher product sales."
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-002",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Our merchandising organization delivers product innovation, assortment and value, which reinforces our position as the product authority in home improvement and is one of our distinctive competitive advantages. At the sa",
+    "text": "To keep pace with changing customer expectations and increasing desire for innovation, localization, and personalization, we continue to invest in tools to better leverage our data and drive a deeper level of collaboration with our suppliers. As a result, we continue to focus on enhanced merchandising information technology tools to help us: (1) enhance an interconnected shopping experience tailored to our customers\u2019 shopping intent and location; (2) provide the best value in the market; and (3) optimize our product assortments. Our merchandising team leverages technology and works closely with our inventory and supply chain teams, as well as our suppliers, to manage our assortments, drive innovation, manage the cost environment, and adjust inventory levels to respond to shifts in demand."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-004",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Our industry is highly competitive, highly fragmented, and evolving. As a result, we face competition for customers for our products and services from a variety of retailers (including those operating reseller marketplac",
+    "text": "Both in-store and online, we compete primarily based on customer experience; price; quality; product availability, assortment, and innovation; and delivery options and capabilities. We also compete based on store and branch location and appearance, presentation of merchandise, and ease of shopping experience throughout every step of the project, from inspiration and research to any post-purchase support. Our Pros also look for dedicated sales support, competitive credit and pricing options, project planning tools, professional and reliable deliveries, and product depth and job-lot quantities, particularly for their complex project needs. Furthermore, with respect to delivery options, customers are seeking faster and/or guaranteed delivery times, real-time updates on delivery status, low-price or free shipping, and/or convenient pickup options. Our ability to be competitive on delivery and pickup times, options and costs depends on many factors, as described more fully under \u201cOur Supply Chain\u201d below, and our interconnected strategy."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-005",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Both in-store and online, we compete primarily based on customer experience; price; quality; product availability, assortment, and innovation; and delivery options and capabilities. We also compete based on store and bra",
+    "text": "Our business is subject to seasonal influences. Generally, our highest volume of sales occurs in our second fiscal quarter, as we move into the spring season in the regions in which we operate."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-006",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Our business is subject to seasonal influences. Generally, our highest volume of sales occurs in our second fiscal quarter, as we move into the spring season in the regions in which we operate.",
+    "text": "We continue to enhance our capabilities to provide our customers with a frictionless interconnected shopping experience across our stores, branches, online, on the job site, and in their homes, focusing on continued investments in our mobile applications and websites to enhance the customer experience. When we discuss the \u201cinterconnected experience,\u201d we are referring to our customers\u2019 many touchpoints across our physical and digital assets throughout their entire shopping journey. Home Depot is primarily a project retailer, and it is our goal to help customers solve problems across their entire project. We aim to provide the best experience across our physical and digital assets, throughout the entire shopping journey from inspiration to post-purchase support, and we believe that engagement with customers across different touchpoints has driven increases in sales."
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-003",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "We continue to enhance our capabilities to provide our customers with a frictionless interconnected shopping experience across our stores, branches, online, on the job site, and in their homes, focusing on continued inve",
+    "text": "Enhancements to our digital platforms are critical for our increasingly interconnected customers, who often research products and check available inventory online before visiting one of our stores to view products in person or talk to an associate and then making their purchase either in store or online. While in the store, or following a visit to one of our stores, customers may also go online to access ratings and reviews, compare prices, view our extended assortment, and purchase additional products. Our investments in a truly interconnected experience are focused on bringing together the power of our physical presence and the frictionless interaction of our digital capabilities."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-007",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Enhancements to our digital platforms are critical for our increasingly interconnected customers, who often research products and check available inventory online before visiting one of our stores to view products in per",
+    "text": "A significant majority of the traffic in Home Depot\u2019s digital channels is on mobile devices. Mobile users expect more simplicity and relevancy in their digital interactions. In addition to supporting our DIY and DIFM customers throughout their shopping journeys, our mobile applications and other digital tools can also help serve the needs of Pros, including those working on complex projects. As a result, we have invested in our digital platforms to improve the overall presentation and ease of navigation for our customers. We have also enhanced the \u201cshopability\u201d of an online product by including more information on the product\u2019s landing page, including related products and/or parts of a collection, as well as various fulfillment options. In addition, we are leveraging AI tools to improve our search, recommendations, and chat features, and offering new AI-powered customer-facing tools such as Magic Apron TM , which supports customers and associates with online product and project inquiries, and our AI-powered Blueprint Takeoffs Tool and Material List Builder, which generate project-specific materials lists and quotes. We believe our focus on improving search capabilities, digital functionality, category presentation, product content such as customer product review summaries, project inspiration and support, speed to checkout, and fulfillment options has yielded higher traffic, better conversion and continued sales growth. As our customers expect a more personalized experience, our ability to collect, use, retain, and protect relevant customer data is important to effectively meet their expectations."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-008",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Further, we do not view the interconnected experience as a specific transaction; rather, we believe it encompasses an entire journey from inspiration and know-how, to purchase and fulfillment, to post-purchase support. C",
+    "text": "Our stores remain the hub of our business, and we continue to invest to improve the customer shopping experience through easier navigation and increased convenience and speed of checkout. In fiscal 2025, we continued to leverage the investments made in our store experience over the past several years to operate effectively and meet customer expectations, as well as investing in dedicated teams to better meet the needs of our Pros in-store. We have also empowered our customers with additional self-help tools, including mobile application-enabled store navigation and Magic Apron. Our Home Depot mobile application provides store-specific maps that allow customers to pinpoint the exact location of an item on their mobile devices. We also recognize that another critical part of delivering an excellent customer experience in the store is having products on our shelves, and we have enhanced our use of technology such as Computer Vision, which provides greater visibility into where product is located, including both on shelves and in the overhead space, enabling us to drive higher on-shelf availability. We believe these investments are driving higher customer satisfaction scores, and we will continue to invest to improve the customer experience. In addition, we have identified areas that have experienced significant population growth or where market voids exist. In fiscal 2023, we initiated a plan to open approximately 80 new stores over a five-year period to address those opportunities, and in fiscal 2025, w e opened 12 new s tores . We expect to complete this goal of approximately 80 new stores in fiscal 2027, after which point we plan to open approximately 15 to 20 new stores per year. These new stores will continue to help relieve pressure at existing high-volume stores and add capacity in areas with less store coverage, helping us to improve the customer experience and drive sales growth."
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-004",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Our stores remain the hub of our business, and we continue to invest to improve the customer shopping experience through easier navigation and increased convenience and speed of checkout. In fiscal 2025, we continued to ",
+    "text": "Investing in the Associate Experience. We continually strive to improve our store operations by removing complexity and inefficient processes, allowing our associates to spend more of their time serving our customers. To this end, we have continued to focus on process improvements like optimizing product flow to improve on-shelf availability and reduce the amount of time store associates spend locating products, as well as expanding in-aisle, real-time mobile learning tools for our associates\u2019 development and assistance with customer questions. Our associates are also using web-enabled handheld devices to help them more efficiently meet the needs of the business and serve customers. These digital \u201chdPhone\u201d devices offer enhanced functionality that allows associates to readily query inventory, access applications that support customer service, and assist with locating products. Our"
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-005",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "We continue to focus on building best-in-class competitive advantages in our supply chain to be responsive to our customers\u2019 expectations for how, when and where they choose to receive our products and services. As part ",
+    "text": "We centrally forecast and replenish the vast majority of our Home Depot store products through sophisticated inventory management systems and utilize our network of distribution centers to serve both our stores\u2019 and customers\u2019 needs. Our supply chain includes multiple distribution center platforms in the U.S., Canada, and Mexico that are tailored to meet the needs of our stores and customers based on types of products, location, transportation, and delivery requirements. These include rapid deployment centers, stocking distribution centers, bulk distribution centers, FDCs, and direct fulfillment centers, among others. Over the past several years, we have invested to further automate and mechanize our rapid deployment center network to drive greater efficiency and faster movement of product."
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-006",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "In addition to our distribution and fulfillment centers, we leverage our stores as a network of convenient customer pickup, return, and delivery fulfillment locations. We believe our premium real estate footprint provide",
+    "text": "continue to focus on developing new capabilities to improve both efficiency and customer experience for delivery from our stores and branches. Our strategic intent is to have a portfolio of efficient, timely and reliable sources and methods of delivery to choose from, optimizing order fulfillment and delivery based on customer needs, inventory locations, and available transportation options."
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-007",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "We view sustainability and human capital management matters through the lens of our business, with an understanding that if we support our associates, our customers, our suppliers, and the communities we serve, we also s",
+    "text": "Our culture and our associates provide intangible and hard-to-replicate competitive advantages, which have been key to helping us navigate challenging market conditions. Our associates are essential to providing the experience and service that our customers expect. To preserve and protect that customer experience, we focus on cultivating a compelling associate experience, which we believe supports our ability to attract and retain our associates. This includes investing in competitive wages and benefits while also providing the culture, tools, training, and development opportunities that make working at The Home Depot an enjoyable and rewarding experience. These actions are the foundation of our core values of Taking Care of our People, Entrepreneurial Spirit, Building Strong Relationships, and Respect for all People."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-009",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "These competitors range from traditional brick-and-mortar, to multichannel, to exclusively online, and they include a number of other home improvement retailers; local, regional and national hardware stores; electrical, ",
+    "text": "We compete primarily based on customer experience; price; quality; product availability, assortment, and innovation; and delivery options and capabilities, both in-store and online. We also compete based on store and branch location and appearance, presentation of merchandise, and ease of shopping experience throughout every step of the customer\u2019s project, from inspiration and research to any post-purchase support. Our Pros also look for dedicated sales support, competitive credit and pricing options, project planning tools, professional and reliable deliveries, and product depth and job lot quantities, particularly for their complex project needs. Furthermore, with respect to delivery options, customers are seeking faster and/or guaranteed delivery times, real-time updates on delivery status, low-price or free shipping, and/or convenient pickup options. Our ability to be competitive on delivery and pickup times, options and costs depends on many factors, including leveraging the momentum of our investments in our supply chain and our interconnected capabilities to further enhance the customer shopping experience. Failure to successfully manage these factors and offer competitive delivery and pickup options could negatively impact the demand for our products and services and our profit margins."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE_INVENTORY-002",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "We may not timely identify or effectively respond to customer needs, expectations or trends, which could adversely affect our relationship with our customers, the demand for our products and services, and our market shar",
+    "text": "The success of our business depends on our ability to identify and respond promptly to evolving trends in demographics and shifts in customer preferences, expectations and needs, while also managing appropriate inventory levels in our stores, branches and distribution or fulfillment centers and maintaining an excellent customer experience. These trends include those driven by changes in the macroeconomic or political environment, geopolitical tensions or conflicts, military conflicts, or civil unrest, as well as unexpected weather conditions, natural disasters, or public health issues (including pandemics or quarantines and related impacts) that impact our customers. It is difficult to successfully predict the products and services our customers will demand. As our customers expect a more personalized experience, our ability to collect, use, retain, and protect relevant customer data is important for effectively meeting their expectations. Our ability to collect and use that data, however, is subject to a number of external factors, including the impact of legislation or regulations governing data privacy, data-driven technologies such as AI, and data security, as well as customer expectations around data collection, retention, and use. In addition, each of our primary customer groups has different needs and expectations, many of which evolve as the demographics in a particular customer group change. Customer preferences and expectations related to sustainability of products and operations are also changing. If we do not successfully differentiate the shopping experience to attract our customers and meet their individual needs and expectations, it may adversely impact our sales or our market share."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-010",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "The success of our business depends on our ability to identify and respond promptly to evolving trends in demographics and shifts in customer preferences, expectations and needs, while also managing appropriate inventory",
+    "text": "Customer expectations about the methods by which they find, evaluate, purchase and receive products or services are also evolving. Customers routinely and increasingly use technology and a variety of electronic devices and digital platforms to rapidly gather inspiration, compare products and prices, read product reviews, determine real-time product availability, and purchase products. New channels and tools to enhance the customer experience appear and change rapidly, and some of those technologies, such as generative and agentic AI tools, may dramatically change customer shopping and buying habits. Our Pros also look for additional capabilities, including dedicated sales support, competitive credit and pricing options, project planning tools, professional and reliable deliveries, and product depth and job lot quantities, particularly for their complex project needs. Once products are purchased, customers seek alternate options for delivery of those products, including advance ordering through digital platforms for Pros, and they often expect quick, timely, and low-price or free delivery, real-time updates on delivery status, and/or convenient pickup or delivery options. We must continually anticipate and adapt to these changes in the planning, shopping and purchasing process by continuing to adjust and enhance the online and in-store customer experience as well as our delivery options. The coordinated operation of our network of physical stores, branches, distribution facilities, and online platforms is fundamental to the success of our interconnected strategy. We cannot guarantee that our current or future fulfillment options will be maintained and implemented successfully or that we will be able to meet customer expectations on delivery or pickup times, options and costs. In addition, as our customers continue to leverage our enhanced interconnected and fulfillment options, a greater concentration of online sales with direct fulfillment could result in a reduction in the amount of traffic in our stores, which would, in turn, reduce the opportunities for cross-selling of merchandise that such traffic creates and could reduce our overall sales and adversely affect our financial performance. A greater concentration of online sales with direct fulfillment could also impact our profit margins."
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-008",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Customer expectations about the methods by which they find, evaluate, purchase and receive products or services are also evolving. Customers routinely and increasingly use technology and a variety of electronic devices a",
+    "text": "Failure to provide a relevant and effective customer experience in a timely manner that keeps pace with technological developments and dynamic customer expectations; to maintain appropriate inventory; to provide quick and cost-effective or free delivery alternatives, real-time updates on delivery status, and convenient pickup options; to differentiate the customer experience for our primary customer groups; to effectively implement an appropriately localized merchandising assortment; or to otherwise timely identify or respond to changing customer preferences, expectations and home improvement needs could adversely affect our relationship with our customers, the demand for our products and services, and our market share."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-011",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "The execution of initiatives to deliver our interconnected experience could adversely impact our business operations or financial results, and these initiatives might not provide the anticipated benefits.",
+    "text": "Over the past several years, we have made significant investments to deliver a frictionless interconnected experience, including enhancing and expanding our supply chain, developing differentiated capabilities for our customers, including enhancements and improvements to our digital capabilities, expanding our store base, and making strategic acquisitions. These investments are designed to streamline our operations to allow our associates to continue to provide high-quality service to our customers; simplify customer interactions; provide our customers with a more interconnected experience; expand our sales to Pros and better address their needs for complex projects; and create the fastest, most efficient, and most reliable delivery network for home improvement products."
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-009",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Executing our interconnected experience requires continual investment in our operations and information technology systems, as well as the development and execution of new processes, systems and support. In addition, our",
+    "text": "We must effectively manage the volume, timing, nature, location, and cost of our investments, projects and changes. Failure to continue to make investments to effectively support our strategy and to implement or integrate those investments in the right manner and at the right pace could adversely impact our business operations or financial results. The cost and potential problems, defects of design, and interruptions associated with the implementation of these initiatives, including those associated with managing third-party service providers, employing new online tools and services, implementing new technologies using AI, implementing and restructuring support systems and processes, securing appropriate store and other facility locations, and addressing impacts on inventory levels, could disrupt or reduce the efficiency of our operations in the near term, lead to product availability issues, create complexity in our systems and operations and impact our profitability. Our investments to enhance our interconnected experience, including investments in our store base, supply chain, and differentiated capabilities, including our digital assets, might not provide the anticipated benefits, or might take longer than expected to complete, integrate or realize anticipated benefits, any of which could adversely impact our competitive position and our financial condition, results of operations, or cash flows."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE_INVENTORY-003",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "If we are unable to effectively manage and expand our strategic alliances and relationships with certain suppliers of both brand name and proprietary products, we may be unable to effectively execute our strategy to diff",
+    "text": "As part of our focus on product differentiation, we have formed strategic alliances and exclusive relationships with certain suppliers to market products under a variety of well-recognized brand names. We have also developed relationships with certain suppliers to allow us to offer proprietary products that are comparable to national brands. These proprietary products help differentiate us from other retailers and generally carry higher margins than national brand products. If we are unable to effectively manage and expand these strategic alliances and relationships, maintain favorable terms with current suppliers, or identify alternative sources for comparable brand name and proprietary products, we may not be able to effectively execute product differentiation, which may impact our sales and gross margin. Additionally, our suppliers\u2019 business practices and positions may also be attributed to us, regardless of the Company\u2019s actions, meaning that controversies regarding our suppliers of brand name or proprietary products could pose risks to our reputation and brand, and may require us to quickly identify alternative sources for comparable products."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-012",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Our strategic transactions involve risks, which could have an adverse impact on our business, financial condition and results of operations, and we may not realize the anticipated benefits of these transactions.",
+    "text": "We regularly consider and enter into strategic transactions, including mergers, acquisitions, investments, alliances, and other growth and market expansion strategies. We generally expect that these transactions will result in sales increases, cost savings, synergies, enhanced capabilities, and/or various other benefits. Assessing the viability and realizing the benefits of these transactions is subject to significant uncertainty. For each of our acquisitions, we need to determine the appropriate level of integration of the target company\u2019s products, services, associates, and information technology, financial, human resources, compliance, and other systems and processes, and then successfully manage that integration into our corporate structure. Integration is a complex and time-consuming process, and if the integration is not fully successful or is delayed for a material period of time, we may not achieve the anticipated synergies, cost savings, enhanced capabilities, or other benefits of the acquisition. In addition, the integration of businesses may create increased complexity in our financial systems, internal controls, technology and cybersecurity systems, and operations and may make them more difficult to manage. Even if the target companies are successfully integrated, the acquisitions may fail to further our business strategy as anticipated, expose us to increased competition or challenges with respect to our products or services, and expose us to additional or unanticipated risks and liabilities. Strategic transactions may also be subject to significant regulatory uncertainty, and changes in the regulatory landscape may result in additional costs or delays that affect the anticipated outcome of a transaction. Any failure in the execution of a strategic transaction or investment, our approach to the integration of an acquired asset or business, our ability to integrate new associates, or achievement of anticipated synergies or other benefits could result in slower growth, higher than expected costs, the recording of an impairment of goodwill or other intangible assets or restructuring costs, and other actions which could adversely affect our business, financial condition and results of operations."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE_INVENTORY-004",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "A failure of one or more key elements of our technology infrastructure, including associated systems or processes, could adversely affect our business, financial results, and reputation.",
+    "text": "We rely extensively on our technology infrastructure, including associated information technology systems, applications, processes, and related personnel to operate our day-to-day business and to collect, use, retain, manage, transmit, and protect transactions and data. Some of these systems are managed or provided by third-party service providers, including certain cloud platform providers. In managing our business, we also rely heavily on the integrity of, security of, and consistent access to, systems that provide operational and financial data and capabilities related to sales (both in store and online), customer data, supplier data, associate data, jobseeker data, partner data, demand forecasting, merchandise ordering, inventory replenishment, supply chain management, payment processing, order fulfillment, customer service, and post-purchase support. For these information technology systems, applications, and processes to operate effectively, we or our service providers must maintain and update them. Delays in the maintenance, updates, upgrading, or patching of these systems, applications or processes, as well as the actions taken to maintain, update, upgrade and patch, could, and on occasion have, impaired their operation and effectiveness or exposed us to security risks. Our technology infrastructure and the third-party systems with which we interact, as well as any systems those third parties utilize, are subject to, and on occasion have experienced, damage, interruption, or malicious activity from a number of causes, including power and other critical infrastructure outages; computer and telecommunications failures; computer viruses; data or security breaches; internal or external data theft or misuse; cyber-attacks, including the use of malicious codes, worms, phishing, smishing, vishing, spyware, denial of service attacks, and ransomware; responsive containment measures by us that may involve voluntarily taking systems offline; natural disasters and catastrophic events such as fires, floods, earthquakes, tornadoes, hurricanes, or other extreme weather events; public health concerns, such as pandemics and quarantines; geopolitical tensions or conflicts, military conflicts, acts of war, terrorism or civil unrest; other systems outages; inadequate or ineffective redundancy; and design or usage errors or malfeasance by our associates, contractors or third-party service providers. In addition, as more business activities have shifted online, and as certain of our support center associates work in a remote or hybrid environment, we continue to face an increased risk due to the potential failure of internal or external technology infrastructure as well as increased cybersecurity threats and attempts to breach our security networks."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-013",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Although we and our third-party service providers seek to maintain our respective technology infrastructure and related systems and processes effectively and to successfully address the risk of compromise of their integr",
+    "text": "In addition, we are currently making, and expect to continue to make, substantial investments in our technology infrastructure, systems, processes, and personnel, in certain cases with the assistance of strategic partners and other third-party service providers. These investments involve replacing existing systems, some of which are older, legacy systems that are less flexible and efficient, with successor systems, and updating applications and websites; outsourcing certain technology and business processes to third-party service providers; making changes to existing systems, including the migration of applications to the cloud; maintaining or enhancing legacy systems that are not currently being replaced; designing or cost-effectively acquiring new systems with new functionality; or testing, developing and deploying AI tools, including generative AI. These efforts could result, and on occasion have resulted, in significant potential risks, including failure of the technology infrastructure to operate as designed, unexpected impacts on related systems or processes, potential loss or corruption of data, failures in security processes and internal controls, cost overruns, implementation delays or errors, disruption of operations, and the potential inability to meet business and reporting requirements. Any technology infrastructure implementation and transition difficulty may result in operational challenges, security or internal control failures, reputational harm, lost sales, increased costs, or other financial losses that could adversely affect our business, our relationships with our customers, and results of operations."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-014",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "In addition, we are currently making, and expect to continue to make, substantial investments in our technology infrastructure, systems, processes, and personnel, in certain cases with the assistance of strategic partner",
+    "text": "Disruptions in our customer-facing technology infrastructure could impair our interconnected experience strategy and give rise to negative customer experiences, damage our brand and reputation and adversely impact our sales."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-015",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Disruptions in our customer-facing technology infrastructure could impair our interconnected experience strategy and give rise to negative customer experiences, damage our brand and reputation and adversely impact our sa",
+    "text": "Through our technology infrastructure, we are able to provide an improved overall shopping and interconnected experience that empowers our customers to shop and interact with us from a variety of electronic devices and digital platforms at each stage of their shopping journey. We use our digital platforms as sales channels for our products and services, as methods of providing inspiration, and as sources of product, project, and other relevant information to our customers to help drive sales. In addition to supporting our DIY and DIFM customers, we make other resources available that are designed to serve the needs of Pros, including those working on complex projects. We also have multiple online communities, digital platforms, and knowledge centers that allow us to inform, assist and interact with our customers. The retail industry is continually evolving and expanding, with a significant increase in sales initiated online and via mobile applications in recent years. We may not be successful at managing this increased volume and related delivery options without interruption in the future. Additionally, we must effectively respond to new developments and changing customer preferences with respect to a complex, evolving digital and interconnected experience, including adopting AI tools and other technology innovations to better serve our customers. We continually seek to enhance all of our online and digital platforms to provide a personalized, user-friendly interface for our customers. Disruptions, delays, failures, inaccuracies, or other performance issues in or with our customer-facing technology systems, either due to increased volumes, system or other technology modifications, cybersecurity incidents or attacks, information technology outages or other interruptions, launches of new or emerging technologies; or other factors, or a failure of these systems to meet our or our customers\u2019 expectations, could impair the value they provide, damage our brand and reputation, and adversely impact our sales."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE_INVENTORY-005",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Disruptions in our supply chain and other factors affecting the availability and distribution of our merchandise could adversely impact our business, financial results, and reputation.",
+    "text": "Disruptions within our logistics or supply chain network, such as the industry-wide supply chain challenges that resulted from the COVID-19 pandemic, have adversely affected and may in the future adversely affect, our ability to receive and deliver inventory in a timely manner, impair our ability to meet customer demand for products, and result in lost sales, increased costs, and/or damage to our reputation. Such disruptions may result, and on occasion have resulted, from damage or destruction to our distribution or fulfillment centers or those of our supply chain service providers; weather-related events; cybersecurity incidents or attacks; information technology outages or other interruptions; natural disasters; international trade disputes, trade policy changes or restrictions, or import- or export-related governmental sanctions or restrictions; customs actions, including regulatory enforcement inquiries, holds, detentions, and exclusions; quotas, tariffs or other import-related taxes; strikes, lock-outs, work stoppages or slowdowns; shortages of supply chain labor, including truck drivers; shipping capacity constraints, including shortages of related equipment; raw material or other shortages; third-party contract disputes or inability to maintain favorable contract terms; supply or shipping interruptions or costs; increased costs or unavailability of fuel; political instability; geopolitical tensions or conflicts, or military conflicts or acts of war, as well as any related sanctions or other government or private responses; acts of terrorism; civil unrest; public health issues, including pandemics or quarantines and other related impacts; or other factors beyond our control. In recent years, ports in the U.S. and elsewhere have been impacted by capacity constraints, port congestion and delays, periodic labor disputes, strikes, security issues, weather-related events, and natural or man-made disasters."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-016",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "We and our suppliers have experienced, and may experience in the future, labor shortages at some of our distribution and fulfillment centers both due to the competitive labor market and unexpected events such as pandemic",
+    "text": "Any of these circumstances could impair our ability to meet customer demand for products and result in lost sales, increased costs, or damage to our reputation, any of which could negatively impact our business performance or financial condition."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-017",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Any of these circumstances could impair our ability to meet customer demand for products and result in lost sales, increased costs, or damage to our reputation, any of which could negatively impact our business performan",
+    "text": "Failure to maintain a safe and secure shopping and working environment may adversely impact sales, costs, the customer and associate experience, and our brand and reputation."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE_INVENTORY-006",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Failure to maintain a safe and secure shopping and working environment may adversely impact sales, costs, the customer and associate experience, and our brand and reputation.",
+    "text": "Our customers and associates expect a safe and secure environment in which to shop and work, and maintaining that environment helps protect against inventory losses (also called \u201cshrink\u201d), including due to theft. Like other retailers, we saw heightened shrink in recent years, particularly as a result of organized retail crime. While we have a number of initiatives in place to address shrink, minimize theft, and maintain safety in and around our stores and other facilities, these efforts require operational changes that may increase costs and reduce margins, and they can negatively impact the customer or associate experience. Furthermore, an unsafe environment or negative publicity regarding the Company or regarding incidents in or around our stores and/or other facilities, such as civil unrest, raids, protests, or similar activities, may diminish trust and confidence with customers, associates, and jobseekers, which can adversely impact traffic in our stores, sales, associate recruiting, morale, and retention, and our brand and reputation."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-018",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Our business, like that of most retailers, involves the collection, use, retention, management, transmission, and deletion of personal information (including identifiers, localization, internet activity, preferences, and",
+    "text": "The ever-evolving cybersecurity threat landscape means that we and our third-party service providers and business partners must continually evaluate and adapt our respective systems and processes and overall security environment, as well as those of companies we or they acquire. There is no guarantee that the measures we take will be adequate to safeguard against all threats, including vulnerabilities, data security breaches, system compromises or misuses or loss of data. As we have experienced in the past, any significant compromise or breach of our data security, whether external or internal, or misuse of customer, associate, jobseeker, business partner, or Company data, could result in significant costs, including costs to investigate, mitigate, and remediate, as well as lost sales, fines, lawsuits, regulatory investigations, and damage to our reputation. Additionally, as we have experienced in the past, we or our third-party service providers may not discover any vulnerability, data security breach, system compromise, or data misuse or loss for a significant period of time after the occurrence of a security incident. When our systems or those of our third-party service providers on which we rely are breached or attacked, we may also suffer, and on some occasions have suffered, an outage, failure, or unavailability of data or information technology systems, cessations of service, and interruptions to our business operations while such breach or attack is being remedied; this may impact data or systems operated by us or by third-party service providers. Furthermore, our cyber insurance coverage may not be adequate for liabilities or costs actually incurred, and we cannot be certain that insurance will continue to be available to us on economically reasonable terms, or at all, or that any insurer will not deny coverage of a future claim."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-019",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "We are subject to payment-related risks that could increase our operating costs, expose us to fraud or theft, subject us to potential liability, and potentially disrupt our business.",
+    "text": "We accept payments using a variety of methods, including credit and debit cards, our PLCCs, cash, electronic payments, checks, digital wallets, loan programs including installment loans, trade credit, and gift cards, and we may offer new payment options over time. As we offer new payment options to our customers, we may be subject to additional rules, regulations, and compliance requirements, and higher fraud losses. Acceptance of these payment options subjects us to rules, regulations, contractual obligations and compliance requirements, including payment network rules and operating guidelines, data security standards and certification requirements, and rules governing electronic funds transfers. These rules and requirements may change over time or be reinterpreted, making compliance more difficult, costly, or uncertain. For certain payment methods, including credit and debit cards, we pay interchange fees and other costs to accept these payments, and we may also incur losses, all of which may increase over time and raise our operating costs. We rely on third parties to provide payment processing services, including the processing of credit cards, debit cards, and other forms of electronic payment. If these companies become unable to provide these services to us, or if their systems are compromised or do not operate as intended, it could disrupt our business. The payment methods that we offer, and the selling channels in which we operate, also subject us to fraud and theft by threat actors, who are becoming increasingly more sophisticated, including by using means such as AI, seeking to obtain unauthorized access to or exploit weaknesses that may exist in our sales, payments, and payment processing systems. If we fail to comply with applicable rules or requirements for the payment methods we accept, or if payment-related data is compromised due to a breach or misuse of data, we may be liable for costs incurred by payment card issuing banks and other third parties or we may be subject to fines and higher transaction fees, or our ability to accept or facilitate certain types of payments may be impaired."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-020",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "We accept payments using a variety of methods, including credit and debit cards, our PLCCs, cash, electronic payments, checks, digital wallets, loan programs including installment loans, trade credit, and gift cards, and",
+    "text": "Trade credit offerings are an important part of serving Pros, including SRS customers, and we anticipate expanding our Pro Trade Credit program as we further develop our capabilities. If we fail to offer attractive terms or services, or employ underwriting criteria that are not competitive, our ability to grow our sales to these Pros may be adversely impacted. If our Pros are unable to make their payments, we may experience losses. In addition, our customers could lose confidence in certain payment types, or may expect or demand payment methods that we do not currently offer, which could result in competitive disadvantages or require a shift to other payment types or potential changes to our payment systems that may result in higher costs or present other risks. As a result, our business and operating results could be adversely affected."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-021",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Trade credit offerings are an important part of serving Pros, including SRS customers, and we anticipate expanding our Pro Trade Credit program as we further develop our capabilities. If we fail to offer attractive terms",
+    "text": "Natural disasters, unseasonable, unexpected or extreme weather conditions, as well as other catastrophic or uncharacteristic events, could impact our operations and financial results, seasonal events such as storms may impact sales compared to prior periods, and the potential impacts of catastrophic or uncharacteristic events may lead to changes in demand or availability of products or cause business interruptions."
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-010",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Natural disasters, such as hurricanes, tropical storms, fires, floods, droughts or water scarcity, tornadoes, and earthquakes; unseasonable, unexpected or extreme weather conditions; acts of terrorism or violence, includ",
+    "text": "affect consumer spending and confidence and consumers\u2019 disposable income, particularly with respect to home improvement or construction projects. They can also adversely affect our work force and prevent associates and customers from reaching our stores, branches and other facilities. They can, temporarily or on a long-term basis, disrupt or disable the operations of stores, branches, other facilities and support centers, and portions of our supply chain and distribution network, including causing reductions in the availability of inventory and disruptions of utility services. In addition, these events may affect our information systems and digital platforms, resulting in disruptions to various aspects of our operations, including our ability to transact with customers and fulfill orders; to communicate with our stores, branches, other facilities or support centers or senior management; or to access financial or banking systems. Unseasonable, unexpected or extreme weather conditions such as excessive precipitation, warm temperatures during the winter season, or prolonged or extreme periods of warm or cold temperatures could render a portion of our inventory incompatible with customer needs and adversely impact our financial results."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-022",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "affect consumer spending and confidence and consumers\u2019 disposable income, particularly with respect to home improvement or construction projects. They can also adversely affect our work force and prevent associates and c",
+    "text": "Demand for certain of our products has historically been influenced by the occurrence of seasonal events, such as storms. The impact of these events on our sales varies depending on their location, frequency and magnitude. Sustained periods without such events can lead, and in the past have led, to lower sales compared to prior periods."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE_INVENTORY-007",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Furthermore, the potential long-term impacts of climate change, whether involving physical risks (such as extreme weather conditions) or transition risks (such as regulatory or technology changes), could be widespread an",
+    "text": "As a consequence of these or other catastrophic or uncharacteristic events, we may experience interruption to our operations, increased costs, changes in customer behavior or demand, or losses of property, equipment or inventory, any of which could adversely affect our sales and profitability."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE_INVENTORY-008",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "If we fail to identify and develop relationships with a sufficient number of qualified suppliers, or if our suppliers experience financial difficulties or other challenges, our ability to timely and efficiently access pr",
+    "text": "We buy our products from suppliers located around the world, who in turn procure materials from across the globe. Our ability to continue to identify and develop relationships with qualified suppliers who can meet our standards for quality and responsible sourcing, as well as our need to access products in a timely and efficient manner, is a significant challenge. Our ability to access products from our suppliers can be, and on occasion has been, adversely affected by economic or political instability; civil unrest; geopolitical tensions or conflicts, or military conflicts or acts of war, as well as any related sanctions or other government or private responses; acts of terrorism or violence; public health issues (including pandemics and related impacts); the financial instability of suppliers; suppliers\u2019 noncompliance with applicable laws; contract disputes or inability to maintain favorable contract terms; trade restrictions; tariffs; currency exchange rates; disruptions in our suppliers\u2019 logistics or supply chain networks or information technology systems; inability to sell certain products due to customs actions, including regulatory enforcement inquiries, holds, detentions, and exclusions; raw material or other shortages; actual, potential or perceived noncompliance with our standards for suppliers or other controversies regarding suppliers\u2019 business practices or operations; and other factors beyond our or our suppliers\u2019 control. If we are unable to access products to meet our customers\u2019 demands and expectations in a timely and efficient manner, our sales and gross margin may be adversely impacted."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-023",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "We buy our products from suppliers located around the world, who in turn procure materials from across the globe. Our ability to continue to identify and develop relationships with qualified suppliers who can meet our st",
+    "text": "Failure to achieve and maintain a high level of product and service quality and safety and ensure compliance with responsible sourcing laws and standards could damage our reputation with customers, expose us to litigation or enforcement actions, and negatively impact our sales and results of operations."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-024",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Failure to achieve and maintain a high level of product and service quality and safety and ensure compliance with responsible sourcing laws and standards could damage our reputation with customers, expose us to litigatio",
+    "text": "Product and service quality issues could negatively impact customer confidence in our brands and the Company. If our product and service offerings, including those of our suppliers, do not meet applicable product standards or our customers\u2019 expectations regarding safety, quality , security, or responsible business practices, we could experience lost sales and increased costs and be exposed to legal, financial and reputational risks, as well as governmental enforcement actions. Actual, potential or perceived product safety or security concerns, including health- or privacy- related concerns, could expose, and in some cases have exposed, us to litigation or governmental enforcement actions, and could result in costly product recalls and other liabilities. For any actions related to actual, potential, or perceived product-safety concerns, we may not be successful in obtaining adequate contractual indemnification and insurance coverage from our suppliers and service providers, which may result in claims having an adverse effect on our business, financial condition and results of operations. Furthermore, our delivery operations and reliance on third-party carriers expose us to potential liability for property damage, personal injury, or vehicular accidents, which"
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-025",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Product and service quality issues could negatively impact customer confidence in our brands and the Company. If our product and service offerings, including those of our suppliers, do not meet applicable product standar",
+    "text": "could result in financial losses and reputational harm. Even with adequate insurance and indemnification, our reputation as a provider of high-quality products, including both national brand names and our proprietary products, and services could suffer, damaging our reputation and impacting customer loyalty."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-026",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Our proprietary products subject us to certain increased risks, including regulatory, product liability, intellectual property, supplier relations, and reputational risks.",
+    "text": "In addition to other product-related risks discussed in this section, as we expand our proprietary product offerings, we may become subject to increased risks due to our greater role in the design, manufacture, marketing and sale of those products. The risks include greater responsibility to administer and comply with applicable regulatory requirements, increased potential product liability and product recall exposure, and increased potential reputational risks related to the responsible sourcing of those products. To effectively execute on our product differentiation strategy, we must also be able to successfully protect our proprietary rights and successfully navigate and avoid claims related to the proprietary rights of third parties. In addition, an increase in sales of our proprietary products may adversely affect sales of our suppliers\u2019 products, which in turn could adversely affect our relationships with certain of our suppliers. Any failure to appropriately address some or all of these risks could damage our reputation and have an adverse effect on our business, results of operations, and financial condition."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-027",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "In addition to other product-related risks discussed in this section, as we expand our proprietary product offerings, we may become subject to increased risks due to our greater role in the design, manufacture, marketing",
+    "text": "If we are unable to effectively manage our installation services business, we could lose sales and be subject to fines, lawsuits, reputational damage or the loss of our general contractor licenses."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-028",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "If we are unable to effectively manage our installation services business, we could lose sales and be subject to fines, lawsuits, reputational damage or the loss of our general contractor licenses.",
+    "text": "We act as a general contractor to provide installation services to our DIFM customers through professional third-party licensed and insured installers. As such, we are subject to regulatory requirements and risks applicable to general contractors, which include management of background checks, licensing, permitting, and handling of environmental risks, as well as quality of work performed by our third-party installers. We have established processes and procedures to manage these requirements and manage customer satisfaction with the services provided by our third-party installers. However, as we experienced in part with the EPA investigation and the resulting consent decree in April 2021, and the subsequent discussions with the EPA regarding compliance with the consent decree, if we fail to manage these processes effectively, collect the appropriate documentation, perform regular job site inspections, or provide proper oversight of these services, we could lose sales or face fines or lawsuits, including governmental enforcement actions for violations of regulatory requirements, as well as claims for property damage or personal injury. In addition, we may suffer damage to our reputation or the loss of our general contractor licenses, which could adversely affect our business."
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-011",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Our financial performance depends significantly on the stability of the housing and home improvement markets, as well as general economic conditions, including changes in gross domestic product. Adverse conditions in or ",
+    "text": "decide against purchasing home improvement products and services, causing them to delay purchasing decisions, or impacting their ability to pay for products and services. Other factors beyond our control \u2013 including unemployment and foreclosure rates; inventory loss due to theft (including as a result of organized retail crime); inflation or deflation; interest rate fluctuations, including central banks\u2019 actions to control inflation; tariff and trade policy; fuel and other energy costs; raw material or other shortages; labor and healthcare costs; the availability of financing; the state of the credit markets, including mortgages, home equity loans and consumer credit; changes in policy and regulations, including with respect to tax rates; prolonged government shutdowns; weather and natural disasters (including the potential impacts of climate change); acts of terrorism or violence, including active shooter situations; public health issues, including pandemics or quarantines and related impacts; geopolitical tensions or conflicts, or military conflicts or acts of war, as well as any related sanctions or other government or private responses; civil unrest, and potential societal shifts in investment in large home improvement projects could further adversely affect, and in certain cases has adversely affected, demand for our products and services, our costs of doing business, and our financial performance. For instance, the high interest rate environment that persisted throughout fiscal 2025 and the significant increase in home prices in recent years have impacted housing affordability. Together, these factors have contributed to historically low levels of housing turnover, which has reduced demand for projects and other purchases associated with buying and selling a home."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-029",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Our costs of doing business could increase as a result of changes in, expanded enforcement of, or adoption of new federal, state, local or international laws, regulations and executive orders.",
+    "text": "We are subject to various U.S. federal, state and local laws and regulations, as well as international laws and regulations, that govern numerous aspects of our business. In recent years, a number of new laws and regulations have been adopted, new executive orders have been announced, there has been expanded enforcement and differing interpretations of certain existing laws and regulations by federal, state, local and international agencies, and the interpretation of certain laws and regulations has become increasingly complex. These laws and regulations, and related executive orders, interpretations and enforcement activity, may change as a result of a variety of factors, including political, economic or social events. Changes in, expanded regulatory investigations or enforcement of, litigation regarding, or adoption of new federal, state, local or international laws, regulations and/or executive orders governing minimum wage or living wage requirements; the classification of exempt and non-exempt employees; the distinction between employees and contractors; diversity, equity, and inclusion programs; immigration; and other human capital management matters; healthcare; data privacy, governance, and cybersecurity; the sale, marketing, sourcing, and pricing of our products; transportation, logistics and interstate delivery operations, including Department of Transportation regulations on vehicles and drivers; international trade and tariffs; supply chain transparency; the sourcing of raw materials, including timber and minerals, used in our products; taxes, including changes to corporate tax rates; restrictions on carbon dioxide and other greenhouse gas emissions; competition and antitrust requirements and enforcement; sustainability programs, transparency and reporting; unclaimed property; energy costs and consumption; or hazardous waste disposal and other environmental matters, including with respect to our installation services business, could increase our costs of doing business or impact our sales, operations or profitability."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-030",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Regulators, customers, and other stakeholders are also increasingly focusing on federal, state, and local consumer-protection laws and regulations, including those that could relate to how Home Depot prices, discounts, o",
+    "text": "If we cannot successfully manage the challenges presented by operating in international markets, we may not be successful in our international operations and our sales and profitability may be negatively impacted."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-031",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "If we cannot successfully manage the challenges presented by operating in international markets, we may not be successful in our international operations and our sales and profitability may be negatively impacted.",
+    "text": "Our ability to successfully operate in, and source products and materials from, international markets is affected by many of the same risks we face in our U.S. operations, as well as other costs and difficulties specific to managing international operations. Our international operations, including any expansion in international markets, may be, and on occasion have been, adversely affected by local laws and customs, U.S. laws or administrative actions applicable to foreign operations and other foreign legal and regulatory constraints, as well as political, social and economic conditions. Risks inherent in international operations also include, among others, potential adverse tax consequences; international trade disputes, trade policy changes or tariffs and other import-related taxes, fees and controls; inability to sell certain products due to customs actions, including regulatory enforcement inquiries, holds, detentions, and exclusions; greater difficulty in enforcing intellectual property rights; limitations on access to ports; risks associated with the Foreign Corrupt Practices Act and local anti-bribery law compliance; geopolitical tensions or conflicts, military conflicts or acts of war, as well as any related sanctions or other government or private responses; compliance with forced labor laws; compliance with environmental and responsible sourcing laws and regulations; and challenges in identifying and gaining access to local suppliers. For example, trade tensions between the U.S. and numerous other countries have led to a series of tariffs on the importation of certain product categories since the beginning of fiscal 2025. Following the recent U.S. Supreme Court decision that struck down tariffs previously imposed under the International Emergency Economic Powers Act, there is additional uncertainty regarding the U.S. tariff regime, and the imposition by the U.S. government of new or different tariffs under different authority. For the retail products we source, directly or indirectly, outside of the U.S., including Mexico, Canada and China, major changes in tax or trade policies, tariffs or trade relations could significantly adversely impact the cost of, demand for, and profitability of retail product sales in our U.S. or other locations. Countries outside the U.S. may also change, and on occasion have changed, their business and trade policies in anticipation of or in response to increased import tariffs and other changes in U.S. trade policy and regulations, and consumers may seek to avoid goods not sourced domestically, all of which could significantly adversely impact the cost of, demand for, and profitability of retail products in our U.S., Mexico and Canada locations. In addition, our operations in international markets create risk due to foreign currency exchange rates and fluctuations in those rates, which may adversely impact our sales and profitability."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-032",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Our ability to successfully operate in, and source products and materials from, international markets is affected by many of the same risks we face in our U.S. operations, as well as other costs and difficulties specific",
+    "text": "The inflation or deflation of commodity and other prices could affect our prices, demand for our products, our sales and our profit margins."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-033",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "The inflation or deflation of commodity and other prices could affect our prices, demand for our products, our sales and our profit margins.",
+    "text": "Prices of certain commodity products, including lumber and other raw materials, are historically volatile and are subject to fluctuations arising from changes in domestic and international supply and demand, inflationary or deflationary pressures, labor costs, competition, market speculation, government regulations, tariffs and trade restrictions (including retaliatory tariffs), changes in trade and other policies of the U.S. and other countries, natural disasters, geopolitical tensions or conflicts, military conflicts or acts of war, and periodic delays in delivery. For example, in recent years, conflicts in Europe and the Middle East and the related international responses exacerbated inflationary pressures, including causing increases in commodity prices, fuel and other energy costs, and shipping costs. Rapid and significant changes in commodity and other prices, such as changes in lumber prices, and our ability to pass them on to our customers or manage them through our portfolio strategy, may be limited by the competitive environment in which we operate, and may affect the demand for our products, our sales and our profit margins. If we are unable to mitigate the impact of product cost inflation through vendor negotiations and other strategic initiatives, we may need to increase prices to a point which could negatively impact consumer demand for our products."
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-012",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Changes in accounting standards and subjective assumptions, estimates and judgments by management related to complex accounting matters could significantly affect our financial results or financial condition.",
+    "text": "GAAP and related accounting pronouncements, implementation guidelines and interpretations with regard to a wide range of matters that are relevant to our business, such as asset impairment, inventories, lease obligations, self-insurance, vendor allowances, tax matters, business combinations, and litigation, are complex and involve many subjective assumptions, estimates and judgments. Implementation of new accounting standards or changes in existing accounting standards or their application or interpretation, or changes in underlying assumptions, estimates or judgments, could significantly change our reported or expected financial performance or financial condition. The implementation of, or changes to, accounting standards could also require certain systems, internal processes, internal controls, and other changes that could increase our operating costs."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-034",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "At March 4, 2026, there were a pproximately 97,000 holders of record of our common stock and approximately 6,159,000 addi tional \u201cstreet name\u201d holders whose shares are held of record by banks, brokers, and other financia",
+    "text": "The graph and table below present our cumulative total shareholder returns relative to the performance of the S&P 500 Consumer Discretionary Distribution & Retail Index (the \u201cS&P 500 Retail Index\u201d) and the S&P 500 Index for the five most recent fiscal years. The graph assumes $100 was invested at the closing price of our common stock on the NYSE and in each index on the last trading day of the fiscal year ended January 31, 2021 and assumes that all dividends were reinvested on the date paid. The points on the graph represent fiscal year-end amounts based on the last trading day in each fiscal year."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-035",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "The following discussion provides an analysis of the Company\u2019s financial condition and results of operations from management's perspective and should be read in conjunction with the consolidated financial statements and ",
+    "text": "We reported net sales of $164.7 billion in fiscal 2025. Net earnings were $14.2 billion, or $14.23 per diluted share."
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-013",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "In February 2026, we announced a 1.3% increase in our quarterly cash dividend to $2.33 per share.",
+    "text": "Our inventory turnover ratio was 4.4 times at the end of fiscal 2025, compared to 4.7 times at the end of fiscal 2024. The decrease in our inventory turnover ratio was primarily driven by higher average inventory levels during fiscal 2025."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-036",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "As trade policy discussions are ongoing and related developments continue to evolve, we cannot predict with certainty their ultimate impact on our business in future periods, including our results of operations and cash ",
+    "text": "The following table presents the percentage relationship between net sales and major categories in our consolidated statements of earnings:"
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-037",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "(2) Customer transactions and average ticket measures do not include results from HD Supply or SRS (including GMS).",
+    "text": "(3) Average ticket represents the average price paid per transaction and is used by management to monitor the performance of the Company, as it represents a primary driver in measuring sales performance."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-038",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "(4) The 53rd week of fiscal 2024 increased diluted earnings per share in fiscal 2024 by approximately $0.30.",
+    "text": "We assess our sales performance by evaluating both net sales and comparable sales. Fiscal 2025 consisted of 52 weeks compared to 53 weeks in fiscal 2024. For purposes of the following discussion, comparable sales, comparable customer transactions, and comparable average ticket are based upon the comparable 52-week period from fiscal 2024."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-039",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "We assess our sales performance by evaluating both net sales and comparable sales. Fiscal 2025 consisted of 52 weeks compared to 53 weeks in fiscal 2024. For purposes of the following discussion, comparable sales, compar",
+    "text": "Net Sales. Net sales for fiscal 2025 increased $5.2 billion, or 3.2%, to $164.7 billion. The increase in n et s ales for fiscal 2025 was primarily driven by SRS, which was acquired on June 18, 2024, and GMS, which was acquired on September 4, 2025. In aggregate, these acquisitions contributed approximately $6.3 billion of incremental net sales during fiscal 2025. Net sales also increased due to sales from new stores and the impact of a positive comparable sales environment. These increases were partially offset by the additional week in fiscal 2024 which contributed approximately $2.5 billion in net sales in fiscal 2024."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-040",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Net Sales. Net sales for fiscal 2025 increased $5.2 billion, or 3.2%, to $164.7 billion. The increase in n et s ales for fiscal 2025 was primarily driven by SRS, which was acquired on June 18, 2024, and GMS, which was ac",
+    "text": "Online sales represented 15.9% of net sales during fiscal 2025 and increased by 8.7% compared to fiscal 2024. Calculated on a comparable week basis relative to fiscal 2024, online sales increased by 10.4%. Online sales consist of sales of products generated through websites and mobile applications and does not include results from HD Supply or SRS (including GMS)."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-041",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Online sales represented 15.9% of net sales during fiscal 2025 and increased by 8.7% compared to fiscal 2024. Calculated on a comparable week basis relative to fiscal 2024, online sales increased by 10.4%. Online sales c",
+    "text": "A stronger U.S. dollar compared to fiscal 2024 negatively impacted net sales by $307 million in fiscal 2025."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-042",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "A stronger U.S. dollar compared to fiscal 2024 negatively impacted net sales by $307 million in fiscal 2025.",
+    "text": "Comparable Sales. Comparable sales is a measure that highlights the performance of our existing locations and websites by measuring the change in net sales for a period over the comparable prior period of equivalent length. Comparable sales includes sales at locations, physical and online, open greater than 52 weeks (including remodels and relocations) and excludes closed stores. Acquisitions are typically included in comparable sales after they have been owned for more than 52 weeks. For our calculation of comparable sales in fiscal 2025, we compare weeks 1 through 52 in fiscal 2025 against weeks 2 through 53 in fiscal 2024. Comparable sales is intended only as supplemental information and is not a substitute for net sales presented in accordance with GAAP. The method of calculating comparable sales varies across the retail industry. As a result, our method of calculating comparable sales may not be the same as similarly titled measures reported by other companies."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-043",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Comparable Sales. Comparable sales is a measure that highlights the performance of our existing locations and websites by measuring the change in net sales for a period over the comparable prior period of equivalent leng",
+    "text": "Total comparable sales increased 0.3% in fiscal 2025, primarily reflecting a 1.4% increase in comparable average ticket, partially offset by a 1.0% decrease in comparable customer transactions compared to fiscal 2024. Our comparable sales results reflect customer engagement with smaller home improvement projects, which was offset by the impact of continued macroeconomic uncertainties and other macroeconomic factors, including a persisting high interest rate environment, that continue to pressure broader home improvement demand."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-044",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Total comparable sales increased 0.3% in fiscal 2025, primarily reflecting a 1.4% increase in comparable average ticket, partially offset by a 1.0% decrease in comparable customer transactions compared to fiscal 2024. Ou",
+    "text": "For fiscal 2025 , our Storage & Organization, Electrical, Bath, Plumbing, Indoor Garden, Outdoor Garden, Kitchen & Blinds, Hardware, Power, Building Materials, and Appliances merchandising departments within our Primary segment posted positive comparable sales compared to fiscal 2024. Our other merchandising departments within our Primary segment posted negative comparable sales during fiscal 2025 compared to fiscal 2024."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE_INVENTORY-009",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "For fiscal 2025 , our Storage & Organization, Electrical, Bath, Plumbing, Indoor Garden, Outdoor Garden, Kitchen & Blinds, Hardware, Power, Building Materials, and Appliances merchandising departments within our Primary ",
+    "text": "Gross profit increased $1.6 billion, or 2.9%, to $54.9 billion in fiscal 2025. Gross profit as a percent of net sales, or gross profit margin, was 33.3% in fiscal 2025 compared to 33.4% in fiscal 2024. The decrease in gross profit margin reflects the inclusion of SRS and GMS in our consolidated results, partially offset by lower shrink and certain supply chain benefits within our Primary segment."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-045",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Gross profit increased $1.6 billion, or 2.9%, to $54.9 billion in fiscal 2025. Gross profit as a percent of net sales, or gross profit margin, was 33.3% in fiscal 2025 compared to 33.4% in fiscal 2024. The decrease in gr",
+    "text": "Selling, General & Administrative. SG&A increased $2.0 billion, or 6.8%, to $30.7 billion in fiscal 2025. As a percent of net sales, SG&A was 18.6% in fiscal 2025 compared to 18.0% in fiscal 2024, which primarily reflects higher payroll and related costs in fiscal 2025 along with the impact of a non-recurring legal-related benefit recognized during fiscal 2024 within our Primary segment."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-046",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Selling, General & Administrative. SG&A increased $2.0 billion, or 6.8%, to $30.7 billion in fiscal 2025. As a percent of net sales, SG&A was 18.6% in fiscal 2025 compared to 18.0% in fiscal 2024, which primarily reflect",
+    "text": "Depreciation and Amortization. Depreciation and amortization increased $239 million, or 7.9%, to $3.3 billion in fiscal 2025. As a percent of net sales, depreciation and amortization was 2.0% in fiscal 2025 compared to 1.9% in fiscal 2024 , which primarily reflects increased intangible asset amortization expense resulting from our acquisitions of SRS and GMS."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-047",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Depreciation and Amortization. Depreciation and amortization increased $239 million, or 7.9%, to $3.3 billion in fiscal 2025. As a percent of net sales, depreciation and amortization was 2.0% in fiscal 2025 compared to 1",
+    "text": "Interest and other, net increased $168 million, or 7.9%, to $2.3 billion in fiscal 2025. As a percentage of net sales, interest and other, net, was 1.4% in fiscal 2025 compared to 1.3% in fiscal 2024, primarily due to higher average long-term debt balances and lower interest income in fiscal 2025."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-048",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "On July 4, 2025, the legislation commonly referred to as the One Big Beautiful Bill Act (the \u201cOBBBA\u201d) was signed into law in the U.S., which contains a broad range of tax provisions, including the allowance to expense 10",
+    "text": "During fiscal 2025, we invested approximately $3.7 billion back into our business in the form of capital expenditures. We plan to invest approximately $4 billion back into our business in the form of capital expenditures in fiscal 2026, in line with our expectation of approximately 2.5% of projected fiscal 2026 net sales. We expect to make these investments across initiatives supporting our strategy of driving our core and culture, including building new stores and maintaining existing stores, delivering a frictionless, interconnected experience, and winning with Pros. However, as in the past, we may adjust our capital expenditures to support the operations of the business, to enhance long-term strategic positioning, or in response to the economic environment, as necessary or appropriate. We may also utilize strategic acquisitions to help accelerate our strategic initiatives."
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-014",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "We use operating and finance leases largely to obtain a portion of our real estate, including our stores, distribution centers, branches, and support centers. At February 1, 2026, we had aggregate remaining lease payment",
+    "text": "Purchase obligations include all legally binding contracts such as firm commitments for inventory purchases, media and sponsorship spend, software and license commitments, and legally binding service contracts. We issue inventory purchase orders in the ordinary course of business, which are typically cancellable by their terms, therefore we do not consider purchase orders that are cancellable to be firm inventory commitments. At February 1, 2026, we had aggregate purchase obligations of $1.9 billion , with $1.2 billion paya ble within 12 months."
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-015",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "At February 1, 2026, we had aggregate liabilities for unrecognized tax benefits totaling $559 million, nearly all of which are recorded as non-current liabilities. The timing of payment, if any, associated with our long-",
+    "text": "Cash flow generated from operations provides us with a significant source of liquidity. Our operating cash flows result primarily from cash received from our customers, offset by cash payments we make for products and services, associate compensation, operations, occupancy costs, and income taxes. Cash provided by or used in operating activities is also subject to changes in working capital. Working capital at any point in time is subject to many variables, including seasonality, inventory management and category expansion, the timing of cash receipts and payments, vendor payment terms, and fluctuations in foreign exchange rates."
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-016",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Cash flow generated from operations provides us with a significant source of liquidity. Our operating cash flows result primarily from cash received from our customers, offset by cash payments we make for products and se",
+    "text": "Net cash provided by operating activities decreased by $3.5 billion in fiscal 2025 compared to fiscal 2024, primarily due to changes in working capital. Changes in working capital were primarily driven by the timing of vendor payments and increased inventories during fiscal 2025, along with the deferral of our fourth quarter fiscal 2024 estimated federal tax payment to the first quarter of fiscal 2025, resulting in fewer estimated tax payments in fiscal 2024 compared to fiscal 2025. This was partially offset by a reduction to our fiscal 2025 cash tax payments resulting from the OBBBA."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-049",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Net cash used in financing activities in fiscal 2024 primarily reflected $8.9 billion of cash dividends paid, $1.5 billion of repayments of long-term debt, and $649 million of share repurchases prior to pausing share rep",
+    "text": "The preparation of our consolidated financial statements in accordance with GAAP requires that we make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities, and the reported amounts of revenues and expenses. Actual results could differ from those estimates."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-050",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Our significant accounting policies are disclosed in Note 1 to our consolidated financial statements. The following discussion addresses our most critical accounting estimates, which are those that are both important for",
+    "text": "We account for business combinations using the acquisition method of accounting, which requires that once control is obtained, all the assets acquired and liabilities assumed are recorded at their respective fair values at the date of acquisition. The determination of the acquisition date fair values of identifiable assets acquired and liabilities assumed requires estimates and the use of valuation techniques when fair value is not readily available and requires a significant amount of management judgment. For the valuation of intangible assets acquired in a business combination, we typically use an income approach. Specifically, we utilize the multi-period excess earnings method to determine the estimated acquisition date fair values of the customer relationships intangible assets. The significant assumptions used to estimate the fair values of customer relationships included forecasted revenues, expected customer attrition rates, and the discount rate applied. Although the Company believes its estimates of acquisition date fair values are reasonable, actual financial results could differ from those estimates due to the inherent uncertainty involved in making such estimates. Changes in assumptions concerning future financial results or other underlying assumptions could have a significant impact on the determination of the fair values of the customer relationships intangible assets acquired."
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-017",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "The excess of the purchase price over fair values of identifiable assets acquired and liabilities assumed is recorded as goodwill. During the measurement period, which is up to one year from the acquisition date, we may ",
+    "text": "We value the majority of our inventory under the retail inventory method, with the remainder of our inventories valued under a cost method, primarily th e moving average cost and first-in, first-out methods. Under the retail inventory method, inventories are stated at cost, which is determined by applying a cost-to-retail ratio to the retail value of inventories."
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-018",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "We value the majority of our inventory under the retail inventory method, with the remainder of our inventories valued under a cost method, primarily th e moving average cost and first-in, first-out methods. Under the re",
+    "text": "The retail value of our inventory is adjusted as needed to reflect current market conditions. Because these adjustments are based on current prevailing market conditions, the value of our inventory approximates the lower of cost or market. The valuation under the retail inventory method is based on a number of factors such as markups, markdowns, and inventory losses (or shrink). As such, there exists an inherent uncertainty in the final determination of inventory cost and gross profit. We determine markups and markdowns based on the consideration of a variety of factors such as current and anticipated demand, customer preferences and buying trends, age of the merchandise, and weather conditions."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE_INVENTORY-010",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "The retail value of our inventory is adjusted as needed to reflect current market conditions. Because these adjustments are based on current prevailing market conditions, the value of our inventory approximates the lower",
+    "text": "We calculate shrink based on actual inventory losses identified as a result of physical inventory counts during each fiscal period and estimated inventory losses occurring between physical inventory counts. The estimate for shrink occurring in the interim period between physical inventory counts is calculated on a store-specific basis and is primarily based on recent shrink results. A 10% increase in the shrink rate used to estimate our inventory shrink reserve would have increased cost of sales by approximately $79 million for fiscal 2025. Historically, the difference between estimated shrink and actual inventory losses has not been material to our annual financial results."
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-019",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "We calculate shrink based on actual inventory losses identified as a result of physical inventory counts during each fiscal period and estimated inventory losses occurring between physical inventory counts. The estimate ",
+    "text": "We do not believe there is a reasonable likelihood of a material change in the estimates or assumptions we use to value our inventory under the retail inventory method. We believe that the retail inventory method provides an inventory valuation which approximates cost and results in valuing our inventory at the lower of cost or market."
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-020",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that was communicated or required to be communicated to the audit committee and that",
+    "text": "As discussed in Note 1 to the consolidated financial statements, the majority of merchandise inventories are stated at the lower of cost or market, as determined by the retail inventory method, which is based on a number of factors such as markups, markdowns, and inventory losses (or shrink). As the inventory retail value is adjusted regularly to reflect market conditions, inventory valued using the retail method approximates the lower of cost or market. The remaining merchandise inventories, including those within the retail operations in Canada and Mexico, distribution centers, and SRS distribution operations, are recorded at the lower of cost or net realizable value, as determined by a cost method, primarily the moving average cost and first-in, first-out methods. The Company's merchandise inventories were $25.8 billion as of February 1, 2026."
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-021",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "As discussed in Note 1 to the consolidated financial statements, the majority of merchandise inventories are stated at the lower of cost or market, as determined by the retail inventory method, which is based on a number",
+    "text": "We identified the sufficiency of audit evidence over merchandise inventories recorded using the retail inventory method as a critical audit matter. Subjective auditor judgment was required to evaluate the sufficiency of audit evidence obtained primarily due to the highly automated nature of the process to record these merchandise inventories, which involves interfacing significant volumes of data across multiple information technology (IT) systems. IT professionals with specialized skills and knowledge were required to assess the Company's IT systems used in the process to record merchandise inventories under the retail inventory method."
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-022",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "We identified the sufficiency of audit evidence over merchandise inventories recorded using the retail inventory method as a critical audit matter. Subjective auditor judgment was required to evaluate the sufficiency of ",
+    "text": "The following are the primary procedures we performed to address this critical audit matter. We applied auditor judgment to determine the nature and extent of procedures to be performed over the recording of merchandise inventory recorded using the retail inventory method, including the IT systems, by:"
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-023",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "The following are the primary procedures we performed to address this critical audit matter. We applied auditor judgment to determine the nature and extent of procedures to be performed over the recording of merchandise ",
+    "text": "\u2022 evaluating the design and testing the operating effectiveness of certain internal controls related to the recording of these merchandise inventories"
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-024",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "\u2022 evaluating the design and testing the operating effectiveness of certain internal controls related to the recording of these merchandise inventories",
+    "text": "\u2022 involving IT professionals with specialized skills and knowledge who assisted in testing the design and operating effectiveness of certain general IT and application controls used for processing and recording these merchandise inventories"
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-025",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "\u2022 involving IT professionals with specialized skills and knowledge who assisted in testing the design and operating effectiveness of certain general IT and application controls used for processing and recording these mer",
+    "text": "\u2022 developing an expectation of certain inputs into the retail inventory method, including retail markups and markdowns, purchases at retail, and purchase discounts, and comparing them to the Company\u2019s inputs"
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-026",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "\u2022 developing an expectation of certain inputs into the retail inventory method, including retail markups and markdowns, purchases at retail, and purchase discounts, and comparing them to the Company\u2019s inputs",
+    "text": "\u2022 selecting a sample of inventory transactions and comparing them to supporting documentation, such as vendor invoices, cash payments or vendor agreements"
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-027",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "\u2022 selecting a sample of inventory transactions and comparing them to supporting documentation, such as vendor invoices, cash payments or vendor agreements",
+    "text": "\u2022 performing inventory count observation procedures at a selection of locations."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-051",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Our consolidated financial statements include our accounts and those of our subsidiaries. Intercompany balances and transactions are eliminated in consolidation. Our fiscal year is a 52- or 53-week period ending on the S",
+    "text": "We have made a number of estimates and assumptions relating to the reporting of assets and liabilities, the disclosure of contingent assets and liabilities, and reported amounts of revenues and expenses in preparing these financial statements in conformity with GAAP. While we believe these estimates and assumptions are reasonable, actual results could differ from these estimates."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-052",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Cash and cash equivalents consist of cash on hand and highly liquid investments purchased with original maturities of three months or less.",
+    "text": "Card receivables consist of payments due from financial institutions for the settlement of credit card and debit card transactions. Rebate receivables represent amounts due from vendors for volume and co-op advertising rebates. Customer receivables relate to credit extended directly to certain customers in the ordinary course of business. The valuation allowance related to these receivables was not material to our consolidated financial statements at the end of fiscal 2025 or fiscal 2024."
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-028",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Card receivables consist of payments due from financial institutions for the settlement of credit card and debit card transactions. Rebate receivables represent amounts due from vendors for volume and co-op advertising r",
+    "text": "Inventory cost includes the amount we pay to acquire inventory, including freight and import costs, as well as operating costs and depreciation associated with our sourcing and distribution network, and is net of certain vendor allowances. T he majority of our merchandise inventories are stated at the lower of cost or market, as determined by the retail inventory method, which is based on a number of factors such as markups, markdowns, and inventory losses (or shrink). As the inventory retail value is adjusted regularly to reflect market conditions, inventory valued using the retail method approximates the lower of cost or market. Our remaining merchandise inventories, including those within our retail operations in Canada and Mexico, distribution centers, and our SRS distribution operations, are recorded at the lower of cost or net realizable value, as determined by a cost method, primarily th e moving average cost and first-in, first-out methods. We evaluate the inventory valued using a cost method at the end of each quarter to ensure that it is carried at the lower of cost or net realizable value, and the adjustments recorded to merchandise inventories valued under a cost method were not material to our consolidated financial statements at the end of fiscal 2025 or fiscal 2024."
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-029",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Inventory cost includes the amount we pay to acquire inventory, including freight and import costs, as well as operating costs and depreciation associated with our sourcing and distribution network, and is net of certain",
+    "text": "Physical inventory counts or cycle counts are taken on a regular basis in our stores, distribution centers and branches to ensure that amounts reflected in merchandise inventories are properly stated. Shrink (or in the case of excess inventory, swell) is the difference between the recorded amount of inventory and the physical inventory count. We calculate shrink based on actual inventory losses identified as a result of physical inventory counts during each fiscal period and estimated inventory losses occurring between physical inventory counts. The estimate for shrink occurring in the interim period between physical inventory counts is calculated on a store-specific basis and is primarily based on recent shrink results. Historically, the difference between estimated shrink and actual inventory losses has not been material to our annual financial results."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-053",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "The discount rate used to calculate the present value of lease payments is the rate implicit in the lease, when readily determinable. As the rate implicit in the lease is rarely readily determinable, we use a secured inc",
+    "text": "Real estate taxes, insurance, maintenance, and operating expenses applicable to the leased asset are generally our obligations under our lease agreements. In instances where these payments are fixed, they are included in the measurement of our lease liabilities, and when variable, they are excluded and recognized in the period in which the obligation for those payments is incurred. Certain of our lease agreements also include rental payments based on an index or rate, and others include rental payments based on a percentage of sales. For variable payments dependent upon an index or rate, we apply the active index or rate as of the lease commencement date. Variable lease payments not based on an index or rate are not included in the measurement of our lease liabilities, as they cannot be reasonably estimated, and are recognized in the period in which the obligation for those payments is incurred."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE_INVENTORY-011",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Treasury stock is reflected as a reduction of stockholders\u2019 equity at cost. We use the weighted average purchase cost to determine the cost of treasury stock that is reissued, if any. Excise taxes incurred on share repur",
+    "text": "We recognize revenue, net of expected returns and sales tax, at the time the customer takes possession of merchandise or when a service is performed. We recognize a liability for sales returns, which is estimated based on historical return levels and our expectation of future returns. We also recognize a return asset, and corresponding adjustment to cost of sales, for our right to recover the goods returned by the customer, measured at the former carrying amount of the goods, less any expected recovery cost. At each financial reporting date, we assess our estimates of expected returns, refund liabilities, and return assets."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-054",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "We recognize revenue, net of expected returns and sales tax, at the time the customer takes possession of merchandise or when a service is performed. We recognize a liability for sales returns, which is estimated based o",
+    "text": "Services revenue is generated through a variety of installation, home maintenance, and professional service programs. In these programs, the customer selects and purchases material for a project, and we provide or arrange for professional installation. These programs are offered through our stores, online, and in-home sales programs. Under certain programs, when we provide or arrange for the installation of a project and the subcontractor provides material as part of the installation, both the material and labor are included in services revenue. We recognize services revenue when the service for the customer is complete, which is not materially different from recognizing the revenue over the service period as the substantial majority of our services are completed within one week."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-055",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Services revenue is generated through a variety of installation, home maintenance, and professional service programs. In these programs, the customer selects and purchases material for a project, and we provide or arrang",
+    "text": "For products and services sold in stores or online, payment is typically due at the point of sale. When we receive payment before the customer has taken possession of the merchandise or the service has been performed, the amount received is recorded as deferred revenue until the sale or service is complete. Such performance obligations are part of contracts with expected original durations of typically three months or less. As of both February 1, 2026 and February 2, 2025, deferred revenue for products and services was $ 1.5 billion."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-056",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "For products and services sold in stores or online, payment is typically due at the point of sale. When we receive payment before the customer has taken possession of the merchandise or the service has been performed, th",
+    "text": "We further record deferred revenue for the sale of gift cards and recognize the associated revenue upon the redemption of those gift cards, which generally occurs within six months of gift card issuance. As of both February 1, 2026 and February 2, 2025, our performance obligations for unredeemed gift cards were $ 1.1 billion. Gift card breakage income, which is our estimate of the portion of our outstanding gift card balance not expected to be redeemed, is recognized in net sales and was immaterial in fiscal 2025, fiscal 2024, and fiscal 2023."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-057",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "We further record deferred revenue for the sale of gift cards and recognize the associated revenue upon the redemption of those gift cards, which generally occurs within six months of gift card issuance. As of both Febru",
+    "text": "Certain customers are provided with the ability to purchase products on credit with pre-approved limits where payment is due after delivery to the customer. We also have agreements with third-party service providers who directly extend credit to customers, manage our PLCC program, and own the related receivables. We have evaluated the third-party entities holding the receivables under the program and concluded that they should not be consolidated. The agreement with the primary third-party service provider for our PLCC program expires in 2028, with us having the option, but no obligation, to purchase the existing receivables at the end of the agreement. Deferred interest charges incurred for our deferred financing programs offered to these customers, interchange fees charged to us for their use of the cards, and any profit sharing with the third-party service providers are included in net sales."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE_INVENTORY-012",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Certain customers are provided with the ability to purchase products on credit with pre-approved limits where payment is due after delivery to the customer. We also have agreements with third-party service providers who ",
+    "text": "Cost of sales includes the actual cost of merchandise sold and services performed; the cost of transportation of merchandise from vendors to our distribution network, stores, or customers; shipping and handling costs from our stores or distribution network to customers; and the operating cost and depreciation of our sourcing and distribution network. Vendor allowances that are not reimbursements of specific, incremental, and identifiable costs are also included within cost of sales."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE_INVENTORY-013",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Cost of sales includes the actual cost of merchandise sold and services performed; the cost of transportation of merchandise from vendors to our distribution network, stores, or customers; shipping and handling costs fro",
+    "text": "Vendor allowances primarily consist of volume rebates that are earned as a result of attaining certain purchase levels and co-op advertising allowances for the promotion of vendors\u2019 products that are typically based on guaranteed minimum amounts with additional amounts being earned for attaining certain purchase levels. These vendor allowances are accrued as earned, with those allowances received as a result of attaining certain purchase levels accrued over the incentive period, which generally concludes at the end of the calendar year, based on estimates of purchases. Volume rebates and certain co-op advertising allowances reduce the carrying cost of inventory and are recognized in cost of sales when the related inventory is sold."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-058",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Comprehensive income includes net earnings adjusted for certain gains and losses that are excluded from net earnings and recognized within accumulated other comprehensive loss as a component of equity, which consists pri",
+    "text": "Assets and liabilities denominated in a foreign currency are translated into U.S. dollars at the current rate of exchange on the last day of the reporting period. Revenues and expenses are translated using average exchange rates for the period, and equity transactions are translated using the actual rate on the day of the transaction. Cumulative foreign currency translation adjustments recorded in accumulated other comprehensive loss as of February 1, 2026 and February 2, 2025 were losses of $ 501 million and $ 970 million, respectively."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-059",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Segment Information. For our Primary segment, our CODM uses operating income to allocate resources in the planning and forecasting process and to assess segment performance by monitoring actual results versus prior-perio",
+    "text": "The following table presents net sales, significant expenses, and operating income for our Primary segment:"
+  },
+  {
+    "chunk_id": "T-HD-REVENUE_INVENTORY-014",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "The following table presents a reconciliation of certain segment information to our consolidated totals:",
+    "text": "(1) Net sales presented in Other relate to the sale of products within our SRS non-reportable operating segments, following our acquisition of SRS in the second quarter of fiscal 2024 and the subsequent acquisition of GMS in the third quarter of fiscal 2025. Operating income presented in Other includes cost of sales and operating expenses totaling $ 12.4 billion and $ 6.2 billion for fiscal 2025 and fiscal 2024, respectively, within these SRS non-reportable operating segments."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE_INVENTORY-015",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "(1) Net sales presented in Other relate to the sale of products within our SRS non-reportable operating segments, following our acquisition of SRS in the second quarter of fiscal 2024 and the subsequent acquisition of GM",
+    "text": "(2) Includes depreciation and finance lease amortization in cost of sales. Also includes intangible asset amortization expense of $ 209 million and $ 207 million for fiscal 2025 and fiscal 2024, respectively, in our Primary segment, and intangible asset amortization expense of $ 398 million and $ 218 million for fiscal 2025 and fiscal 2024, respectively, in Other."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-060",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Hardlines Hardware, Indoor Garden, Outdoor Garden, Power, and Storage & Organization",
+    "text": "As noted in our Quarterly Report on Form 10-Q for the first quarter of fiscal 2025, we made changes that realigned certain product categories across our major product lines and merchandising departments within our Primary segment. As a result, prior-year amounts in each of the respective tables below have been reclassified to conform with the current-year presentation. These changes had no impact on consolidated net sales."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-061",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "As noted in our Quarterly Report on Form 10-Q for the first quarter of fiscal 2025, we made changes that realigned certain product categories across our major product lines and merchandising departments within our Primar",
+    "text": "The following table presents net sales by major product line (and related services) within our Primary segment, as well as Other net sales:"
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-062",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "The following table presents net sales by major product line (and related services) within our Primary segment, as well as Other net sales:",
+    "text": "(1) Net sales presented in Other relate to the sale of products within our SRS non-reportable operating segments, following our acquisition of SRS in the second quarter of fiscal 2024 and the subsequent acquisition of GMS in the third quarter of fiscal 2025. Roofing and related products accounted for approximately 53 % and 68 % of Other net sales for fiscal 2025 and fiscal 2024, respectively."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-063",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "(1) Net sales presented in Other relate to the sale of products within our SRS non-reportable operating segments, following our acquisition of SRS in the second quarter of fiscal 2024 and the subsequent acquisition of GM",
+    "text": "The following table presents net sales by merchandising department (and related services) within our Primary segment, as well as Other net sales:"
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-064",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "The following table presents net sales by merchandising department (and related services) within our Primary segment, as well as Other net sales:",
+    "text": "dollars in millions Net Sales % of Net Sales Net Sales % of Net Sales Net Sales % of Net Sales"
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-065",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "dollars in millions Net Sales % of Net Sales Net Sales % of Net Sales Net Sales % of Net Sales",
+    "text": "No sales to an individual customer accounted for more than 10% of revenue during any of the last three fiscal years."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE_INVENTORY-016",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "No sales to an individual customer accounted for more than 10% of revenue during any of the last three fiscal years.",
+    "text": "The following table presents depreciation and finance lease amortization expense, including depreciation and finance lease amortization expense included in cost of sales:"
+  },
+  {
+    "chunk_id": "T-HD-REVENUE_INVENTORY-017",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Operating lease cost Selling, general and administrative $ 1,846 $ 1,661 $ 1,359",
+    "text": "(1) Costs associated with our sourcing and distribution network are recorded in cost of sales, with the exception of interest on finance lease liabilities."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-066",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Substantially all of our current year foreign cash earnings in excess of working capital and cash needed for strategic investments are not intended to be indefinitely reinvested offshore. Therefore, the tax effects of re",
+    "text": "Our income tax returns are routinely examined by U.S. federal, state and local, and foreign tax authorities. The Company remains subject to U.S. federal income tax examination for fiscal years 2015 through 2024, with the IRS currently examining our U.S. federal income tax returns for fiscal years 2016 through 2021. There are also ongoing U.S. state and local audits and other foreign audits covering fiscal years 2013 through 2023 . We do not expect the results from any ongoing income tax audit to have a material impact on our consolidated financial condition, results of operations, or cash flows."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-067",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "We did not have any material assets or liabilities that were measured and recognized at fair value on a nonrecurring basis during fiscal 2025, fiscal 2024, or fiscal 2023. See Note 13 for discussion on the fair values of",
+    "text": "The carrying amounts of cash and cash equivalents, receivables, accounts payable, short-term debt, and other long-term debt approximate fair value."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-068",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Certain of these performance share awards provide for the issuance of shares of our common stock at the end of a three-year performance cycle based upon our performance against target average ROIC and operating profit ov",
+    "text": "Separately, in connection with, as well as subsequent to, the SRS acquisition, we also granted performance share awards to various SRS employees. These awards provide for the issuance of shares of our common stock at the end of a five-year performance period. A portion of these awards are subject to the achievement of SRS earnings before interest, taxes, depreciation and amortization (\u201cEBITDA\u201d) and sales targets, and a portion of these awards are subject to market conditions based on our stock price performance. The fair value of the portion of the awards subject to the achievement of EBITDA and sales targets were valued based on the closing stock price on the grant date. The portion of the awards subject to market conditions were valued using a Monte Carlo simulation on the date of grant."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-069",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Deferred Shares. We grant awards of deferred shares to non-employee directors under the Omnibus Plan. Each deferred share entitles the non-employee director to one share of common stock to be received following terminati",
+    "text": "We maintain two ESPPs: a U.S. and a non-U.S. plan. The plan for U.S. associates is a tax-qualified plan under Section 423 of the Internal Revenue Code. The non-U.S. plan is not a Section 423 plan. At February 1, 2026, there were approximately 13 million shares available under the U.S. plan and approximately 18 million shares available under the non-U.S. plan. The purchase price of shares under the ESPPs is equal to 85 % of the stock\u2019s fair market value on the last day of the purchase period, which is a six-month period ending on December 31 and June 30 of each year. During fiscal 2025, there were approximately 1 million shares purchased under the ESPPs at an average price of $ 302.50 . Under the outstanding ESPPs at February 1, 2026, associates have contributed $ 33 million to purchase shares at 85 % of the stock\u2019s fair market value on the last day of the current purchase period, June 30, 2026."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-070",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "We maintain active defined contribution retirement plans for our associates (the \u201cBenefit Plans\u201d). All associates satisfying certain service requirements are eligible to participate in the Benefit Plans. We make cash con",
+    "text": "We also maintain the Restoration Plans to provide certain associates deferred compensation that they would have received under the Benefit Plans as a matching contribution if not for the maximum compensation limits under the Internal Revenue Code. We fund the Restoration Plans through contributions made to grantor trusts, which are then used to purchase shares of our common stock in the open market."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-071",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "(2) Primarily resulting from the difference in book and tax basis related to identifiable intangible assets.",
+    "text": "The preliminary fair values of identifiable intangible assets were determined by using certain estimates and assumptions that are not observable in the market. The Company used the multi-period excess earnings method to value the customer relationships intangible assets. The significant assumptions used to estimate the fair value of customer relationships included forecasted revenues, customer attrition rates, and the discount rate. Determining the useful life of an intangible asset also requires judgment, as different types of intangible assets will have different useful lives. The preliminary fair value and estimated useful lives of identifiable intangible assets are as follows:"
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-072",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "The preliminary fair values of identifiable intangible assets were determined by using certain estimates and assumptions that are not observable in the market. The Company used the multi-period excess earnings method to ",
+    "text": "The goodwill arising from the acquisition is calculated as the excess of the purchase price over the net assets acquired and is attributable to anticipated (i) growth acceleration in the residential and commercial Pro market; (ii) expanded capabilities and product categories; (iii) additional addressable market opportunities; (iv) enhanced delivery network capabilities; and (v) growth in sales force. We expect approximately $ 214 million of goodwill related to the acquisition to be deductible for U.S. federal and state income tax purposes. As the valuation is preliminary, we have not yet finalized the assignment of goodwill to our reporting units, and no goodwill related to the GMS acquisition currently resides in our Primary segment."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-073",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "We have completed preliminary valuation analyses necessary to assess the fair values of the assets acquired and liabilities assumed and the amount of goodwill to be recognized as of the acquisition date. These fair value",
+    "text": "Results of Operations. Net sales attributable to GMS since the completion of the acquisition and included within our results of operations for fiscal 2025 totaled $ 2.0 billion. Net earnings attributable to GMS since the completion of the acquisition and included within our results of operations for fiscal 2025 were immaterial."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-074",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "(1) Primarily resulting from the difference in book and tax basis related to identifiable intangible assets.",
+    "text": "The acquisition date fair values of identifiable intangible assets were determined by using certain estimates and assumptions that are not observable in the market. The Company used the multi-period excess earnings method to determine the estimated acquisition date fair values of the customer relationships intangible assets. The significant assumptions used to estimate the fair values of customer relationships included forecasted revenues, expected customer attrition rates, and the discount rate applied. Determining the useful life of an intangible asset also requires judgment, as different types of intangible assets will have different useful lives."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-075",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "The estimated fair values and estimated useful lives of identifiable intangible assets are as follows:",
+    "text": "The goodwill arising from the acquisition is attributable to anticipated (i) growth acceleration in the Pro market; (ii) expansion in high growth verticals including roofing; (iii) additional addressable market opportunities; (iv) enhanced delivery network capabilities; and (v) growth in sales force. We expect approximately $ 1.0 billion of goodwill related to the acquisition to be deductible for U.S. federal and state income tax purposes. The goodwill has been allocated to our SRS roofing and building products, landscape, and pool reporting units and no goodwill related to the SRS acquisition resides in our Primary segment."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-076",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "The goodwill arising from the acquisition is attributable to anticipated (i) growth acceleration in the Pro market; (ii) expansion in high growth verticals including roofing; (iii) additional addressable market opportuni",
+    "text": "Results of Operations. Net sales attributable to SRS since the completion of the acquisition and included within our results of operations for fiscal 2024 totaled $ 6.4 billion. Net earnings attributable to SRS since the completion of the acquisition and included within our results of operations for fiscal 2024 were immaterial."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-077",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Rule 13a-15(f) promulgated under the Exchange Act. Under the supervision and w",
+    "text": "Management excluded GMS, which was acquired on September 4, 2025, from our assessment of internal control over financial reporting as of February 1, 2026. GMS represents approximately 3% of the Company\u2019s consolidated total assets, excluding goodwill and intangible assets, and approximately 1% of the Company\u2019s consolidated net sales as of and for the year ended February 1, 2026. This exclusion is in accordance with the SEC staff's general guidance that an assessment of an acquired business may be omitted from the scope of management's assessment of the effectiveness of internal control over financial reporting for one year following the acquisition. See Note 13 to our consolidated financial statements for further discussion of the GMS acquisition."
+  },
+  {
+    "chunk_id": "T-HD-REVENUE-078",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheets of the Company as of February 1, 2026 and February 2, 2025,",
+    "text": "The Company acquired GMS Inc. (GMS) during fiscal 2025, and management excluded GMS from its assessment of the effectiveness of the Company\u2019s internal control over financial reporting as of February 1, 2026. GMS represents approximately 3% of the Company\u2019s consolidated total assets, excluding goodwill and intangible assets, and approximately 1% of the Company\u2019s consolidated net sales as of and for the fiscal year ended February 1, 2026. Our audit of internal control over financial reporting of the Company also excluded an evaluation of the internal control over financial reporting of GMS."
+  },
+  {
+    "chunk_id": "T-HD-INVENTORY-030",
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "hd-20260201.htm",
+    "preceding_context": "MICHAEL ROWE, age 58, currently serves as Executive Vice President - Pro. He previously served as President of The Home Depot Canada from October 2020 to February 2025. From November 2016 to October 2020, he served as Vi",
+    "text": "STEPHANIE SMITH, age 49, has served as Executive Vice President \u2013 Human Resources since June 2025. She previously served as Executive Vice President supporting the Human Resources function from February 2025 to June 2025. Ms. Smith joined the Company in 2003 in store operations and has held roles of increasing responsibility in store operations, merchandising operations and supply chain since that time. She served as Senior Vice President of Supply Chain from May 2019 to February 2025. In that role, she was responsible for inventory management, transportation, delivery, and supply chain analytics functions across all customer-selling channels, including store, online and Pro. Prior to joining the Company, Ms. Smith was a consultant with Ernst & Young, LLP."
+  }
+]

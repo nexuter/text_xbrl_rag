@@ -1,0 +1,1202 @@
+[
+  {
+    "chunk_id": "T-WMT-REVENUE_INVENTORY-001",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "\u2022 the growth of our business or change in our competitive position in the future, or in or over particular periods, both generally, and with respect to particular markets, segments or lines of business, including, but no",
+    "text": "\u2022 the amount, number, growth, increase, reduction or decrease in or over certain periods, of or in certain financial items or measures or operating measures, including our earnings per share, net sales, growth rates, comparable store and club sales, our eCommerce sales, liabilities, expenses of certain categories, including share-based compensation, expense leverage, operating income, returns, capital and operating investments or expenditures of particular types and new store and club openings, inventory levels and associated costs, product mix and demand for certain merchandise, consumer confidence, disposable income, credit availability, spending levels, shopping patterns and debt levels;"
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-001",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "\u2022 volatility in currency exchange rates affecting our consolidated, or one or more of our segments' results of operations;",
+    "text": "\u2022 the Company continuing to provide returns to shareholders through share repurchases and dividends, the use of share repurchase authorization over a certain period or the source of funding of a certain portion of our share repurchases;"
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-002",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Our strategy is to make every day easier for busy families, operate with discipline, sharpen our culture and become more digital, and make trust a competitive advantage. Making life easier for busy families includes our ",
+    "text": "Our operations comprise three reportable segments: Walmart U.S., Walmart International and Sam's Club U.S. Our fiscal year ends on January 31 for our United States (\"U.S.\") and Canadian operations. We consolidate all other operations generally using a one-month lag and on a calendar year basis. Our discussion is as of, and for the fiscal years ended, January 31, 2026 (\"fiscal 2026\"), January 31, 2025 (\"fiscal 2025\") and January 31, 2024 (\"fiscal 2024\"). During fiscal 2026, we generated total revenues of $713.2 billion, which primarily comprised net sales of $706.4 billion."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-003",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "We are enhancing our omnichannel capabilities through a combination of stores, eCommerce websites, mobile applications and service offerings, as well as our supply chain, combined with approximately 2.1 million associate",
+    "text": "We are engaged in global operations of retail, wholesale and other units, as well as eCommerce, located throughout the U.S., Africa, Canada, Central America, Chile, China, India and Mexico. Our operations are conducted in three reportable segments: Walmart U.S., Walmart International and Sam's Club U.S., which are further described below. Each segment contributes to the Company's operating results differently. However, each has generally maintained a consistent contribution rate to the Company's net sales in recent years other than minor changes to the contribution rate for the Walmart International segment due to fluctuations in currency exchange rates. Additional information on our operating segments and geographic information is contained in Note 1 1 to our Consolidated Financial Statements."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-004",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "We are engaged in global operations of retail, wholesale and other units, as well as eCommerce, located throughout the U.S., Africa, Canada, Central America, Chile, China, India and Mexico. Our operations are conducted i",
+    "text": "Walmart U.S. is our largest segment and operates 4,611 stores in the U.S., including in all 50 states, Washington D.C. and Puerto Rico. Walmart U.S. is a mass merchandiser of consumer products, operating under the \"Walmart\" and \"Walmart Neighborhood Market\" brands, as well as walmart.com and the Walmart mobile application. Walmart U.S. had net sales of $483.0 billion for fiscal 2026, representing 68% of our fiscal 2026 consolidated net sales, and had net sales of $462.4 billion and $441.8 billion for fiscal 2025 and 2024, respectively."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-005",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Walmart International is our second largest segment and operates 5,743 stores across 18 countries outside of the U.S. Walmart International operates through our wholly-owned subsidiaries in Canada, Chile, China, and Afri",
+    "text": "Walmart International includes numerous formats divided into two major categories: retail and wholesale. These categories consist of many formats, including: supercenters, supermarkets, warehouse clubs (including our membership-only Sam's Club format) and cash and carry, as well as eCommerce through websites and mobile applications, including walmart.com.mx, walmart.ca, flipkart.com, PhonePe, samclub.cn and other sites. Walmart International had net sales of $130.4 billion for fiscal 2026, representing 19% of our fiscal 2026 consolidated net sales, and had net sales of $121.9 billion and $114.6 billion for fiscal 2025 and 2024, respectively."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-006",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Omnichannel. Walmart International provides a convenient and seamless omnichannel experience to customers, integrating retail stores and eCommerce, such as through our pickup and delivery services from approximately 3,30",
+    "text": "Merchandise and Other Offerings. The merchandising strategy for Walmart International is similar to that of our operations in the U.S. in terms of the breadth and scope of merchandise offered for sale. While brand name merchandise accounts for a majority of our sales, we have both leveraged U.S. private brands and developed market specific private brands to serve our customers with high quality, low priced items. Along with the private brands we market globally, such as \"Equate,\" \"George,\" \"Great Value,\" \"Holiday Time,\" \"Mainstays,\" \"Marketside,\" \"Member's Mark\" and \"Parent's Choice,\" our international markets have developed market specific brands including \"Aurrera\" and \"Lider.\" In addition, we have developed and continue to grow our relationships with regional and local suppliers in each market to ensure reliable sources of quality merchandise that is equal to national brands at low prices. Consistent with its strategy, Walmart International continues to build mutually reinforcing businesses in areas such as advertising, marketplace and fulfillment services, financial services and healthcare."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-007",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Merchandise and Other Offerings. The merchandising strategy for Walmart International is similar to that of our operations in the U.S. in terms of the breadth and scope of merchandise offered for sale. While brand name m",
+    "text": "Sam's Club U.S. is a membership-only warehouse club that operates 601 clubs in 44 states in the U.S. and Puerto Rico and also operates samsclub.com and the Sam's Club mobile application. Sam's Club U.S. had net sales of $93.0 billion for fiscal 2026, representing 13% of our consolidated fiscal 2026 net sales, and had net sales of $90.2 billion and $86.2 billion for fiscal 2025 and 2024, respectively. As a membership-only club, membership income is a significant component of the segment's operating income."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-008",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "\u25e6 Home, hardlines and seasonal items (such as home improvement, outdoor living, gardening, furniture, apparel, jewelry, tools and power equipment, housewares, toys and mattresses); and",
+    "text": "\u25e6 Technology and entertainment items (such as consumer electronics and accessories, software, video games, office supplies, appliances and third-party gift cards)."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-009",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "\u2022 Opening new stores and clubs, as well as remodeling existing locations, to enhance the customer experience, support omnichannel capabilities, and strengthen our physical footprint in existing and new markets; and",
+    "text": "\u2022 Investing in technology, automation, and our associates to deliver growth, expand operating margins and improve returns."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-010",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "\u2022 Investing in technology, automation, and our associates to deliver growth, expand operating margins and improve returns.",
+    "text": "Seasonal Aspects of Operations. Our business is seasonal to a certain extent and varies by country due to different national and religious holidays, festivals and customs, as well as different weather patterns. Historically, our highest sales volume for each segment has occurred in the fourth quarter of our fiscal year."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-011",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Daniel J. Bartlett Executive Vice President, Corporate Affairs, effective June 2013. From November 2007 to June 2013, he served as Chief Executive Officer and President of U.S. Operations at Hill & Knowlton, Inc., a publ",
+    "text": "Seth Dallaire Executive Vice President and Chief Growth Officer, effective February 2026. From October 2024 to February 2026, he served as Executive Vice President and Chief Growth Officer, Walmart U.S. From November 2021 to October 2024, he served as Executive Vice President and Chief Revenue Officer, Walmart U.S. From November 2019 to November 2021 he served as Chief Revenue Officer at Instacart. 2026 55"
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-012",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "The risks described below could, in ways we may or may not be able to accurately predict, materially and adversely affect our business, results of operations, financial position and liquidity. Our business operations cou",
+    "text": "Failure to successfully execute our omnichannel strategy and the cost of our investments in eCommerce and technology may materially adversely affect our market position, net sales and financial performance."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-013",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "The retail business continues to rapidly evolve with consumers embracing the digital shopping experience and expecting a robust online marketplace of goods available for purchase and delivery. As a result, the portion of",
+    "text": "Our strategy, which includes investments in eCommerce, technology, AI, talent, supply chain automation and enhancements, advertising, acquisitions, joint ventures, new store and club openings and remodels and other customer initiatives, may not adequately or effectively allow us to continue to grow our omnichannel business offerings, increase comparable sales or maintain or grow our overall market position. The success of this strategy will depend in large measure on our ability to continue building and delivering a seamless omnichannel shopping experience and interconnected ecosystem for our customers that deepens and maintains our relationships with our customers across our various businesses and partnerships. Customers are using digital means, including websites, captive and third-party digital applications, social media, and emerging agentic platforms to shop with us and our competitors and to do comparison shopping, and we use these digital means along with digital advertising, text messages and email to interact with our customers and enhance their shopping experience."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-014",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Our strategy, which includes investments in eCommerce, technology, AI, talent, supply chain automation and enhancements, advertising, acquisitions, joint ventures, new store and club openings and remodels and other custo",
+    "text": "The success of this strategy is further subject to the related risks discussed in this Item 1A . With the interconnected components of this enterprise strategy and an increasing allocation of capital expenditures focused on these initiatives, changes in customer or member perceptions about our reputation in general, or our failure to successfully execute on individual components of this strategy may adversely affect our market position, net sales and financial performance, which could also result in impairment charges to intangible assets or other long-lived assets. In addition, a greater concentration of eCommerce sales, including increasing online grocery sales and the increasing role of AI-enabled platforms in product search, discovery, advertising and purchasing, could result in a reduction in the amount of traffic in our stores and clubs, which would, in turn, reduce the opportunities for cross-store or cross-club sales of merchandise that such traffic creates and could reduce our sales within our stores and clubs and materially adversely affect our financial performance."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE_INVENTORY-002",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "If we do not timely identify or effectively respond to consumer trends or preferences, it could negatively affect our reputation, relationship with our customers, demand for the products and services we sell, our market ",
+    "text": "It is difficult to predict consistently and successfully the products and services our customers will demand and changes in their shopping patterns, tastes and preferences. The success of our business depends in part on how accurately we predict consumer demand, availability of merchandise, the related impact on the demand for existing products and services and the competitive environment. Our business is dependent on our ability to make critical decisions and predictions with respect to merchandise categories that quickly respond to changing consumer spending patterns, tastes and preferences, and any incorrect calculations by us may result in lower sales, spoilage and inventory markdowns, which could adversely impact our results of operations. Our ability to predict and adapt to changing tastes and preferences depends on many factors, including obtaining accurate and relevant data on customer preferences, emphasizing relevant merchandise categories, effectively managing our inventory levels, implementing competitive and effective pricing and promotion strategies. Price transparency, assortment of products, customer experience, convenience, ease and the speed and cost of shipping are of primary importance to customers and continue to increase in importance, particularly as a result of digital tools, social media, and emerging agentic tools available to consumers and the choices available to consumers for purchasing products. In addition, to remain competitive, we must continue to develop, integrate and scale digital tools, including AI-powered search and discovery platforms and capabilities, useful interfaces and other marketing tools such as third-party recommendation engines, paid search and mobile applications. We must continue to preserve our reputation, which is impacted by public perceptions and customer experiences. It may be difficult to address negative publicity across media channels, regardless of whether it is accurate. Negative incidents, including the loss of merchandise as a result of shrink or theft, ineffective use or misuse of AI technologies, inaccurate, biased or otherwise flawed"
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE_INVENTORY-003",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "It is difficult to predict consistently and successfully the products and services our customers will demand and changes in their shopping patterns, tastes and preferences. The success of our business depends in part on ",
+    "text": "AI search and discovery results, or a data breach as a result of a cyberattack could quickly erode trust and confidence in our business and could result in customer dissatisfaction, consumer boycotts, workforce unrest and government investigations. These incidents may involve us, our vendors that handle our data or personal information, our workforce or others with whom we do business, including third-party service providers and independent contractors. Societal expectations, preferences, trends and political expression are ever-changing and we try to adapt, evolve and maintain a balance that meets the acceptance of our customers, members, associates, shareholders, suppliers and other stakeholders, but we may not always move as quickly or in the direction that various competing interests desire or demand, which could impact our reputation. For instance, strong opinions continue to be publicly expressed both for and against various social and environmental initiatives and positions taken by many corporations, including Walmart, are tracked, monitored and subject to heightened scrutiny from consumers, investors, advocacy groups and public figures, potentially leading to consumer boycotts, negative publicity campaigns, litigation and reputational harm. Negative reputational incidents or negative perceptions of us could adversely impact our business and results of operations, including through lower sales, the termination of business relationships and negative impacts to associate retention and recruiting efforts. Moreover, failure to adequately predict customer demand and consumer spending patterns or otherwise optimize and operate our distribution and fulfillment centers could result in excess or insufficient inventory, service interruptions and increased costs, any of which could significantly harm our business. As we continue to add new fulfillment centers, our fulfillment and technology networks become increasingly complex and operating them in a way that effectively meets consumer demands continues to be challenging. There can be no assurance that we will be able to operate our networks effectively."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE_INVENTORY-004",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "General economic conditions and other economic factors, globally or in one or more of the markets we serve, may adversely affect our financial performance. Higher interest rates, higher prices of petroleum products, incl",
+    "text": "consumer credit, higher consumer debt levels, changes in consumer spending and shopping patterns, fluctuations in currency exchange rates, higher tax rates, imposition of new taxes or other changes in tax laws, changes in healthcare laws, other regulatory changes, the imposition of export and import restrictions, tariffs, trade barriers or other measures that create barriers to or increase the costs associated with international trade, overall economic slowdown or recession and other economic factors in the U.S., or in any of the other markets in which we operate, could adversely affect consumer demand for the products and services we sell in the U.S. or such other markets, change the mix of products we sell to any one or more markets with a lower average gross margin, cause a slowdown in discretionary purchases of goods, adversely affect our net sales, growth rates, operating income and result in slower inventory turnover and greater markdowns of inventory, or otherwise materially adversely affect our operations and operating results and could result in impairment charges to intangible assets, goodwill or other long-lived assets."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE_INVENTORY-005",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "consumer credit, higher consumer debt levels, changes in consumer spending and shopping patterns, fluctuations in currency exchange rates, higher tax rates, imposition of new taxes or other changes in tax laws, changes i",
+    "text": "In addition, the economic factors listed above, any other economic factors or circumstances resulting in higher transportation, labor, insurance or healthcare costs or commodity prices, including energy prices, and other economic factors in the U.S. and other countries in which we operate can increase our cost of sales and operating, selling, general and administrative expenses and otherwise materially adversely affect our operations and operating results."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-015",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "The performance of strategic alliances and other business relationships to support the expansion of our business could materially adversely affect our financial performance.",
+    "text": "We may enter into strategic alliances and other business relationships in the countries in which we have existing operations or in other markets to expand our business. These arrangements may not generate the level of sales or profitability we anticipate when entering into the arrangement or may otherwise adversely impact our business and competitive position relative to the results we could have achieved in the absence of such alliance. In addition, any investment we make in connection with a strategic alliance, business relationship or in certain of our divested markets, could materially adversely affect our financial performance."
+  },
+  {
+    "chunk_id": "T-WMT-INVENTORY-001",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Global or regional health pandemics or epidemics could negatively impact our business, financial position and results of operations.",
+    "text": "The emergence, severity, magnitude and duration of global or regional pandemics, epidemics or other health crises are uncertain and difficult to predict. A pandemic, epidemic or contagious disease outbreak that affects humans or the food supply, such as the avian flu impact on poultry and egg production could impact our business operations, demand for our products and services, in-stock positions, costs of doing business, access to inventory, supply chain operations, ability to predict future performance, exposure to litigation and financial performance, among other things. In the event of any global or regional health crisis, customer demand for certain products may fluctuate, customer behaviors may change and consumer disposable income could be negatively impacted, which may challenge our ability to anticipate and/or adjust inventory levels to meet that demand. These risks and their impacts are difficult to predict and could otherwise disrupt and adversely affect our operations and our financial performance."
+  },
+  {
+    "chunk_id": "T-WMT-INVENTORY-002",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "stores and clubs affected by such events, the evacuation of the populace from areas in which our stores, clubs and distribution and fulfillment centers are located, the unavailability of our digital platforms to our cust",
+    "text": "We bear the majority of the costs associated with adaptation and the risk of losses incurred as a result of physical damage to, or destruction of, any stores, clubs, distribution or fulfillment centers and transportation vehicles and equipment; theft, loss or spoilage of inventory; and business interruption caused by such events. These events and their impacts could otherwise disrupt and adversely affect our operations and could materially adversely affect our financial performance. Moreover, our operations in the U.S. comprise a significant portion of our financial and operational performance. Therefore, any of the above matters that uniquely impact or are specifically concentrated in the U.S. could materially adversely affect our financial condition, results of operations or cash flows."
+  },
+  {
+    "chunk_id": "T-WMT-INVENTORY-003",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "If the quality or safety of products offered for sale on our third-party marketplace fails to meet our customers' expectations or regulatory standards, we could be held directly liable, lose customers, become subject to ",
+    "text": "Some of the products customers buy from our website are sold by third parties, which we refer to as marketplace transactions. While that transaction ultimately occurs between the third-party seller and the customer, some regulators and courts have taken a view that the retailer is responsible for marketplace transactions that occur on a retailer's digital platform. Unsettled law on whether a retailer is responsible for intellectual property or product liability claims related to marketplace transactions creates additional risk. Any unfavorable changes or legal interpretations could further expose us to liability. Our arrangements with our third-party marketplace sellers are complex and we may not be able to implement, maintain and develop the components of these commercial relationships, which may include fulfillment, inventory management, tax collection, payment processing, content and engaging other third parties to perform services."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-016",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Some of the products customers buy from our website are sold by third parties, which we refer to as marketplace transactions. While that transaction ultimately occurs between the third-party seller and the customer, some",
+    "text": "In addition, poor quality or safety of third-party products offered for sale on our platforms could erode customer trust, leading to loss of sales, reduction in transactions and deterioration of our competitive position. In addition, we may face reputational, financial and other risks, including liability for third-party products offered for sale on our platform that are controversial, counterfeit, pirated or stolen or that infringe the intellectual property rights of others. We may not be able to collect sufficient damages for these types of breaches from third-party sellers. Furthermore, even if we are successful in negotiating a contractual shift in risk of loss to third parties, a regulator may view us as having responsibility for regulatory compliance of the third-party products offered for sale on our platform. Although we have marketplace compliance controls in place and impose contractual terms on sellers to prohibit sales of non-compliant products, we may not be able prevent sellers from offering prohibited items for sale, enforce such terms or fully protect against regulatory risk. Any of these events could have a material adverse impact on our business and results of operations and impede the execution of our eCommerce growth and enterprise strategy."
+  },
+  {
+    "chunk_id": "T-WMT-INVENTORY-004",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "We rely extensively on information and financial systems to process transactions, summarize results and manage our business. Disruptions in our systems could harm our ability to conduct our operations.",
+    "text": "Given the number of individual transactions we have each year, it is crucial that we maintain uninterrupted operation of our business-critical information systems. Our information systems are subject to damage or interruption from power outages, computer and telecommunications failures, computer viruses, ransomware, worms, other malicious computer programs, denial-of-service attacks, security incidents and breaches from a variety of threat actors, including both cybercriminals and nation state-sponsored actors and catastrophic events noted above in this Item 1A . The availability of our information systems and the integrity of data are essential to our business operations, including the processing of transactions, management of our associates, facilities, logistics, inventories, physical stores and clubs and our online operations. Our information systems are not fully redundant and our disaster recovery planning cannot account for all eventualities. If our systems are damaged, breached, attacked, interrupted or otherwise cease to function properly, we may have to make a significant investment to repair or replace them, and may experience loss or corruption of data as well as suffer interruptions in our business operations in the interim. Any interruption to the availability of our information systems or corruption of our data may have a material adverse effect on our business or results of operations. In addition, the cost of securing our systems against failure or attack is considerable, and increases in these costs, particularly in the wake of a breach or failure, could be significant."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-017",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "If the technology-based systems that give our customers the ability to shop with us online and enable us to deliver products and services do not function effectively, or keep pace with similar offerings of our competitor",
+    "text": "As noted above, customers are using digital means, including websites, captive and third-party digital applications, social media, and emerging agentic platforms to shop with us and our competitors and to do comparison shopping, and we use these digital means along with digital advertising, text messages and email to interact with our customers and enhance their shopping experience. As a part of our omnichannel sales strategy, we offer various pickup, delivery and shipping programs including options where many products available for purchase online can be picked up by the customer or member at a local Walmart store or Sam's Club, which provides additional customer traffic at such stores and clubs. Omnichannel retailing is a rapidly evolving part of the retail industry and of our operations around the world, and we continue to make investments in supply chain automation and enhancements to support our omnichannel strategy. We must anticipate and meet our customers' changing expectations while adjusting for technology investments and developments in our competitors' operations through focusing on the building and delivery of a seamless shopping experience across all channels by each operating segment, and structuring these offerings in a manner that allows us to maintain a direct relationship with our customers. We continue to invest in AI to enhance our customers' shopping experience and our associate work experience and to improve efficiencies of our supply chain, operations, management functions and talent recruitment and development; however, these are evolving technologies, there are"
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-018",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "inherent operational and legal complexities associated with implementation of these technologies within our business, and there can be no assurance that these investments will deliver the anticipated benefits, or that we",
+    "text": "Some of the various technology systems and services on which we rely are provided and managed by an increasing number of third-party service providers. To the extent either our or such other third-party systems and services do not perform or function as anticipated, whether because of an inherent flaw in the technology, faulty implementation or a cybersecurity incident, such failure can significantly interfere with our ability to meet our customers' changing expectations. Any disruption or failure on our part to provide attractive, user-friendly and secure digital platforms that offer a wide assortment of merchandise and services at competitive prices and with low cost and rapid delivery options and that continually meet the changing expectations of online shoppers and developments in online, digital, and agentic merchandising and related technology in a cost-efficient manner could place us at a competitive disadvantage, result in the loss of eCommerce and other sales, harm our reputation with customers, have a material adverse impact on the growth of our eCommerce business globally and have a material adverse impact on our business and results of operations."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-019",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Our digital platforms, which are increasingly important to our business and continue to grow in complexity and scope, and the systems on which they run, including those applications and systems used in legacy operations ",
+    "text": "information misuse and/or loss and may create denials of service or otherwise disable, degrade or sabotage the information systems that enable or support one or more of our digital platforms or otherwise significantly disrupt our customers' and members' shopping experience, our supply chain integrity and continuity and our ability to efficiently operate our business. If we are unable to maintain the security of the information systems that enable or support our digital platforms and keep them operating within acceptable parameters, we could be subject to regulatory fines, suffer loss of sales, reductions in transactions, reputational damage and deterioration of our competitive position and incur liability for any damage to customers, members or others whose personal or confidential information is unlawfully obtained and misused, any of which events could have a material adverse impact on our business and results of operations and impede the execution of our strategy for the growth of our business."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-020",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Our reputation with our customers and members is important to the success of our enterprise strategy, which combines traditional retail, membership models, marketplaces, financial services, health and wellness and other ",
+    "text": "could result in a material reduction in our net sales in our eCommerce operations, as well as in our stores, thereby materially adversely affecting our operations, net sales, growth rates, operating income, results of operations, financial position, cash flows and liquidity. Such events could also result in the release to the public of confidential information about our operations and financial position and performance and could result in litigation or other legal actions against us or the imposition of penalties, fines, fees or liabilities, which may not be covered by our insurance policies. Moreover, a security compromise or operationally impactful malware event, such as ransomware, could require us to devote significant management resources to address the problems created by the issue and to expend significant additional resources to upgrade further the security measures we employ to guard personal and confidential information against cyberattacks and other attempts to access or otherwise compromise such information and could result in a disruption of our operations, particularly our digital operations."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-021",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "could result in a material reduction in our net sales in our eCommerce operations, as well as in our stores, thereby materially adversely affecting our operations, net sales, growth rates, operating income, results of op",
+    "text": "We accept payments using a variety of methods, including cash, checks, credit and debit cards, electronic benefits transfer (EBT) cards, mobile payments and our private label credit cards and gift cards, and we may offer new payment options over time, which may have information security risk implications. As a retailer accepting debit and credit cards for payment, we are subject to various industry data protection standards and protocols, such as payment network security operating guidelines and the Payment Card Industry Data Security Standard. We cannot be certain that the security measures we or our third-party suppliers maintain are able to detect, prevent or contain cyberattacks, cyberterrorism, security incidents, breaches or other compromises from malware, ransomware or other threats that are known or may be developed in the future. In certain circumstances, our contracts with payment card processors and payment card networks (such as Visa, Mastercard, American Express and Discover) generally require us to adhere to payment card network rules which could make us liable to payment card issuers and others if information in connection with payment cards and payment card transactions that we process is compromised, which liabilities could be substantial."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-022",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "We have retail pharmacy operations in our Walmart U.S. and Sam's Club U.S. segments across the U.S. and in various of our international markets such as Canada and Mexico.",
+    "text": "A large majority of our retail pharmacy net sales are generated by filling prescriptions for which we receive payment through established contractual relationships with third-party payers and payment administrators, such as private insurers, governmental agencies and pharmacy benefit managers (\"PBMs\"). Our retail pharmacy operations are subject to numerous risks, including: reductions in the third-party reimbursement rates for drugs; changes in our payer mix (i.e., shifts in the relative distribution of our pharmacy customers across drug insurance plans and programs toward plans and programs with less favorable reimbursement terms); changes in third-party payer drug formularies (i.e., the schedule of prescription drugs approved for reimbursement or which otherwise receive preferential coverage treatment); growth in, and our participation in or exclusion from, pharmacy payer network arrangements, including exclusive and preferred pharmacy network arrangements operated by PBMs and/or any insurance plan or program; increases in the prices we pay for brand name and generic prescription drugs we sell; increases in the administrative burdens associated with seeking third-party reimbursement; changes in the frequency with which new brand name pharmaceuticals become available to consumers; introduction of lower cost generic drugs as substitutes for existing brand name drugs for which there was no prior generic drug competition; changes in drug mix (i.e., the relative distribution of drugs customers purchase at our pharmacies between brands and generics); changes in the health insurance market generally; increased governmental focus on reducing drug prices including most favored nation pricing policies, maximum fair price negotiations, and direct-to-consumer pharmacy delivery models; changes in the scope of or the elimination of Medicare Part D or Medicaid drug programs; increased competition from other retail pharmacy operations including competitors offering online retail pharmacy options and/or home delivery options; further consolidation and strategic alliances among third-party payers, PBMs or purchasers of drugs; overall economic conditions and the ability of our pharmacy customers to pay for drugs prescribed for them to the extent the costs are not reimbursed by a third-party; failure to meet any performance or incentive thresholds to which our level of third-party reimbursement may be subject; changes in laws or regulations or the practices of third-party payers and PBMs related to the use of third-party financial assistance to assist our pharmacy customers with paying for drugs prescribed for them; and any additional changes in the state or federal regulatory environment for the retail pharmacy industry and the pharmaceutical industry, including as a result of health reform efforts and other changes to or novel interpretations of existing state or federal laws, rules and regulations that affect our retail pharmacy business."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE_INVENTORY-006",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "If the supply of certain pharmaceuticals provided by one or more of our vendors were to be disrupted for any reason, our pharmacy operations could be severely affected until at least such time as we could obtain a new su",
+    "text": "One or a combination of the factors above may adversely affect the volumes of brand name and generic pharmaceuticals we sell, our cost of sales associated with our retail pharmacy operations, the net sales and gross margin of those operations or result in the loss of cross-store or cross-club selling opportunities. In addition, these and other factors may adversely affect the type, volume and mix of services we provide and the reimbursement we receive for health and wellness services rendered. Any of these developments could, in turn, adversely affect our overall net sales, other results of operations, cash flows and liquidity."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-023",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Failure to meet market expectations for our financial performance could adversely affect the market price and volatility of our stock.",
+    "text": "We believe that the price of our stock generally reflects high market expectations for our future operating results. Any failure to meet or delay in meeting these expectations, including our consolidated net sales, consolidated operating income, growth rates, eCommerce growth rates, advertising and other higher-margin initiatives (which are expected to help drive our operating income growth at a rate faster than net sales over the long term), capital expenditures, comparable store and club sales growth rates or earnings and adjusted earnings per share could cause the market price of our stock to decline, as could changes in our dividend or stock repurchase programs or policies, changes in our effective tax rates, changes in our financial estimates and recommendations by securities analysts or, failure of our performance to compare favorably to that of other retailers may have a negative effect on the price of our stock."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-024",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Fluctuations in foreign exchange rates may materially adversely affect our financial performance and our reported results of operations.",
+    "text": "Our operations in countries other than the U.S. are conducted primarily in the local currencies of those countries. Our Consolidated Financial Statements are denominated in U.S. dollars, and to prepare those financial statements we must translate the amounts of the assets, liabilities, net sales, other revenues and expenses of our operations outside of the U.S. from local"
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE_INVENTORY-007",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "As a result of such translations, fluctuations in currency exchange rates from period-to-period that are unfavorable to us may also result in our Consolidated Financial Statements reflecting significant adverse period-ov",
+    "text": "We may pay for products we purchase for sale in our stores, clubs and eCommerce platforms around the world with a currency other than the local currency of the country in which the goods will be sold. When we must acquire the currency to pay for such products and the exchange rates for the payment currency fluctuate in a manner unfavorable to us, our cost of sales may increase and we may be unable or unwilling to change the prices at which we sell those goods to address that increase in our costs, with a corresponding adverse effect on our gross profit. Consequently, unfavorable fluctuations in currency exchange rates have adversely affected, and may continue to adversely affect, our results of operations."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-025",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "In addition to our U.S. operations, we operate retail and eCommerce businesses in Africa, Canada, Central America, Chile, China, India and Mexico.",
+    "text": "During fiscal 2026, our Walmart International operations generated approximately 19% of our consolidated net sales. Walmart International's operations in various countries also source goods and services from other countries. Our future operating results in these countries could be negatively affected by a variety of factors, most of which are beyond our control. These factors include political conditions, including political instability, local and global economic conditions; legal and regulatory constraints, such as regulation of product and service offerings including regulatory restrictions (such as foreign ownership restrictions) on eCommerce and retail operations in international markets, such as in India; restrictive governmental actions, such as trade protection measures or nationalization; antitrust and competition law regulatory matters, such as those underway in Canada, Mexico and India (relating to our Flipkart subsidiary); local product safety and environmental laws; tax regulations; local labor laws; anti-money laundering laws and regulations; trade policies; foreign exchange or currency regulations; laws and regulations regarding consumer and data protection; and other matters in any of the countries or regions in which we operate, now or in the future."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-026",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Changes in tax and trade laws, regulations and interpretations could materially adversely affect our financial performance.",
+    "text": "In fiscal 2026, our Walmart U.S. and Sam's Club U.S. operating segments generated approximately 82% of our consolidated net sales. A significant portion of the general merchandise we sell in our U.S. stores and clubs is manufactured in other countries. Significant changes in tax and trade policies, including tariffs, trade barriers, other restrictions on the exportation and importation of goods and government regulations affecting trade between the U.S. and other countries where we source many of the products we sell can impact, and have impacted, our business and profit margins, including through increases in the costs at which we purchase merchandise and the prices at which we sell such merchandise to our customers, and the costs we incur in pursuing our strategic initiatives, including those set forth under the headings Strategic Risks and Operational Risks above in this Item 1A. If we are unable to successfully manage the various impacts that changes in these tax and trade policies have on our business, our results of operations and financial performance could be impacted. We experienced the impacts noted above during fiscal 2026 as a result of incremental import tariffs. We expect the dynamic tariff environment to continue, including in fiscal 2027, and cannot predict with certainty the future impact that this environment will have on our results of operations or financial performance, which could be material."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-027",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "We are subject to income taxes, other taxes and tax collection and reporting obligations in both the U.S. and the foreign jurisdictions in which we currently operate or have historically operated. The determination of ou",
+    "text": "We are also exposed to future tax legislation, as well as the issuance of future regulations and changes in administrative interpretations of existing tax laws, and changes in transfer pricing arrangements with our subsidiaries, any of which can impact our or our subsidiaries' current and future years' tax provision. The effect of such changes in tax law, changes in administrative interpretations of existing tax laws or changes in transfer pricing arrangements could also have a material effect on our business, financial position and results of operations. In the U.S., the Tax Cuts and Jobs Act of 2017 (the \"Tax Act\") significantly changed federal income tax laws that affect U.S. corporations. As further guidance is issued by the U.S. Treasury Department, the Internal Revenue Service and other standard-setting bodies, any resulting changes in our estimates will be treated in accordance with the relevant accounting guidance. Compliance with the Tax Act and any other new tax rules, regulations, guidance and interpretations, including collecting information not regularly produced by us or unexpected changes in our estimates, may require us to incur additional costs and could affect our results of operations."
+  },
+  {
+    "chunk_id": "T-WMT-INVENTORY-005",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "We are increasingly named as a defendant in cases that involve allegations relating to the retail prices charged to customers and costs we negotiate with suppliers. These cases include purported class actions under feder",
+    "text": "Claims for insurance-related liabilities, such as workers' compensation, general liability, auto liability, product liability and certain employee-related healthcare benefits, are funded predominantly through self-insurance. Insurance coverage is maintained for certain risks to limit exposures arising from significant losses. The types and amounts of insurance may vary from time to time based on our risk-management strategy, risk tolerance, regulatory requirements, market conditions and other factors. Significant claims or events, regulatory changes, a substantial rise in costs of health care or costs to maintain our insurance or the failure to maintain adequate insurance coverage could have an adverse impact on our financial condition and results of operations. Although we maintain specific coverages for catastrophic property losses, we still bear a significant portion of the risk of losses incurred as a result of any physical damage to, or the destruction of, any stores, warehouses, depots, manufacturing or home office facilities, loss or spoilage of inventory, and business interruption. Such losses could materially impact our cash flows and results of operations."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-028",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "(3) U.S. distribution facilities are utilized by both the Walmart U.S. and Sam's Club U.S. segments.",
+    "text": "We own office facilities in Bentonville, Arkansas, that serve as our principal office and own and lease office facilities throughout the U.S. and internationally for operations as well as for field and market management. The land on which our stores are located is either owned or leased by the Company. Owned retail units on leased land are reflected as leased locations in the table above. We use independent contractors to construct our buildings. All store leases provide for annual rentals, some of which escalate during the original lease or provide for additional rent based on sales volume. Substantially all of the Company's store and club leases have renewal options, some of which include rent escalation clauses. For further information on our distribution network, see the caption \"Distribution\" under \" Item 1. Business .\""
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-029",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "As of March 11, 2026, there were 185,190 holders of record of Walmart's common stock, although there is a much larger number of beneficial owners.",
+    "text": "This graph compares the cumulative total shareholder return on Walmart's common stock during the five fiscal years ended through fiscal 2026 to the cumulative total returns on the S&P 500 Consumer Discretionary Distribution & Retailing Index and the S&P 500 Index. The comparison assumes $100 was invested on February 1, 2021 in shares of our common stock and in each of the indices shown and assumes all dividends were reinvested."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-030",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "This discussion, which presents our results for the fiscal years ended January 31, 2026 (\"fiscal 2026\"), January 31, 2025 (\"fiscal 2025\") and January 31, 2024 (\"fiscal 2024\"), should be read in conjunction with our Conso",
+    "text": "Throughout this Item 7, we discuss segment operating income, comparable store and club sales and other measures. Management measures the results of the Company's segments using each segment's operating income, including certain corporate overhead allocations, as well as other measures. From time to time, we revise the measurement of each segment's operating income and other measures as determined by the information regularly reviewed by our chief operating decision maker."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE_INVENTORY-008",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "We expect continued uncertainty in our business and the global economy due to the following factors: tariffs and trade restrictions; inflationary trends; fluctuations in global currencies; swings in macroeconomic conditi",
+    "text": "Our net sales and gross profit margin are influenced in part by our pricing and merchandising strategies in response to cost increases. Those pricing strategies include, but are not limited to: absorbing cost increases instead of passing those cost increases on to our customers and members; reducing prices in certain merchandise categories; focusing on opening price points for certain food categories; and when necessary, passing cost increases on to our customers and members. Merchandising strategies include, but are not limited to: working with our suppliers to reduce product costs and share in absorbing cost increases; focusing on private label brands and smaller pack sizes; earlier-than-usual purchasing and in greater volumes or moderating purchasing in certain categories; and securing ocean carrier and container capacity. These strategies have and may continue to impact gross profit as a percentage of net sales."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-031",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "\u2022 Margin - improve our operating income margin through productivity initiatives as well as category and business mix; and",
+    "text": "\u2022 Returns - improve our Return on Investment through margin improvement and disciplined capital spend."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-032",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "\u2022 Returns - improve our Return on Investment through margin improvement and disciplined capital spend.",
+    "text": "Our objective of prioritizing growth means we will focus on serving customers and members however they want to shop through our omnichannel business model. This includes increasing comparable store and club sales through increasing membership at Sam's Club U.S. and through Walmart+, accelerating eCommerce sales growth and expansion of omnichannel initiatives that complement our strategy."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-033",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Our objective of prioritizing growth means we will focus on serving customers and members however they want to shop through our omnichannel business model. This includes increasing comparable store and club sales through",
+    "text": "Comparable sales is a metric that indicates the performance of our existing stores and clubs by measuring the change in sales for such stores and clubs, including eCommerce sales, for a particular period over the corresponding period in the previous year. Walmart's definition of comparable sales includes sales from stores and clubs open for the previous 12 months, including remodels, relocations, expansions and conversions, as well as eCommerce sales. We measure the eCommerce sales impact by including all sales initiated digitally, including omnichannel transactions which are fulfilled through our stores and clubs as well as certain other business offerings that are part of our ecosystem, such as our advertising net sales. Comparable sales are also referred to as \"same-store\" sales by others within the retail industry. The method of calculating comparable sales varies across the retail industry. As a result, our calculation of comparable sales is not necessarily comparable to similarly titled measures reported by other companies."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-034",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Comparable sales is a metric that indicates the performance of our existing stores and clubs by measuring the change in sales for such stores and clubs, including eCommerce sales, for a particular period over the corresp",
+    "text": "Our discussion of our comparable sales below refers to our calendar comparable sales calculated using our fiscal calendar, which may result in differences when compared to comparable sales using the retail calendar (also known as the 4-5-4 calendar) as provided in our quarterly earnings releases. We report on comparable sales in the U.S. as we believe it is a meaningful metric within the context of the U.S. retail market where there is a single currency, one inflationary market and generally consistent store and club formats from year to year."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-035",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Our discussion of our comparable sales below refers to our calendar comparable sales calculated using our fiscal calendar, which may result in differences when compared to comparable sales using the retail calendar (also",
+    "text": "Calendar comparable sales, as well as the impact of fuel, for fiscal 2026 and 2025, were as follows:"
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-036",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Calendar comparable sales, as well as the impact of fuel, for fiscal 2026 and 2025, were as follows:",
+    "text": "Walmart U.S. comparable sales increased 4.3% and 4.8% in fiscal 2026 and 2025, respectively. Comparable sales in fiscal 2026 were driven by growth in average ticket and transactions, and also reflected growth in unit volumes and strength in all merchandise categories. Comparable sales in fiscal 2025 were driven by growth in transactions and unit volumes, with strong sales in grocery and health and wellness. Walmart U.S. eCommerce sales positively contributed approximately 4.3% and 2.9% to comparable sales for fiscal 2026 and 2025, respectively. This growth reflects continued strength in customer and Walmart+ member engagement with omnichannel offerings, and was primarily driven by store-fulfilled pickup and delivery."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-037",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Walmart U.S. comparable sales increased 4.3% and 4.8% in fiscal 2026 and 2025, respectively. Comparable sales in fiscal 2026 were driven by growth in average ticket and transactions, and also reflected growth in unit vol",
+    "text": "Sam's Club U.S. comparable sales increased 2.9% and 4.7% in fiscal 2026 and 2025, respectively. For fiscal 2026, comparable sales were driven by growth in unit volumes and transactions, reflecting strong sales in grocery, health and wellness and general merchandise. For fiscal 2025, comparable sales were driven by growth in transactions and unit volumes, with strong sales in grocery and health and wellness. Additionally, fiscal 2026 and 2025 growth was partially offset by lower fuel sales, negatively impacting comparable sales by 1.9% and 1.5%, respectively, primarily due to lower fuel prices. Sam's Club U.S. eCommerce sales positively contributed approximately 3.3% and 2.3% to comparable sales for fiscal 2026 and 2025, respectively, which reflects continued strength in member engagement with omnichannel offerings."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE_INVENTORY-009",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Sam's Club U.S. comparable sales increased 2.9% and 4.7% in fiscal 2026 and 2025, respectively. For fiscal 2026, comparable sales were driven by growth in unit volumes and transactions, reflecting strong sales in grocery",
+    "text": "Our objective of prioritizing margin focuses on growth with a focus on incremental margin accretion through a combination of productivity improvements as well as category and business mix. We invest in technology and process improvements to increase productivity, manage inventory and reduce costs and we operate with discipline by managing expenses and optimizing the efficiency of how we work. We measure operating discipline through expense leverage, which we define as net sales growing at a faster rate than operating, selling, general and administrative (\"operating\") expenses. Additionally, we focus on our mix of businesses, including expanding our ecosystem in higher margin areas, such as digital advertising. Our objective is to achieve operating income leverage, which we define as growing operating income at a faster rate than net sales."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE_INVENTORY-010",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Our objective of prioritizing margin focuses on growth with a focus on incremental margin accretion through a combination of productivity improvements as well as category and business mix. We invest in technology and pro",
+    "text": "Gross profit as a percentage of net sales (\"gross profit rate\") increased 8 and 40 basis points for fiscal 2026 and 2025, respectively, when compared to the previous fiscal year. The increase in fiscal 2026 was primarily driven by the Walmart U.S. segment, due to disciplined inventory management, as well as growth in higher margin businesses globally. The increase in fiscal 2025 was primarily driven by the Walmart U.S. segment, due to managing prices aligned to our competitive historic price gaps, as well as growth in higher margin businesses globally. In both years, the increases were partially offset by mix shifts into lower margin merchandise categories across segments, as well as ongoing channel and format mix shifts in the Walmart International segment."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-038",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Gross profit as a percentage of net sales (\"gross profit rate\") increased 8 and 40 basis points for fiscal 2026 and 2025, respectively, when compared to the previous fiscal year. The increase in fiscal 2026 was primarily",
+    "text": "Operating expenses as a percentage of net sales increased 20 and 36 basis points for fiscal 2026 and 2025, respectively, when compared to the previous fiscal year. The increase for fiscal 2026 was primarily due to higher self-insured general liability claims expense in the U.S. of approximately $0.9 billion, influenced by rising costs to resolve claims across retail and related industries, a charge of $0.7 billion related to modification of certain share-based compensation arrangements for our PhonePe subsidiary and increased depreciation related to our capital investments. The increase for fiscal 2025 was primarily due to higher variable pay as a result of exceeding planned performance, increased marketing and higher depreciation expenses."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-039",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Operating expenses as a percentage of net sales increased 20 and 36 basis points for fiscal 2026 and 2025, respectively, when compared to the previous fiscal year. The increase for fiscal 2026 was primarily due to higher",
+    "text": "Operating income as a percentage of net sales decreased 13 basis points for fiscal 2026 and increased 15 basis points for fiscal 2025, respectively, primarily due to the factors described above and strong growth in membership income globally."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-040",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Operating income as a percentage of net sales decreased 13 basis points for fiscal 2026 and increased 15 basis points for fiscal 2025, respectively, primarily due to the factors described above and strong growth in membe",
+    "text": "As we execute our financial framework, we believe our return on capital will improve over time. We measure return on capital with our return on investment and free cash flow metrics. In addition, we provide returns in the form of share repurchases and dividends, which are discussed in the Liquidity and Capital Resources section."
+  },
+  {
+    "chunk_id": "T-WMT-INVENTORY-006",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "(1) \"Net cash used in investing activities\" includes payments for property and equipment, which is also included in our computation of free cash flow.",
+    "text": "The increase in net cash provided by operating activities in fiscal 2026 is primarily due to an increase in cash provided by operating income, lower cash tax payments and the timing of certain payments. Free cash flow for fiscal 2026 increased when compared to fiscal 2025 due to an increase in cash provided by operating income, lower cash tax payments and timing of certain payments, partially offset by an increase of $2.9 billion in capital expenditures to support our omnichannel growth strategy. Net cash provided by operating activities for fiscal 2025 increased when compared to fiscal 2024 primarily due to an increase in cash provided by operating income and lapping the payment of accrued opioid legal charges in the prior year, partially offset by increased inventory purchases. Free cash flow for fiscal 2025 decreased when compared to fiscal 2024 due to an increase of $3.2 billion in capital expenditures to support our omnichannel growth strategy, partially offset by the increase in net cash provided by operating activities described above."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-041",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "The increase in net cash provided by operating activities in fiscal 2026 is primarily due to an increase in cash provided by operating income, lower cash tax payments and the timing of certain payments. Free cash flow fo",
+    "text": "(1) Membership and other income includes membership fees and other items such as rental and tenant income, recycling income, gift card breakage income, as well as other income from corporate campus facilities."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE_INVENTORY-011",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "(1) Membership and other income includes membership fees and other items such as rental and tenant income, recycling income, gift card breakage income, as well as other income from corporate campus facilities.",
+    "text": "(2) Gross profit is defined as net sales less cost of sales. Operating expenses refers to operating, selling, general and administrative expenses."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-042",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "(2) Gross profit is defined as net sales less cost of sales. Operating expenses refers to operating, selling, general and administrative expenses.",
+    "text": "Our total revenues increased $32.2 billion or 4.7% and $32.9 billion or 5.1% for fiscal 2026 and 2025, respectively, when compared to the previous fiscal year. These increases in revenues were primarily due to increases in net sales, which increased $31.9 billion or 4.7% and $31.9 billion or 5.0% for fiscal 2026 and 2025, respectively, when compared to the previous fiscal year. The increases were primarily due to strong positive comparable sales across our U.S. segments and international markets. In fiscal 2026, growth was primarily driven by increases in average ticket and transactions, and also reflected growth in unit volumes, while fiscal 2025 growth was primarily driven by higher transactions and unit volumes. Both years include strength in eCommerce as well as strong sales in grocery and health and wellness, with fiscal 2026 also benefiting from improved sales in general merchandise. Net sales were negatively impacted by $2.8 billion and $3.2 billion of fluctuations in currency exchange rates during fiscal 2026 and 2025, respectively."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-043",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Our total revenues increased $32.2 billion or 4.7% and $32.9 billion or 5.1% for fiscal 2026 and 2025, respectively, when compared to the previous fiscal year. These increases in revenues were primarily due to increases ",
+    "text": "Membership and other income increased $0.3 billion and $1.0 billion for fiscal 2026 and 2025, respectively, primarily driven by growth in membership fee revenue globally, partially offset by decreases in certain other income items, including a reduction in recycling income in fiscal 2026."
+  },
+  {
+    "chunk_id": "T-WMT-INVENTORY-007",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Membership and other income increased $0.3 billion and $1.0 billion for fiscal 2026 and 2025, respectively, primarily driven by growth in membership fee revenue globally, partially offset by decreases in certain other in",
+    "text": "Our gross profit rate increased 8 and 40 basis points for fiscal 2026 and 2025, respectively, when compared to the previous fiscal year. The increase in fiscal 2026 was primarily driven by the Walmart U.S. segment, due to disciplined inventory management, as well as growth in higher margin businesses globally. The increase in fiscal 2025 was primarily driven by the Walmart U.S. segment, due to managing prices aligned to our competitive historic price gaps, as well as growth in higher margin businesses globally. In both years, the increases were partially offset by mix shifts into lower margin merchandise categories across segments, as well as ongoing channel and format mix shifts in the Walmart International segment."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-044",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Our gross profit rate increased 8 and 40 basis points for fiscal 2026 and 2025, respectively, when compared to the previous fiscal year. The increase in fiscal 2026 was primarily driven by the Walmart U.S. segment, due t",
+    "text": "Our operating expenses as a percentage of net sales increased 20 and 36 basis points for fiscal 2026 and 2025, respectively, when compared to the previous fiscal year. The increase for fiscal 2026 was primarily due to higher self-insured general liability claims expense in the U.S. of approximately $0.9 billion, influenced by rising costs to resolve claims across retail and related industries, a charge of $0.7 billion related to modification of certain share-based compensation arrangements for our PhonePe subsidiary and increased depreciation related to our capital investments. The increase for fiscal 2025 was primarily due to higher variable pay as a result of exceeding planned performance, increased marketing and higher depreciation expenses."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-045",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "As a result of the factors discussed above, we reported $22.3 billion and $20.2 billion of consolidated net income for fiscal 2026 and 2025, respectively, which represent increases of $2.1 billion and $3.9 billion for fi",
+    "text": "Net sales for the Walmart U.S. segment increased $20.6 billion or 4.4% and $20.6 billion or 4.7% for fiscal 2026 and 2025, respectively, when compared to the previous fiscal year. The increases in net sales were primarily due to increases in comparable sales of 4.3% and 4.8% for fiscal 2026 and 2025, respectively. Comparable sales in fiscal 2026 were driven by growth in average ticket and transactions, and also reflected growth in unit volumes and strength in all merchandise categories. Comparable sales in fiscal 2025 were driven by growth in transactions and unit volumes, with strong sales in grocery and health and wellness. Walmart U.S. eCommerce sales positively contributed approximately 4.3% and 2.9% to comparable sales for fiscal 2026 and 2025, respectively. This growth reflects continued strength in customer and Walmart+ member engagement with omnichannel offerings, and was primarily driven by store-fulfilled pickup and delivery."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-046",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Net sales for the Walmart U.S. segment increased $20.6 billion or 4.4% and $20.6 billion or 4.7% for fiscal 2026 and 2025, respectively, when compared to the previous fiscal year. The increases in net sales were primaril",
+    "text": "Membership and other income increased slightly for fiscal 2026 and increased $0.6 billion for fiscal 2025. In both years, the increases were primarily driven by double-digit growth in membership fee revenue from Walmart+. For fiscal 2026, the increase was partially offset by decreases in certain other income items, including a reduction in recycling income. Fiscal 2025 also benefited from higher recycling income compared to the previous fiscal year."
+  },
+  {
+    "chunk_id": "T-WMT-INVENTORY-008",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Membership and other income increased slightly for fiscal 2026 and increased $0.6 billion for fiscal 2025. In both years, the increases were primarily driven by double-digit growth in membership fee revenue from Walmart+",
+    "text": "Gross profit rate increased 22 and 47 basis points for fiscal 2026 and 2025, respectively, when compared to the previous fiscal year. The increase for fiscal 2026 was primarily driven by disciplined inventory management and growth in higher margin businesses, partially offset by mix shifts into lower margin merchandise categories. The increase for fiscal 2025 was primarily due to managing prices aligned to our competitive historic price gaps and growth in higher margin businesses, partially offset by product mix shifts into lower margin categories."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-047",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Gross profit rate increased 22 and 47 basis points for fiscal 2026 and 2025, respectively, when compared to the previous fiscal year. The increase for fiscal 2026 was primarily driven by disciplined inventory management ",
+    "text": "Operating expenses as a percentage of segment net sales increased 15 and 44 basis points for fiscal 2026 and 2025, respectively, when compared to the previous fiscal year. The increase for fiscal 2026 was primarily due to higher self-insured general liability claims expense and increased depreciation related to our capital investments. For fiscal 2025, the increase was primarily due to increased marketing expenses, higher variable pay as a result of exceeding planned performance and increased depreciation expenses."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE_INVENTORY-012",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Walmart International Segment Fiscal Years Ended January 31, (Dollar amounts and retail square feet in millions)",
+    "text": "2026 2025 2024 Net sales $ 130,423 $ 121,885 $ 114,641 Percentage change from comparable period 7.0 % 6.3 % 13.5 % Membership and other income 1,565 1,478 1,408 Gross profit 27,847 26,618 24,810 Operating expenses"
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE_INVENTORY-013",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "2026 2025 2024 Net sales $ 130,423 $ 121,885 $ 114,641 Percentage change from comparable period 7.0 % 6.3 % 13.5 % Membership and other income 1,565 1,478 1,408 Gross profit 27,847 26,618 24,810 Operating expenses",
+    "text": "24,309 22,595 21,309 Operating income $ 5,103 $ 5,501 $ 4,909 Percentage of net sales Gross profit 21.4 % 21.8 % 21.6 % Operating expenses"
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-048",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "18.6 % 18.5 % 18.6 % Operating income 3.9 % 4.5 % 4.3 % Retail unit counts at period end 5,743 5,566 5,402 Retail square feet at period end 278 274 274",
+    "text": "Net sales for the Walmart International segment increased $8.5 billion or 7.0% and $7.2 billion or 6.3% for fiscal 2026 and 2025, respectively, when compared to the previous fiscal year. Net sales growth was primarily due to positive comparable sales growth across our international markets, which includes strong eCommerce growth of $6.3 billion and $4.7 billion for fiscal 2026 and 2025, respectively. The increases were partially offset by negative fluctuations in currency exchange rates of $2.8 billion and $3.2 billion for fiscal 2026 and 2025, respectively."
+  },
+  {
+    "chunk_id": "T-WMT-INVENTORY-009",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Net sales for the Walmart International segment increased $8.5 billion or 7.0% and $7.2 billion or 6.3% for fiscal 2026 and 2025, respectively, when compared to the previous fiscal year. Net sales growth was primarily du",
+    "text": "Gross profit rate decreased 49 basis points for fiscal 2026 and increased 20 basis points for fiscal 2025, when compared to the previous fiscal year. For fiscal 2026, the decrease was primarily due to ongoing channel and format mix shifts, as well as strategic growth investments in price and delivery capabilities, partially offset by growth in higher margin businesses. The increase in fiscal 2025 was primarily due to improved eCommerce margin and business mix changes, partially offset by ongoing channel and format mix changes."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-049",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Gross profit rate decreased 49 basis points for fiscal 2026 and increased 20 basis points for fiscal 2025, when compared to the previous fiscal year. For fiscal 2026, the decrease was primarily due to ongoing channel and",
+    "text": "Operating expenses as a percentage of segment net sales increased 10 basis points for fiscal 2026 and decreased 5 basis points for fiscal 2025, when compared to the previous fiscal year. The increase for fiscal 2026 was primarily due to a charge of $0.7 billion related to PhonePe's modification of certain share-based payment arrangements in contemplation of a potential public offering (refer to Note 3 ), partially offset by strong sales as well as format mix shifts. The decrease for fiscal 2025 was primarily due to increased sales driving expense leverage, partially offset by planned investments in associate wages and strategic priorities in Mexico and Central America."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE_INVENTORY-014",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Fiscal Years Ended January 31, (Dollar amounts and retail square feet in millions)",
+    "text": "2026 2025 2024 Including Fuel Net sales $ 93,015 $ 90,238 $ 86,179 Percentage change from comparable period 3.1 % 4.7 % 2.2 % Calendar comparable sales increase 2.9 % 4.7 % 2.3 % Membership and other income 2,525 2,323 2,051 Gross profit 10,556 10,203 9,431 Operating expenses"
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE_INVENTORY-015",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "2026 2025 2024 Including Fuel Net sales $ 93,015 $ 90,238 $ 86,179 Percentage change from comparable period 3.1 % 4.7 % 2.2 % Calendar comparable sales increase 2.9 % 4.7 % 2.3 % Membership and other income 2,525 2,323 2",
+    "text": "10,639 10,122 9,290 Operating income $ 2,442 $ 2,404 $ 2,192 Percentage of net sales Gross profit 11.3 % 11.3 % 10.9 % Operating expenses"
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-050",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "11.4 % 11.2 % 10.8 % Operating income 2.6 % 2.7 % 2.5 % Retail unit counts at period end 601 600 599 Retail square feet at period end 81 80 80 Excluding Fuel (1)",
+    "text": "Net sales $ 83,744 $ 79,777 $ 75,057 Percentage change from comparable period 5.0 % 6.3 % 4.7 % Operating income $ 1,822 $ 1,785 $ 1,659 Operating income as a percentage of net sales 2.2 % 2.2 % 2.2 %"
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-051",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Net sales $ 83,744 $ 79,777 $ 75,057 Percentage change from comparable period 5.0 % 6.3 % 4.7 % Operating income $ 1,822 $ 1,785 $ 1,659 Operating income as a percentage of net sales 2.2 % 2.2 % 2.2 %",
+    "text": "(1) We believe the \"Excluding Fuel\" information is useful to investors because it permits investors to understand the effect of the Sam's Club U.S. segment's fuel sales on its results of operations, which are impacted by the volatility of fuel prices. Volatility in fuel prices may continue to impact the operating results of the Sam's Club U.S. segment in the future."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-052",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "(1) We believe the \"Excluding Fuel\" information is useful to investors because it permits investors to understand the effect of the Sam's Club U.S. segment's fuel sales on its results of operations, which are impacted by",
+    "text": "Net sales for the Sam's Club U.S. segment increased $2.8 billion or 3.1% and $4.1 billion or 4.7% for fiscal 2026 and 2025, respectively, when compared to the previous fiscal year. The increases in net sales were primarily due to increases in comparable sales, including fuel, of 2.9% and 4.7% for fiscal 2026 and 2025, respectively. Comparable sales in fiscal 2026 were driven by growth in unit volumes and transactions, reflecting strong sales in grocery, health and wellness and general merchandise. Comparable sales in fiscal 2025 were driven by growth in transactions and unit volumes, with strong sales in grocery and health and wellness. Additionally, fiscal 2026 and 2025 growth was partially offset by lower fuel sales, negatively impacting comparable sales by 1.9% and 1.5%, respectively, primarily due to lower fuel prices. Sam's Club U.S. eCommerce sales positively contributed approximately 3.3% and 2.3% to comparable sales for fiscal 2026 and 2025, respectively, which reflects continued strength in member engagement with omnichannel offerings."
+  },
+  {
+    "chunk_id": "T-WMT-INVENTORY-010",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Membership and other income increased 8.7% and 13.3% for fiscal 2026 and 2025, respectively, when compared to the previous fiscal year. For fiscal 2026 and 2025, the increases were primarily due to growth in the membersh",
+    "text": "Gross profit rate increased 4 and 37 basis points for fiscal 2026 and 2025, respectively, when compared to the previous fiscal year. The increase for fiscal 2026 was primarily due to operational efficiencies and higher margins in fuel, partially offset by higher eCommerce fulfillment costs and the impact of reorganization charges related to strategic supply chain decisions. The increase for fiscal 2025 was primarily due to improved operational efficiencies related to merchandise flow and increased margins in fuel, partially offset by higher eCommerce fulfillment costs and product mix shifts into lower margin categories."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-053",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Gross profit rate increased 4 and 37 basis points for fiscal 2026 and 2025, respectively, when compared to the previous fiscal year. The increase for fiscal 2026 was primarily due to operational efficiencies and higher m",
+    "text": "Operating expenses as a percentage of segment net sales increased 22 and 44 basis points for fiscal 2026 and 2025, respectively, when compared to the previous fiscal year. The increase for fiscal 2026 was primarily due to lower fuel sales and higher self-insured general liability claims expense. The increase for fiscal 2025 was primarily due to increased compensation related expenses, including associate wage investments and higher variable pay as a result of exceeding our planned performance, as well as elevated technology spend."
+  },
+  {
+    "chunk_id": "T-WMT-INVENTORY-011",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "The strength and stability of our operations have historically supplied us with a significant source of liquidity. Our cash flows provided by operating activities, supplemented with our long-term debt and short-term borr",
+    "text": "Net cash provided by operating activities increased $5.1 billion for fiscal 2026 when compared to the previous fiscal year. The increase is primarily due to an increase in cash provided by operating income, lower cash tax payments and timing of certain payments. The increase in net cash provided by operating activities for fiscal 2025, when compared to the previous fiscal year, was primarily due to an increase in cash provided by operating income and lapping the payment of accrued opioid legal charges in the prior year, partially offset by increased inventory purchases."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE_INVENTORY-016",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Net cash provided by operating activities increased $5.1 billion for fiscal 2026 when compared to the previous fiscal year. The increase is primarily due to an increase in cash provided by operating income, lower cash ta",
+    "text": "Cash and cash equivalents were $10.7 billion and $9.0 billion as of January 31, 2026 and 2025, respectively. Our working capital deficit, defined as total current assets less total current liabilities, was $22.6 billion and $17.1 billion as of January 31, 2026 and 2025, respectively. The increase in our working capital deficit was primarily driven by timing of certain payments combined with an increase in short-term borrowings for general corporate purposes, partially offset by increased inventories and receivables related to higher sales growth as well as higher cash balances. We generally operate with a working capital deficit due to our efficient use of cash in funding operations, consistent access to the capital markets and returns provided to our shareholders in the form of payments of cash dividends and share repurchases."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-054",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "As of January 31, 2026 and 2025, cash and cash equivalents of $3.9 billion and $3.3 billion, respectively, may not be freely transferable to the U.S. due to local laws or other restrictions or are subject to the approval",
+    "text": "Net cash used in investing activities generally consisted of capital expenditures. Net cash used in investing activities increased $5.0 billion for fiscal 2026 when compared to the previous fiscal year. The increase is primarily due to the change in net proceeds received from the sale of certain strategic investments as well as increased payments for property and equipment, partially offset by the acquisition of VIZIO for net consideration of $1.9 billion in the prior year. Net cash used in investing activities increased $0.1 billion for fiscal 2025, when compared to the previous fiscal year, primarily due to increased payments for property and equipment as well as the acquisition of VIZIO for net consideration of $1.9 billion, partially offset by net proceeds received from sales of certain strategic investments, including $3.6 billion related to the sale of our JD.com investment."
+  },
+  {
+    "chunk_id": "T-WMT-INVENTORY-012",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "During fiscal 2026, the Company repurchased $8.1 billion in shares of its common stock, an increase of $3.6 billion as compared to the same period in the previous fiscal year. The increase was primarily driven by opportu",
+    "text": "Material cash requirements from operating activities primarily consist of inventory purchases, employee related costs, taxes, interest and other general operating expenses, which we expect to be primarily satisfied by our cash from operations. Other material cash requirements from known contractual and other obligations include short-term borrowings, long-term debt and related interest payments, leases and purchase obligations. See Note 4 , Note 5 and Note 6 to our Consolidated Financial Statements for information regarding accrued liabilities, outstanding short-term borrowings and long-term debt, and leases, respectively."
+  },
+  {
+    "chunk_id": "T-WMT-INVENTORY-013",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Material cash requirements from operating activities primarily consist of inventory purchases, employee related costs, taxes, interest and other general operating expenses, which we expect to be primarily satisfied by ou",
+    "text": "As of January 31, 2026, the Company has $41.4 billion of unrecorded purchase obligations outstanding, of which $18.3 billion is due within one year. Purchase obligations include legally binding contracts, such as firm commitments for inventory and utility purchases, as well as commitments to make capital expenditures, software acquisition and license commitments and legally binding service contracts. Contractual obligations for the purchase of goods or services are defined as agreements that are enforceable and legally binding and that specify all significant terms, including: fixed or minimum quantities to be purchased; fixed, minimum or variable price provisions; and the approximate timing of the transaction. Contracts that specify the Company will purchase all or a portion of its requirements of a specific product or service from a supplier, but do not include a fixed or minimum quantity, are excluded from the obligations quantified above. Accordingly, purchase orders for inventory are also excluded as purchase orders represent authorizations to purchase rather than binding agreements. Our purchase orders are based on our current inventory needs and are fulfilled by our suppliers within short time periods. We also enter into contracts for outsourced services; however, the obligations under these contracts are not significant and the contracts generally contain clauses allowing for cancellation without significant penalty. Timing of payments and actual amounts paid may be different depending on the timing of receipt of goods or services or changes to agreed-upon amounts for some obligations."
+  },
+  {
+    "chunk_id": "T-WMT-INVENTORY-014",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "As of January 31, 2026, the Company has $41.4 billion of unrecorded purchase obligations outstanding, of which $18.3 billion is due within one year. Purchase obligations include legally binding contracts, such as firm co",
+    "text": "We believe our cash flows from operations, current cash position, short-term borrowings and access to capital markets will continue to be sufficient to meet our anticipated cash requirements and contractual obligations, which includes funding seasonal buildups in merchandise inventories and funding our capital expenditures, acquisitions, dividend payments and share repurchases."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-055",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "We are involved in a number of legal proceedings and certain regulatory matters. We record a liability when it is probable that a loss has been incurred and the amount is reasonably estimable. We also perform an assessme",
+    "text": "We are subject to income taxes in the U.S. and numerous foreign jurisdictions. Our tax returns are routinely audited and settlements of issues raised in these audits sometimes affect our tax provisions. The benefits of uncertain tax positions are recorded in our financial statements only after determining a more likely than not probability that the uncertain tax positions will withstand challenge, if any, from taxing authorities. When facts and circumstances change, we reassess these probabilities and record any changes in the financial statements as appropriate. We account for uncertain tax positions by determining the minimum recognition threshold that a tax position is required to meet before being recognized in the financial statements. Accordingly, the determination of our uncertain tax positions requires judgment, the use of estimates in certain cases and the interpretation and application of complex tax laws."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-056",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "The Company's Consolidated Financial Statements are based on a fiscal year ending on January 31 for the United States (\"U.S.\") and Canadian operations. The Company consolidates all other operations generally using a one-",
+    "text": "The Consolidated Financial Statements have been prepared in conformity with U.S. generally accepted accounting principles (\"GAAP\"). Those principles require management to make estimates and assumptions that affect the reported amounts of assets and liabilities. Management's estimates and assumptions also affect the disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results may differ from those estimates."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE_INVENTORY-017",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "As of January 31, 2026 and 2025, cash and cash equivalents of approximately $ 3.9 billion and $ 3.3 billion, respectively, may not be freely transferable to the U.S. due to local laws, other restrictions or are subject t",
+    "text": "Receivables are stated at their carrying values, net of a reserve for credit losses, and are primarily due from the following: customers, which includes pharmacy insurance companies, advertisers, and banks for customer credit, debit cards and electronic transfer transactions that take in excess of seven days to process; suppliers for marketing or incentive programs; governments for income taxes; and real estate transactions. Net receivables from transactions with customers were $ 4.9 billion and $ 4.4 billion as of January 31, 2026 and January 31, 2025, respectively."
+  },
+  {
+    "chunk_id": "T-WMT-INVENTORY-015",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Receivables are stated at their carrying values, net of a reserve for credit losses, and are primarily due from the following: customers, which includes pharmacy insurance companies, advertisers, and banks for customer c",
+    "text": "The Company utilizes various inventory methods to account for and value its inventories depending upon the nature of the store formats and businesses in each of its segments, resulting in inventories that are recorded at the lower of cost or market or net realizable value, as appropriate."
+  },
+  {
+    "chunk_id": "T-WMT-INVENTORY-016",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "The Company utilizes various inventory methods to account for and value its inventories depending upon the nature of the store formats and businesses in each of its segments, resulting in inventories that are recorded at",
+    "text": "\u2022 Walmart U.S. Segment - Inventories are primarily accounted for under the retail inventory method of accounting (\"RIM\") to determine inventory cost, using the last-in, first-out (\"LIFO\") valuation method. RIM generally results in inventory being valued at the lower of cost or market as permanent markdowns are immediately recorded as a reduction of the retail value of inventory."
+  },
+  {
+    "chunk_id": "T-WMT-INVENTORY-017",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "\u2022 Walmart U.S. Segment - Inventories are primarily accounted for under the retail inventory method of accounting (\"RIM\") to determine inventory cost, using the last-in, first-out (\"LIFO\") valuation method. RIM generally ",
+    "text": "\u2022 Walmart International Segment \u2013 Depending on the store format in each market, inventories are generally accounted for using either the RIM or weighted-average cost method, using the first-in, first-out valuation method."
+  },
+  {
+    "chunk_id": "T-WMT-INVENTORY-018",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "\u2022 Walmart International Segment \u2013 Depending on the store format in each market, inventories are generally accounted for using either the RIM or weighted-average cost method, using the first-in, first-out valuation method",
+    "text": "\u2022 Sam's Club U.S. Segment - The majority of this segment's inventory is accounted for and valued using the weighted-average cost LIFO method."
+  },
+  {
+    "chunk_id": "T-WMT-INVENTORY-019",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "\u2022 Sam's Club U.S. Segment - The majority of this segment's inventory is accounted for and valued using the weighted-average cost LIFO method.",
+    "text": "For those segments that utilize the LIFO method, the Company records an adjustment each quarter, if necessary, for the projected annual effect of inflation or deflation. These estimates are adjusted to actual results determined at year end for inflation or deflation and inventory levels."
+  },
+  {
+    "chunk_id": "T-WMT-INVENTORY-020",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "These obligations are generally classified as accounts payable within the Consolidated Balance Sheets. The activity related to these programs is classified as an operating activity within the Consolidated Statements of C",
+    "text": "The Company self-insures a number of risks, including, but not limited to, general liability, workers' compensation, auto liability, product liability and certain employee-related healthcare benefits. Standard actuarial procedures and data analysis are used to estimate the liabilities associated with these risks on an undiscounted basis. The recorded liabilities reflect the ultimate cost for claims incurred but not paid and any estimable administrative run-out expenses related to the processing of these outstanding claim payments. On a regular basis, the liabilities are evaluated for appropriateness with claims reserve valuations. To limit exposure to some risks, the Company maintains insurance coverage with varying limits and retentions, including stop-loss insurance coverage for general liability, workers' compensation and auto liability. Refer to Note 4 for the self-insurance reserves which are recorded in accrued liabilities in the Company's Consolidated Balance Sheets."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-057",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "The Company has a redeemable noncontrolling interest in a subsidiary within the Walmart U.S. segment. The minority interest owner holds a put option which, if exercised, would require the Company to purchase the underlyi",
+    "text": "The Company recognizes sales revenue, net of sales taxes and estimated sales returns, at the time it sells merchandise or provides services to the customer. eCommerce sales include shipping revenue and are recorded upon delivery to the customer. Estimated sales returns are calculated based on expected returns."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-058",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "The Company recognizes sales revenue, net of sales taxes and estimated sales returns, at the time it sells merchandise or provides services to the customer. eCommerce sales include shipping revenue and are recorded upon ",
+    "text": "The Company recognizes revenue from service transactions at the time the service is performed. Generally, revenue from services is classified as a component of net sales in the Company's Consolidated Statements of Income."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-059",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "The Company recognizes revenue from service transactions at the time the service is performed. Generally, revenue from services is classified as a component of net sales in the Company's Consolidated Statements of Income",
+    "text": "Membership and other income primarily includes membership fee revenue associated with the Company's various membership offerings for customers and members across each reportable segment. Membership fee revenue is recognized over the term of the membership, which are generally one year, although certain offerings are month-to month. Membership fee revenue was $ 4.4 billion, $ 3.8 billion and $ 3.1 billion for fiscal 2026, 2025 and 2024, respectively. Deferred membership fee revenue is included in accrued liabilities in the Company's Consolidated Balance Sheets. Additionally, membership and other income includes items such as rental and tenant income, recycling income, and gift card breakage income."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-060",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Membership and other income primarily includes membership fee revenue associated with the Company's various membership offerings for customers and members across each reportable segment. Membership fee revenue is recogni",
+    "text": "Customer purchases of gift cards are not recognized as sales until the card is redeemed and the customer purchases merchandise using the gift card, thus a liability for deferred gift card revenue is recorded within accrued liabilities in the Consolidated Balance Sheets. Refer to Note 4 . Gift cards in the U.S. and some countries do not carry an expiration date; therefore, customers and members can redeem their gift cards for merchandise and services indefinitely. Gift cards in some countries where the Company does business have expiration dates. While gift cards are generally redeemed within 12 months, a certain number of gift cards, both with and without expiration dates, will not be fully redeemed. Management estimates unredeemed balances and recognizes gift card breakage income for these amounts in membership and other income in the Company's Consolidated Statements of Income over the expected redemption period."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE_INVENTORY-018",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Customer purchases of gift cards are not recognized as sales until the card is redeemed and the customer purchases merchandise using the gift card, thus a liability for deferred gift card revenue is recorded within accru",
+    "text": "Cost of sales includes costs of merchandise sold and services performed; costs of transporting merchandise to the Company's distribution facilities, stores, clubs, and customers; and also includes warehousing costs for the Sam's Club U.S. segment and import distribution centers. Cost of sales is reduced by supplier payments, except in certain situations as described below."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE_INVENTORY-019",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Cost of sales includes costs of merchandise sold and services performed; costs of transporting merchandise to the Company's distribution facilities, stores, clubs, and customers; and also includes warehousing costs for t",
+    "text": "The Company receives consideration from suppliers for various programs, primarily volume incentives, warehouse allowances and reimbursements for specific programs such as markdowns, margin protection, certain advertising arrangements and supplier-specific fixtures. Payments from suppliers are accounted for as a reduction of cost of sales and recognized in the Company's Consolidated Statements of Income when the related inventory is sold, except in situations when the payment is in exchange for a distinct good or service or a reimbursement of specific, incremental and identifiable costs."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE_INVENTORY-020",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "The Company receives consideration from suppliers for various programs, primarily volume incentives, warehouse allowances and reimbursements for specific programs such as markdowns, margin protection, certain advertising",
+    "text": "Operating, selling, general and administrative expenses include all operating costs of the Company (except cost of sales, as described above), which comprise substantially all labor-related, depreciation and amortization, maintenance and repairs, utilities, and other general operating costs incurred in stores, clubs and other facilities. The majority of the cost of warehousing and occupancy for the Walmart U.S. and Walmart International segments' distribution facilities is included in operating, selling, general and administrative expenses. Because the Company only includes a portion of the cost of its Walmart U.S. and Walmart International segments' distribution facilities in cost of sales, its gross profit and gross profit as a percentage of net sales may not be comparable to those of other retailers that may include all costs related to their distribution facilities in cost of sales and in the calculation of gross profit."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE_INVENTORY-021",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Operating, selling, general and administrative expenses include all operating costs of the Company (except cost of sales, as described above), which comprise substantially all labor-related, depreciation and amortization",
+    "text": "As a result, the Company\u2019s cost of sales and operating, selling, general and administrative expenses for each of its reportable segments may not be comparable to those of other retailers."
+  },
+  {
+    "chunk_id": "T-WMT-INVENTORY-021",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "In December 2023, the FASB issued ASU 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures , which expands the requirements for income tax disclosures in order to provide greater transparency. The am",
+    "text": "In November 2024, the FASB issued ASU 2024-03, Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses , which requires incremental disclosures about specific expense categories, including but not limited to, purchases of inventory, employee compensation, depreciation, amortization and selling expenses. The amendments are effective for fiscal years beginning after December 15, 2026, and for interim periods within fiscal years beginning after December 15, 2027. Early adoption is permitted and the amendments may be applied either prospectively or retrospectively. Management is currently evaluating this ASU to determine its impact on the Company's disclosures. The amendments only impact disclosures and are not expected to have an impact on the Company's financial condition and results of operations."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-061",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "\u2022 Restricted Stock Units. Restricted stock units provide rights to Company stock after a specified service period. Beginning in fiscal 2023, restricted stock units generally vest at a rate of approximately 8 % each quart",
+    "text": "\u2022 Restricted Stock and Performance-based Restricted Stock Units. Restricted stock awards are for shares that vest based on the passage of time and include restrictions related to employment. Performance-based restricted stock units generally vest based on a one-year performance period followed by a two-year vesting period based on the passage of time. Vesting conditions during the performance period are based on achieving pre-established financial goals for metrics related to growth and returns and generally range from 0 % to 150 % of the original award amount. Vesting periods for restricted stock are generally between one month and three years . Vesting periods for performance-based restricted stock units are generally between one and three years . Restricted stock and performance-based restricted stock units may be settled or, in certain circumstances, deferred and are accounted for as equity in the Company's Consolidated Balance Sheets. The fair value of restricted stock awards is determined on the date of grant and is expensed ratably over the vesting period. The fair value of performance-based restricted stock units is determined on the date of grant using the Company's stock price discounted for the expected dividend yield through the vesting period and is recognized over the vesting period if it is probable that performance conditions will be achieved. The weighted-average discount for the dividend yield used to determine the fair value of performance-based restricted stock units in fiscal 2026, 2025 and 2024 was 2.4 %, 3.2 % and 3.3 %, respectively."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-062",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "(2) Self-insurance consists of insurance-related liabilities, such as general liability, workers' compensation, auto liability, product liability and certain employee-related healthcare benefits.",
+    "text": "(3) Accrued non-income taxes include accrued payroll, property, value-added, sales and miscellaneous other taxes."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-063",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "(3) Accrued non-income taxes include accrued payroll, property, value-added, sales and miscellaneous other taxes.",
+    "text": "(4) Other accrued liabilities includes items such as deferred membership revenue, interest, supply chain, advertising, and maintenance and utilities."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-064",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "The Company remains subject to income tax examinations for its U.S. federal income taxes generally for fiscal 2018 through 2025. The Company also remains subject to income tax examinations for international income taxes ",
+    "text": "The Company is subject to tax examinations for value added, sales-based, payroll and other non-income taxes. A number of these examinations are ongoing in various jurisdictions. In certain cases, the Company has received assessments and judgments from the respective taxing authorities in connection with these examinations. Unless otherwise indicated, the possible losses or range of possible losses associated with these matters are individually immaterial, but a group of related matters, if decided adversely to the Company, could result in a liability material to the Company's Consolidated Financial Statements."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-065",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Total contribution expense for defined contribution plans $ 1,896 $ 1,829 $ 1,613",
+    "text": "The Company is engaged in the operation of retail and wholesale stores and clubs, as well as eCommerce websites and mobile applications, located throughout the U.S., Africa, Canada, Central America, Chile, China, India and Mexico. The Company's operations are conducted in three reportable segments: Walmart U.S., Walmart International and Sam's Club U.S. The Company defines its segments as those operations whose results the chief operating decision maker (\"CODM\"), the Company's Chief Executive Officer, regularly reviews to analyze performance and allocate resources. The Company sells similar individual products and services in each of its segments. It is impractical to segregate and identify revenues for each of these individual products and services."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE_INVENTORY-022",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "The Company is engaged in the operation of retail and wholesale stores and clubs, as well as eCommerce websites and mobile applications, located throughout the U.S., Africa, Canada, Central America, Chile, China, India a",
+    "text": "The Walmart U.S. segment includes the Company's mass merchandising concept in the U.S., as well as eCommerce, which includes omnichannel initiatives and certain other business offerings such as advertising services. The Walmart International segment consists of the Company's operations outside of the U.S., as well as eCommerce and omnichannel initiatives. The Sam's Club U.S. segment includes the warehouse membership clubs in the U.S., as well as samsclub.com and omnichannel initiatives. Corporate and support consists of corporate overhead and other items not allocated to any of the Company's segments. The operating results of each reportable segment, including the mix of cost of sales and operating, selling, general and administrative expenses, are not directly comparable due to differences in business model, format and channel mix. Additionally, the operating results of each reportable segment may not be comparable to those of other retailers, as discussed in Note 1 ."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-066",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "The Company measures the profit or loss of its segments using operating income. The CODM uses operating income to allocate resources across the reportable segments as part of the Company's long-range and annual planning ",
+    "text": "2026 2025 2024 Walmart U.S. Net sales $ 482,975 $ 462,415 $ 441,817 Membership and other income"
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE_INVENTORY-023",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "2026 2025 2024 Walmart U.S. Net sales $ 482,975 $ 462,415 $ 441,817 Membership and other income",
+    "text": "485,599 465,009 443,802 Cost of sales 350,360 336,451 323,563 Operating, selling, general and administrative expenses 110,081 104,676 98,085 Operating income $ 25,158 $ 23,882 $ 22,154 Walmart International Net sales $ 130,423 $ 121,885 $ 114,641 Membership and other income"
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE_INVENTORY-024",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "485,599 465,009 443,802 Cost of sales 350,360 336,451 323,563 Operating, selling, general and administrative expenses 110,081 104,676 98,085 Operating income $ 25,158 $ 23,882 $ 22,154 Walmart International Net sales $ 1",
+    "text": "131,988 123,363 116,049 Cost of sales 102,576 95,267 89,831 Operating, selling, general and administrative expenses 24,309 22,595 21,309 Operating income $ 5,103 $ 5,501 $ 4,909 Sam's Club U.S. (1)"
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE_INVENTORY-025",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "131,988 123,363 116,049 Cost of sales 102,576 95,267 89,831 Operating, selling, general and administrative expenses 24,309 22,595 21,309 Operating income $ 5,103 $ 5,501 $ 4,909 Sam's Club U.S. (1)",
+    "text": "95,540 92,561 88,230 Cost of sales 82,459 80,035 76,748 Operating, selling, general and administrative expenses 10,639 10,122 9,290 Operating income $ 2,442 $ 2,404 $ 2,192 Corporate and support"
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-067",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "95,540 92,561 88,230 Cost of sales 82,459 80,035 76,748 Operating, selling, general and administrative expenses 10,639 10,122 9,290 Operating income $ 2,442 $ 2,404 $ 2,192 Corporate and support",
+    "text": "$ 36 $ 52 $ 44 Operating, selling, general and administrative expenses 2,914 2,491 2,287 Operating loss $ ( 2,878 ) $ ( 2,439 ) $ ( 2,243 ) Consolidated Net sales $ 706,413 $ 674,538 $ 642,637 Membership and other income"
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE_INVENTORY-026",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "$ 36 $ 52 $ 44 Operating, selling, general and administrative expenses 2,914 2,491 2,287 Operating loss $ ( 2,878 ) $ ( 2,439 ) $ ( 2,243 ) Consolidated Net sales $ 706,413 $ 674,538 $ 642,637 Membership and other income",
+    "text": "713,163 680,985 648,125 Cost of sales 535,395 511,753 490,142 Operating, selling, general and administrative expenses 147,943 139,884 130,971 Operating income 29,825 29,348 27,012 Interest, net 2,431 2,245 2,137 Other (gains) and losses"
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-068",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Total assets, depreciation and amortization, and capital expenditures for the Company's segments, as well as for Corporate and support, are as follows:",
+    "text": "Total revenues and long-lived assets, consisting primarily of net property and equipment and lease right-of-use assets, aggregated by the Company's U.S. and non-U.S. operations, are as follows:"
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-069",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Total revenues and long-lived assets, consisting primarily of net property and equipment and lease right-of-use assets, aggregated by the Company's U.S. and non-U.S. operations, are as follows:",
+    "text": "No individual country outside of the U.S. had total revenues or long-lived assets that were material to the consolidated totals. Additionally, the Company did not generate material revenues from any single customer."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-070",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "No individual country outside of the U.S. had total revenues or long-lived assets that were material to the consolidated totals. Additionally, the Company did not generate material revenues from any single customer.",
+    "text": "In the following tables, segment net sales are disaggregated by either merchandise category or market. In addition, net sales related to eCommerce are provided for each segment. Net sales related to eCommerce include omnichannel sales where a customer initiates an order digitally and the order is fulfilled through a store or club, as well as net sales from other business offerings that are part of the Company's ecosystem such as certain advertising arrangements, fulfillment services, and data insights. From time to time, the Company revises the assignment of net sales of a particular item to a merchandise category. When the assignment changes, previous period amounts are reclassified to be comparable to the current period's presentation."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-071",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "In the following tables, segment net sales are disaggregated by either merchandise category or market. In addition, net sales related to eCommerce are provided for each segment. Net sales related to eCommerce include omn",
+    "text": "Of Walmart U.S.'s total net sales, approximately $ 99.6 billion, $ 79.3 billion and $ 65.4 billion related to eCommerce for fiscal 2026, 2025 and 2024, respectively."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-072",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Of Walmart U.S.'s total net sales, approximately $ 99.6 billion, $ 79.3 billion and $ 65.4 billion related to eCommerce for fiscal 2026, 2025 and 2024, respectively.",
+    "text": "Of Walmart International's total net sales, approximately $ 35.8 billion, $ 29.5 billion and $ 24.8 billion related to eCommerce for fiscal 2026, 2025 and 2024, respectively."
+  },
+  {
+    "chunk_id": "T-WMT-REVENUE-073",
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "wmt-20260131.htm",
+    "preceding_context": "Of Walmart International's total net sales, approximately $ 35.8 billion, $ 29.5 billion and $ 24.8 billion related to eCommerce for fiscal 2026, 2025 and 2024, respectively.",
+    "text": "Of Sam's Club U.S.'s total net sales, approximately $ 15.0 billion, $ 12.1 billion and $ 9.9 billion related to eCommerce for fiscal 2026, 2025 and 2024, respectively."
+  }
+]

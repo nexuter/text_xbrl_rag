@@ -1,0 +1,60 @@
+You are assisting with an auditing research task. Use only the information provided in the context.
+
+Task:
+Identify audit-relevant risk cues or assertion-mapping considerations for revenue recognition risk cue identification for Microsoft Corp., fiscal year 2025, period ended 2025-06-30, accession 0000950170-25-100235, based on the provided context.
+
+Instructions:
+1. Provide no more than five audit-relevant claims.
+2. Distinguish factual claims from risk-cue or assertion-mapping claims.
+3. Do not conclude that a misstatement exists.
+4. State when the provided context is insufficient.
+5. Avoid treating reported XBRL relationships as independent audit evidence.
+6. Do not use general company knowledge outside the provided context.
+7. For each risk-cue or assertion-mapping claim, state the inferential bridge from the source evidence to the audit consideration.
+8. Do not write "Limitation: None" for risk-cue or assertion-mapping claims; identify at least one missing audit evidence item, missing control detail, or source-bound limitation.
+9. For factual claims, state any period, source, or measurement limitation rather than treating the claim as unrestricted.
+
+Context:
+TEXT RETRIEVAL CONTEXT
+
+[Text Chunk 1]
+chunk_id: T-MSFT-REVENUE-089
+source_file: msft-20250630.htm
+construct_tag: revenue
+ranking_score: 8
+text: Preparing financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, and expenses. Examples of estimates and assumptions include: for revenue recognition, determining the nature and timing of satisfaction of performance obligations, and determining the standalone selling price ("SSP") of performance obligations, variable consideration, and other obligations such as product returns and refunds; loss contingencies; the fair value of and/or potential impairment of goodwill and intangible assets for our reporting units; product life cycles; useful lives of our tangible and intangible assets; allowances for doubtful accounts; stock-based compensation forfeiture rates; when technological feasibility is achieved for our products; the potential outcome of uncertain tax positions that have been recognized in our consolidated financial statements or tax returns; and determining the timing and amount of impairments for investments. Actual results and outcomes may differ from management’s estimates and assumptions due to risks and uncertainties.
+
+[Text Chunk 2]
+chunk_id: T-MSFT-REVENUE-102
+source_file: msft-20250630.htm
+construct_tag: revenue
+ranking_score: 8
+text: Timing of revenue recognition may differ from the timing of invoicing to customers. We record a receivable when revenue is recognized prior to invoicing, or unearned revenue when revenue is recognized subsequent to invoicing. For multi-year agreements, we generally invoice customers annually at the beginning of each annual coverage period. We record a receivable related to revenue recognized for multi-year on-premises licenses as we have an unconditional right to invoice and receive payment in the future related to those licenses.
+
+[Text Chunk 3]
+chunk_id: T-MSFT-REVENUE-105
+source_file: msft-20250630.htm
+construct_tag: revenue
+ranking_score: 6
+text: Payment terms and conditions vary by contract type, although terms generally include a requirement of payment within 30 to 60 days. In instances where the timing of revenue recognition differs from the timing of invoicing, we have determined our contracts generally do not include a significant financing component. The primary purpose of our invoicing terms is to provide customers with simplified and predictable ways of purchasing our products and services, not to receive financing from our customers or to provide customers with financing. Examples include invoicing at the beginning of a subscription term with revenue recognized ratably over the contract period, and multi-year on-premises licenses that are invoiced annually with revenue recognized upfront.
+
+XBRL RELATIONAL RETRIEVAL CONTEXT
+
+Facts:
+1. fact_id=F-MSFT-0003 concept=RevenueFromContractWithCustomerExcludingAssessedTax value=64699000000 unit=iso4217:USD period=duration:2022-07-01/2023-06-30 dimensions=srt:ProductOrServiceAxis=us-gaap:ProductMember
+2. fact_id=F-MSFT-0006 concept=RevenueFromContractWithCustomerExcludingAssessedTax value=147216000000 unit=iso4217:USD period=duration:2022-07-01/2023-06-30 dimensions=srt:ProductOrServiceAxis=us-gaap:ServiceOtherMember
+3. fact_id=F-MSFT-0009 concept=RevenueFromContractWithCustomerExcludingAssessedTax value=211915000000 unit=iso4217:USD period=duration:2022-07-01/2023-06-30 dimensions=none
+4. fact_id=F-MSFT-0057 concept=ContractWithCustomerLiability value=43599000000 unit=iso4217:USD period=instant:2024-06-30 dimensions=us-gaap:StatementBusinessSegmentsAxis=msft:ProductivityAndBusinessProcessesMember
+5. fact_id=F-MSFT-0059 concept=ContractWithCustomerLiability value=13683000000 unit=iso4217:USD period=instant:2024-06-30 dimensions=us-gaap:StatementBusinessSegmentsAxis=msft:IntelligentCloudMember
+6. fact_id=F-MSFT-0061 concept=ContractWithCustomerLiability value=2902000000 unit=iso4217:USD period=instant:2024-06-30 dimensions=us-gaap:StatementBusinessSegmentsAxis=msft:MorePersonalComputingMember
+7. fact_id=F-MSFT-0029 concept=ContractWithCustomerLiabilityCurrent value=57582000000 unit=iso4217:USD period=instant:2024-06-30 dimensions=none
+8. fact_id=F-MSFT-0028 concept=ContractWithCustomerLiabilityCurrent value=64555000000 unit=iso4217:USD period=instant:2025-06-30 dimensions=none
+
+Relation paths:
+No selected XBRL relation paths.
+
+Output format:
+- Claim:
+  - Claim type:
+  - Support used:
+  - Limitation:

@@ -1,0 +1,24 @@
+- Claim: The contract with customer refund liability increased from $799,000,000 as of 2024-05-31 to $1,277,000,000 as of 2025-05-31.
+  - Claim type: Factual claim
+  - Support used: F-NKE-0252, F-NKE-0253
+  - Limitation: None
+
+- Claim: The significant increase in refund liabilities may indicate higher return volumes or changes in estimation processes, which is relevant to the valuation and accuracy assertions for revenue recognition.
+  - Claim type: Risk-cue or assertion-mapping claim
+  - Support used: F-NKE-0252, F-NKE-0253
+  - Limitation: None
+
+- Claim: NIKE Direct digital sales decreased by 19% in North America and 9% in Asia Pacific & Latin America (APLA).
+  - Claim type: Factual claim
+  - Support used: T-NKE-REVENUE-062, T-NKE-REVENUE-071
+  - Limitation: None
+
+- Claim: The decline in digital sales, combined with the company's stated risk that failures to provide effective and secure digital commerce platforms could result in the loss of digital commerce and other sales, may indicate risks related to the occurrence and completeness of revenue from digital channels.
+  - Claim type: Risk-cue or assertion-mapping claim
+  - Support used: T-NKE-REVENUE-021, T-NKE-REVENUE-062, T-NKE-REVENUE-071
+  - Limitation: None
+
+- Claim: Net accounts receivable increased from $4,427,000,000 (2024-05-31) to $4,717,000,000 (2025-05-31) despite reported revenue decreases in North America and APLA, which may suggest risks regarding the valuation of receivables and the cut-off of revenue.
+  - Claim type: Risk-cue or assertion-mapping claim
+  - Support used: F-NKE-0010, F-NKE-0011, T-NKE-REVENUE-062, T-NKE-REVENUE-071
+  - Limitation: None

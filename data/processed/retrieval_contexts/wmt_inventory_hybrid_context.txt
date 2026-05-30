@@ -1,0 +1,42 @@
+TEXT RETRIEVAL CONTEXT
+
+[Text Chunk 1]
+chunk_id: T-WMT-REVENUE_INVENTORY-020
+source_file: wmt-20260131.htm
+construct_tag: revenue_inventory
+ranking_score: 18
+text: Operating, selling, general and administrative expenses include all operating costs of the Company (except cost of sales, as described above), which comprise substantially all labor-related, depreciation and amortization, maintenance and repairs, utilities, and other general operating costs incurred in stores, clubs and other facilities. The majority of the cost of warehousing and occupancy for the Walmart U.S. and Walmart International segments' distribution facilities is included in operating, selling, general and administrative expenses. Because the Company only includes a portion of the cost of its Walmart U.S. and Walmart International segments' distribution facilities in cost of sales, its gross profit and gross profit as a percentage of net sales may not be comparable to those of other retailers that may include all costs related to their distribution facilities in cost of sales and in the calculation of gross profit.
+
+[Text Chunk 2]
+chunk_id: T-WMT-INVENTORY-015
+source_file: wmt-20260131.htm
+construct_tag: inventory
+ranking_score: 9
+text: The Company utilizes various inventory methods to account for and value its inventories depending upon the nature of the store formats and businesses in each of its segments, resulting in inventories that are recorded at the lower of cost or market or net realizable value, as appropriate.
+
+[Text Chunk 3]
+chunk_id: T-WMT-INVENTORY-016
+source_file: wmt-20260131.htm
+construct_tag: inventory
+ranking_score: 9
+text: • Walmart U.S. Segment - Inventories are primarily accounted for under the retail inventory method of accounting ("RIM") to determine inventory cost, using the last-in, first-out ("LIFO") valuation method. RIM generally results in inventory being valued at the lower of cost or market as permanent markdowns are immediately recorded as a reduction of the retail value of inventory.
+
+XBRL RELATIONAL RETRIEVAL CONTEXT
+
+Facts:
+1. fact_id=F-WMT-0013 concept=InventoryNet value=56435000000 unit=iso4217:USD period=instant:2025-01-31 dimensions=none
+2. fact_id=F-WMT-0012 concept=InventoryNet value=58851000000 unit=iso4217:USD period=instant:2026-01-31 dimensions=none
+3. fact_id=F-WMT-0009 concept=CostOfRevenue value=490142000000 unit=iso4217:USD period=duration:2023-02-01/2024-01-31 dimensions=none
+4. fact_id=F-WMT-0044 concept=CostOfRevenue value=323563000000 unit=iso4217:USD period=duration:2023-02-01/2024-01-31 dimensions=srt:ConsolidationItemsAxis=us-gaap:OperatingSegmentsMember; us-gaap:StatementBusinessSegmentsAxis=wmt:WalmartUSMember
+5. fact_id=F-WMT-0053 concept=CostOfRevenue value=89831000000 unit=iso4217:USD period=duration:2023-02-01/2024-01-31 dimensions=srt:ConsolidationItemsAxis=us-gaap:OperatingSegmentsMember; us-gaap:StatementBusinessSegmentsAxis=wmt:WalmartInternationalMember
+6. fact_id=F-WMT-0074 concept=CostOfRevenueSellingGeneralAndAdministrativeExpensesForFuelSales value=10600000000 unit=iso4217:USD period=duration:2023-02-01/2024-01-31 dimensions=us-gaap:StatementBusinessSegmentsAxis=wmt:SamsClubUSMember
+7. fact_id=F-WMT-0073 concept=CostOfRevenueSellingGeneralAndAdministrativeExpensesForFuelSales value=9900000000 unit=iso4217:USD period=duration:2024-02-01/2025-01-31 dimensions=us-gaap:StatementBusinessSegmentsAxis=wmt:SamsClubUSMember
+8. fact_id=F-WMT-0072 concept=CostOfRevenueSellingGeneralAndAdministrativeExpensesForFuelSales value=8700000000 unit=iso4217:USD period=duration:2025-02-01/2026-01-31 dimensions=us-gaap:StatementBusinessSegmentsAxis=wmt:SamsClubUSMember
+
+Relation paths:
+1. path_id=X-WMT-0065 relation_type=calculation source=us-gaap:AssetsCurrent (Assets, Current) -> target=us-gaap:InventoryNet (Inventory, Net) arcrole=http://www.xbrl.org/2003/arcrole/summation-item role=http://www.walmart.com/role/ConsolidatedBalanceSheets
+2. path_id=X-WMT-0070 relation_type=calculation source=us-gaap:DeferredIncomeTaxLiabilities (Deferred Tax Liabilities, Gross) -> target=us-gaap:DeferredTaxLiabilitiesDeferredExpenseCapitalizedInventoryCosts (Deferred Tax Liabilities, Inventory) arcrole=http://www.xbrl.org/2003/arcrole/summation-item role=http://www.walmart.com/role/TaxesScheduleofDeferredTaxBalancesDetails
+3. path_id=X-WMT-0066 relation_type=calculation source=us-gaap:NetCashProvidedByUsedInOperatingActivities (Cash Provided by (Used in) Operating Activity, Including Discontinued Operation) -> target=us-gaap:IncreaseDecreaseInRetailRelatedInventories (Increase (Decrease) in Retail Related Inventories) arcrole=http://www.xbrl.org/2003/arcrole/summation-item role=http://www.walmart.com/role/ConsolidatedStatementsofCashFlows
+4. path_id=X-WMT-0007 relation_type=presentation source=us-gaap:AssetsCurrentAbstract (Assets, Current [Abstract]) -> target=us-gaap:InventoryNet (Inventory, Net) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.walmart.com/role/ConsolidatedBalanceSheets
+5. path_id=X-WMT-0026 relation_type=presentation source=us-gaap:DeferredTaxLiabilitiesAbstract (Deferred Tax Liabilities, Gross [Abstract]) -> target=us-gaap:DeferredTaxLiabilitiesDeferredExpenseCapitalizedInventoryCosts (Deferred Tax Liabilities, Inventory) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.walmart.com/role/TaxesScheduleofDeferredTaxBalancesDetails
+6. path_id=X-WMT-0009 relation_type=presentation source=us-gaap:IncreaseDecreaseInOperatingCapitalAbstract (Adjustment to Reconcile Net Income to Cash Provided by (Used in) Operating Activity, Increase (Decrease) in Operating Capital [Abstract]) -> target=us-gaap:IncreaseDecreaseInRetailRelatedInventories (Increase (Decrease) in Retail Related Inventories) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.walmart.com/role/ConsolidatedStatementsofCashFlows

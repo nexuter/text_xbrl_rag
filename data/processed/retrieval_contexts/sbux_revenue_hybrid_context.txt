@@ -1,0 +1,42 @@
+TEXT RETRIEVAL CONTEXT
+
+[Text Chunk 1]
+chunk_id: T-SBUX-REVENUE-067
+source_file: sbux-20250928.htm
+construct_tag: revenue
+ranking_score: 15
+text: Stored value cards can be activated through various channels, including at our company-operated and most licensed store locations, online at Starbucks.com, or via mobile devices held by our customers and at certain other third-party websites and locations, such as grocery stores, although they cannot be reloaded at these third-party websites or locations. Amounts loaded onto stored value cards are initially recorded as deferred revenue and recognized as revenue upon redemption. Historically, the majority of stored value cards are redeemed within one year.
+
+[Text Chunk 2]
+chunk_id: T-SBUX-REVENUE-075
+source_file: sbux-20250928.htm
+construct_tag: revenue
+ranking_score: 12
+text: Our deferred revenue primarily consists of the up-front prepaid royalty from Nestlé, for which we have continuing performance obligations to support the Global Coffee Alliance, and our unredeemed stored value card liability and unredeemed Stars associated with our loyalty program. See Note 11 , Deferred Revenue, for further information.
+
+[Text Chunk 3]
+chunk_id: T-SBUX-REVENUE-068
+source_file: sbux-20250928.htm
+construct_tag: revenue
+ranking_score: 10
+text: In many of our company-operated markets, including the U.S., our stored value cards do not have an expiration date, nor do we charge service fees that cause a decrement to customer balances. Based on historical redemption rates, a portion of stored value cards is not expected to be redeemed and will be recognized as breakage over time in proportion to stored value card redemptions. The redemption rates are based on historical redemption patterns for each market, including the timing and business channel in which the card was activated or reloaded, and remittance to government agencies under unclaimed property laws, if applicable.
+
+XBRL RELATIONAL RETRIEVAL CONTEXT
+
+Facts:
+1. fact_id=F-SBUX-0085 concept=DescriptionOfTypesOfProductsAndServicesFromWhichEachReportableSegmentDerivesItsRevenues value=North America and International operations sell coffee and other beverages, complementary food, packaged coffees, single-serve coffee products, and a focused selection of merchandise through company-operated stores and licensed stores. unit= period=duration:2024-09-30/2025-09-28 dimensions=srt:ConsolidationItemsAxis=us-gaap:OperatingSegmentsMember; us-gaap:StatementBusinessSegmentsAxis=sbux:NorthAmericaAndInternationalSegmentMemberDomain
+2. fact_id=F-SBUX-0086 concept=DescriptionOfTypesOfProductsAndServicesFromWhichEachReportableSegmentDerivesItsRevenues value=Channel Development revenues include packaged coffee, tea, foodservice products, and ready-to-drink beverage sales to customers outside of our company-operated and licensed stores. Most of our Channel Development revenues are from product sales to, and royalty revenues from, Nestlé through the Global Coffee Alliance. unit= period=duration:2024-09-30/2025-09-28 dimensions=srt:ConsolidationItemsAxis=us-gaap:OperatingSegmentsMember; us-gaap:StatementBusinessSegmentsAxis=sbux:ChannelDevelopmentMember
+3. fact_id=F-SBUX-0003 concept=Revenues value=29462300000 unit=iso4217:USD period=duration:2022-10-03/2023-10-01 dimensions=srt:ProductOrServiceAxis=sbux:CompanyOperatedStoresMember
+4. fact_id=F-SBUX-0006 concept=Revenues value=4512700000 unit=iso4217:USD period=duration:2022-10-03/2023-10-01 dimensions=srt:ProductOrServiceAxis=sbux:LicensedStoresMember
+5. fact_id=F-SBUX-0009 concept=Revenues value=2000600000 unit=iso4217:USD period=duration:2022-10-03/2023-10-01 dimensions=srt:ProductOrServiceAxis=us-gaap:ProductAndServiceOtherMember
+6. fact_id=F-SBUX-0040 concept=ContractWithCustomerLiabilityRevenueRecognized value=196100000 unit=iso4217:USD period=duration:2022-10-03/2023-10-01 dimensions=srt:ProductOrServiceAxis=sbux:StoredValueCardsAndLoyaltyProgramBreakageInPriorYearDomain; us-gaap:FranchisorDisclosureAxis=us-gaap:EntityOperatedUnitsMember
+7. fact_id=F-SBUX-0043 concept=ContractWithCustomerLiabilityRevenueRecognized value=18900000 unit=iso4217:USD period=duration:2022-10-03/2023-10-01 dimensions=srt:ProductOrServiceAxis=sbux:StoredValueCardsAndLoyaltyProgramBreakageInPriorYearDomain; us-gaap:FranchisorDisclosureAxis=us-gaap:FranchisedUnitsMember
+8. fact_id=F-SBUX-0039 concept=ContractWithCustomerLiabilityRevenueRecognized value=187600000 unit=iso4217:USD period=duration:2023-10-02/2024-09-29 dimensions=srt:ProductOrServiceAxis=sbux:StoredValueCardsAndLoyaltyProgramBreakageInPriorYearDomain; us-gaap:FranchisorDisclosureAxis=us-gaap:EntityOperatedUnitsMember
+
+Relation paths:
+1. path_id=X-SBUX-0078 relation_type=presentation source=us-gaap:RevenueFromContractWithCustomerAbstract (Revenue from Contract with Customer [Abstract]) -> target=us-gaap:DeferredRevenueRevenueRecognized1 (Deferred Revenue, Revenue Recognized) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.starbucks.com/role/DeferredRevenueNarrativeDetails
+2. path_id=X-SBUX-0018 relation_type=presentation source=us-gaap:RevenueFromContractWithCustomerAbstract (Revenue from Contract with Customer [Abstract]) -> target=sbux:ChangesInDeferredRevenueBalanceRelatedToStoredValueCardsAndLoyaltyProgramTableTextBlock (label unavailable) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.starbucks.com/role/DeferredRevenueTables
+3. path_id=X-SBUX-0180 relation_type=definition source=us-gaap:EntityWideInformationRevenueFromExternalCustomerLineItems (Revenue from External Customer [Line Items]) -> target=us-gaap:ScheduleOfEntityWideInformationRevenueFromExternalCustomersByProductsAndServicesTable (Segment Reporting, Revenue from External Customer, Product and Service [Table]) arcrole=http://xbrl.org/int/dim/arcrole/all role=http://www.starbucks.com/role/SegmentReportingConsolidatedRevenueMixByProductTypeDetails
+4. path_id=X-SBUX-0187 relation_type=definition source=us-gaap:RevenuesFromExternalCustomersAndLongLivedAssetsLineItems (Revenues from External Customers and Long-Lived Assets [Line Items]) -> target=us-gaap:ScheduleOfRevenuesFromExternalCustomersAndLongLivedAssetsTable (Schedule of Revenues from External Customers and Long-Lived Assets [Table]) arcrole=http://xbrl.org/int/dim/arcrole/all role=http://www.starbucks.com/role/SegmentReportingInformationbyGeographicAreaDetails
+5. path_id=X-SBUX-0035 relation_type=presentation source=us-gaap:RevenueFromContractWithCustomerAbstract (Revenue from Contract with Customer [Abstract]) -> target=us-gaap:DeferredRevenueArrangementByTypeTable (Deferred Revenue Arrangement, by Type [Table]) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.starbucks.com/role/SummaryofSignificantAccountingPoliciesNarrativeDetails
+6. path_id=X-SBUX-0063 relation_type=presentation source=us-gaap:RevenueFromContractWithCustomerAbstract (Revenue from Contract with Customer [Abstract]) -> target=us-gaap:DeferredRevenueArrangementByTypeTable (Deferred Revenue Arrangement, by Type [Table]) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.starbucks.com/role/DeferredRevenueNarrativeDetails

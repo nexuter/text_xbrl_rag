@@ -1,0 +1,2132 @@
+[
+  {
+    "chunk_id": "T-CAT-REVENUE-001",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Originally organized as Caterpillar Tractor Co. in 1925 in the State of California, our company was reorganized as Caterpillar Inc. in 1986 in the State of Delaware. As used herein, the term \u201cCaterpillar,\u201d \u201cwe,\u201d \u201cus,\u201d \u201co",
+    "text": "With 2025 sales and revenues of $67.589 billion, Caterpillar Inc. is shaping the future as the world\u2019s leading manufacturer of construction and mining equipment, off-highway diesel and natural gas engines, industrial gas turbines and diesel-electric locomotives. Backed by one of the largest independent global dealer networks and financing services through Cat Financial, the company\u2019s primary business segments: Power & Energy, Construction Industries and Resource Industries are solving customers\u2019 toughest challenges through commercial excellence and advanced technology, driven by a highly skilled, dedicated global team."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-002",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Other information about our operations in 2025, including certain risks associated with our operations, is included in Part II, Item 7 \u201cManagement\u2019s Discussion and Analysis of Financial Condition and Results of Operation",
+    "text": "Our Construction Industries segment is primarily responsible for supporting customers using machinery in infrastructure and building construction applications. The majority of machine sales in this segment are made in the heavy and general construction, rental, quarry and aggregates and mining industries."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-003",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "\u2022 Diesel-electric and hybrid locomotives and components and other rail-related products and services",
+    "text": "The business of our Financial Products Segment is primarily conducted by Cat Financial, Insurance Services and their respective subsidiaries and affiliates. Cat Financial is a wholly owned finance subsidiary of Caterpillar Inc., and it provides retail and wholesale financing alternatives to customers and dealers around the world for Caterpillar products and services, as well as financing for power generation facilities that incorporate Caterpillar products. The various financing plans offered by Cat Financial are designed to support sales of Caterpillar products and services and generate financing income for Cat Financial. In addition, Cat Financial purchases short-term wholesale trade receivables from Caterpillar. A significant portion of Cat Financial\u2019s activity is conducted in North America, and Cat Financial has additional offices and subsidiaries in Latin America, Asia/Pacific, Europe and Africa."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-004",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "\u2022 Leases \u2013 Cat Financial offers non-tax finance leases and tax leases which may be classified as either finance or operating leases for accounting purposes based on the characteristics of the lease. Non-tax leases are fi",
+    "text": "that either require or allow the customer to purchase the equipment for a fixed price at the end of the term and the lessee for tax purposes is considered the owner of the equipment during the term of the lease. Tax leases are either operating or finance leases for accounting purposes, and for tax purposes, we are considered the owner of the equipment. At the end of tax leases, Lessees have the option to return the equipment or purchase it at market value. Lessees are obligated to maintain the equipment and insure it against damage and are responsible for payment of property and sales taxes, maintenance and other operating costs."
+  },
+  {
+    "chunk_id": "T-CAT-INVENTORY-001",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "that either require or allow the customer to purchase the equipment for a fixed price at the end of the term and the lessee for tax purposes is considered the owner of the equipment during the term of the lease. Tax leas",
+    "text": "\u2022 Wholesale Financing \u2013 Cat Financial provides dealers with inventory and rental fleet financing."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-005",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Cat Financial\u2019s financing products may be offered at fixed or floating interest rates. Cat Financial typically maintains a security interest in retail-financed equipment and generally requires physical damage insurance c",
+    "text": "Cat Financial operates in a highly competitive environment, with financing for users of Caterpillar equipment and services available through a variety of sources, principally commercial banks and finance and leasing companies. Cat Financial\u2019s competitors include Wells Fargo Equipment Finance Inc., Banc of America Leasing & Capital LLC, BNP Paribas Leasing Solutions Limited, Australia and New Zealand Banking Group Limited, Soci\u00e9t\u00e9 G\u00e9n\u00e9rale S.A. and various other banks and finance companies. In addition, many of the manufacturers that compete with Caterpillar also own financial subsidiaries, such as John Deere Capital Corporation, Komatsu Financial L.P., Volvo Financial Services and Kubota Credit Corporation, which utilize many below-market interest rate programs (funded by the manufacturer) to support machine sales. Cat Financial works with the broader Caterpillar organization to provide a broad array of financial merchandising programs to compete around the world."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-001",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Cat Financial operates in a highly competitive environment, with financing for users of Caterpillar equipment and services available through a variety of sources, principally commercial banks and finance and leasing comp",
+    "text": "Cat Financial provides financing only when certain criteria are met. Credit decisions are based on a variety of credit quality factors including prior payment experience, customer financial information, credit ratings, loan-to-value ratios and other internal metrics. Cat Financial typically maintains a security interest in retail-financed equipment and generally requires physical damage insurance coverage on financed equipment. Cat Financial finances a significant portion of Caterpillar dealers\u2019 sales and inventory of Caterpillar equipment throughout the world. Cat Financial\u2019s competitive position is improved by marketing programs offered in conjunction with Caterpillar and/or Caterpillar dealers. Under these programs, Caterpillar, or the dealer, funds an amount at the outset of the transaction, which Cat Financial then recognizes as revenue over the term of the financing. We believe that these marketing programs provide Cat Financial a significant competitive advantage in financing Caterpillar products."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-006",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "The financial results of Cat Financial are largely dependent upon the ability of Caterpillar dealers to sell equipment and customers\u2019 willingness to enter into financing or leasing agreements. Cat Financial is also affec",
+    "text": "Cat Financial has a match-funding policy that addresses interest rate risk by aligning the interest rate profile (fixed or floating rate and duration) of its debt portfolio with the interest rate profile of its receivables portfolio within predetermined ranges on an ongoing basis. In connection with that policy, Cat Financial uses interest rate derivative instruments to modify the debt structure to match assets within the receivables portfolio. This matched funding reduces the volatility of margins between interest-bearing assets and interest-bearing liabilities, regardless of which direction interest rates move. For more information regarding match funding, please see Note 4 \u2014 \u201cDerivative financial instruments and risk management\u201d of Part II, Item 8 \"Financial Statements and Supplementary Data.\" See also the risk factors associated with our financial products business included in Item 1A. of this Form 10-K."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-007",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Caterpillar products and services are sold worldwide into a variety of highly competitive markets. In all markets, we compete on the basis of product performance, customer service, quality and price. From time to time, t",
+    "text": "We source our raw materials and manufactured components from suppliers both domestically and internationally. These purchases include unformed materials and rough and finished parts. Unformed materials include a variety of steel products, which are then cut or formed to shape and machined in our facilities. Rough parts include various sized steel and iron castings and forgings, which are machined to final specification levels inside our facilities. Finished parts are ready to assemble components, which are made either to Caterpillar specifications or to supplier developed specifications. We machine and assemble some of the components used in our machines, engines and power generation units and to support our after-market dealer parts sales. We also purchase various goods and services used in production, logistics, offices and product development processes. We maintain global strategic sourcing models to meet our global facilities\u2019 production needs while building long-term supplier relationships and leveraging enterprise spend. We expect our suppliers to maintain, at all times, industry-leading levels of quality and the ability to timely deliver raw materials and component products for our machine and engine products. However, in some cases, increases in demand or supply chain disruptions have led to parts and components constraints across some products. We use a variety of agreements with suppliers to protect our intellectual property and processes to monitor and mitigate risks of the supply base causing a business disruption. The risks monitored include supplier financial viability, the ability to increase or decrease production levels, business continuity, quality and delivery."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-008",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "We distribute our machines principally through a worldwide organization of dealers (dealer network), 41 located in the United States and 109 located outside the United States, serving 190 countries. We sell reciprocating",
+    "text": "Our dealers do not deal exclusively with our products; however, in most cases sales and servicing of our products are the dealers\u2019 principal business. We sell some products, primarily turbines and locomotives, directly to end customers through sales forces employed by the company. At times, these employees are assisted by independent sales representatives."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-009",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "While the large majority of our worldwide dealers are independently owned and operated, we own and operate a dealership in Japan that covers approximately 80% of the Japanese market: Nippon Caterpillar Division. We are c",
+    "text": "For Caterpillar-branded products, the company\u2019s relationship with each of its independent dealers is memorialized in standard sales and service agreements. Pursuant to these agreements, the company grants the dealer the right to purchase and sell its products and to service the products in a specified geographic service territory. The company establishes prices to dealers after receiving input from dealers on transactional pricing in the marketplace. The company also agrees to defend its intellectual property and to provide warranty and technical support to the dealer. The agreement further grants the dealer a non-exclusive license to use the company\u2019s trademarks, service marks and brand names. In some instances, a separate trademark agreement exists between the company and a dealer."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-002",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "For Caterpillar-branded products, the company\u2019s relationship with each of its independent dealers is memorialized in standard sales and service agreements. Pursuant to these agreements, the company grants the dealer the ",
+    "text": "In exchange for these rights, the agreement obligates the dealer to develop and promote the sale of the company\u2019s products to current and prospective customers in the dealer\u2019s service territory. Each dealer agrees to employ adequate sales and support personnel to market, sell and promote the company\u2019s products, demonstrate and exhibit the products, perform the company\u2019s product improvement programs, inform the company concerning any features that might affect the safe operation of any of the company\u2019s products and maintain detailed books and records of the dealer\u2019s financial condition, sales and inventories and make these books and records available at the company\u2019s reasonable request."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-010",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "In exchange for these rights, the agreement obligates the dealer to develop and promote the sale of the company\u2019s products to current and prospective customers in the dealer\u2019s service territory. Each dealer agrees to emp",
+    "text": "These sales and service agreements are terminable at will by either party primarily upon 90 days written notice."
+  },
+  {
+    "chunk_id": "T-CAT-INVENTORY-002",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "We are a significant user of steel and many other commodities required for the manufacture of our products. Increases in the prices of such commodities would increase our costs, negatively impacting our business, results",
+    "text": "We rely on suppliers to produce or secure material required for the manufacture of our products. Production challenges at suppliers (including suppliers of semiconductors), a disruption in deliveries to or from suppliers or decreased availability of raw materials or commodities could have an adverse effect on our ability to meet our commitments to customers or increase our operating costs. On the other hand, in circumstances where demand for our products is less than we expect, we may experience excess inventories and be forced to incur additional costs and our profitability may suffer. Our business, competitive position, results of operations or financial condition could be negatively impacted if supply is insufficient for our operations, if significant transportation delays interfere with deliveries, if we experience excess inventories or if we are unable to adjust our production schedules or our purchases from suppliers to reflect changes in customer demand and market fluctuations on a timely basis."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-011",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Changes in government monetary or fiscal policies may negatively impact our results .",
+    "text": "Most countries where our products and services are sold have established central banks to regulate monetary systems and influence economic activities, generally by adjusting interest rates. Interest rate changes affect overall economic growth, which affects demand for residential and nonresidential structures, as well as energy and mined products, which in turn affects sales of our products and services that support these activities. Interest rate changes may also affect our customers\u2019 ability to finance machine purchases, can change the optimal time to keep machines in a fleet and can impact the ability of our suppliers to finance the production of parts and components necessary to manufacture and support our products. Increases in interest rates could negatively impact sales and create supply chain inefficiencies."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-012",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Changes in monetary and fiscal policies, along with other factors, may cause currency exchange rates to fluctuate. Actions that lead the currency exchange rate of a country where we manufacture products to increase relat",
+    "text": "Government policies on taxes and spending also affect our business. Throughout the world, government spending finances a significant portion of infrastructure development, such as highways, rail systems, airports, sewer and water systems, waterways and dams. Tax regulations determine asset depreciation lives and impact the after-tax returns on business activity and investment, both of which influence investment decisions. Unfavorable developments, such as decisions to reduce public spending or to increase taxes, could negatively impact our results."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-013",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "The success of our business depends on our ability to develop, produce and market quality products that meet our customers\u2019 needs.",
+    "text": "Our business relies on continued global demand for our brands and products. To achieve business goals, we must develop and sell products that appeal to our dealers, OEMs and end-user customers. This is dependent on a number of factors, including our ability to maintain key dealer relationships; our ability to produce products that meet the quality, performance and price expectations of our customers and our ability to develop effective sales, advertising and marketing programs. In addition, our continued success in selling products that appeal to our customers is dependent on leading-edge innovation, with respect to both products and operations, and on the availability and effectiveness of legal protection for our innovations. Failure to continue to deliver high quality, innovative, competitive products to the marketplace, to adequately protect our intellectual property rights; to supply products that meet applicable regulatory requirements, including engine exhaust emission requirements or to predict market demands for, or gain market acceptance of, our products, could have a negative impact on our business, results of operations and financial condition."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-014",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Our business relies on continued global demand for our brands and products. To achieve business goals, we must develop and sell products that appeal to our dealers, OEMs and end-user customers. This is dependent on a num",
+    "text": "We operate in a highly competitive environment, which could adversely affect our sales and pricing."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-015",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "We operate in a highly competitive environment, which could adversely affect our sales and pricing.",
+    "text": "We operate in a highly competitive environment. We compete on the basis of a variety of factors, including product performance, customer service, quality and price. There can be no assurance that our products will be able to compete successfully with other companies\u2019 products. Thus, our share of industry sales could be reduced due to aggressive pricing or product strategies pursued by competitors, unanticipated product or manufacturing difficulties, our failure to price our products competitively, our failure to produce our products at a competitive cost or an unexpected buildup in competitors\u2019 new machine or dealer-owned rental fleets, which could lead to downward pressure on machine rental rates and/or used equipment prices."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-016",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Lack of customer acceptance of price increases we announce from time to time, changes in customer requirements for price discounts, changes in our customers\u2019 behavior or a weak pricing environment could have an adverse i",
+    "text": "In addition, our results and ability to compete may be impacted negatively by changes in our geographic and product mix of sales."
+  },
+  {
+    "chunk_id": "T-CAT-INVENTORY-003",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "In addition, data we collect, store and process are subject to a variety of U.S. and international laws and regulations, such as the European Union's General Data Protection Regulation and the California Consumer Privacy",
+    "text": "Our business is subject to the inventory management decisions and sourcing practices of our dealers and our OEM customers."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-003",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Our business is subject to the inventory management decisions and sourcing practices of our dealers and our OEM customers.",
+    "text": "We sell finished products primarily through an independent dealer network and directly to OEMs and are subject to risks relating to their inventory management decisions and operational and sourcing practices. Both carry inventories of finished products as part of ongoing operations and adjust those inventories based on their assessments of future needs and market conditions, including levels of used equipment inventory and machine rental usage rates. Such adjustments may impact our results positively or negatively. If the inventory levels of our dealers and OEM customers are higher than they desire, they may postpone product purchases from us, which could cause our sales to be lower than the end-user demand for our products and negatively impact our results. Similarly, our results could be negatively impacted through the loss of time-sensitive sales if our dealers and OEM customers do not maintain inventory levels sufficient to meet customer demand."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-017",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "\u2022 we may experience problems in retaining customers and integrating customer bases.",
+    "text": "Many of these factors will be outside of our control and any one of them could result in increased costs, decreases in the amount of expected revenues and diversion of management\u2019s time and attention. They may also delay the realization of the benefits we anticipate when we enter into a transaction."
+  },
+  {
+    "chunk_id": "T-CAT-INVENTORY-004",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Disruptions or volatility in global financial markets could limit our sources of liquidity, or the liquidity of our customers, dealers and suppliers.",
+    "text": "Continuing to meet our cash requirements over the long-term requires substantial liquidity and access to varied sources of funds, including capital and credit markets. Global economic conditions may cause volatility and disruptions in capital and credit markets. Market volatility, changes in counterparty credit risk, the impact of government intervention in financial markets and general economic conditions may also adversely impact our ability to access capital and credit markets to fund operating needs. Global or regional economic downturns could cause financial markets to decrease the availability of liquidity, credit and credit capacity for certain issuers, including certain customers, dealers and suppliers. An inability to access capital and credit markets may have an adverse effect on our business, results of operations, financial condition and competitive position. Furthermore, changes in global economic conditions, including material cost increases and decreases in key markets we serve, and the success of plans to manage cost increases, inventory and other important elements of our business may significantly impact our ability to generate funds from operations."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-018",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Our Financial Products segment is subject to risks associated with the financial services industry.",
+    "text": "Cat Financial is significant to our operations and provides financing support for a significant share of our global sales. The inability of Cat Financial to access funds to support its financing activities to our customers could have an adverse effect on our business, results of operations and financial condition."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-019",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Changes in interest rates or market liquidity conditions could adversely affect Cat Financial's and our earnings and/or cash flow.",
+    "text": "Changes in interest rates and market liquidity conditions could have an adverse impact on Cat Financial's and our earnings and cash flows. Changes in market interest rates may influence its and our borrowing costs, returns on financial investments and the valuation of derivative contracts. Because a significant number of the loans made by Cat Financial are made utilizing fixed interest rates, its business results are subject to fluctuations in interest rates. Certain loans made by Cat Financial and various financing extended to Cat Financial are made at variable rates that use floating reference rates or indices, including the Secured Overnight Financing Rate (SOFR) as a benchmark for establishing the interest rate."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-020",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "An increase in delinquencies, repossessions or net losses of Cat Financial customers could adversely affect its results.",
+    "text": "Inherent in the operation of Cat Financial is the credit risk associated with its customers. The creditworthiness of each customer and the rate of delinquencies, repossessions and net losses on customer obligations are directly impacted by several factors, including relevant industry and economic conditions, the availability of capital, the experience and expertise of the customer's management team, commodity prices, political events and the sustained value of the underlying collateral. Any increase in delinquencies, repossessions and net losses on customer obligations could have a material adverse effect on Cat Financial's and our earnings and cash flows. Cat Financial evaluates and adjusts its allowance for credit losses related to past due and non-performing receivables on a regular basis. However, adverse economic conditions or other factors that might cause deterioration of the financial health of its customers could change the timing and level of payments received and necessitate an increase in Cat Financial's estimated losses, which could also have a material adverse effect on Cat Financial's and our earnings and cash flows."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-021",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Inherent in the operation of Cat Financial is the credit risk associated with its customers. The creditworthiness of each customer and the rate of delinquencies, repossessions and net losses on customer obligations are d",
+    "text": "We conduct operations in many countries involving transactions denominated in a variety of currencies. We are subject to currency-exchange rate risk to the extent that our costs are denominated in currencies other than those in which we earn revenues. Fluctuations in currency exchange rates have had, and will continue to have, an impact on our results as expressed in U.S. dollars. There can be no assurance that currency exchange rate fluctuations will not adversely affect our results of operations, financial condition and cash flows. While the use of currency hedging instruments may provide us with protection from adverse fluctuations in currency exchange rates, by utilizing these instruments we potentially forego the benefits that might result from favorable fluctuations in currency exchange rates. In addition, our outlooks do not assume fluctuations in currency exchange rates. Adverse fluctuations in currency exchange rates from the date of our outlooks could cause our actual results to differ materially from those anticipated in any outlooks and adversely impact our business, results of operations and financial condition."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-022",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Restrictive covenants in our debt agreements could limit our financial and operating flexibility.",
+    "text": "We maintain a number of credit facilities to support general corporate purposes (facilities) and have issued debt securities to manage liquidity and fund operations (debt securities). The agreements relating to a number of the facilities and the debt securities contain certain restrictive covenants applicable to us and certain subsidiaries, including Cat Financial. These covenants include maintaining a minimum consolidated net worth (defined as the consolidated shareholder\u2019s equity including preferred stock but excluding the pension and other post-retirement benefits balance within accumulated other comprehensive income (loss)), limitations on the incurrence of liens and sales and leaseback transactions, restrictions on the transfer of certain property and certain restrictions on consolidation and merger. Cat Financial has also agreed under certain of these agreements not to exceed a certain leverage ratio (consolidated debt to consolidated net worth, calculated (1) on a monthly basis as the average of the leverage ratios determined on the last day of each of the six preceding calendar months and (2) at each December 31), to maintain a minimum interest coverage ratio (calculated as (1) profit excluding income taxes, interest expense and net gain (loss) from interest rate derivatives to (2) interest expense calculated at the end of each fiscal quarter for the prior four consecutive fiscal quarter period) and not to terminate, amend or modify its support agreement with us."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-023",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Our global operations are subject to a wide range of trade and anti-corruption laws and regulations.",
+    "text": "Due to the international scope of our operations, we are subject to a complex system of import- and export-related laws and regulations. These include U.S. regulations issued by Customs and Border Protection, the Bureau of Industry and Security, the Office of Antiboycott Compliance, the Directorate of Defense Trade Controls and the Office of Foreign Assets Control, as well as the counterparts of these agencies in other countries. Any alleged or actual violations may subject us to increased government scrutiny, investigation and civil and criminal penalties, and may limit our ability to import or export our products or to provide services outside the United States. Furthermore, embargoes and sanctions imposed by the U.S. and other governments restricting or prohibiting sales to specific persons or countries or based on product classification may expose us to potential criminal and civil sanctions. We cannot predict the nature, scope or effect of future regulatory requirements to which our operations might be subject. We also cannot predict in certain locations the manner in which existing laws might be administered or interpreted."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-024",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "We may incur additional tax expense or become subject to additional tax exposure.",
+    "text": "We are subject to income taxes in the United States and numerous other jurisdictions. Our future results of operations could be adversely affected by changes in the effective tax rate as a result of a change in the mix of earnings between U.S. and non-U.S. jurisdictions or among jurisdictions with differing statutory tax rates. In addition, our future results of operations could also be adversely affected by changes in our overall profitability, changes in tax laws or treaties or in their application or interpretation, changes in tax rates, changes in generally accepted accounting principles, changes in the valuation of deferred tax assets and liabilities, changes in the amount of earnings indefinitely reinvested in certain non-U.S. jurisdictions, the results of audits and examinations of previously filed tax returns and continuing assessments of our tax exposures. We are also subject to the continuous examination of our income tax returns by the U.S. Internal Revenue Service and other tax authorities. We regularly assess the likelihood of an adverse outcome resulting from these examinations. If our effective tax rates were to increase, or if the ultimate determination of our taxes owed is for an amount in excess of amounts previously accrued, our operating results, cash flows and financial condition could be adversely affected. For information regarding additional legal matters related to our taxes, please see Note 6 \u2014 \u201cIncome taxes\u201d and Note 22 \u2014 \u201cEnvironmental and legal matters\u201d of Part II, Item 8 \u201cFinancial Statements and Supplementary Data\u201d to this Annual Report on Form 10-K ."
+  },
+  {
+    "chunk_id": "T-CAT-INVENTORY-005",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "We are subject to a variety of legal proceedings and legal compliance risks in virtually every part of the world. We face risk of exposure to various types of claims, lawsuits and government investigations. We are involv",
+    "text": "The global and diverse nature of our operations means that legal and compliance risks will continue to exist and additional legal proceedings and other contingencies, the outcome of which cannot be predicted with certainty, may arise from time to time. In addition, subsequent developments in legal proceedings may affect our assessment and estimates of loss contingencies recorded as a reserve and require us to make payments in excess of our reserves. Such payments could have an adverse effect on our reputation, business and results of operations or financial condition."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-025",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "The following Management\u2019s Discussion and Analysis of Financial Condition and Results of Operations (MD&A) is intended to provide information that will assist the reader in understanding the company\u2019s Consolidated Financ",
+    "text": "\u2022 Sales and revenues for 2025 were $67.589 billion, an increase of $2.780 billion, or 4 percent, compared with $64.809 billion for 2024. Sales were higher in Power & Energy , about flat in Resource Industries and slightly lower in Construction Industries ."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-026",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "\u2022 Sales and revenues for 2025 were $67.589 billion, an increase of $2.780 billion, or 4 percent, compared with $64.809 billion for 2024. Sales were higher in Power & Energy , about flat in Resource Industries and slightl",
+    "text": "\u2022 Operating profit as a percent of sales and revenues was 16.5 percent in 2025, compared with 20.2 percent in 2024. Adjusted operating profit margin was 17.2 percent in 2025, compared with 20.7 percent in 2024."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-027",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "A detailed reconciliation of GAAP to non-GAAP financial measures is included on pages 48 - 49.",
+    "text": "Total sales and revenues for 2025 were $67.589 billion, an increase of $2.780 billion, or 4 percent, compared with $64.809 billion for 2024. The increase reflected higher sales volume , partially offset by unfavorable price realization . Higher sales volume was primarily driven by higher sales of equipment to end users. Profit per share was $18.81 in 2025, compared with profit per share of $22.05 in 2024. Profit was $8.884 billion in 2025, compared with $10.792 billion in 2024. The decrease was mainly due to unfavorable manufacturing costs and unfavorable price realization, partially offset by the profit impact of higher sales volume. Unfavorable manufacturing costs largely reflected the impact of higher tariffs."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-028",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Total sales and revenues for 2025 were $67.589 billion, an increase of $2.780 billion, or 4 percent, compared with $64.809 billion for 2024. The increase reflected higher sales volume , partially offset by unfavorable pr",
+    "text": "In Construction Industries, we expect another year of sales of equipment to end users growth in 2026 compared to 2025, supported by elevated order rates and a robust backlog. The outlook for North America remains positive, as sales of equipment to end users should grow moderately compared to 2025 with construction spending remaining healthy due to Infrastructure Investment and Jobs Act (IIJA) funding and other critical infrastructure programs. We also anticipate accelerated investment in data centers, which will further bolster overall construction spending. In 2026, dealer rental fleet loading and dealer's rental revenue are both projected to increase, compared to 2025. In EAME , economic conditions in Europe are expected to strengthen, and construction activity in Africa and the Middle East is projected to remain strong. In Asia Pacific, outside of China, moderate economic conditions are expected in 2026. We anticipate positive momentum in China from low levels, with growth in the above 10-ton excavator industry in 2026. Growth in Latin America is expected to continue in 2026 at a similar rate to 2025."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-029",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "In Construction Industries, we expect another year of sales of equipment to end users growth in 2026 compared to 2025, supported by elevated order rates and a robust backlog. The outlook for North America remains positiv",
+    "text": "In Resource Industries, sales of equipment to end users is expected to increase in 2026 as compared to 2025, primarily driven by rising demand for copper and gold, and positive growth trends in heavy construction and quarry and aggregates. In mining, most key commodities remain above investment thresholds, and customer product utilization is high while the age of the fleet remains elevated. With modest increases in commodity prices projected in 2026, we expect rebuild activity to increase slightly compared to 2025."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-030",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "In Resource Industries, sales of equipment to end users is expected to increase in 2026 as compared to 2025, primarily driven by rising demand for copper and gold, and positive growth trends in heavy construction and qua",
+    "text": "In Power & Energy, we anticipate growth in Power Generation for both reciprocating engines and turbines and turbine-related services in 2026, driven by increasing energy demand to support data center build-out related to cloud computing and generative Artificial Intelligence (AI). Additionally, we are starting to see orders for prime power trend higher as data center customers look for alternative power solutions to keep pace with their growth. After reaching record levels in 2025, Oil & Gas is expected to see moderate growth in 2026. Reciprocating engine sales are expected to increase, driven by strong demand in gas compression applications. For turbines and turbine-related services used in Oil & Gas applications, we expect another year of strong sales in 2026 comparable to our record 2025 performance as backlog remains healthy, with continued solid order and inquiry activity. Demand for products in Industrial applications is expected to grow moderately in 2026 as we see continued recovery from previous lows. In Transportation, we anticipate growth in rail services and locomotive deliveries in 2026 compared to 2025."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-004",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Our expectations assume the Rail division within Power & Energy, as was the case through year-end 2025. In March 2026, we will file a Form 8-K recasting historical periods to reflect the movement of the Rail division to ",
+    "text": "For the full-year 2026, we anticipate sales and revenues to grow around the top end of our 5 to 7 percent compound annual growth rate (CAGR) target, as compared to 2025. The strong backlog coupled with healthy end markets supports our expectations for sales volume growth in all three primary segments, as well as favorable price realization of about 2 percent of sales and revenues. We expect machine dealer inventory to increase in 2026 and offset the $500 million decrease in 2025. Services revenues are also expected to grow in 2026 as compared to 2025."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-005",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "In 2026, we expect restructuring costs of approximately $300 million to $350 million and capital expenditures of around $3.5 billion. We anticipate our 2026 estimated annual effective tax rate to be 23.0 percent, excludi",
+    "text": "In the first quarter of 2026 as compared to the first quarter of 2025, we expect stronger sales and revenues primarily due to higher sales volume and favorable price realization. We expect higher sales volume to be mainly driven by higher sales of equipment to end users and by the impact from changes in machine dealer inventories . We expect machine dealer inventory to increase in excess of $1.0 billion during the first quarter of 2026, aligning with the seasonal pattern, compared to roughly flat levels in the first quarter of 2025."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-006",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "In the first quarter of 2026 as compared to the first quarter of 2025, we expect stronger sales and revenues primarily due to higher sales volume and favorable price realization. We expect higher sales volume to be mainl",
+    "text": "In the first quarter of 2026 as compared to the first quarter of 2025, we anticipate strong sales growth in Construction Industries, primarily due to higher sales volume and favorable price realization. We expect higher sales volume to be driven by higher sales of equipment to end users and by the impact from changes in dealer inventories. We expect a more typical seasonal dealer inventory build in the first quarter of 2026 as compared to the first quarter of 2025. In Resource Industries, we anticipate strong sales growth in the first quarter of 2026 as compared to the first quarter of 2025, primarily due to higher sales volume. We expect higher sales volume to be driven by higher sales of equipment to end users and by the impact from changes in dealer inventories. We also expect price realization for the first quarter of 2026 to be about flat as compared to the first quarter of 2025. In Power & Energy, we anticipate sales growth in the first quarter of 2026 as compared to the first quarter of 2025, driven by strength in Power Generation and Oil & Gas, and favorable price realization. We expect sales in the first quarter of 2026 will be the lowest of the year and lower than the fourth quarter of 2025, aligned with typical seasonal pattern."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-031",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "We expect the impact from incremental tariffs to be around $800 million in the first quarter of 2026, which is similar to the fourth quarter of 2025. We anticipate around 50 percent of the incremental tariff costs will b",
+    "text": "In the first quarter of 2026 as compared to the first quarter of 2025, excluding the impact from incremental tariff costs, we expect the profit impact of higher sales volume and favorable price realization will be partially offset by higher manufacturing costs and higher selling, general and administrative (SG&A) and research & development (R&D) expenses."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-032",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "In the first quarter of 2026 as compared to the first quarter of 2025, excluding the impact from incremental tariff costs, we expect the profit impact of higher sales volume and favorable price realization will be partia",
+    "text": "In the first quarter of 2026 as compared to the first quarter of 2025, in Construction Industries, excluding the impact from incremental tariff costs, we anticipate favorable price realization and the profit impact of higher sales volume will be partially offset by higher manufacturing costs. In Resource Industries, excluding the impact from incremental tariff costs, we anticipate the profit impact of higher sales volume will be more than offset by unfavorable manufacturing costs and higher SG&A/R&D expenses. We also anticipate an unfavorable mix of products in Resource Industries. In Power & Energy, excluding the impact from incremental tariff costs, we anticipate the profit impact of higher sales volume and favorable price realization will be partially offset by higher manufacturing costs."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-033",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "\u2022 Some amounts within this report are rounded to the millions or billions and may not add. In addition, the sum of the components reported across periods may not equal the total amount reported year-to-date due to roundi",
+    "text": "The chart above graphically illustrates reasons for the change in consolidated sales and revenues between 2024 (at left) and 2025 (at right). Caterpillar management utilizes these charts internally to visually communicate with the company\u2019s board of directors and employees."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-034",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "The chart above graphically illustrates reasons for the change in consolidated sales and revenues between 2024 (at left) and 2025 (at right). Caterpillar management utilizes these charts internally to visually communicat",
+    "text": "Total sales and revenues for 2025 were $67.589 billion, an increase of $2.780 billion, or 4 percent, compared with $64.809 billion in 2024. The increase was primarily driven by higher sales volume of $3.389 billion, partially offset by unfavorable price realization of $817 million. The increase in sales volume was mainly driven by higher sales of equipment to end users."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-035",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Total sales and revenues for 2025 were $67.589 billion, an increase of $2.780 billion, or 4 percent, compared with $64.809 billion in 2024. The increase was primarily driven by higher sales volume of $3.389 billion, part",
+    "text": "Sales were higher in Power & Energy, about flat in Resource Industries and slightly lower in Construction Industries."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-036",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Sales were higher in Power & Energy, about flat in Resource Industries and slightly lower in Construction Industries.",
+    "text": "North America sales increased 6 percent due to higher sales volume, partially offset by unfavorable price realization. The increase in sales volume was mainly driven by higher sales of equipment to end users."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-037",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "North America sales increased 6 percent due to higher sales volume, partially offset by unfavorable price realization. The increase in sales volume was mainly driven by higher sales of equipment to end users.",
+    "text": "Sales increased 4 percent in Latin America primarily due to higher sales volume, partially offset by unfavorable currency impacts related to the Brazilian real. The increase in sales volume was mainly driven by higher sales of equipment to end users."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-007",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Sales increased 4 percent in Latin America primarily due to higher sales volume, partially offset by unfavorable currency impacts related to the Brazilian real. The increase in sales volume was mainly driven by higher sa",
+    "text": "EAME sales increased 4 percent mainly due to higher sales volume and favorable currency impacts related to the euro, partially offset by unfavorable price realization. The increase in sales volume was primarily driven by the impact from changes in dealer inventories. Dealer inventory increased in 2025, compared to a decrease in 2024."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-038",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "EAME sales increased 4 percent mainly due to higher sales volume and favorable currency impacts related to the euro, partially offset by unfavorable price realization. The increase in sales volume was primarily driven by",
+    "text": "Asia/Pacific sales decreased 2 percent primarily due to unfavorable currency impacts related to the Australian dollar, and lower sales volume. The decrease in sales volume was mainly driven by lower sales of equipment to end users."
+  },
+  {
+    "chunk_id": "T-CAT-INVENTORY-006",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Asia/Pacific sales decreased 2 percent primarily due to unfavorable currency impacts related to the Australian dollar, and lower sales volume. The decrease in sales volume was mainly driven by lower sales of equipment to",
+    "text": "Total dealer inventory increased about $900 million during 2025, compared to an increase of about $400 million during 2024. Machine dealer inventory decreased about $500 million during 2025, compared to a decrease of about $700 million during 2024. Dealers are independent, and the reasons for changes in their inventory levels vary, including their expectations of future demand and product delivery times. Dealers\u2019 demand expectations take into account seasonal changes, macroeconomic conditions, machine rental rates and other factors. Delivery times can vary based on availability of product from Caterpillar factories and product distribution centers. We expect machine dealer inventory to increase in 2026 and offset the $500 million decrease in 2025."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-039",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Total dealer inventory increased about $900 million during 2025, compared to an increase of about $400 million during 2024. Machine dealer inventory decreased about $500 million during 2025, compared to a decrease of abo",
+    "text": "(Millions of dollars) 2024 Sales Volume Price Realization Currency 2025 $ Change % Change"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-040",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Construction Industries $ 25,455 $ 568 $ (1,136) $ 24 149 $ 25,060 $ (395) (2 %)",
+    "text": "Consolidated Sales and Revenues $ 64,809 $ 3,389 $ (817) $ 45 163 $ 67,589 $ 2,780 4 %"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-041",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Consolidated Sales and Revenues $ 64,809 $ 3,389 $ (817) $ 45 163 $ 67,589 $ 2,780 4 %",
+    "text": "North America Latin America EAME Asia/Pacific External Sales and Revenues Inter-Segment Total Sales and Revenues"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-042",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Machinery, Power & Energy 34,127 6% 6,636 4% 12,368 4% 10,849 (2%) 63,980 4% \u2014 \u2014% 63,980 4 %",
+    "text": "Financial Products Revenues 2,482 6% 352 10% 425 \u2014% 350 (1%) 3,609 5% \u2014 \u2014% 3,609 5 %"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-043",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Financial Products Revenues 2,482 6% 352 10% 425 \u2014% 350 (1%) 3,609 5% \u2014 \u2014% 3,609 5 %",
+    "text": "Consolidated Sales and Revenues $ 36,609 6% $ 6,988 4% $ 12,793 4% $ 11,199 (2%) $ 67,589 4% $ \u2014 \u2014% $ 67,589 4 %"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-044",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Construction Industries $ 14,576 $ 2,553 $ 4,315 $ 3,900 $ 25,344 $ 111 $ 25,455",
+    "text": "Consolidated Sales and Revenues $ 34,397 $ 6,708 $ 12,316 $ 11,388 $ 64,809 $ \u2014 $ 64,809"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-045",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Consolidated Sales and Revenues $ 34,397 $ 6,708 $ 12,316 $ 11,388 $ 64,809 $ \u2014 $ 64,809",
+    "text": "1 Includes revenues from Machinery, Power & Energy of $712 million and $711 million in 2025 and 2024, respectively."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-046",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "The chart above graphically illustrates reasons for the change in consolidated operating profit between 2024 (at left) and 2025 (at right). Caterpillar management utilizes these charts internally to visually communicate ",
+    "text": "Operating profit was $11.151 billion in 2025, a decrease of $1.921 billion, or 15 percent, compared with $13.072 billion in 2024. The decrease was primarily due to unfavorable manufacturing costs of $2.148 billion and unfavorable price realization of $817 million, partially offset by the profit impact of higher sales volume of $1.218 billion. Unfavorable manufacturing costs largely reflected the impact of higher tariffs."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-008",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Please see a reconciliation of GAAP to non-GAAP financial measures on pages 48-49.",
+    "text": "Construction Industries\u2019 total sales were $25.060 billion in 2025, a decrease of $395 million, or 2 percent, compared with $25.455 billion in 2024. The decrease was primarily due to unfavorable price realization of $1.136 billion, partially offset by higher sales volume of $568 million. The increase in sales volume was mainly driven by higher sales of equipment to end users, partially offset by the impact from changes in dealer inventories. Dealer inventory decreased during 2025, compared with an increase in 2024."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-009",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Construction Industries\u2019 total sales were $25.060 billion in 2025, a decrease of $395 million, or 2 percent, compared with $25.455 billion in 2024. The decrease was primarily due to unfavorable price realization of $1.13",
+    "text": "\u2022 In North America, sales decreased due to unfavorable price realization, partially offset by higher sales volume. Higher sales volume was primarily driven by higher sales of equipment to end users, partially offset by the impact from changes in dealer inventories. Dealer inventory decreased during 2025, compared with an increase in 2024."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-010",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "\u2022 In North America, sales decreased due to unfavorable price realization, partially offset by higher sales volume. Higher sales volume was primarily driven by higher sales of equipment to end users, partially offset by t",
+    "text": "\u2022 Sales decreased in Latin America due to lower sales volume, unfavorable price realization and unfavorable currency impacts primarily related to the Brazilian real. Lower sales volume was mainly driven by the impact from changes in dealer inventories. Dealer inventory increased less during 2025 than during 2024."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-011",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "\u2022 Sales decreased in Latin America due to lower sales volume, unfavorable price realization and unfavorable currency impacts primarily related to the Brazilian real. Lower sales volume was mainly driven by the impact fro",
+    "text": "\u2022 In EAME, sales increased due to higher sales volume and favorable currency impacts primarily related to the euro, partially offset by unfavorable price realization. Higher sales volume was mainly driven by the impact from changes in dealer inventories. Dealer inventory increased during 2025, compared with a decrease in 2024."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-047",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "\u2022 In EAME, sales increased due to higher sales volume and favorable currency impacts primarily related to the euro, partially offset by unfavorable price realization. Higher sales volume was mainly driven by the impact f",
+    "text": "\u2022 Sales decreased in Asia/Pacific due to unfavorable price realization, lower sales volume and unfavorable currency impacts primarily related to the Australian dollar. Lower sales volume was mainly driven by lower sales of equipment to end users."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-048",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "\u2022 Sales decreased in Asia/Pacific due to unfavorable price realization, lower sales volume and unfavorable currency impacts primarily related to the Australian dollar. Lower sales volume was mainly driven by lower sales ",
+    "text": "Construction Industries\u2019 profit was $4.675 billion in 2025, a decrease of $1.490 billion, or 24 percent, compared with $6.165 billion in 2024. The decrease was mainly due to unfavorable price realization of $1.136 billion and unfavorable manufacturing costs of $671 million, partially offset by the profit impact of higher sales volume of $315 million. Unfavorable manufacturing costs largely reflected the impact of higher tariffs."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-049",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Construction Industries\u2019 profit was $4.675 billion in 2025, a decrease of $1.490 billion, or 24 percent, compared with $6.165 billion in 2024. The decrease was mainly due to unfavorable price realization of $1.136 billio",
+    "text": "Construction Industries\u2019 profit as a percent of total sales was 18.7 percent in 2025, compared with 24.2 percent in 2024."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-012",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Construction Industries\u2019 profit as a percent of total sales was 18.7 percent in 2025, compared with 24.2 percent in 2024.",
+    "text": "Resource Industries\u2019 total sales were $12.474 billion in 2025, an increase of $3 million, or about flat, compared with $12.471 billion in 2024. Higher sales volume of $403 million was mostly offset by unfavorable price realization of $272 million and unfavorable currency impacts of $46 million, primarily related to the Australian dollar. Higher sales volume was mainly driven by the impact from changes in dealer inventories. Dealer inventory decreased less during 2025 than during 2024."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-050",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Resource Industries\u2019 profit was $1.988 billion in 2025, a decrease of $550 million, or 22 percent, compared with $2.538 billion in 2024. The decrease was mainly due to unfavorable manufacturing costs of $302 million and ",
+    "text": "Resource Industries\u2019 profit as a percent of total sales was 15.9 percent for 2025, compared with 20.4 percent for 2024."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-051",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Resource Industries\u2019 profit as a percent of total sales was 15.9 percent for 2025, compared with 20.4 percent for 2024.",
+    "text": "Power & Energy\u2019s total sales were $32.201 billion in 2025, an increase of $3.347 billion, or 12 percent, compared with $28.854 billion in 2024. The increase was primarily due to higher sales volume of $2.401 billion and favorable price realization of $592 million."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-052",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Power & Energy\u2019s total sales were $32.201 billion in 2025, an increase of $3.347 billion, or 12 percent, compared with $28.854 billion in 2024. The increase was primarily due to higher sales volume of $2.401 billion and ",
+    "text": "\u2022 Oil and Gas \u2013 Sales increased in turbines and turbine-related services. The increase was partially offset by lower sales of reciprocating engines, primarily engines used in gas compression applications."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-053",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "\u2022 Oil and Gas \u2013 Sales increased in turbines and turbine-related services. The increase was partially offset by lower sales of reciprocating engines, primarily engines used in gas compression applications.",
+    "text": "\u2022 Power Generation \u2013 Sales increased in large reciprocating engines, primarily data center applications. Turbines and turbine-related services increased as well."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-054",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "\u2022 Power Generation \u2013 Sales increased in large reciprocating engines, primarily data center applications. Turbines and turbine-related services increased as well.",
+    "text": "\u2022 Industrial \u2013 Sales increased in EAME, partially offset by decreased sales in North America, Latin America and Asia/Pacific."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-055",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "\u2022 Industrial \u2013 Sales increased in EAME, partially offset by decreased sales in North America, Latin America and Asia/Pacific.",
+    "text": "\u2022 Transportation \u2013 Sales decreased in marine, partially offset by increased sales in rail services."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-056",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "\u2022 Transportation \u2013 Sales decreased in marine, partially offset by increased sales in rail services.",
+    "text": "Power & Energy\u2019s profit was $6.418 billion in 2025, an increase of $682 million, or 12 percent, compared with $5.736 billion in 2024. The increase was mainly due to the profit impact of higher sales volume of $972 million and favorable price realization of $592 million, partially offset by unfavorable manufacturing costs of $919 million. Unfavorable manufacturing costs primarily reflected the impact of higher tariffs."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-057",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Power & Energy\u2019s profit was $6.418 billion in 2025, an increase of $682 million, or 12 percent, compared with $5.736 billion in 2024. The increase was mainly due to the profit impact of higher sales volume of $972 millio",
+    "text": "Power & Energy\u2019s profit as a percent of total sales was 19.9 percent in 2025 and 2024."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-058",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Power & Energy\u2019s profit as a percent of total sales was 19.9 percent in 2025 and 2024.",
+    "text": "Financial Products\u2019 segment revenues were $4.220 billion in 2025, an increase of $167 million, or 4 percent, compared with $4.053 billion in 2024. The increase was primarily due to a favorable impact from higher average earning assets of $222 million driven by North America, partially offset by an unfavorable impact from lower average financing rates of $68 million across all regions except Latin America."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-059",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Expense for corporate items and eliminations was $2.291 billion in 2025, an increase of $580 million from 2024, primarily driven by increased expenses due to timing differences, higher corporate costs and unfavorable res",
+    "text": "For discussions related to the consolidated sales and revenue and consolidated operating profit between 2024 and 2023, refer to Part II, Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations of the Company's Annual Report on Form 10-K for the fiscal year ended December 31, 2024, which was filed with the United States Securities and Exchange Commission on February 14, 2025 and hereby incorporated by reference."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-060",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Additional information related to restructuring costs is included in Note 24 \u2014 \"Restructuring income/costs\" of Part II, Item 8 \"Financial Statements and Supplemental Data.\"",
+    "text": "1. Adjusted Operating Profit Margin \u2013 Operating profit excluding restructuring income/costs as a percent of sales and revenues."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-061",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "4. Consolidating Adjustments \u2013 Elimination of transactions between Machinery, Power & Energy and Financial Products.",
+    "text": "5. Construction Industries \u2013 A segment primarily responsible for supporting customers using machinery in infrastructure and building construction applications. Responsibilities include business strategy, product design, product management and development, manufacturing, marketing and sales and product support. The product portfolio includes asphalt pavers; backhoe loaders; cold planers; compactors; compact track loaders; forestry machines; material handlers; motor graders; pipelayers; road reclaimers; skid steer loaders; telehandlers; track-type loaders; track-type tractors (small, medium); track excavators (mini, small, medium, large); wheel excavators; wheel loaders (compact, small, medium); and related parts and work tools."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-062",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "6. Corporate Items and Eliminations \u2013 Includes corporate-level expenses, timing differences (as some expenses are reported in segment profit on a cash basis), methodology differences between segment and consolidated exte",
+    "text": "7. Currency \u2013 With respect to sales and revenues, currency represents the translation impact on sales resulting from changes in foreign currency exchange rates versus the U.S. dollar. With respect to operating profit, currency represents the net translation impact on sales and operating costs resulting from changes in foreign currency exchange rates versus the U.S. dollar. Currency only includes the impact on sales and operating profit for the Machinery, Power & Energy line of business; currency impacts on Financial Products revenues and operating profit are included in the Financial Products portions of the respective analyses. With respect to other income/expense, currency represents the effects of forward and option contracts entered into by the company to reduce the risk of fluctuations in exchange rates (hedging) and the net effect of changes in foreign currency exchange rates on our foreign currency assets and liabilities for consolidated results (translation)."
+  },
+  {
+    "chunk_id": "T-CAT-INVENTORY-007",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "7. Currency \u2013 With respect to sales and revenues, currency represents the translation impact on sales resulting from changes in foreign currency exchange rates versus the U.S. dollar. With respect to operating profit, cu",
+    "text": "8. Dealer Inventories \u2013 Represents dealer machine and engine inventories, excluding aftermarket parts."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-063",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "9. EAME \u2013 A geographic region including Europe, Africa, the Middle East and Eurasia.",
+    "text": "10. Earning Assets \u2013 Assets consisting primarily of total finance receivables net of unearned income, plus equipment on operating leases net of accumulated depreciation at Cat Financial."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-013",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "12. Financial Products Segment \u2013 Provides financing alternatives to customers and dealers around the world for Caterpillar products and services, as well as financing for power generation facilities that incorporate Cate",
+    "text": "and services that help customers and dealers manage their business risk. Insurance and risk management products offered include physical damage insurance, inventory protection plans, extended service coverage and maintenance plans for machines and engines, and dealer property and casualty insurance. The various forms of financing, insurance and risk management products offered to customers and dealers help support the purchase and lease of Caterpillar equipment. The segment also earns revenues from Machinery, Power & Energy, but the related costs are not allocated to operating segments. Financial Products\u2019 segment profit is determined on a pretax basis and includes other income/expense items."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-064",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "18. Pension and Other Postemployment Benefits (OPEB) \u2013 The company\u2019s defined-benefit pension and postretirement benefit plans.",
+    "text": "19. Power & Energy \u2013 A segment primarily responsible for supporting customers using reciprocating engines, turbines, diesel-electric locomotives and related services across industries serving Oil and Gas, Power Generation, Industrial and Transportation applications, including marine- and rail-related businesses as well as product support of on-highway engines. Responsibilities include business strategy, product design, product management, development and testing, manufacturing, marketing and sales and product support. The product and services portfolio includes turbines, centrifugal gas compressors, and turbine-related services; reciprocating engine-powered generator sets; integrated systems and solutions used in the electric power generation industry; reciprocating engines, drivetrain and integrated systems and solutions for the marine and oil and gas industries; reciprocating engines, drivetrain and integrated systems and solutions supplied to the industrial industry as well as Caterpillar machines; electrified powertrain and zero-emission power sources and service solutions development; and diesel-electric and hybrid locomotives and components and other rail-related products and services, including remanufacturing and leasing. Responsibilities also include the remanufacturing of Caterpillar reciprocating engines and components and remanufacturing services for other companies."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-065",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "19. Power & Energy \u2013 A segment primarily responsible for supporting customers using reciprocating engines, turbines, diesel-electric locomotives and related services across industries serving Oil and Gas, Power Generatio",
+    "text": "20. Price Realization \u2013 The impact of net price changes excluding currency and new product introductions. Price realization includes geographic mix of sales, which is the impact of changes in the relative weighting of sales prices between geographic regions."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-066",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "20. Price Realization \u2013 The impact of net price changes excluding currency and new product introductions. Price realization includes geographic mix of sales, which is the impact of changes in the relative weighting of sa",
+    "text": "21. Resource Industries \u2013 A segment primarily responsible for supporting customers using machinery in mining, heavy construction and quarry and aggregates. Responsibilities include business strategy, product design, product management and development, manufacturing, marketing and sales and product support. The product portfolio includes large track-type tractors; large mining trucks; hard rock vehicles; electric rope shovels; draglines; hydraulic shovels; rotary drills; large wheel loaders; off-highway trucks; articulated trucks; wheel tractor scrapers; wheel dozers; landfill compactors; soil compactors; wide-body trucks; select work tools; machinery components; wear and maintenance components and related parts. In addition to equipment, Resource Industries also sells technology products and services to provide customers fleet management, equipment management analytics, autonomous machine capabilities, safety services and mining performance solutions. Resource Industries also manages areas that provide services to other parts of the company, including strategic procurement, lean center of excellence, integrated component design and manufacturing and research and development for hydraulic systems and cabs."
+  },
+  {
+    "chunk_id": "T-CAT-INVENTORY-008",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "22. Restructuring income/costs \u2013 May include costs for employee separation, long-lived asset impairments, contract terminations and (gains)/losses on divestitures. These costs are included in Other operating (income) exp",
+    "text": "Restructuring costs also include other exit-related costs, which may consist of accelerated depreciation, inventory write-downs, building demolition, equipment relocation and project management costs and LIFO inventory decrement benefits from inventory liquidations at closed facilities, all of which are primarily included in Cost of goods sold."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-067",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Restructuring costs also include other exit-related costs, which may consist of accelerated depreciation, inventory write-downs, building demolition, equipment relocation and project management costs and LIFO inventory d",
+    "text": "23. Sales Volume \u2013 With respect to sales and revenues, sales volume represents the impact of changes in the quantities sold for Machinery, Power & Energy as well as the incremental sales impact of new product introductions, including emissions-related product updates. With respect to operating profit, sales volume represents the impact of changes in the quantities sold for Machinery, Power & Energy combined with product mix as well as the net operating profit impact of new product introductions, including emissions-related product updates. Product mix represents the net operating profit impact of changes in the relative weighting of Machinery, Power & Energy sales with respect to total sales. The impact of sales volume on segment profit includes inter-segment sales."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-068",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "23. Sales Volume \u2013 With respect to sales and revenues, sales volume represents the impact of changes in the quantities sold for Machinery, Power & Energy as well as the incremental sales impact of new product introductio",
+    "text": "24. Services \u2013 Machinery, Power & Energy services revenues include, but are not limited to, aftermarket parts and other service-related revenues and exclude most Financial Products revenues, discontinued products and captive dealer services."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-014",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "We also have long-term contractual obligations primarily for logistics services agreements; systems support, software licenses and development contracts; information technology consulting contracts; outsourcing contracts",
+    "text": "Net cash provided by operating activities was $12.278 billion in 2025, compared with $11.437 billion in 2024. The increase was primarily due to lower working capital requirements and lower cash taxes paid. These were partially offset by lower profit before taxes, adjusted for non-cash items. Within working capital, changes in customer advances, accounts payable, and accrued wages, salaries, and employee benefits favorably impacted cash flow, partially offset by changes in inventories and receivables."
+  },
+  {
+    "chunk_id": "T-CAT-INVENTORY-009",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "For a discussion of recent accounting pronouncements, see Note 1J \u2014 \u201cNew accounting guidance\u201d of Part II, Item 8 \u201cFinancial Statements and Supplementary Data.\u201d",
+    "text": "The preparation of financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect reported amounts. The more significant estimates include: residual values for leased assets, fair values for goodwill impairment tests, warranty liability, reserves for product liability and insurance losses, postretirement benefits, post-sale discounts, credit losses and income taxes. We have incorporated many years of data into the determination of each of these estimates and we have not historically experienced significant adjustments. We review these assumptions at least annually with the Audit Committee of the Board of Directors. Following are the methods and assumptions used in determining our estimates and an indication of the risks inherent in each."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-069",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "The preparation of financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect reported amounts. The more significant estimates inclu",
+    "text": "Residual values for leased assets \u2014 We determine the residual value of Cat Financial\u2019s leased equipment based on its estimated end-of-term market value. We estimate the residual value of leased equipment at the inception of the lease based on a number of factors, including historical wholesale market sales prices, past remarketing experience and any known significant market/product trends. We also consider the following critical factors in our residual value estimates: lease term, market size and demand, total expected hours of usage, machine configuration, application, location, model changes, quantities, third-party residual guarantees and contractual customer purchase options."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-070",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Upon termination of the lease, the equipment is either purchased by the lessee or sold to a third-party, in which case we may record a gain or a loss for the difference between the estimated residual value and the sale p",
+    "text": "During the term of our leases, we monitor residual values. For operating leases, we record adjustments to depreciation expense reflecting changes in residual value estimates prospectively on a straight-line basis. For finance leases, we recognize residual value adjustments through a reduction of finance revenue over the remaining lease term."
+  },
+  {
+    "chunk_id": "T-CAT-INVENTORY-010",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "An unfavorable change in our expectations for the financial performance of our reporting units, particularly long-term growth and profitability, would reduce the fair value of our reporting units. The demand for our equi",
+    "text": "Product warranty liability \u2014 At the time we recognize a sale, we record estimated future warranty costs. We determine the product warranty liability by applying historical claim rate experience to the current field population and dealer inventory. Generally, we base historical claim rates on actual warranty experience for each product by machine model/engine size by customer or dealer location (inside or outside North America). We develop specific rates for each product shipment month and update them monthly based on actual warranty claim experience. Warranty costs may differ from those estimated if actual claim rates are higher or lower than our historical rates."
+  },
+  {
+    "chunk_id": "T-CAT-INVENTORY-011",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Product warranty liability \u2014 At the time we recognize a sale, we record estimated future warranty costs. We determine the product warranty liability by applying historical claim rate experience to the current field popul",
+    "text": "Product liability and insurance loss reserve \u2014 We determine these reserves based upon reported claims in process of settlement and actuarial estimates for losses incurred but not reported. Loss reserves, including incurred but not reported reserves, are based on estimates, and ultimate settlements may vary significantly from such estimates due to increased claims frequency or severity over historical levels. The amount of these reserves totaled $1.6 billion and $1.5 billion at December 31, 2025 and 2024, respectively. The majority of the balance in both 2025 and 2024 consisted of unearned insurance premiums."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-071",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "\u2022 The discount rate is used to discount the future benefit obligations back to today\u2019s dollars. The U.S. discount rate is based on a benefit cash flow-matching approach and represents the rate at which our benefit obliga",
+    "text": "\u2022 The expected rate of return on plan assets is based on our estimate of long-term returns for equities and fixed income securities weighted by the allocation of our plan assets. This rate is impacted by changes in general market conditions, but because it represents a long-term rate, it is not significantly impacted by short-term market swings. Changes in our allocation of plan assets would also impact this rate. For example, a shift to more fixed income securities would lower the rate. The expected return on plan assets is based on asset allocations as of our measurement date, December 31."
+  },
+  {
+    "chunk_id": "T-CAT-INVENTORY-012",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "See Note 12 \u2014 \u201cPostemployment benefit plans\u201d of Part II, Item 8 \u201cFinancial Statement and Supplemental Data\u201d for further information regarding the accounting for postretirement benefits.",
+    "text": "Post-sale discount reserve \u2014 We provide discounts to dealers through merchandising programs. We have numerous programs that are designed to promote the sale of our products. The most common dealer programs provide a discount when the dealer sells a product to a targeted end user. The amount of accrued post-sale discounts was $2.5 billion and $2.2 billion at December 31, 2025 and 2024, respectively. The reserve represents discounts that we expect to pay on previously sold units and is reviewed at least quarterly. We adjust the reserve if discounts paid differ from those estimated. Historically, those adjustments have not been material."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-072",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Post-sale discount reserve \u2014 We provide discounts to dealers through merchandising programs. We have numerous programs that are designed to promote the sale of our products. The most common dealer programs provide a disc",
+    "text": "Allowance for credit losses \u2014 The allowance for credit losses is management\u2019s estimate of expected losses over the life of our finance receivables portfolio calculated using loss forecast models that take into consideration historical credit loss experience, current economic conditions and forecasts and scenarios that capture country and industry-specific economic factors. In addition, we consider qualitative factors not able to be fully captured in our loss forecast models, including borrower-specific and company-specific factors. These qualitative factors are subjective and require a degree of management judgment."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-073",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Allowance for credit losses \u2014 The allowance for credit losses is management\u2019s estimate of expected losses over the life of our finance receivables portfolio calculated using loss forecast models that take into considerat",
+    "text": "We measure the allowance for credit losses on a collective (pool) basis when similar risk characteristics exist and on an individual basis when we determine that similar risk characteristics do not exist. We identify finance receivables for individual evaluation based on past due status and information available about the customer, such as financial statements, news reports and published credit ratings, as well as general information regarding industry trends and the economic environment in which our customers operate. The allowance for credit losses attributable to finance receivables that are individually evaluated is primarily based on the fair value of the collateral for collateral-dependent receivables. In determining collateral value, we estimate the current fair market value of the collateral less selling costs. We also consider credit enhancements such as additional collateral and contractual third-party guarantees."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-074",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Despite our belief that our tax return positions are consistent with applicable tax laws, we believe that taxing authorities could challenge certain positions. Settlement of any challenge can result in no change, a compl",
+    "text": "Deferred tax assets generally represent tax benefits for tax deductions or credits available in future tax returns. Certain estimates and assumptions are required to determine whether it is more likely than not that all or some portion of the benefit of a deferred tax asset will not be realized. In making this assessment, management analyzes the trend of U.S. GAAP earnings and estimates the impact of future taxable income, reversing temporary differences and available prudent and feasible tax planning strategies. We give less weight in this analysis to mark-to-market adjustments to remeasure our pension and OPEB plans as we do not consider these adjustments indicative of ongoing earnings trends. Should a change in facts or circumstances lead to a change in judgment about the ultimate realizability of a deferred tax asset, we record or adjust the related valuation allowance in the period that the change in facts and circumstances occurs, along with a corresponding increase or decrease in the provision for income taxes."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-075",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "For our MP&E operations, we have the option to use interest rate contracts to lower the cost of borrowed funds by attaching fixed-to-floating interest rate contracts to fixed-rate debt, and by entering into forward rate ",
+    "text": "For our Financial Products operations, we use interest rate derivative instruments primarily to meet our match-funding objectives and strategies. We have a match-funding policy that addresses the interest rate risk by aligning the interest rate profile (fixed or floating rate and duration) of our debt portfolio with the interest rate profile of our finance receivable portfolio within a predetermined range on an ongoing basis. In connection with that policy, we use interest rate derivative instruments to modify the debt structure to match assets within the finance receivable portfolio. Match funding reduces the volatility of margins between interest-bearing assets and interest-bearing liabilities, regardless of which direction interest rates move."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-076",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "(Millions of dollars) 2025 2024 2023 2025 2024 2023 2025 2024 2023 2025 2024 2023",
+    "text": "Sales of Machinery, Power & Energy $ 63,980 $ 61,363 $ 63,869 $ 63,980 $ 61,363 $ 63,869 $ \u2014 $ \u2014 $ \u2014 $ \u2014 $ \u2014 $ \u2014"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-077",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Sales of Machinery, Power & Energy $ 63,980 $ 61,363 $ 63,869 $ 63,980 $ 61,363 $ 63,869 $ \u2014 $ \u2014 $ \u2014 $ \u2014 $ \u2014 $ \u2014",
+    "text": "Revenues of Financial Products 3,609 3,446 3,191 \u2014 \u2014 \u2014 4,382 4,212 3,927 (773) 1 (766) 1 (736) 1"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-078",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Revenues of Financial Products 3,609 3,446 3,191 \u2014 \u2014 \u2014 4,382 4,212 3,927 (773) 1 (766) 1 (736) 1",
+    "text": "Total sales and revenues 67,589 64,809 67,060 63,980 61,363 63,869 4,382 4,212 3,927 (773) (766) (736)"
+  },
+  {
+    "chunk_id": "T-CAT-INVENTORY-013",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Total sales and revenues 67,589 64,809 67,060 63,980 61,363 63,869 4,382 4,212 3,927 (773) (766) (736)",
+    "text": "Cost of goods sold 44,752 40,199 42,767 44,761 40,206 42,776 \u2014 \u2014 \u2014 (9) 2 (7) 2 (9) 2"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-079",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "$ 8,884 $ 10,792 $ 10,335 $ 8,640 $ 10,694 $ 9,999 $ 733 $ 723 $ 681 $ (489) $ (625) $ (345)",
+    "text": "4 Elimination of discount recorded by MP&E on receivables sold to Financial Products and of interest earned between MP&E and Financial Products as well as dividends paid by Financial Products to MP&E."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-080",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Prepaid expenses and other current assets 2,801 3,119 2,448 2,872 441 401 (88) 3 (154) 3",
+    "text": "Long-term receivables - finance 14,272 13,242 \u2014 \u2014 15,538 14,048 (1,266) 2 (806) 2"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-081",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Long-term receivables - finance 14,272 13,242 \u2014 \u2014 15,538 14,048 (1,266) 2 (806) 2",
+    "text": "Noncurrent deferred and refundable income taxes 2,882 3,312 3,208 3,594 133 118 (459) 5 (400) 5"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-015",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Total liabilities and shareholders\u2019 equity $ 98,585 $ 87,764 $ 60,061 $ 52,642 $ 41,661 $ 37,129 $ (3,137) $ (2,007)",
+    "text": "2 Reclassification of MP&E\u2019s trade receivables purchased by Financial Products and Financial Products\u2019 wholesale inventory receivables."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-082",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Proceeds from disposals of leased assets and property, plant and equipment 708 722 79 35 665 698 (36) 2",
+    "text": "Additions to finance receivables (15,329) (15,409) \u2014 \u2014 (18,058) (16,845) 2,729 3"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-083",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Additions to finance receivables (15,329) (15,409) \u2014 \u2014 (18,058) (16,845) 2,729 3",
+    "text": "Additions to intercompany receivables (original maturities greater than three months) \u2014 \u2014 (1,000) \u2014 \u2014 \u2014 1,000 4"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-084",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Additions to intercompany receivables (original maturities greater than three months) \u2014 \u2014 (1,000) \u2014 \u2014 \u2014 1,000 4",
+    "text": "Collections of intercompany receivables (original maturities greater than three months) \u2014 \u2014 \u2014 \u2014 80 \u2014 (80) 4"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-016",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "2 Elimination of non-cash adjustments and changes in assets and liabilities related to consolidated reporting.",
+    "text": "3 Reclassification of Financial Products\u2019 cash flow activity from investing to operating for receivables that arose from the sale of inventory."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-085",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "3 Reclassification of Financial Products\u2019 cash flow activity from investing to operating for receivables that arose from the sale of inventory.",
+    "text": "Information required by Item 7A appears in Note 1 \u2014 \u201cOperations and summary of significant accounting policies,\u201d Note 2 \u2014 \"Sales and revenue recognition,\" Note 4 \u2014 \u201cDerivative financial instruments and risk management,\u201d Note 7 \u2014 \"Cat Financial financing activities,\" Note 11 \u2014 \"Investments in debt and equity securities,\" and Note 18 \u2014 \u201cFair value disclosures\u201d of Part II, Item 8 \u201cFinancial Statements and Supplementary Data.\u201d Other information required by Item 7A is included in Part II, Item 7 \u201cManagement\u2019s Discussion and Analysis of Financial Condition and Results of Operations.\u201d"
+  },
+  {
+    "chunk_id": "T-CAT-INVENTORY-014",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that was communicated or required to be communicated to the audit committee and that",
+    "text": "As described in Notes 2 and 21 to the consolidated financial statements, the Company\u2019s product warranty liability as of December 31, 2025 was $1,626 million. At the time the Company recognizes a sale, management records estimated future warranty costs. Management determines the product warranty liability by applying historical claim rate experience to the current field population and dealer inventory. Generally, management bases historical claim rates on actual warranty experience for each product by machine model/engine size by customer or dealer location (inside or outside North America). Management develops specific rates for each product shipment month and updates them monthly based on actual warranty claim experience."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-017",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Comprehensive income (loss) attributable to shareholders $ 9,583 $ 10,141 $ 10,972",
+    "text": "STATEMENT 3 Caterpillar Inc. Consolidated Financial Position at December 31, (Dollars in millions) 2025 2024 Assets Current assets: Cash and cash equivalents $ 9,980 $ 6,889 Receivables \u2013 trade and other 10,920 9,282 Receivables \u2013 finance 10,649 9,565 Prepaid expenses and other current assets 2,801 3,119 Inventories 18,135 16,827 Total current assets 52,485 45,682 Property, plant and equipment \u2013 net 15,140 13,361 Long-term receivables \u2013 trade and other 2,142 1,225 Long-term receivables \u2013 finance 14,272 13,242 Noncurrent deferred and refundable income taxes 2,882 3,312 Intangible assets 241 399 Goodwill 5,321 5,241 Other assets 6,102 5,302 Total assets $ 98,585 $ 87,764 Liabilities Current liabilities: Short-term borrowings: Financial Products $ 5,514 $ 4,393 Accounts payable 8,968 7,675 Accrued expenses 5,587 5,243 Accrued wages, salaries and employee benefits 2,554 2,391 Customer advances 3,314 2,322 Dividends payable 703 674 Other current liabilities 2,798 2,909 Long-term debt due within one year: Machinery, Power & Energy 35 46 Financial Products 7,085 6,619 Total current liabilities 36,558 32,272 Long-term debt due after one year: Machinery, Power & Energy 10,678 8,564 Financial Products 20,018 18,787 Liability for postemployment benefits 3,838 3,757 Other liabilities 6,175 4,890 Total liabilities 77,267 68,270 Commitments and contingencies (Notes 21 and 22) Shareholders\u2019 equity Common stock of $ 1.00 par value:"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-086",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "We conduct operations in our MP&E line of business under highly competitive conditions, including intense price competition. We place great emphasis on the high quality and performance of our products and our dealers\u2019 se",
+    "text": "We distribute our machines principally through a worldwide organization of dealers (dealer network), 41 located in the United States and 109 located outside the United States, serving 190 countries. We sell reciprocating engines principally through the dealer network and to other manufacturers for use in products. We also sell some of the reciprocating engines manufactured by our subsidiary Perkins Engines Company Limited through its worldwide network of 86 distributors covering 183 countries. We sell the FG Wilson branded electric power generation systems through its worldwide network of 108 distributors covering 159 countries. Our dealers do not deal exclusively with our products; however, in most cases sales and servicing of our products are the dealers\u2019 principal business. We sell some products, primarily turbines and locomotives, to end customers through sales forces employed by the company. At times, these employees are assisted by independent sales representatives."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-087",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "We distribute our machines principally through a worldwide organization of dealers (dealer network), 41 located in the United States and 109 located outside the United States, serving 190 countries. We sell reciprocating",
+    "text": "The Financial Products line of business also conducts operations under highly competitive conditions. Financing for users of Caterpillar products is available through a variety of competitive sources, principally commercial banks and finance and leasing companies. We offer various financing, insurance and risk management products designed to support sales of our products and generate financing income for our company. We conduct a significant portion of Financial Products activity in North America, with additional offices in Latin America, Asia/Pacific, Europe and Africa."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-088",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "We consolidate all variable interest entities (VIEs) where Caterpillar Inc. is the primary beneficiary. The primary beneficiary of a VIE is the party that has both the power to direct the activities that most significant",
+    "text": "Cat Financial has end-user customers and dealers that are VIEs of which we are not the primary beneficiary. Our maximum exposure to loss from our involvement with these VIEs is limited to the credit risk inherently present in the financial support that we have provided. Credit risk was evaluated and reflected in our financial statements as part of our overall portfolio of finance receivables and related allowance for credit losses."
+  },
+  {
+    "chunk_id": "T-CAT-INVENTORY-015",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Cat Financial has end-user customers and dealers that are VIEs of which we are not the primary beneficiary. Our maximum exposure to loss from our involvement with these VIEs is limited to the credit risk inherently prese",
+    "text": "We include shipping and handling costs in Cost of goods sold in Statement 1. Other operating (income) expenses primarily include Cat Financial\u2019s depreciation on equipment leased to others, Insurance Services\u2019 underwriting expenses, employee separation charges, long-lived asset impairment charges, (gains) losses on divestitures and (gains) losses on disposal of long-lived assets."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-089",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "We include shipping and handling costs in Cost of goods sold in Statement 1. Other operating (income) expenses primarily include Cat Financial\u2019s depreciation on equipment leased to others, Insurance Services\u2019 underwritin",
+    "text": "Prepaid expenses and other current assets in Statement 3 primarily include investments in debt and equity securities, prepaid and refundable income taxes, right of return assets, contract assets, prepaid insurance, assets held for sale, core to be returned for remanufacturing, and restricted cash and other short-term investments."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-090",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Prepaid expenses and other current assets in Statement 3 primarily include investments in debt and equity securities, prepaid and refundable income taxes, right of return assets, contract assets, prepaid insurance, asset",
+    "text": "Long-term receivables - trade and other in Statement 3 includes $ 377 million at December 31, 2025, for recoveries from over-payments made during the importation process. At December 31, 2024, the amount was inconsequential."
+  },
+  {
+    "chunk_id": "T-CAT-INVENTORY-016",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Certain amounts for prior years have been reclassified to conform with the current-year financial statement presentation.",
+    "text": "We state inventories at the lower of cost or net realizable value. We principally determine cost using the last-in, first-out (LIFO) method. The value of inventories on the LIFO basis represented about 70 percent and 65 percent of total inventories at December 31, 2025 and 2024, respectively."
+  },
+  {
+    "chunk_id": "T-CAT-INVENTORY-017",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "We state inventories at the lower of cost or net realizable value. We principally determine cost using the last-in, first-out (LIFO) method. The value of inventories on the LIFO basis represented about 70 percent and 65 ",
+    "text": "If the FIFO (first-in, first-out) method had been in use, inventories would have been $ 4,305 million and $ 3,864 million higher than reported at December 31, 2025 and 2024, respectively."
+  },
+  {
+    "chunk_id": "T-CAT-INVENTORY-018",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "We perform our annual goodwill impairment test as of October 1 and monitor for interim triggering events on an ongoing basis. We review goodwill for impairment utilizing either a qualitative assessment or a quantitative ",
+    "text": "The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect reported amounts. The more significant estimates include: residual values for leased assets, fair values for goodwill impairment tests, warranty liability and reserves for product liability and insurance losses, postretirement benefits, post-sale discounts, credit losses and income taxes."
+  },
+  {
+    "chunk_id": "T-CAT-INVENTORY-019",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "All other ASUs effective January 1, 2025, were assessed and determined that they either were not applicable or did not have a material impact on our financial statements.",
+    "text": "Disaggregation of income statement expenses (ASU 2024-03) \u2014 In November 2024, the FASB issued accounting guidance to enhance transparency into the nature and function of income statement expenses. The amendments require that, on an annual and interim basis, entities disclose disaggregated operating expense information about specific categories, including purchases of inventory, employee compensation, depreciation and amortization. The expanded annual disclosures are effective for our year ending December 31, 2027, and the expanded interim disclosures are effective in 2028, with early adoption permitted. We are in the process of evaluating the effect of this new guidance on the related disclosures."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-091",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "All other ASUs issued but not yet adopted were assessed and determined that they either were not applicable or were not expected to have a material impact on our financial statements.",
+    "text": "We recognize sales of MP&E when all the following criteria are satisfied: (i) a contract with an independently owned and operated dealer or an end user exists which has commercial substance; (ii) it is probable we will collect the amount charged to the dealer or end user; and (iii) we have completed our performance obligation whereby the dealer or end user has obtained control of the product. A contract with commercial substance exists once we receive and accept a purchase order under a dealer sales agreement, or once we enter into a contract with an end user. If collectibility is not probable, the sale is deferred and not recognized until collection is probable or payment is received. Control of our products typically transfers when title and risk of ownership of the product has transferred to the dealer or end user. Typically, where product is produced and sold in the same country, title and risk of ownership transfer when we ship the product. Products that are exported from a country for sale typically transfer title and risk of ownership at the border of the destination country."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-018",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "We recognize sales of MP&E when all the following criteria are satisfied: (i) a contract with an independently owned and operated dealer or an end user exists which has commercial substance; (ii) it is probable we will c",
+    "text": "Our remanufacturing operations are primarily focused on the remanufacture of Cat engines and components and rail related products. In this business, we inspect, clean and remanufacture used engines and related components (core). In connection with the sale of our remanufactured product to dealers, we collect a deposit that is repaid if the dealer returns an acceptable core within a specified time period. Caterpillar owns and has title to the cores when they are returned from dealers. The rebuilt engine or component (the core plus any new content) is then sold as a remanufactured product to dealers and end users. We recognize revenue pursuant to the same transfer of control criteria as MP&E sales noted above. At the time of sale, we recognize the deposit in Other current liabilities in Statement 3, and we recognize the core to be returned as an asset in Prepaid expenses and other current assets in Statement 3 at the estimated replacement cost (based on historical experience with usable cores). Upon receipt of an acceptable core, we repay the deposit and relieve the liability. We then transfer the returned core asset into inventory. In the event that the deposit is forfeited (i.e., upon failure by the dealer to return an acceptable core in the specified time period), we recognize the core deposit and the cost of the core in Sales and Cost of goods sold, respectively."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-019",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Our remanufacturing operations are primarily focused on the remanufacture of Cat engines and components and rail related products. In this business, we inspect, clean and remanufacture used engines and related components",
+    "text": "We provide discounts to dealers through merchandising programs. We have numerous programs that are designed to promote the sale of our products. The most common dealer programs provide a discount when the dealer sells a product to a targeted end user. Generally, we estimate the cost of these discounts for each product by model by geographic region based on historical experience and known changes in merchandising programs. We report the cost of these discounts as a reduction to the transaction price when we recognize the product sale. We accrue a corresponding post-sale discount reserve in Statement 3, which represents discounts we expect to pay on units sold. If discounts paid differ from those estimated, we report the difference as a change in the transaction price in the subsequent period when the final discount is paid. As a result of differences between actual and estimated payments and changes in estimates, we recognized a decrease in revenue of $ 497 million during 2025, related to prior period sales. Products sold to dealers in a prior period that remained in dealer inventory during 2025 were subject to merchandising program actions taken in 2025 which resulted in higher discounts paid in the current year. The change in revenue during 2024 related to prior periods sales was inconsequential."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-020",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "We provide discounts to dealers through merchandising programs. We have numerous programs that are designed to promote the sale of our products. The most common dealer programs provide a discount when the dealer sells a ",
+    "text": "Except for replacement parts, no right of return exists on the sale of our products. We estimate replacement part returns based on historical experience and recognize a parts return asset in Prepaid expenses and other current assets in Statement 3, which represents our right to recover replacement parts we expect will be returned. We also recognize a refund liability in Accrued expenses in Statement 3 for the refund we expect to pay for returned parts. If actual replacement part returns differ from those estimated, we recognize the difference in the estimated replacement part return asset and refund liability in Cost of goods sold and Sales, respectively."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-021",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Except for replacement parts, no right of return exists on the sale of our products. We estimate replacement part returns based on historical experience and recognize a parts return asset in Prepaid expenses and other cu",
+    "text": "Trade receivables represent amounts due from dealers and end users for the sale of our products, and include amounts due from wholesale inventory financing provided by Cat Financial for a dealer's purchase of inventory. See Note 7 for further information. We recognize trade receivables from dealers and end users in Receivables \u2013 trade and other and Long-term receivables \u2013 trade and other in Statement 3. Trade receivables from dealers and end users were $ 9,402 million, $ 7,864 million and $ 7,923 million as of December 31, 2025, 2024 and 2023, respectively. Long-term trade receivables from dealers and end users were $ 1,006 million, $ 640 million and $ 589 million as of December 31, 2025, 2024 and 2023, respectively."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-092",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Trade receivables represent amounts due from dealers and end users for the sale of our products, and include amounts due from wholesale inventory financing provided by Cat Financial for a dealer's purchase of inventory. ",
+    "text": "Our standard dealer invoice terms are established by marketing region. Our invoice terms for end user sales are established by the responsible business unit. Payments from dealers are due shortly after the time of sale. When we make a sale to a dealer, the dealer is responsible for payment even if the product is not sold to an end user. Dealers and end users must make payment within the established invoice terms to avoid potential interest costs. Interest at or above prevailing market rates may be charged on any past due balance, and generally our practice is to not forgive this interest. Regular credit evaluations of our dealers and end users are performed. Collateral generally is not required, and the majority of our trade receivables are unsecured. Various devices, such as security agreements and letters of credit, are used to protect our interests, when deemed necessary. No single dealer or end user represents a significant concentration of credit risk. Our allowance for credit losses is not significant for MP&E receivables."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-093",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Our standard dealer invoice terms are established by marketing region. Our invoice terms for end user sales are established by the responsible business unit. Payments from dealers are due shortly after the time of sale. ",
+    "text": "For certain contracts, we invoice for payment when contractual milestones are achieved. We recognize a contract asset when a sale is recognized before achieving the contractual milestone for invoicing. We reduce the contract asset when we invoice for payment and recognize a corresponding trade receivable. Contract assets are included in Prepaid expenses and other current assets in Statement 3. Contract assets were $ 297 million, $ 238 million and $ 246 million as of December 31, 2025, 2024 and 2023, respectively."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-094",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "For certain contracts, we invoice for payment when contractual milestones are achieved. We recognize a contract asset when a sale is recognized before achieving the contractual milestone for invoicing. We reduce the cont",
+    "text": "We invoice in advance of recognizing the sale of certain products. We recognize advanced customer payments as a contract liability in Customer advances and Other liabilities in Statement 3. Contract liabilities were $ 4,678 million, $ 2,745 million and $ 2,389 million as of December 31, 2025, 2024 and 2023, respectively. We reduce the contract liability when we recognize revenue. During 2025, we recognized $ 1,894 million of revenue that was recorded as a contract liability at the beginning of 2025. During 2024, we recognized $ 1,591 million of revenue that was recorded as a contract liability at the beginning of 2024."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-095",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "We invoice in advance of recognizing the sale of certain products. We recognize advanced customer payments as a contract liability in Customer advances and Other liabilities in Statement 3. Contract liabilities were $ 4,",
+    "text": "We have elected the practical expedient to not adjust the amount of revenue to be recognized under a contract with a dealer or end user for the effects of time value of money when the timing difference between receipt of payment and recognition of revenue is less than one year."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-096",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "We have elected the practical expedient to not adjust the amount of revenue to be recognized under a contract with a dealer or end user for the effects of time value of money when the timing difference between receipt of",
+    "text": "As of December 31, 2025, we have entered into contracts with dealers and end users for which sales have not been recognized as we have not satisfied our performance obligations and transferred control of the products. The dollar amount of unsatisfied performance obligations for contracts with an original duration greater than one year is $ 30.1 billion, with about one-third of the amount expected to be completed and revenue recognized in the twelve months following December 31, 2025. We have elected the practical expedient to not disclose unsatisfied performance obligations with an original contract duration of one year or less. Contracts with an original duration of one year or less are primarily sales to dealers for machinery, engines and replacement parts."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-022",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "As of December 31, 2025, we have entered into contracts with dealers and end users for which sales have not been recognized as we have not satisfied our performance obligations and transferred control of the products. Th",
+    "text": "We exclude sales and other related taxes from the transaction price. We account for shipping and handling costs associated with outbound freight after control over a product has transferred as a fulfillment cost which is included in Cost of goods sold."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-097",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "We provide a standard manufacturer\u2019s warranty of our products at no additional cost. At the time we recognize a sale, we record estimated future warranty costs. See Note 21 for further discussion of our product warranty ",
+    "text": "Revenues of Financial Products are generated primarily from finance revenue on finance receivables and rental payments on operating leases. We record finance revenue over the life of the related finance receivables using the interest method, including the accretion of certain direct origination costs that are deferred. Operating lease revenue is recorded on a straight-line basis over the term of the lease."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-098",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Revenues of Financial Products are generated primarily from finance revenue on finance receivables and rental payments on operating leases. We record finance revenue over the life of the related finance receivables using",
+    "text": "We suspend recognition of finance revenue and operating lease revenue and place an account on non-accrual status when management determines that collection of future income is not probable (generally after 120 days past due). We resume recognition of revenue, and recognize previously suspended income, when we consider collection of remaining amounts to be probable. Payments received while a finance receivable is on non-accrual status are applied to interest and principal in accordance with the contractual terms. We write off interest earned but uncollected prior to the receivables being placed on non-accrual status through Provision for credit losses when, in the judgment of management, we consider it to be uncollectible. See Note 7 for more information."
+  },
+  {
+    "chunk_id": "T-CAT-INVENTORY-020",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Weighted-average fair value per share of stock awards granted $ 345.60 $ 408.64 $ 251.97",
+    "text": "In accordance with guidance on share-based payments, stock-based compensation expense is based on the grant date fair value and is classified within Cost of goods sold, Selling, general and administrative expenses and Research and development expenses corresponding to the same line item as the cash compensation paid to respective employees, officers and non-employee directors. We recognize stock-based compensation expense on a straight-line basis over the requisite service period for awards with terms that specify cliff or graded vesting and contain only service conditions. Stock-based compensation expense for PRSUs is based on the probable number of shares expected to vest and is recognized primarily on a straight-line basis."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-099",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "We also formally assess, both at the hedge\u2019s inception and on an ongoing basis, whether the designated derivatives that are used in hedging transactions are highly effective in offsetting changes in fair values or cash f",
+    "text": "Foreign currency exchange rate movements create a degree of risk by affecting the U.S. dollar value of sales made and costs incurred in foreign currencies. Movements in foreign currency rates also affect our competitive position as these changes may affect business practices and/or pricing strategies of non-U.S.-based competitors. Additionally, we have balance sheet positions denominated in foreign currencies, thereby creating exposure to movements in exchange rates."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-100",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Foreign currency exchange rate movements create a degree of risk by affecting the U.S. dollar value of sales made and costs incurred in foreign currencies. Movements in foreign currency rates also affect our competitive ",
+    "text": "Our MP&E operations purchase, manufacture and sell products in many locations around the world. As we have a diversified revenue and cost base, we manage our future foreign currency cash flow exposure on a net basis. We use foreign currency forward and option contracts to manage unmatched foreign currency cash inflow and outflow. Our objective is to minimize the risk of exchange rate movements that would reduce the U.S. dollar value of our foreign currency cash flow. Our policy allows for managing anticipated foreign currency cash flow for up to approximately five years . As of December 31, 2025, the maximum term of these outstanding contracts at inception was approximately 60 months."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-101",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Our MP&E operations generally use fixed-rate debt as a source of funding. Our objective is to minimize the cost of borrowed funds. Our policy allows us to enter into fixed-to-floating interest rate contracts and forward ",
+    "text": "Financial Products operations has a match-funding policy that addresses interest rate risk by aligning the interest rate profile (fixed or floating rate and duration) of Cat Financial\u2019s debt portfolio with the interest rate profile of our receivables portfolio within predetermined ranges on an ongoing basis. In connection with that policy, we use interest rate derivative instruments to modify the debt structure to match assets within the receivables portfolio. This matched funding reduces the volatility of margins between interest-bearing assets and interest-bearing liabilities, regardless of which direction interest rates move."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-102",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "The location and fair value of derivative instruments reported in Statement 3 were as follows:",
+    "text": "Designated derivatives Foreign exchange contracts $ 364 $ ( 147 ) $ 357 $ ( 275 ) Interest rate contracts 59 ( 99 ) 10 ( 201 ) Total $ 423 $ ( 246 ) $ 367 $ ( 476 ) Undesignated derivatives Foreign exchange contracts $ 62 $ ( 75 ) $ 91 $ ( 56 ) Commodity contracts 10 ( 2 ) 4 ( 6 ) Total return swap contracts 1 ( 2 ) \u2014 ( 33 ) Total $ 73 $ ( 79 ) $ 95 $ ( 95 ) 1 Assets are classified as Receivables - trade and other or Long-term receivables - trade and other."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-103",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "In accordance with the guidance in ASU 2023-09, net income tax and related interest paid in 2025 to the following jurisdictions were:",
+    "text": "Income tax and related interest paid (net of refunds received) to: December 31, (Millions of dollars) 2025 U.S. Federal $ 605 U.S. State and local 138 Non-U.S. 1"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-104",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Accounting for income taxes under U.S. GAAP requires that individual tax-paying entities of the company offset all deferred tax liabilities and assets within each particular tax jurisdiction and present them as a noncurr",
+    "text": "(Millions of dollars) 2025 2024 Assets: Noncurrent deferred and refundable income taxes $ 2,757 $ 3,191 Liabilities: Other liabilities 494 432 Deferred income taxes\u2014net $ 2,263 $ 2,759"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-105",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "We classify interest and penalties on income taxes as a component of the provision for income taxes. We recognized a net provision for interest and penalties of $ 67 million, $ 35 million and $ 36 million during the year",
+    "text": "We are subject to the continuous examination of our U.S. federal income tax returns by the Internal Revenue Service, and tax years 2017 to 2019 are currently under examination. In our major non-U.S. jurisdictions, tax years are typically subject to examination for three to ten years."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-023",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "We are subject to the continuous examination of our U.S. federal income tax returns by the Internal Revenue Service, and tax years 2017 to 2019 are currently under examination. In our major non-U.S. jurisdictions, tax ye",
+    "text": "Wholesale inventory receivables are receivables of Cat Financial that arise when Cat Financial provides financing for a dealer\u2019s purchase of inventory and were $ 2,169 million and $ 1,750 million, at December 31, 2025 and 2024, respectively. We include these receivables in Receivables\u2014trade and other and Long-term receivables\u2014trade and other in Statement 3."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-024",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Wholesale inventory receivables are receivables of Cat Financial that arise when Cat Financial provides financing for a dealer\u2019s purchase of inventory and were $ 2,169 million and $ 1,750 million, at December 31, 2025 an",
+    "text": "Cat Financial\u2019s wholesale inventory receivables generally may be repaid or refinanced without penalty prior to contractual maturity."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-106",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Cat Financial\u2019s wholesale inventory receivables generally may be repaid or refinanced without penalty prior to contractual maturity.",
+    "text": "Finance receivables are receivables of Cat Financial and are reported in Statement 3 net of an allowance for credit losses."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-107",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Finance receivables are receivables of Cat Financial and are reported in Statement 3 net of an allowance for credit losses.",
+    "text": "Cat Financial\u2019s finance receivables generally may be repaid or refinanced without penalty prior to contractual maturity."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-108",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "A portfolio segment is the level at which Cat Financial develops a systematic methodology for determining its allowance for credit losses. Cat Financial's portfolio segments and related methods for estimating expected cr",
+    "text": "Cat Financial provides loans and finance leases to end-user customers primarily for the purpose of financing new and used Caterpillar machinery, engines and equipment for commercial use. Cat Financial also provides financing for power generation facilities that incorporate Caterpillar products. The average original term of Cat Financial's customer finance receivables portfolio was approximately 51 months with an average remaining term of approximately 28 months as of December 31, 2025."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-109",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Cat Financial typically maintains a security interest in financed equipment and generally requires physical damage insurance coverage on the financed equipment, both of which provide Cat Financial with certain rights and",
+    "text": "Cat Financial estimates the allowance for credit losses related to its customer finance receivables based on loss forecast models utilizing probabilities of default and the estimated loss given default based on past loss experience adjusted for current conditions and reasonable and supportable forecasts capturing country and industry-specific economic factors."
+  },
+  {
+    "chunk_id": "T-CAT-INVENTORY-021",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "During the year ended December 31, 2025, Cat Financial's forecasts reflected a continuation of global market uncertainty and actions by global central banks aimed at balancing economic growth and managing inflation. Cat ",
+    "text": "Cat Financial provides financing to Caterpillar dealers on a secured and unsecured basis in the form of wholesale financing plans and retail loans. Cat Financial's wholesale financing plans provide financing to dealers for their new Caterpillar equipment inventory and rental fleets. The retail loans to dealers are primarily for working capital."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-110",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Cat Financial provides financing to Caterpillar dealers on a secured and unsecured basis in the form of wholesale financing plans and retail loans. Cat Financial's wholesale financing plans provide financing to dealers f",
+    "text": "Cat Financial estimates the allowance for credit losses for dealer finance receivables based on historical loss rates with consideration of current economic conditions and reasonable and supportable forecasts."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-111",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "In general, Cat Financial's Dealer portfolio segment has not historically experienced large increases or decreases in credit losses based on changes in economic conditions due to its close working relationships with the ",
+    "text": "Cat Financial further evaluates portfolio segments by the class of finance receivables, which is defined as a level of information (below a portfolio segment) in which the finance receivables have the same initial measurement attribute and a similar method for assessing and monitoring credit risk. Cat Financial's classes, which align with management reporting for credit losses, are as follows:"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-112",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Cat Financial further evaluates portfolio segments by the class of finance receivables, which is defined as a level of information (below a portfolio segment) in which the finance receivables have the same initial measur",
+    "text": "\u2022 North America \u2014 Finance receivables originated in the United States and Canada."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-113",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "\u2022 North America \u2014 Finance receivables originated in the United States and Canada.",
+    "text": "\u2022 EAME \u2014 Finance receivables originated in Europe, Africa, the Middle East and Eurasia."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-114",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "\u2022 EAME \u2014 Finance receivables originated in Europe, Africa, the Middle East and Eurasia.",
+    "text": "\u2022 Asia/Pacific \u2014 Finance receivables originated in Australia, New Zealand, China, Japan, Southeast Asia and India."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-115",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "\u2022 Asia/Pacific \u2014 Finance receivables originated in Australia, New Zealand, China, Japan, Southeast Asia and India.",
+    "text": "\u2022 Latin America \u2014 Finance receivables originated in Mexico and Central and South American countries."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-116",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "\u2022 Latin America \u2014 Finance receivables originated in Mexico and Central and South American countries.",
+    "text": "\u2022 Mining \u2014 Finance receivables originated worldwide related to large mining customers worldwide."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-117",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "\u2022 Mining \u2014 Finance receivables originated worldwide related to large mining customers worldwide.",
+    "text": "\u2022 Power \u2014 Finance receivables originated worldwide related to large power customers of Caterpillar electrical power generation, gas compression and co-generation systems and non-Caterpillar equipment that is powered by these systems."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-118",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "\u2022 Power \u2014 Finance receivables originated worldwide related to large power customers of Caterpillar electrical power generation, gas compression and co-generation systems and non-Caterpillar equipment that is powered by t",
+    "text": "Receivable balances, including accrued interest, are written off against the allowance for credit losses when, in the judgment of management, they are considered uncollectible (generally upon repossession of the collateral). The amount of the write-off is primarily determined by comparing the fair value of the collateral, less estimated selling costs, to the amortized cost of the receivable. Subsequent recoveries, if any, are credited to the allowance for credit losses when received."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-119",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Receivable balances, including accrued interest, are written off against the allowance for credit losses when, in the judgment of management, they are considered uncollectible (generally upon repossession of the collater",
+    "text": "1 Excludes provision for credit losses on unfunded commitments and other miscellaneous receivables."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-120",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "All $ 47 million of gross write-offs in the Dealer portfolio segment for the year ended December 31, 2024 were in Latin America and originated prior to 2020.",
+    "text": "At origination, Cat Financial evaluates credit risk based on a variety of credit quality factors including prior payment experience, customer financial information, credit ratings, loan-to-value ratios, probabilities of default, industry trends, macroeconomic factors and other internal metrics. On an ongoing basis, Cat Financial monitors credit quality based on past-due status as there is a meaningful correlation between the past-due status of customers and the risk of loss. In determining past-due status, Cat Financial considers the entire finance receivable past due when any installment is over 30 days past due."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-121",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "The aging analysis of Cat Financial's Customer portfolio segment by origination year was as follows :",
+    "text": "As of December 31, 2025 and 2024, Cat Financial's total amortized cost of finance receivables within the Dealer portfolio segment was current."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-122",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "As of December 31, 2025 and 2024, Cat Financial's total amortized cost of finance receivables within the Dealer portfolio segment was current.",
+    "text": "Recognition of income is suspended and the finance receivable is placed on non-accrual status when management determines that collection of future income is not probable. Contracts on non-accrual status are generally more than 120 days past due. Recognition is resumed and previously suspended income is recognized when collection is considered probable. Payments received while the finance receivable is on non-accrual status are applied to interest and principal in accordance with the contractual terms. Interest earned but uncollected prior to the receivable being placed on non-accrual status is written off through Provision for credit losses when, in the judgment of management, it is considered uncollectible."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-123",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Recognition of income is suspended and the finance receivable is placed on non-accrual status when management determines that collection of future income is not probable. Contracts on non-accrual status are generally mor",
+    "text": "In Cat Financial's Customer portfolio segment, finance receivables which were on non-accrual status and finance receivables over 90 days past due and still accruing income as of December 31, were as follows:"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-124",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "In Cat Financial's Customer portfolio segment, finance receivables which were on non-accrual status and finance receivables over 90 days past due and still accruing income as of December 31, were as follows:",
+    "text": "There were no finance receivables in Cat Financial's Dealer portfolio segment on non-accrual status as of December 31, 2025 and 2024."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-125",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "There were no finance receivables in Cat Financial's Dealer portfolio segment on non-accrual status as of December 31, 2025 and 2024.",
+    "text": "Cat Financial periodically modifies the terms of their finance receivable agreements. Typically, the types of modifications granted are payment deferrals, interest-only payment periods and/or term extensions. Many modifications Cat Financial grants are for commercial reasons or for borrowers experiencing some form of short-term financial stress and may result in insignificant payment delays. Cat Financial does not consider these borrowers to be experiencing financial difficulty. Modifications for borrowers Cat Financial does consider to be experiencing financial difficulty typically result in payment deferrals and/or reduced payments for a period of four months or longer, term extension of six months or longer or a combination of both."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-126",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Cat Financial periodically modifies the terms of their finance receivable agreements. Typically, the types of modifications granted are payment deferrals, interest-only payment periods and/or term extensions. Many modifi",
+    "text": "During the years ended December 31, 2025 and 2024, there were no finance receivable modifications granted to borrowers experiencing financial difficulty in Cat Financial's Dealer portfolio segment."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-127",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "During the years ended December 31, 2025 and 2024, there were no finance receivable modifications granted to borrowers experiencing financial difficulty in Cat Financial's Dealer portfolio segment.",
+    "text": "The ending amortized cost of finance receivables modified with borrowers experiencing financial difficulty in Cat Financial's Customer portfolio segment for the years ended December 31, 2025 and 2024 were as follows:"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-128",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "The financial effects of term extensions and payment delays for borrowers experiencing financial difficulty for the years ended December 31, were as follows:",
+    "text": "After Cat Financial modifies a finance receivable, they continue to track its performance under its most recent modified terms. As of December 31, 2025 and 2024, defaults of loans modified in the prior twelve months were not significant ."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-129",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "After Cat Financial modifies a finance receivable, they continue to track its performance under its most recent modified terms. As of December 31, 2025 and 2024, defaults of loans modified in the prior twelve months were",
+    "text": "The effect of most modifications made to finance receivables for borrowers experiencing financial difficulty is already included in the allowance for credit losses based on the methodologies used to estimate the allowance; therefore, a change to the allowance for credit losses is generally not recorded upon modification. On rare occasions when principal forgiveness is provided, the amount forgiven is written off against the allowance for credit losses."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-025",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "The effect of most modifications made to finance receivables for borrowers experiencing financial difficulty is already included in the allowance for credit losses based on the methodologies used to estimate the allowanc",
+    "text": "Finance receivables and wholesale inventory receivables primarily represent receivables under installment sales contracts, receivables arising from leasing transactions and notes receivable. No single customer or dealer represented a significant concentration of credit risk."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-130",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "We have investments in certain debt and equity securities, which we record at fair value and primarily include in Other assets in Statement 3. Short-term and long-term investments are held with high quality institutions ",
+    "text": "We classify debt securities primarily as available-for-sale. We include the unrealized gains and losses arising from the revaluation of available-for-sale debt securities, net of applicable deferred income taxes, in equity (AOCI in Statement 3). We include the unrealized gains and losses arising from the revaluation of the equity securities in Other income (expense) in Statement 1. We generally determine realized gains and losses on sales of investments using the specific identification method for available-for-sale debt and equity securities and include them in Other income (expense) in Statement 1."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-131",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "3 The service cost component is included in Operating costs and all other components are included in Other income (expense) in Statement 1.",
+    "text": "Our expected rate of return on U.S. plan assets is based on our estimate of long-term returns for equities and fixed income securities weighted by the asset allocations as of December 31. We use a similar process to determine this rate for our non-U.S. plans."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-132",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "\u2022 Equity securities are primarily based on valuations for identical instruments in active markets.",
+    "text": "\u2022 Fixed income securities are primarily based upon models that take into consideration such market-based factors as recent sales, risk-free yield curves and prices of similarly rated bonds."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-133",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Fair value measurement includes the consideration of nonperformance risk. Nonperformance risk refers to the risk that an obligation (either by a counterparty or Caterpillar) will not be fulfilled. For financial assets tr",
+    "text": "We have investments in certain debt and equity securities that are recorded at fair value. Fair values for our U.S. treasury bonds and equity securities are based upon valuations for identical instruments in active markets. Fair values for other government debt securities, corporate debt securities and mortgage-backed debt securities are based upon models that take into consideration such market-based factors as recent sales, risk-free yield curves and prices of similarly rated bonds."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-134",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "(Millions of dollars) Level 1 Level 2 Level 3 Measured at NAV Total Assets / Liabilities, at Fair Value",
+    "text": "In addition to the amounts above, certain Cat Financial loans are subject to measurement at fair value on a nonrecurring basis and are classified as Level 3 measurements. A loan is measured at fair value when management determines that collection of contractual amounts due is not probable and the loan is individually evaluated. In these cases, an allowance for credit losses may be established based either on the present value of expected future cash flows discounted at the receivables\u2019 effective interest rate, the fair value of the collateral for collateral-dependent receivables, or the observable market price of the receivable. In determining collateral value, Cat Financial estimates the current fair market value of the collateral less selling costs. Cat Financial had loans carried at fair value of $ 63 million and $ 59 million as of December 31, 2025 and 2024, respectively."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-135",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Carrying amount approximates fair value. We include restricted cash and short-term investments in Prepaid expenses and other current assets in Statement 3. We classify these instruments as Level 1 except for time deposit",
+    "text": "We estimate fair value by discounting the future cash flows using current rates, representative of receivables with similar remaining maturities."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-136",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "We estimate fair value by discounting the future cash flows using current rates, representative of receivables with similar remaining maturities.",
+    "text": "We estimate fair value by discounting the future cash flows using current rates, representative of receivables with similar remaining maturities."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-137",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "(Millions of dollars) December 31, 2025 Amounts Due In 2026 $ 183 2027 149 2028 115 2029 98 2030 74 Thereafter 223 Total lease payments 842 Less: Imputed interest ( 114 ) Total $ 728",
+    "text": "We lease Caterpillar machinery, engines and other equipment to customers and dealers around the world, primarily through Cat Financial. Cat Financial leases to customers primarily through sales-type (non-tax) leases, where the lessee for tax purposes is considered to be the owner of the equipment during the term of the lease. Cat Financial also offers tax leases that are classified as either operating or direct finance leases for financial accounting purposes, depending on the characteristics of the lease. For tax purposes, Cat Financial is considered the owner of the equipment. Our lease agreements may include options for the lessee to purchase the underlying asset at the end of the lease term for either a stated fixed price or fair market value."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-138",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "We lease Caterpillar machinery, engines and other equipment to customers and dealers around the world, primarily through Cat Financial. Cat Financial leases to customers primarily through sales-type (non-tax) leases, whe",
+    "text": "We determine the residual value of Cat Financial\u2019s leased equipment based on its estimated end-of-term market value. We estimate the residual value of leased equipment at the inception of the lease based on a number of factors, including historical wholesale market sales prices, past remarketing experience and any known significant market/product trends. We also consider the following critical factors in our residual value estimates: lease term, market size and demand, total expected hours of usage, machine configuration, application, location, model changes, quantities, third-party residual guarantees and contractual customer purchase options."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-139",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "We determine the residual value of Cat Financial\u2019s leased equipment based on its estimated end-of-term market value. We estimate the residual value of leased equipment at the inception of the lease based on a number of f",
+    "text": "During the term of our leases, we monitor residual values. For operating leases, we record adjustments to depreciation expense reflecting changes in residual value estimates prospectively on a straight-line basis. For finance leases, we recognize residual value adjustments through a reduction of finance revenue over the remaining lease term."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-140",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "During the term of our leases, we monitor residual values. For operating leases, we record adjustments to depreciation expense reflecting changes in residual value estimates prospectively on a straight-line basis. For fi",
+    "text": "See Note 7 for contractual maturities of finance lease receivables (sales-type and direct finance leases)."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-141",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "The carrying amount of equipment leased to others, included in Property, plant and equipment - net in Statement 3, under operating leases was as follows:",
+    "text": "Revenues from finance and operating leases, primarily included in Revenues of Financial Products on Statement 1, were as follows:"
+  },
+  {
+    "chunk_id": "T-CAT-INVENTORY-022",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Cat Financial has commitments to extend credit to customers and Caterpillar dealers through lines of credit and other pre-approved credit arrangements. Cat Financial applies the same credit policies and approval process ",
+    "text": "We determine our product warranty liability by applying historical claim rate experience to the current field population and dealer inventory. Generally, we base historical claim rates on actual warranty experience for each product by machine model/engine size by customer or dealer location (inside or outside North America). We develop specific rates for each product shipment month and update them monthly based on actual warranty claim experience."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-142",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Effective July 1, 2025, we made the following changes to segment reporting. These changes were made to reflect changes in organizational accountabilities and refinements to our internal reporting.",
+    "text": "\u2022 Responsibility for business strategy, product design, product management and development, manufacturing, marketing and sales and product support for and sourcing of wear and maintenance components and related parts moved from All Other Segment to Resource Industries."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-143",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "We have five operating segments, of which four are reportable segments. Following is a brief description of our reportable segments and the business activities included in the All Other Segment:",
+    "text": "Construction Industries : A segment primarily responsible for supporting customers using machinery in infrastructure and building construction applications. Responsibilities include business strategy, product design, product management and development, manufacturing, marketing and sales and product support. The product portfolio includes asphalt pavers; backhoe loaders; cold planers; compactors; compact track loaders; forestry machines; material handlers; motor graders; pipelayers; road reclaimers; skid steer loaders; telehandlers; track-type loaders; track-type tractors (small, medium); track excavators (mini, small, medium, large); wheel excavators; wheel loaders (compact, small, medium); and related parts and work tools. Inter-segment sales are a source of revenue for this segment."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-144",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Construction Industries : A segment primarily responsible for supporting customers using machinery in infrastructure and building construction applications. Responsibilities include business strategy, product design, pro",
+    "text": "Resource Industries : A segment primarily responsible for supporting customers using machinery in mining, heavy construction and quarry and aggregates. Responsibilities include business strategy, product design, product management and development, manufacturing, marketing and sales and product support. The product portfolio includes large track-type tractors; large mining trucks; hard rock vehicles; electric rope shovels; draglines; hydraulic shovels; rotary drills; large wheel loaders; off-highway trucks; articulated trucks; wheel tractor scrapers; wheel dozers; landfill compactors; soil compactors; wide-body trucks; select work tools; machinery components; wear and maintenance components and related parts. In addition to equipment, Resource Industries also sells technology products and services to provide customers fleet management, equipment management analytics, autonomous machine capabilities, safety services and mining performance solutions. Resource Industries also manages areas that provide services to other parts of the company, including strategic procurement, lean center of excellence, integrated component design and manufacturing and research and development for hydraulic systems and cabs. Inter-segment sales are a source of revenue for this segment."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-145",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Resource Industries : A segment primarily responsible for supporting customers using machinery in mining, heavy construction and quarry and aggregates. Responsibilities include business strategy, product design, product ",
+    "text": "Power & Energy : A segment primarily responsible for supporting customers using reciprocating engines, turbines, diesel-electric locomotives and related services across industries serving Oil and Gas, Power Generation, Industrial and Transportation applications, including marine- and rail-related businesses as well as product support of on-highway engines. Responsibilities include business strategy, product design, product management, development and testing, manufacturing, marketing and sales and product support. The product and services portfolio includes turbines, centrifugal gas compressors, and turbine-related services; reciprocating engine-powered generator sets; integrated systems and solutions used in the electric power generation industry; reciprocating engines, drivetrain and integrated systems and solutions for the marine and oil and gas industries; reciprocating engines, drivetrain and integrated systems and solutions supplied to the industrial industry as well as Caterpillar machines; electrified powertrain and zero-emission power sources and service solutions development; and diesel-electric and hybrid locomotives and components and other rail-related products and services, including remanufacturing and leasing. Responsibilities also include the remanufacturing of Caterpillar reciprocating engines and components and remanufacturing services for other companies. Inter-segment sales are a source of revenue for this segment."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-026",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Power & Energy : A segment primarily responsible for supporting customers using reciprocating engines, turbines, diesel-electric locomotives and related services across industries serving Oil and Gas, Power Generation, I",
+    "text": "Financial Products Segment : Provides financing alternatives to customers and dealers around the world for Caterpillar products and services, as well as financing for power generation facilities that incorporate Caterpillar products. Financing plans include operating and finance leases, revolving charge accounts, installment sale contracts, repair/rebuild financing, working capital loans and wholesale financing plans. The segment also provides insurance and risk management products and services that help customers and dealers manage their business risk. Insurance and risk management products offered include physical damage insurance, inventory protection plans, extended service coverage and maintenance plans for machines and engines, and dealer property and casualty insurance. The various forms of financing, insurance and risk management products offered to customers and dealers help support the purchase and lease of Caterpillar equipment. The segment also earns revenues from Machinery, Power & Energy, but the related costs are not allocated to operating segments. Financial Products\u2019 segment profit is determined on a pretax basis and includes other income/expense items."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-027",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "There are several methodology differences between our segment reporting and our external reporting. The following is a list of the more significant methodology differences:",
+    "text": "\u2022 For Construction Industries, Resource Industries, Power & Energy and our All Other Segment, net assets generally include inventories, receivables, property, plant and equipment, goodwill, intangibles, accounts payable and customer advances. We generally manage at the corporate level liabilities other than accounts payable and customer advances, and we do not include these in segment operations. Financial Products Segment assets generally include all categories of assets."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE_INVENTORY-028",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue_inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "\u2022 For Construction Industries, Resource Industries, Power & Energy and our All Other Segment, net assets generally include inventories, receivables, property, plant and equipment, goodwill, intangibles, accounts payable ",
+    "text": "\u2022 We value segment inventories and cost of sales using a current cost methodology."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-146",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "\u2022 We amortize goodwill allocated to segments using a fixed amount based on a 20-year useful life. This methodology difference only impacts segment assets. We do not include goodwill amortization expense in segment profit",
+    "text": "\u2022 We generally manage currency exposures for operating segments, other than Financial Products, at the corporate level and do not include in segment profit the effects of changes in exchange rates on results of operations within the year. We report the net difference created in the translation of revenues and costs between exchange rates used for U.S. GAAP reporting and exchange rates used for segment reporting as a methodology difference."
+  },
+  {
+    "chunk_id": "T-CAT-INVENTORY-023",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "\u2022 Corporate costs: These costs are related to corporate requirements primarily for compliance and legal functions for the benefit of the entire organization.",
+    "text": "\u2022 Restructuring income/costs: May include costs for employee separation, long-lived asset impairments, contract terminations and (gains)/losses on divestitures. These costs are included in Other operating (income) expenses except for defined-benefit plan curtailment losses and special termination benefits, which are included in Other income (expense). Restructuring costs also include other exit-related costs, which may consist of accelerated depreciation, inventory write-downs, building demolition, equipment relocation and project management costs and LIFO inventory decrement benefits from inventory liquidations at closed facilities, all of which are primarily included in Cost of goods sold. See Note 24 for more information."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-147",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "\u2022 Timing: Timing differences in the recognition of costs between segment reporting and consolidated external reporting. For example, we report certain costs on the cash basis for segment reporting and the accrual basis f",
+    "text": "For the years ended December 31, 2025, 2024 and 2023, sales and revenues by geographic region reconciled to consolidated sales and revenues were as follows:"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-148",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "For the years ended December 31, 2025, 2024 and 2023, sales and revenues by geographic region reconciled to consolidated sales and revenues were as follows:",
+    "text": "External Sales and Revenues Intersegment Sales and Revenues Total Sales and Revenues"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-149",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Construction Industries $ 14,064 $ 2,358 $ 4,595 $ 3,783 $ 24,800 $ 260 $ 25,060",
+    "text": "Total sales and revenues from reportable segments 37,106 7,077 12,884 11,281 68,348 5,607 73,955"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-150",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Corporate Items and Eliminations ( 523 ) ( 89 ) ( 97 ) ( 96 ) ( 805 ) ( 5,888 ) ( 6,693 )",
+    "text": "Total Sales and Revenues $ 36,609 $ 6,988 $ 12,793 $ 11,199 $ 67,589 $ \u2014 $ 67,589"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-151",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Construction Industries $ 14,576 $ 2,553 $ 4,315 $ 3,900 $ 25,344 $ 111 $ 25,455",
+    "text": "Total sales and revenues from reportable segments 34,880 6,797 12,416 11,492 65,585 5,248 70,833"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-152",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Corporate Items and Eliminations ( 503 ) ( 87 ) ( 107 ) ( 115 ) ( 812 ) ( 5,556 ) ( 6,368 )",
+    "text": "Total Sales and Revenues $ 34,397 $ 6,708 $ 12,316 $ 11,388 $ 64,809 $ \u2014 $ 64,809"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-153",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Construction Industries $ 15,343 $ 2,307 $ 5,254 $ 4,390 $ 27,294 $ 124 $ 27,418",
+    "text": "Total sales and revenues from reportable segments 35,057 6,746 13,749 12,211 67,763 5,110 72,873"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-154",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Corporate Items and Eliminations ( 479 ) ( 80 ) ( 88 ) ( 101 ) ( 748 ) ( 5,428 ) ( 6,176 )",
+    "text": "Total Sales and Revenues $ 34,606 $ 6,665 $ 13,673 $ 12,116 $ 67,060 $ \u2014 $ 67,060"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-155",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Total Sales and Revenues $ 34,606 $ 6,665 $ 13,673 $ 12,116 $ 67,060 $ \u2014 $ 67,060",
+    "text": "1 Includes revenues from Construction Industries, Resource Industries, Power & Energy and All Other Segment of $ 712 million, $ 711 million and $ 690 million in the years ended December 31, 2025, 2024 and 2023, respectively."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-156",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "1 Includes revenues from Construction Industries, Resource Industries, Power & Energy and All Other Segment of $ 712 million, $ 711 million and $ 690 million in the years ended December 31, 2025, 2024 and 2023, respectiv",
+    "text": "For the years ended December 31, 2025, 2024 and 2023, Power & Energy segment sales by end user application were as follows:"
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-157",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Financial Products Segment \u2013 interest expense, Cat Financial\u2019s depreciation on equipment leased to others, Insurance Services\u2019 underwriting expenses and investment and interest income, and foreign exchange (gains) losses",
+    "text": "1 Sales of MP&E are based on dealer or customer location. Revenues from services provided are based on where service is rendered."
+  },
+  {
+    "chunk_id": "T-CAT-INVENTORY-024",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Our accounting for employee separations is dependent upon how the particular program is designed. For voluntary programs, we recognize eligible separation costs at the time of employee acceptance unless the acceptance re",
+    "text": "2 Represents costs related to our restructuring programs, primarily for inventory write-downs, project management and accelerated depreciation, all of which are primarily included in Cost of goods sold."
+  },
+  {
+    "chunk_id": "T-CAT-INVENTORY-025",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "2 Represents costs related to our restructuring programs, primarily for inventory write-downs, project management and accelerated depreciation, all of which are primarily included in Cost of goods sold.",
+    "text": "The restructuring costs in 2025 were related to restructuring actions across the company including write-downs in the value of inventory in the Rail division. The restructuring costs in 2024 were related to restructuring actions across the company including the divestitures of certain non-U.S. entities. The restructuring costs in 2023 were primarily related to the divestiture of the company's Longwall business within Resource Industries."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-158",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "During the last fiscal quarter, there has been no significant change in the company\u2019s internal control over financial reporting that has materially affected, or is reasonably likely to materially affect, the company\u2019s in",
+    "text": "On August 28, 2025 , Andrew R.J. Bonfield , Chief Financial Officer of the Company, entered into a Rule 10b5-1 sales plan intended to satisfy the affirmative defense of Rule 10b5-1(c) under the Securities Exchange Act of 1934, as amended. The sales plan will be in effect until the earlier of (1) November 13, 2026 and (2) the date on which an aggregate of 20,000 shares of our common stock have been sold under the plan."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-159",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "On August 28, 2025 , Andrew R.J. Bonfield , Chief Financial Officer of the Company, entered into a Rule 10b5-1 sales plan intended to satisfy the affirmative defense of Rule 10b5-1(c) under the Securities Exchange Act of",
+    "text": "On November 21, 2025 , Joseph E. Creed , Chief Executive Officer of the Company, entered into a Rule 10b5-1 sales plan intended to satisfy the affirmative defense of Rule 10b5-1(c) under the Securities Exchange Act of 1934, as amended. The sales plan will be in effect until the earlier of (1) March 5, 2026 and (2) the date on which an aggregate of 2,500 shares of our common stock have been sold under the plan."
+  },
+  {
+    "chunk_id": "T-CAT-REVENUE-160",
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "source_file": "cat-20251231.htm",
+    "preceding_context": "Disclosure Required Pursuant to Section 13(r) of the Securities Exchange Act of 1934",
+    "text": "Caterpillar maintains a portfolio of trademarks in Iran, which it registers with the Intellectual Property Center of the Islamic Republic of Iran (IPC), through intellectual property counsel and service providers located in United Arab Emirates and Iran. On November 30, 2023, the U.S. Department of the Treasury\u2019s Office of Foreign Assets Control (\u201cOFAC\u201d) granted Caterpillar a specific license to make payments to IPC at its account in Bank Melli, which was designated on November 5, 2018, by OFAC under its counter terrorism authority pursuant to Executive Order 13224. As authorized by OFAC\u2019s specific license, in the period ended December 31, 2024, Caterpillar paid approximately $608 to IPC as part of its intellectual property protection efforts in Iran. Caterpillar plans to continue these activities, as authorized under the specific license, and does not generate any revenues or profits from this activity."
+  }
+]

@@ -1,0 +1,27 @@
+- Claim: As of 2025-12-31, the Inventory, Net balance is 18,135,000,000 USD.
+  - Claim type: Factual
+  - Support used: F-CAT-0018
+  - Limitation: This value is a point-in-time measurement as of the fiscal year-end and is limited to the reported consolidated figure.
+
+- Claim: As of 2025-12-31, the Inventory LIFO Reserve is 4,305,000,000 USD.
+  - Claim type: Factual
+  - Support used: F-CAT-0048
+  - Limitation: This value is limited to the reported LIFO reserve amount as of the specific period end 2025-12-31.
+
+- Claim: The valuation assertion for inventory is impacted by the calculation and maintenance of the LIFO reserve.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-CAT-0048, F-CAT-0049
+  - Inferential bridge: The existence of a substantial LIFO reserve (increasing from 3.864B to 4.305B) indicates that the reported inventory value is a derivative of a specific cost-flow assumption, requiring verification of the reserve's accuracy to ensure proper valuation.
+  - Limitation: Missing the specific LIFO calculation methodology and the underlying price indices used to determine the reserve.
+
+- Claim: The reported "InventoryMethodologyDifference" represents a risk cue for the valuation assertion due to the complexity of reconciling different accounting methods.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-CAT-1036
+  - Inferential bridge: A reported methodology difference of 3,622,000,000 USD suggests that the inventory is valued using a method that differs from another standard (e.g., local GAAP vs. US GAAP), which introduces risk in the mapping and conversion of these values.
+  - Limitation: Missing the detailed reconciliation documentation or the specific accounting standards being compared.
+
+- Claim: The increase in total net inventory from 2024 to 2025 suggests a need to assess the valuation assertion for potential obsolescence or impairment.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-CAT-0019, F-CAT-0018
+  - Inferential bridge: The increase in Inventory, Net from 16,827,000,000 USD to 18,135,000,000 USD increases the total carrying value of the asset, thereby increasing the potential exposure to valuation errors if the inventory is not realizable at the reported cost.
+  - Limitation: Missing inventory aging reports or specific data on slow-moving and obsolete stock.

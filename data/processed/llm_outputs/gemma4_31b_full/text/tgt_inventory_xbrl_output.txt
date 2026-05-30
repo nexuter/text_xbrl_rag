@@ -1,0 +1,26 @@
+- Claim: Target Corporation reported net inventory of $12,740,000,000 as of February 1, 2025.
+  - Claim type: Factual
+  - Support used: F-TGT-0007
+  - Limitation: This is a point-in-time measurement as of the fiscal year-end 2025-02-01.
+
+- Claim: The LIFO reserve period charge for the period from February 4, 2024, to February 1, 2025, was $183,000,000.
+  - Claim type: Factual
+  - Support used: F-TGT-0071
+  - Limitation: This is a duration-based measurement for the specific fiscal period ended 2025-02-01.
+
+- Claim: The increase in the LIFO reserve period charge from $153,000,000 (period ended 2024-02-03) to $183,000,000 (period ended 2025-02-01) suggests a potential risk regarding the valuation of inventory due to fluctuating cost layers.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-TGT-0071, F-TGT-0072
+  - Inferential bridge: An increase in the LIFO reserve charge indicates that current costs are rising relative to older layers; if the reserve is not accurately calculated or if market prices drop below LIFO cost, the inventory valuation assertion may be compromised.
+  - Limitation: Missing the underlying LIFO layer schedules and the specific product categories driving the increase.
+
+- Claim: The use of LIFO accounting, evidenced by the LIFO reserve charges, requires specific valuation testing to ensure that the net inventory balance is not overstated relative to the LIFO cost method.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-TGT-0071, F-TGT-0072
+  - Inferential bridge: Because LIFO reserves adjust the inventory value from a current cost basis to a LIFO basis, any error in the reserve's period charge or cumulative balance directly impacts the valuation assertion of the InventoryNet account.
+  - Limitation: Missing documentation on the internal controls used to validate the LIFO reserve calculation.
+
+- Claim: The provided context is insufficient to perform a comprehensive valuation assertion mapping as it lacks data on inventory write-downs, obsolescence reserves, or net realizable value (NRV) assessments.
+  - Claim type: Factual
+  - Support used: Context provided
+  - Limitation: The source is limited to high-level XBRL facts and lacks detailed narrative disclosures or schedules regarding inventory impairment.

@@ -1,0 +1,16 @@
+# Public SEC raw filings are reconstructable from EDGAR using scripts/sec_download.py.
+# Keep processed artifacts and reconstruction notes under version control.
+data/raw_sec/
+
+# Generated intermediate render/export files.
+submission/render_check/
+submission/figures/*.html
+
+# Local editor and Office temporary files.
+~$*.docx
+*.tmp
+*.bak
+
+# Python cache.
+__pycache__/
+*.pyc

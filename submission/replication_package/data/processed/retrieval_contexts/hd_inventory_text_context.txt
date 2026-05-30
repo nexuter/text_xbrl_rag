@@ -1,0 +1,36 @@
+TEXT RETRIEVAL CONTEXT
+
+[Text Chunk 1]
+chunk_id: T-HD-INVENTORY-028
+source_file: hd-20260201.htm
+construct_tag: inventory
+ranking_score: 29
+text: Inventory cost includes the amount we pay to acquire inventory, including freight and import costs, as well as operating costs and depreciation associated with our sourcing and distribution network, and is net of certain vendor allowances. T he majority of our merchandise inventories are stated at the lower of cost or market, as determined by the retail inventory method, which is based on a number of factors such as markups, markdowns, and inventory losses (or shrink). As the inventory retail value is adjusted regularly to reflect market conditions, inventory valued using the retail method approximates the lower of cost or market. Our remaining merchandise inventories, including those within our retail operations in Canada and Mexico, distribution centers, and our SRS distribution operations, are recorded at the lower of cost or net realizable value, as determined by a cost method, primarily th e moving average cost and first-in, first-out methods. We evaluate the inventory valued using a cost method at the end of each quarter to ensure that it is carried at the lower of cost or net realizable value, and the adjustments recorded to merchandise inventories valued under a cost method were not material to our consolidated financial statements at the end of fiscal 2025 or fiscal 2024.
+
+[Text Chunk 2]
+chunk_id: T-HD-INVENTORY-020
+source_file: hd-20260201.htm
+construct_tag: inventory
+ranking_score: 20
+text: As discussed in Note 1 to the consolidated financial statements, the majority of merchandise inventories are stated at the lower of cost or market, as determined by the retail inventory method, which is based on a number of factors such as markups, markdowns, and inventory losses (or shrink). As the inventory retail value is adjusted regularly to reflect market conditions, inventory valued using the retail method approximates the lower of cost or market. The remaining merchandise inventories, including those within the retail operations in Canada and Mexico, distribution centers, and SRS distribution operations, are recorded at the lower of cost or net realizable value, as determined by a cost method, primarily the moving average cost and first-in, first-out methods. The Company's merchandise inventories were $25.8 billion as of February 1, 2026.
+
+[Text Chunk 3]
+chunk_id: T-HD-INVENTORY-018
+source_file: hd-20260201.htm
+construct_tag: inventory
+ranking_score: 13
+text: The retail value of our inventory is adjusted as needed to reflect current market conditions. Because these adjustments are based on current prevailing market conditions, the value of our inventory approximates the lower of cost or market. The valuation under the retail inventory method is based on a number of factors such as markups, markdowns, and inventory losses (or shrink). As such, there exists an inherent uncertainty in the final determination of inventory cost and gross profit. We determine markups and markdowns based on the consideration of a variety of factors such as current and anticipated demand, customer preferences and buying trends, age of the merchandise, and weather conditions.
+
+[Text Chunk 4]
+chunk_id: T-HD-REVENUE_INVENTORY-009
+source_file: hd-20260201.htm
+construct_tag: revenue_inventory
+ranking_score: 12
+text: Gross profit increased $1.6 billion, or 2.9%, to $54.9 billion in fiscal 2025. Gross profit as a percent of net sales, or gross profit margin, was 33.3% in fiscal 2025 compared to 33.4% in fiscal 2024. The decrease in gross profit margin reflects the inclusion of SRS and GMS in our consolidated results, partially offset by lower shrink and certain supply chain benefits within our Primary segment.
+
+[Text Chunk 5]
+chunk_id: T-HD-INVENTORY-029
+source_file: hd-20260201.htm
+construct_tag: inventory
+ranking_score: 11
+text: Physical inventory counts or cycle counts are taken on a regular basis in our stores, distribution centers and branches to ensure that amounts reflected in merchandise inventories are properly stated. Shrink (or in the case of excess inventory, swell) is the difference between the recorded amount of inventory and the physical inventory count. We calculate shrink based on actual inventory losses identified as a result of physical inventory counts during each fiscal period and estimated inventory losses occurring between physical inventory counts. The estimate for shrink occurring in the interim period between physical inventory counts is calculated on a store-specific basis and is primarily based on recent shrink results. Historically, the difference between estimated shrink and actual inventory losses has not been material to our annual financial results.

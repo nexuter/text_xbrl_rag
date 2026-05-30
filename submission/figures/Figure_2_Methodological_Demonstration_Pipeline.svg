@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1100" viewBox="0 0 1400 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Figure 2. Methodological Demonstration Pipeline</title>
+  <desc id="desc">Flow diagram showing SEC 10-K and Inline XBRL sources feeding a two-layer case design, text and XBRL extraction, retrieval conditions, controlled LLM prompts, claim-level coding, and evidence-use divergence assessment.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#1f2937"/>
+    </marker>
+    <style>
+      .box { fill: #ffffff; stroke: #1f2937; stroke-width: 3; rx: 10; }
+      .muted { fill: #f3f6fb; stroke: #1f2937; stroke-width: 3; rx: 10; }
+      .label { font-family: "Times New Roman", serif; font-size: 32px; fill: #111827; text-anchor: middle; dominant-baseline: middle; }
+      .small { font-family: "Times New Roman", serif; font-size: 24px; fill: #374151; text-anchor: middle; dominant-baseline: middle; }
+      .arrow { stroke: #1f2937; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+      .line { stroke: #1f2937; stroke-width: 3; fill: none; }
+    </style>
+  </defs>
+  <rect x="310" y="40" width="780" height="90" class="box"/>
+  <text x="700" y="85" class="label">SEC 10-K filings and Inline XBRL</text>
+  <line x1="700" y1="130" x2="700" y2="180" class="arrow"/>
+  <rect x="260" y="180" width="880" height="125" class="box"/>
+  <text x="700" y="222" class="label">Two-layer case design</text>
+  <text x="700" y="260" class="small">Deep main cases: NKE, SBUX, TGT</text>
+  <text x="700" y="290" class="small">Bounded extension: WMT, HD, CAT, PFE, MSFT, CROX</text>
+  <line x1="700" y1="305" x2="700" y2="355" class="arrow"/>
+  <rect x="420" y="355" width="560" height="85" class="box"/>
+  <text x="700" y="398" class="label">Text and XBRL extraction</text>
+  <line x1="700" y1="440" x2="700" y2="485" class="line"/>
+  <line x1="360" y1="485" x2="1040" y2="485" class="line"/>
+  <line x1="360" y1="485" x2="360" y2="535" class="arrow"/>
+  <line x1="1040" y1="485" x2="1040" y2="535" class="arrow"/>
+  <rect x="110" y="535" width="500" height="95" class="muted"/>
+  <text x="360" y="582" class="label">Text chunks</text>
+  <rect x="790" y="535" width="500" height="95" class="muted"/>
+  <text x="1040" y="570" class="label">XBRL facts and</text>
+  <text x="1040" y="608" class="label">relation paths</text>
+  <line x1="360" y1="630" x2="360" y2="690" class="line"/>
+  <line x1="1040" y1="630" x2="1040" y2="690" class="line"/>
+  <line x1="360" y1="690" x2="1040" y2="690" class="line"/>
+  <line x1="700" y1="690" x2="700" y2="735" class="arrow"/>
+  <rect x="250" y="735" width="900" height="90" class="box"/>
+  <text x="700" y="780" class="label">Retrieval conditions: LLM-only, text, XBRL, hybrid</text>
+  <line x1="700" y1="825" x2="700" y2="875" class="arrow"/>
+  <rect x="300" y="875" width="800" height="85" class="box"/>
+  <text x="700" y="918" class="label">Controlled prompts using gemma4:31b</text>
+  <line x1="700" y1="960" x2="700" y2="1005" class="arrow"/>
+  <rect x="250" y="1005" width="900" height="70" class="box"/>
+  <text x="700" y="1040" class="label">Claim-level coding and evidence-use divergence</text>
+</svg>

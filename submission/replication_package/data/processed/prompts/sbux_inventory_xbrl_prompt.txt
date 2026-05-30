@@ -1,0 +1,50 @@
+You are assisting with an auditing research task. Use only the information provided in the context.
+
+Task:
+Identify audit-relevant risk cues or assertion-mapping considerations for inventory valuation assertion mapping for Starbucks Corporation, fiscal year 2025, period ended 2025-09-28, accession 0000829224-25-000114, based on the provided context.
+
+Instructions:
+1. Provide no more than five audit-relevant claims.
+2. Distinguish factual claims from risk-cue or assertion-mapping claims.
+3. Do not conclude that a misstatement exists.
+4. State when the provided context is insufficient.
+5. Avoid treating reported XBRL relationships as independent audit evidence.
+6. Do not use general company knowledge outside the provided context.
+7. For each risk-cue or assertion-mapping claim, state the inferential bridge from the source evidence to the audit consideration.
+8. Do not write "Limitation: None" for risk-cue or assertion-mapping claims; identify at least one missing audit evidence item, missing control detail, or source-bound limitation.
+9. For factual claims, state any period, source, or measurement limitation rather than treating the claim as unrestricted.
+
+Context:
+XBRL RELATIONAL RETRIEVAL CONTEXT
+
+Facts:
+1. fact_id=F-SBUX-0016 concept=InventoryNet value=1777300000 unit=iso4217:USD period=instant:2024-09-29 dimensions=none
+2. fact_id=F-SBUX-0055 concept=InventoryNet value=1777300000 unit=iso4217:USD period=instant:2024-09-29 dimensions=none
+3. fact_id=F-SBUX-0015 concept=InventoryNet value=2185600000 unit=iso4217:USD period=instant:2025-09-28 dimensions=none
+4. fact_id=F-SBUX-0035 concept=InventoryValuationReserves value=58000000.0 unit=iso4217:USD period=instant:2024-09-29 dimensions=none
+5. fact_id=F-SBUX-0034 concept=InventoryValuationReserves value=56600000 unit=iso4217:USD period=instant:2025-09-28 dimensions=none
+6. fact_id=F-SBUX-0051 concept=RetailRelatedInventoryMerchandise value=384600000 unit=iso4217:USD period=instant:2024-09-29 dimensions=none
+7. fact_id=F-SBUX-0050 concept=RetailRelatedInventoryMerchandise value=399700000 unit=iso4217:USD period=instant:2025-09-28 dimensions=none
+8. fact_id=F-SBUX-0053 concept=RetailRelatedInventoryPackagingAndOtherSupplies value=475700000 unit=iso4217:USD period=instant:2024-09-29 dimensions=none
+9. fact_id=F-SBUX-0052 concept=RetailRelatedInventoryPackagingAndOtherSupplies value=532700000 unit=iso4217:USD period=instant:2025-09-28 dimensions=none
+10. fact_id=F-SBUX-0049 concept=RoastedCoffeeInventory value=251900000 unit=iso4217:USD period=instant:2024-09-29 dimensions=none
+11. fact_id=F-SBUX-0048 concept=RoastedCoffeeInventory value=342000000.0 unit=iso4217:USD period=instant:2025-09-28 dimensions=none
+12. fact_id=F-SBUX-0047 concept=UnroastedCoffeeInventory value=665100000 unit=iso4217:USD period=instant:2024-09-29 dimensions=none
+
+Relation paths:
+1. path_id=X-SBUX-0128 relation_type=calculation source=us-gaap:InventoryNet (Inventory, Net) -> target=us-gaap:RetailRelatedInventoryMerchandise (Retail Related Inventory, Merchandise) arcrole=http://www.xbrl.org/2003/arcrole/summation-item role=http://www.starbucks.com/role/InventoriesComponentsofInventoriesDetails
+2. path_id=X-SBUX-0129 relation_type=calculation source=us-gaap:InventoryNet (Inventory, Net) -> target=us-gaap:RetailRelatedInventoryPackagingAndOtherSupplies (Retail Related Inventory, Packaging and Other Supplies) arcrole=http://www.xbrl.org/2003/arcrole/summation-item role=http://www.starbucks.com/role/InventoriesComponentsofInventoriesDetails
+3. path_id=X-SBUX-0153 relation_type=definition source=us-gaap:InventoryLineItems (Inventory [Line Items]) -> target=us-gaap:InventoryCurrentTable (Inventory, Current [Table]) arcrole=http://xbrl.org/int/dim/arcrole/all role=http://www.starbucks.com/role/InventoriesNarrativeDetails
+4. path_id=X-SBUX-0156 relation_type=definition source=us-gaap:InventoryLineItems (Inventory [Line Items]) -> target=us-gaap:InventoryWriteDown (Inventory Write-down) arcrole=http://xbrl.org/int/dim/arcrole/domain-member role=http://www.starbucks.com/role/InventoriesNarrativeDetails
+5. path_id=X-SBUX-0050 relation_type=presentation source=us-gaap:InventoryCurrentTable (Inventory, Current [Table]) -> target=us-gaap:InventoryLineItems (Inventory [Line Items]) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.starbucks.com/role/InventoriesNarrativeDetails
+6. path_id=X-SBUX-0048 relation_type=presentation source=us-gaap:InventoryDisclosureAbstract (Inventory Disclosure [Abstract]) -> target=us-gaap:InventoryCurrentTable (Inventory, Current [Table]) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.starbucks.com/role/InventoriesNarrativeDetails
+7. path_id=X-SBUX-0010 relation_type=presentation source=us-gaap:InventoryDisclosureAbstract (Inventory Disclosure [Abstract]) -> target=us-gaap:InventoryDisclosureTextBlock (Inventory Disclosure [Text Block]) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.starbucks.com/role/Inventories
+8. path_id=X-SBUX-0057 relation_type=presentation source=us-gaap:InventoryDisclosureAbstract (Inventory Disclosure [Abstract]) -> target=us-gaap:InventoryNet (Inventory, Net) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.starbucks.com/role/InventoriesComponentsofInventoriesDetails
+9. path_id=X-SBUX-0033 relation_type=presentation source=us-gaap:InventoryDisclosureAbstract (Inventory Disclosure [Abstract]) -> target=us-gaap:InventoryValuationReserves (Inventory Valuation Reserves) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.starbucks.com/role/SummaryofSignificantAccountingPoliciesNarrativeDetails
+10. path_id=X-SBUX-0055 relation_type=presentation source=us-gaap:InventoryDisclosureAbstract (Inventory Disclosure [Abstract]) -> target=us-gaap:RetailRelatedInventoryMerchandise (Retail Related Inventory, Merchandise) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.starbucks.com/role/InventoriesComponentsofInventoriesDetails
+
+Output format:
+- Claim:
+  - Claim type:
+  - Support used:
+  - Limitation:

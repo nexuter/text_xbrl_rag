@@ -1,0 +1,27 @@
+- Claim: Target Corporation values its inventory at the lower of LIFO cost or market and utilizes the retail inventory accounting method.
+  - Claim type: Factual
+  - Support used: Text Chunk 1
+  - Limitation: This claim is limited to the accounting policies disclosed in the provided text for the fiscal year 2024.
+
+- Claim: As of February 1, 2025, Target Corporation's net inventory was $12,740,000,000.
+  - Claim type: Factual
+  - Support used: F-TGT-0007
+  - Limitation: This is a point-in-time measurement as of the specific period end date.
+
+- Claim: The estimation of the inventory shrink reserve presents a valuation risk due to the high sensitivity of the reserve's impact on cost of sales.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: Text Chunk 1
+  - Inferential bridge: The text states that a 10 percent change in the 2024 year-end shrink reserve would impact cost of sales by approximately $150 million; such high sensitivity indicates that small errors in the shrink estimate can lead to material misstatements in inventory valuation and cost of sales.
+  - Limitation: The provided context does not detail the specific internal controls or the frequency of the "actual physical inventory counts" used to adjust the shrink estimate.
+
+- Claim: Inventory valuation is subject to risk regarding the timing and accuracy of markdown adjustments driven by external volatility.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: Text Chunk 1
+  - Inferential bridge: Because the company records market adjustments for markdowns based on "salability," which is impacted by "consumer preferences and seasonality," the valuation is dependent on management's subjective assessment of external market trends.
+  - Limitation: The context does not provide the specific criteria or quantitative thresholds used to determine when salability has "diminished" enough to trigger a markdown.
+
+- Claim: The use of the Retail Inventory Method (RIM) introduces a valuation risk centered on the accuracy of the cost-to-retail ratio.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: Text Chunk 3
+  - Inferential bridge: Since inventory cost is derived by applying a cost-to-retail ratio to the retail value, any inaccuracy in the calculation of this ratio would result in a systematic valuation error across the inventory balance.
+  - Limitation: The provided context is insufficient regarding the specific data inputs or validation processes used to calculate the cost-to-retail ratio.

@@ -1,0 +1,43 @@
+ticker,company,sample_role,construct,condition,condition_label,context_file,prompt_file,context_word_count
+NKE,"Nike, Inc.",main_deep_case,revenue,text,Text-based contextual retrieval,data/processed/retrieval_contexts/nke_revenue_text_context.txt,data/processed/prompts/nke_revenue_text_prompt.txt,537
+NKE,"Nike, Inc.",main_deep_case,revenue,xbrl,XBRL-based relational retrieval,data/processed/retrieval_contexts/nke_revenue_xbrl_context.txt,data/processed/prompts/nke_revenue_xbrl_prompt.txt,624
+NKE,"Nike, Inc.",main_deep_case,revenue,hybrid,Hybrid retrieval,data/processed/retrieval_contexts/nke_revenue_hybrid_context.txt,data/processed/prompts/nke_revenue_hybrid_prompt.txt,748
+NKE,"Nike, Inc.",main_deep_case,revenue,llm_only,LLM-only diagnostic baseline,data/processed/retrieval_contexts/nke_revenue_llm_only_context.txt,data/processed/prompts/nke_revenue_llm_only_prompt.txt,10
+NKE,"Nike, Inc.",main_deep_case,inventory,text,Text-based contextual retrieval,data/processed/retrieval_contexts/nke_inventory_text_context.txt,data/processed/prompts/nke_inventory_text_prompt.txt,422
+NKE,"Nike, Inc.",main_deep_case,inventory,xbrl,XBRL-based relational retrieval,data/processed/retrieval_contexts/nke_inventory_xbrl_context.txt,data/processed/prompts/nke_inventory_xbrl_prompt.txt,628
+NKE,"Nike, Inc.",main_deep_case,inventory,hybrid,Hybrid retrieval,data/processed/retrieval_contexts/nke_inventory_hybrid_context.txt,data/processed/prompts/nke_inventory_hybrid_prompt.txt,715
+NKE,"Nike, Inc.",main_deep_case,inventory,llm_only,LLM-only diagnostic baseline,data/processed/retrieval_contexts/nke_inventory_llm_only_context.txt,data/processed/prompts/nke_inventory_llm_only_prompt.txt,10
+SBUX,Starbucks Corporation,main_deep_case,revenue,text,Text-based contextual retrieval,data/processed/retrieval_contexts/sbux_revenue_text_context.txt,data/processed/prompts/sbux_revenue_text_prompt.txt,478
+SBUX,Starbucks Corporation,main_deep_case,revenue,xbrl,XBRL-based relational retrieval,data/processed/retrieval_contexts/sbux_revenue_xbrl_context.txt,data/processed/prompts/sbux_revenue_xbrl_prompt.txt,708
+SBUX,Starbucks Corporation,main_deep_case,revenue,hybrid,Hybrid retrieval,data/processed/retrieval_contexts/sbux_revenue_hybrid_context.txt,data/processed/prompts/sbux_revenue_hybrid_prompt.txt,764
+SBUX,Starbucks Corporation,main_deep_case,revenue,llm_only,LLM-only diagnostic baseline,data/processed/retrieval_contexts/sbux_revenue_llm_only_context.txt,data/processed/prompts/sbux_revenue_llm_only_prompt.txt,10
+SBUX,Starbucks Corporation,main_deep_case,inventory,text,Text-based contextual retrieval,data/processed/retrieval_contexts/sbux_inventory_text_context.txt,data/processed/prompts/sbux_inventory_text_prompt.txt,521
+SBUX,Starbucks Corporation,main_deep_case,inventory,xbrl,XBRL-based relational retrieval,data/processed/retrieval_contexts/sbux_inventory_xbrl_context.txt,data/processed/prompts/sbux_inventory_xbrl_prompt.txt,514
+SBUX,Starbucks Corporation,main_deep_case,inventory,hybrid,Hybrid retrieval,data/processed/retrieval_contexts/sbux_inventory_hybrid_context.txt,data/processed/prompts/sbux_inventory_hybrid_prompt.txt,560
+SBUX,Starbucks Corporation,main_deep_case,inventory,llm_only,LLM-only diagnostic baseline,data/processed/retrieval_contexts/sbux_inventory_llm_only_context.txt,data/processed/prompts/sbux_inventory_llm_only_prompt.txt,10
+TGT,Target Corporation,main_deep_case,revenue,text,Text-based contextual retrieval,data/processed/retrieval_contexts/tgt_revenue_text_context.txt,data/processed/prompts/tgt_revenue_text_prompt.txt,566
+TGT,Target Corporation,main_deep_case,revenue,xbrl,XBRL-based relational retrieval,data/processed/retrieval_contexts/tgt_revenue_xbrl_context.txt,data/processed/prompts/tgt_revenue_xbrl_prompt.txt,577
+TGT,Target Corporation,main_deep_case,revenue,hybrid,Hybrid retrieval,data/processed/retrieval_contexts/tgt_revenue_hybrid_context.txt,data/processed/prompts/tgt_revenue_hybrid_prompt.txt,761
+TGT,Target Corporation,main_deep_case,revenue,llm_only,LLM-only diagnostic baseline,data/processed/retrieval_contexts/tgt_revenue_llm_only_context.txt,data/processed/prompts/tgt_revenue_llm_only_prompt.txt,10
+TGT,Target Corporation,main_deep_case,inventory,text,Text-based contextual retrieval,data/processed/retrieval_contexts/tgt_inventory_text_context.txt,data/processed/prompts/tgt_inventory_text_prompt.txt,786
+TGT,Target Corporation,main_deep_case,inventory,xbrl,XBRL-based relational retrieval,data/processed/retrieval_contexts/tgt_inventory_xbrl_context.txt,data/processed/prompts/tgt_inventory_xbrl_prompt.txt,556
+TGT,Target Corporation,main_deep_case,inventory,hybrid,Hybrid retrieval,data/processed/retrieval_contexts/tgt_inventory_hybrid_context.txt,data/processed/prompts/tgt_inventory_hybrid_prompt.txt,742
+TGT,Target Corporation,main_deep_case,inventory,llm_only,LLM-only diagnostic baseline,data/processed/retrieval_contexts/tgt_inventory_llm_only_context.txt,data/processed/prompts/tgt_inventory_llm_only_prompt.txt,10
+WMT,Walmart Inc.,bounded_extension,inventory,text,Text-based contextual retrieval,data/processed/retrieval_contexts/wmt_inventory_text_context.txt,data/processed/prompts/wmt_inventory_text_prompt.txt,629
+WMT,Walmart Inc.,bounded_extension,inventory,xbrl,XBRL-based relational retrieval,data/processed/retrieval_contexts/wmt_inventory_xbrl_context.txt,data/processed/prompts/wmt_inventory_xbrl_prompt.txt,568
+WMT,Walmart Inc.,bounded_extension,inventory,hybrid,Hybrid retrieval,data/processed/retrieval_contexts/wmt_inventory_hybrid_context.txt,data/processed/prompts/wmt_inventory_hybrid_prompt.txt,676
+HD,"Home Depot, Inc.",bounded_extension,inventory,text,Text-based contextual retrieval,data/processed/retrieval_contexts/hd_inventory_text_context.txt,data/processed/prompts/hd_inventory_text_prompt.txt,732
+HD,"Home Depot, Inc.",bounded_extension,inventory,xbrl,XBRL-based relational retrieval,data/processed/retrieval_contexts/hd_inventory_xbrl_context.txt,data/processed/prompts/hd_inventory_xbrl_prompt.txt,569
+HD,"Home Depot, Inc.",bounded_extension,inventory,hybrid,Hybrid retrieval,data/processed/retrieval_contexts/hd_inventory_hybrid_context.txt,data/processed/prompts/hd_inventory_hybrid_prompt.txt,807
+CAT,Caterpillar Inc.,bounded_extension,inventory,text,Text-based contextual retrieval,data/processed/retrieval_contexts/cat_inventory_text_context.txt,data/processed/prompts/cat_inventory_text_prompt.txt,511
+CAT,Caterpillar Inc.,bounded_extension,inventory,xbrl,XBRL-based relational retrieval,data/processed/retrieval_contexts/cat_inventory_xbrl_context.txt,data/processed/prompts/cat_inventory_xbrl_prompt.txt,535
+CAT,Caterpillar Inc.,bounded_extension,inventory,hybrid,Hybrid retrieval,data/processed/retrieval_contexts/cat_inventory_hybrid_context.txt,data/processed/prompts/cat_inventory_hybrid_prompt.txt,579
+PFE,Pfizer Inc.,bounded_extension,inventory,text,Text-based contextual retrieval,data/processed/retrieval_contexts/pfe_inventory_text_context.txt,data/processed/prompts/pfe_inventory_text_prompt.txt,624
+PFE,Pfizer Inc.,bounded_extension,inventory,xbrl,XBRL-based relational retrieval,data/processed/retrieval_contexts/pfe_inventory_xbrl_context.txt,data/processed/prompts/pfe_inventory_xbrl_prompt.txt,585
+PFE,Pfizer Inc.,bounded_extension,inventory,hybrid,Hybrid retrieval,data/processed/retrieval_contexts/pfe_inventory_hybrid_context.txt,data/processed/prompts/pfe_inventory_hybrid_prompt.txt,772
+MSFT,Microsoft Corp.,bounded_extension,revenue,text,Text-based contextual retrieval,data/processed/retrieval_contexts/msft_revenue_text_context.txt,data/processed/prompts/msft_revenue_text_prompt.txt,601
+MSFT,Microsoft Corp.,bounded_extension,revenue,xbrl,XBRL-based relational retrieval,data/processed/retrieval_contexts/msft_revenue_xbrl_context.txt,data/processed/prompts/msft_revenue_xbrl_prompt.txt,224
+MSFT,Microsoft Corp.,bounded_extension,revenue,hybrid,Hybrid retrieval,data/processed/retrieval_contexts/msft_revenue_hybrid_context.txt,data/processed/prompts/msft_revenue_hybrid_prompt.txt,555
+CROX,"Crocs, Inc.",bounded_extension,inventory,text,Text-based contextual retrieval,data/processed/retrieval_contexts/crox_inventory_text_context.txt,data/processed/prompts/crox_inventory_text_prompt.txt,733
+CROX,"Crocs, Inc.",bounded_extension,inventory,xbrl,XBRL-based relational retrieval,data/processed/retrieval_contexts/crox_inventory_xbrl_context.txt,data/processed/prompts/crox_inventory_xbrl_prompt.txt,589
+CROX,"Crocs, Inc.",bounded_extension,inventory,hybrid,Hybrid retrieval,data/processed/retrieval_contexts/crox_inventory_hybrid_context.txt,data/processed/prompts/crox_inventory_hybrid_prompt.txt,761

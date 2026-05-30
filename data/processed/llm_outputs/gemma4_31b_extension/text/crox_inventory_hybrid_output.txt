@@ -1,0 +1,27 @@
+- Claim: As of December 31, 2025, Crocs, Inc.'s net inventory was $368,687,000.
+  - Claim type: Factual
+  - Support used: F-CROX-0014
+  - Limitation: This claim is limited to the reported XBRL value for the specific instant of 2025-12-31.
+
+- Claim: Crocs, Inc. recorded an inventory write-down of $871,000 for the fiscal year 2025.
+  - Claim type: Factual
+  - Support used: F-CROX-0020
+  - Limitation: This claim is limited to the reported XBRL value for the duration period 2025-01-01 to 2025-12-31.
+
+- Claim: The valuation of inventory is subject to significant estimation uncertainty regarding the assessment of the lower of cost or net realizable value (NRV).
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-CROX-REVENUE_INVENTORY-022, T-CROX-REVENUE_INVENTORY-019
+  - Inferential bridge: The company explicitly states that inventories are stated at the lower of cost or NRV and that management must make estimates and judgments to determine this value, which may differ from actual results.
+  - Limitation: The provided context does not detail the specific internal controls used to validate these NRV estimates or the historical variance between estimated and actual NRV.
+
+- Claim: Inventory valuation is sensitive to fluctuations in consumer and retailer preferences and general market conditions.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-CROX-REVENUE_INVENTORY-022
+  - Inferential bridge: The text identifies "consumer and retailer preferences, and market conditions" as specific factors that can cause NRV estimates to differ from actual results, which directly impacts the valuation assertion.
+  - Limitation: The context does not provide specific data on current market trends or a detailed breakdown of which product lines are most susceptible to these preference shifts.
+
+- Claim: The use of outlet stores and off-price channels to sell discontinued or end-of-life inventory introduces specific valuation considerations for NRV.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-CROX-REVENUE_INVENTORY-022
+  - Inferential bridge: Because the company estimates market value based on plans to sell end-of-life inventory through off-price channels, the NRV must be mapped to the expected recovery rates of these specific channels rather than standard retail pricing.
+  - Limitation: The context lacks information regarding the actual recovery rates from outlet stores relative to the carrying cost of the inventory being diverted to those channels.

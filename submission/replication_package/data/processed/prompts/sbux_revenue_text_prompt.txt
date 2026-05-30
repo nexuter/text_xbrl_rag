@@ -1,0 +1,59 @@
+You are assisting with an auditing research task. Use only the information provided in the context.
+
+Task:
+Identify audit-relevant risk cues or assertion-mapping considerations for revenue recognition risk cue identification for Starbucks Corporation, fiscal year 2025, period ended 2025-09-28, accession 0000829224-25-000114, based on the provided context.
+
+Instructions:
+1. Provide no more than five audit-relevant claims.
+2. Distinguish factual claims from risk-cue or assertion-mapping claims.
+3. Do not conclude that a misstatement exists.
+4. State when the provided context is insufficient.
+5. Avoid treating reported XBRL relationships as independent audit evidence.
+6. Do not use general company knowledge outside the provided context.
+7. For each risk-cue or assertion-mapping claim, state the inferential bridge from the source evidence to the audit consideration.
+8. Do not write "Limitation: None" for risk-cue or assertion-mapping claims; identify at least one missing audit evidence item, missing control detail, or source-bound limitation.
+9. For factual claims, state any period, source, or measurement limitation rather than treating the claim as unrestricted.
+
+Context:
+TEXT RETRIEVAL CONTEXT
+
+[Text Chunk 1]
+chunk_id: T-SBUX-REVENUE-067
+source_file: sbux-20250928.htm
+construct_tag: revenue
+ranking_score: 15
+text: Stored value cards can be activated through various channels, including at our company-operated and most licensed store locations, online at Starbucks.com, or via mobile devices held by our customers and at certain other third-party websites and locations, such as grocery stores, although they cannot be reloaded at these third-party websites or locations. Amounts loaded onto stored value cards are initially recorded as deferred revenue and recognized as revenue upon redemption. Historically, the majority of stored value cards are redeemed within one year.
+
+[Text Chunk 2]
+chunk_id: T-SBUX-REVENUE-075
+source_file: sbux-20250928.htm
+construct_tag: revenue
+ranking_score: 12
+text: Our deferred revenue primarily consists of the up-front prepaid royalty from Nestlé, for which we have continuing performance obligations to support the Global Coffee Alliance, and our unredeemed stored value card liability and unredeemed Stars associated with our loyalty program. See Note 11 , Deferred Revenue, for further information.
+
+[Text Chunk 3]
+chunk_id: T-SBUX-REVENUE-068
+source_file: sbux-20250928.htm
+construct_tag: revenue
+ranking_score: 10
+text: In many of our company-operated markets, including the U.S., our stored value cards do not have an expiration date, nor do we charge service fees that cause a decrement to customer balances. Based on historical redemption rates, a portion of stored value cards is not expected to be redeemed and will be recognized as breakage over time in proportion to stored value card redemptions. The redemption rates are based on historical redemption patterns for each market, including the timing and business channel in which the card was activated or reloaded, and remittance to government agencies under unclaimed property laws, if applicable.
+
+[Text Chunk 4]
+chunk_id: T-SBUX-REVENUE-084
+source_file: sbux-20250928.htm
+construct_tag: revenue
+ranking_score: 9
+text: As of September 28, 2025, the current and long-term deferred revenue related to the Nestlé up-front payment was $ 177.0 million and $ 5.6 billion, respectively. As of September 29, 2024, the current and long-term deferred revenue related to the Nestlé up-front payment was $ 177.0 million and $ 5.8 billion, respectively. During each of the fiscal years ended September 28, 2025, September 29, 2024, and October 1, 2023, we recognized $ 176.5 million of prepaid royalty revenue related to Nestlé.
+
+[Text Chunk 5]
+chunk_id: T-SBUX-REVENUE_INVENTORY-001
+source_file: sbux-20250928.htm
+construct_tag: revenue_inventory
+ranking_score: 9
+text: Revenues from our licensed stores accounted for 12% of total net revenues in fiscal 2025. Licensed stores generally have a lower gross margin and a higher operating margin than company-operated stores. Under the licensed model, Starbucks receives a margin on branded products and supplies sold to the licensed store operator along with a royalty on retail sales. Licensees are responsible for operating costs and capital investments, which more than offset the lower revenues we receive under the licensed store model.
+
+Output format:
+- Claim:
+  - Claim type:
+  - Support used:
+  - Limitation:

@@ -1,0 +1,74 @@
+[
+  {
+    "ticker": "NKE",
+    "company": "Nike, Inc.",
+    "sample_role": "main_deep_case",
+    "text_chunks": 184,
+    "xbrl_facts": 365,
+    "xbrl_relations": 99
+  },
+  {
+    "ticker": "SBUX",
+    "company": "Starbucks Corporation",
+    "sample_role": "main_deep_case",
+    "text_chunks": 122,
+    "xbrl_facts": 135,
+    "xbrl_relations": 210
+  },
+  {
+    "ticker": "TGT",
+    "company": "Target Corporation",
+    "sample_role": "main_deep_case",
+    "text_chunks": 103,
+    "xbrl_facts": 102,
+    "xbrl_relations": 79
+  },
+  {
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "text_chunks": 120,
+    "xbrl_facts": 141,
+    "xbrl_relations": 109
+  },
+  {
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "text_chunks": 125,
+    "xbrl_facts": 173,
+    "xbrl_relations": 174
+  },
+  {
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "text_chunks": 213,
+    "xbrl_facts": 1047,
+    "xbrl_relations": 574
+  },
+  {
+    "ticker": "PFE",
+    "company": "Pfizer Inc.",
+    "sample_role": "bounded_extension",
+    "text_chunks": 196,
+    "xbrl_facts": 336,
+    "xbrl_relations": 272
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "text_chunks": 150,
+    "xbrl_facts": 144,
+    "xbrl_relations": 0
+  },
+  {
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "text_chunks": 164,
+    "xbrl_facts": 123,
+    "xbrl_relations": 102
+  }
+]

@@ -1,0 +1,36 @@
+TEXT RETRIEVAL CONTEXT
+
+[Text Chunk 1]
+chunk_id: T-NKE-REVENUE-071
+source_file: nke-20250531.htm
+construct_tag: revenue
+ranking_score: 12
+text: • Asia Pacific & Latin America ("APLA") revenues decreased 3% on a currency-neutral basis primarily due to lower revenues in Southeast Asia & India and Korea, partially offset by higher revenues in Mexico. Revenues decreased primarily due to lower revenues in the Jordan Brand and Men's. Wholesale revenues decreased 3%. NIKE Direct revenues decreased 3% due to a decline in digital sales of 9%, partially offset by an increase in store sales of 4%. Comparable store sales increased 1%.
+
+[Text Chunk 2]
+chunk_id: T-NKE-REVENUE-021
+source_file: nke-20250531.htm
+construct_tag: revenue
+ranking_score: 10
+text: Many of our consumers shop with us through our digital platforms. Consumers frequently use mobile-based devices and applications to shop online with us and with our competitors and to do comparison shopping as well as to engage with us and our competitors through digital services and experiences that are offered on mobile platforms. We use social media and proprietary mobile applications to interact with our consumers and as a means to enhance their shopping experience. Any failure on our part to provide attractive effective reliable secure and user-friendly digital commerce platforms that offer a wide assortment of merchandise with rapid delivery options and that continually meet the changing expectations of online shoppers or any failure to provide attractive digital experiences to our customers could place us at a competitive disadvantage result in the loss of digital commerce and other sales harm our reputation with consumers have a material adverse impact on the growth of our digital commerce business globally and have a material adverse impact on our business and results of operations. In addition if use of our digital platforms continues to grow we will need an increasing amount of technical infrastructure to continue to satisfy our consumers needs. If we fail to continue to effectively scale and adapt our digital platforms to accommodate increased consumer demand our business may ...
+
+[Text Chunk 3]
+chunk_id: T-NKE-REVENUE-062
+source_file: nke-20250531.htm
+construct_tag: revenue
+ranking_score: 9
+text: • North America revenues decreased 8% on a currency-neutral basis primarily due to lower revenues in the Jordan Brand, Men's and Women's. Wholesale revenues decreased 5%. NIKE Direct revenues decreased 12% due to declines in digital sales of 19% and store sales of 1%. Comparable store sales decreased 1%.
+
+[Text Chunk 4]
+chunk_id: T-NKE-REVENUE-065
+source_file: nke-20250531.htm
+construct_tag: revenue
+ranking_score: 9
+text: • EMEA revenues decreased 10% on a currency-neutral basis due to lower revenues in Men's, the Jordan Brand, Kids' and Women's. Wholesale revenues decreased 6%. NIKE Direct revenues decreased 16% due to a decline in digital sales of 30%, partially offset by an increase in store sales of 5%. Comparable store sales increased 5%.
+
+[Text Chunk 5]
+chunk_id: T-NKE-REVENUE-068
+source_file: nke-20250531.htm
+construct_tag: revenue
+ranking_score: 9
+text: • Greater China revenues decreased 12% on a currency-neutral basis due to lower revenues in Men's, the Jordan Brand, Women's and Kids'. Wholesale revenues decreased 13%. NIKE Direct revenues decreased 12% due to declines in digital sales of 22% and store sales of 6%. Comparable store sales decreased 7%.

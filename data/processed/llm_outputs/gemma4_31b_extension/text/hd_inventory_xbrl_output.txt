@@ -1,0 +1,27 @@
+- Claim: As of February 1, 2026, the InventoryNet value was $25,817,000,000.
+  - Claim type: Factual
+  - Support used: F-HD-0003
+  - Limitation: This value is restricted to the specific reporting date of 2026-02-01 and the measurement provided in the XBRL fact.
+
+- Claim: Home Depot acquired inventory valued at $568,000,000 through the GMS Inc acquisition on September 4, 2025.
+  - Claim type: Factual
+  - Support used: F-HD-0169
+  - Limitation: This claim is limited to the specific acquisition date and the reported value for the GMS Inc member.
+
+- Claim: The acquisition of inventory from GMS Inc ($568 million) and SRS ($1.988 billion) presents a risk to the inventory valuation assertion.
+  - Claim type: Risk-cue / Assertion-mapping
+  - Support used: F-HD-0169, F-HD-0172
+  - Inferential bridge: Assets acquired in business combinations must be recognized at fair value; the integration of acquired inventory into the company's existing valuation framework may lead to inconsistencies or errors in initial measurement.
+  - Limitation: Missing the purchase price allocation (PPA) reports or the specific fair value assessment documentation used to determine these values.
+
+- Claim: The increase in InventoryNet from $23,451,000,000 (as of 2025-02-02) to $25,817,000,000 (as of 2026-02-01) may indicate a risk of overvaluation or obsolescence.
+  - Claim type: Risk-cue / Assertion-mapping
+  - Support used: F-HD-0004, F-HD-0003
+  - Inferential bridge: A significant increase in the carrying amount of inventory may suggest that the asset is not being written down to the lower of cost or net realizable value if the growth is not aligned with sales volume.
+  - Limitation: Missing inventory aging reports or inventory turnover ratios to determine if the increase is due to strategic growth or slow-moving stock.
+
+- Claim: The existence of deferred tax liabilities specifically attributed to capitalized inventory costs suggests complexity in the valuation of inventory.
+  - Claim type: Risk-cue / Assertion-mapping
+  - Support used: X-HD-0107
+  - Inferential bridge: The requirement to track separate tax and book bases for capitalized inventory costs indicates that valuation is subject to specific accounting estimates and adjustments.
+  - Limitation: The provided context contains a presentation link to the "Inventory Policy Text Block" (X-HD-0011), but the actual text of the accounting policy is missing.

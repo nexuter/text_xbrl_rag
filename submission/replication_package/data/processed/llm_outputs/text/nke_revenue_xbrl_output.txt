@@ -1,0 +1,24 @@
+**Claim 1: Contract with Customer Refund Liability**
+- Claim type: Risk-cue/Assertion-mapping
+- Support used: fact_id=F-NKE-0252 (ContractWithCustomerRefundLiabilityCurrent value=1277000000 unit=iso4217:USD period=instant:2025-05-31) and path_id=X-NKE-0034 (linking RevenueFromContractWithCustomerAbstract to ContractWithCustomerRefundLiabilityCurrent).
+- Limitation: The context provides the current liability balance but does not provide the underlying contractual details or the methodology used to calculate the liability, making it impossible to assess the completeness or accuracy of the balance.
+
+**Claim 2: Accounts Receivable Valuation**
+- Claim type: Risk-cue/Assertion-mapping
+- Support used: fact_id=F-NKE-0010 (AccountsReceivableNetCurrent value=4717000000 unit=iso4217:USD period=instant:2025-05-31) and fact_id=F-NKE-0023 (AllowanceForDoubtfulAccountsReceivable value=27000000 unit=iso4217:USD period=instant:2025-05-31).
+- Limitation: The context provides the reported A/R balance and the allowance, but does not provide the underlying aging schedule, credit risk models, or assumptions used to determine the adequacy of the allowance for doubtful accounts.
+
+**Claim 3: Revenue Disaggregation Completeness**
+- Claim type: Risk-cue/Assertion-mapping
+- Support used: path_id=X-NKE-0021 (linking RevenueFromContractWithCustomerAbstract to DisaggregationOfRevenueTable) and path_id=X-NKE-0032 (linking DisaggregationOfRevenueLineItems to RevenueFromContractWithCustomerExcludingAssessedTax).
+- Limitation: While the context shows the structure for revenue disaggregation, it does not provide the full set of required dimensions or line items necessary to confirm that all sources of revenue have been captured and reported.
+
+**Claim 4: Segment Reporting Consistency**
+- Claim type: Risk-cue/Assertion-mapping
+- Support used: fact_id=F-NKE-0181 and fact_id=F-NKE-0182 (reporting segment-specific revenue data for a prior period) and path_id=X-NKE-0089 (linking segment revenue to schedule details).
+- Limitation: The segment data provided is for the period 2022-06-01/2023-05-31, and the target period is 2025-05-31. The context does not provide segment-level revenue data for the required 2025 period.
+
+**Claim 5: Direct Revenue Data for Target Period**
+- Claim type: Factual claim / Limitation
+- Support used: The target period is 2025-05-31. The provided revenue facts (e.g., F-NKE-0003) are all dated for the period 2022-06-01/2023-05-31.
+- Limitation: The provided context contains no direct revenue facts or related paths for the period ending 2025-05-31, making it impossible to assess the revenue assertion for the target year.

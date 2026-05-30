@@ -1,0 +1,27 @@
+- Claim: For the fiscal years ended September 28, 2025, September 29, 2024, and October 1, 2023, Starbucks recognized $176.5 million of prepaid royalty revenue related to Nestlé.
+  - Claim type: Factual
+  - Support used: [Text Chunk 4]
+  - Limitation: This claim is limited to the specific figures and fiscal periods reported in the provided text.
+
+- Claim: Licensed stores accounted for 12% of total net revenues in fiscal 2025.
+  - Claim type: Factual
+  - Support used: [Text Chunk 5]
+  - Limitation: This claim is limited to the fiscal 2025 measurement period.
+
+- Claim: Revenue recognition for stored value card breakage is based on historical redemption patterns, including timing, business channel, and remittance to government agencies under unclaimed property laws.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 3]
+  - Inferential bridge: Because breakage is recognized based on estimates of historical patterns rather than fixed expiration dates, there is a risk regarding the Accuracy and Cut-off of the revenue recognized from breakage.
+  - Limitation: The provided context does not include the specific mathematical model or the validation process used to determine the historical redemption rates.
+
+- Claim: Stored value cards are activated through multiple channels, including company-operated stores, licensed stores, online, mobile devices, and third-party websites.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 1]
+  - Inferential bridge: The diversity of activation channels, particularly the use of third-party websites, increases the complexity of capturing all transactions, which maps to a risk regarding the Completeness of the initial deferred revenue liability.
+  - Limitation: The context lacks detail on the internal controls used to reconcile activation data from third-party websites with the company's internal accounting records.
+
+- Claim: Deferred revenue from the Nestlé up-front payment is recognized based on continuing performance obligations to support the Global Coffee Alliance.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 2]
+  - Inferential bridge: The recognition of revenue is contingent upon the satisfaction of "continuing performance obligations," which introduces a risk that revenue could be recognized without the corresponding performance being delivered, mapping to the Occurrence assertion.
+  - Limitation: The provided context does not define the specific nature of the performance obligations or the criteria used to measure their satisfaction.

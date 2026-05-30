@@ -1,0 +1,27 @@
+- Claim: As of January 31, 2026, the net inventory value for Walmart Inc. was $58,851,000,000.
+  - Claim type: Factual
+  - Support used: F-WMT-0012
+  - Limitation: This claim is limited to the reported XBRL value for the specific instant of 2026-01-31.
+
+- Claim: Walmart Inc. utilizes various inventory methods depending on store formats and businesses, recording inventories at the lower of cost or market or net realizable value, as appropriate.
+  - Claim type: Factual
+  - Support used: Text Chunk 2
+  - Limitation: This claim is limited to the high-level description of accounting policies provided in the text.
+
+- Claim: The use of multiple valuation methods (lower of cost or market vs. net realizable value) across different store formats and business segments creates a risk regarding the valuation assertion.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: Text Chunk 2
+  - Inferential bridge: The application of different valuation standards (LCM vs. NRV) based on the "nature of the store formats" increases the complexity of the valuation process, as the auditor must verify that the correct method was applied to the corresponding inventory category.
+  - Limitation: The provided context does not specify which store formats or business segments are mapped to which valuation method.
+
+- Claim: The reliance on the Retail Inventory Method (RIM) and the immediate recording of permanent markdowns in the Walmart U.S. segment presents a risk to the valuation assertion.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: Text Chunk 3
+  - Inferential bridge: Because RIM achieves "lower of cost or market" valuation through the immediate recording of permanent markdowns, any failure to accurately identify or timely record these markdowns would result in an overstatement of inventory value.
+  - Limitation: The context provides no information regarding the internal controls used to distinguish between permanent and temporary markdowns.
+
+- Claim: The use of the last-in, first-out (LIFO) valuation method for the Walmart U.S. segment is a consideration for the inventory valuation assertion.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: Text Chunk 3
+  - Inferential bridge: LIFO valuation requires the maintenance of inventory layers and the calculation of LIFO reserves; errors in these calculations or the tracking of layers directly impact the reported valuation of inventory.
+  - Limitation: The provided context is insufficient as it does not include LIFO reserve balances or details on the LIFO layers.

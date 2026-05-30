@@ -1,0 +1,24 @@
+- Claim: The contract with customer refund liability increased from $799,000,000 as of 2024-05-31 to $1,277,000,000 as of 2025-05-31.
+  - Claim type: Factual claim
+  - Support used: F-NKE-0253, F-NKE-0252
+  - Limitation: None
+
+- Claim: The significant increase in refund liability may serve as a risk cue for the accuracy and occurrence assertions of revenue recognition, as it relates to the estimation of returns.
+  - Claim type: Risk-cue or assertion-mapping claim
+  - Support used: F-NKE-0253, F-NKE-0252
+  - Limitation: The context does not provide the specific accounting policy for estimating refund liabilities.
+
+- Claim: Between 2024-05-31 and 2025-05-31, accounts receivable net increased from $4,427,000,000 to $4,717,000,000, while the allowance for doubtful accounts decreased from $35,000,000 to $27,000,000.
+  - Claim type: Factual claim
+  - Support used: F-NKE-0011, F-NKE-0010, F-NKE-0024, F-NKE-0023
+  - Limitation: None
+
+- Claim: The combination of increasing accounts receivable and a decreasing allowance for doubtful accounts may indicate a risk regarding the valuation assertion of receivables and the collectability of recognized revenue.
+  - Claim type: Risk-cue or assertion-mapping claim
+  - Support used: F-NKE-0011, F-NKE-0010, F-NKE-0024, F-NKE-0023
+  - Limitation: The context does not provide the aging of accounts receivable or historical collection rates.
+
+- Claim: The increase in accounts receivable for the period 2024-06-01 to 2025-05-31 was $257,000,000.
+  - Claim type: Factual claim
+  - Support used: F-NKE-0014
+  - Limitation: The provided context is insufficient to compare this increase against total revenue for the same period, as 2025 total revenue is not provided.

@@ -1,0 +1,65 @@
+You are assisting with an auditing research task. Use only the information provided in the context.
+
+Task:
+Identify audit-relevant risk cues or assertion-mapping considerations for inventory valuation assertion mapping for Target Corporation, fiscal year 2024, period ended 2025-02-01, accession 0000027419-25-000018, based on the provided context.
+
+Instructions:
+1. Provide no more than five audit-relevant claims.
+2. Distinguish factual claims from risk-cue or assertion-mapping claims.
+3. Do not conclude that a misstatement exists.
+4. State when the provided context is insufficient.
+5. Avoid treating reported XBRL relationships as independent audit evidence.
+6. Do not use general company knowledge outside the provided context.
+7. For each risk-cue or assertion-mapping claim, state the inferential bridge from the source evidence to the audit consideration.
+8. Do not write "Limitation: None" for risk-cue or assertion-mapping claims; identify at least one missing audit evidence item, missing control detail, or source-bound limitation.
+9. For factual claims, state any period, source, or measurement limitation rather than treating the claim as unrestricted.
+
+Context:
+TEXT RETRIEVAL CONTEXT
+
+[Text Chunk 1]
+chunk_id: T-TGT-REVENUE_INVENTORY-012
+source_file: tgt-20250201.htm
+construct_tag: revenue_inventory
+ranking_score: 21
+text: Inventory and cost of sales The vast majority of our inventory is accounted for under the retail inventory accounting method using the last-in first-out method LIFO . Our inventory is valued at the lower of LIFO cost or market. We reduce inventory for estimated losses related to shrink and markdowns. Our shrink estimate is based on historical losses and is adjusted to reflect results of actual physical inventory counts. We generally perform counts at each location annually with counts taking place throughout the year. A 10 percent increase or decrease in our 2024 year-end inventory shrink reserve would impact our cost of sales by approximately $150 million. Historically our actual physical inventory count results have shown our estimates to be reasonably accurate. Market adjustments for markdowns are recorded when the salability of the merchandise has diminished. Salability can be impacted by consumer preferences and seasonality among other factors. We believe the risk of inventory obsolescence is largely mitigated because our ...
+
+[Text Chunk 2]
+chunk_id: T-TGT-REVENUE_INVENTORY-008
+source_file: tgt-20250201.htm
+construct_tag: revenue_inventory
+ranking_score: 15
+text: Note: Gross margin is calculated as Net Sales less Cost of Sales. All rates are calculated by dividing the applicable amount by Net Sales. Previously our gross margin rate was calculated based only on Merchandise Sales. The calculation change aligns with our 2024 transition to a single-line revenue presentation on our Consolidated Statements of Operations, with prior period amounts updated to conform to the current year presentation. We also updated prior period gross margin rates to conform to the current year calculations, which resulted in an approximate 1 percentage point increase in our gross margin rate for both 2023 and 2022.
+
+[Text Chunk 3]
+chunk_id: T-TGT-INVENTORY-020
+source_file: tgt-20250201.htm
+construct_tag: inventory
+ranking_score: 11
+text: Under RIM, inventory cost and the resulting gross margins are calculated by applying a cost-to-retail ratio to the inventory retail value. RIM is an averaging method that has been widely used in the retail industry due to its practicality. The use of RIM will result in inventory being valued at the lower of cost or market because permanent markdowns are taken as a reduction of the retail value of inventory.
+
+XBRL RELATIONAL RETRIEVAL CONTEXT
+
+Facts:
+1. fact_id=F-TGT-0072 concept=InventoryLIFOReservePeriodCharge value=153000000 unit=iso4217:USD period=duration:2023-01-29/2024-02-03 dimensions=none
+2. fact_id=F-TGT-0071 concept=InventoryLIFOReservePeriodCharge value=183000000 unit=iso4217:USD period=duration:2024-02-04/2025-02-01 dimensions=none
+3. fact_id=F-TGT-0008 concept=InventoryNet value=11886000000 unit=iso4217:USD period=instant:2024-02-03 dimensions=none
+4. fact_id=F-TGT-0007 concept=InventoryNet value=12740000000 unit=iso4217:USD period=instant:2025-02-01 dimensions=none
+5. fact_id=F-TGT-0006 concept=CostOfGoodsAndServicesSold value=82306000000 unit=iso4217:USD period=duration:2022-01-30/2023-01-28 dimensions=none
+6. fact_id=F-TGT-0096 concept=CostOfGoodsAndServicesSold value=74436000000 unit=iso4217:USD period=duration:2022-01-30/2023-01-28 dimensions=srt:ProductOrServiceAxis=tgt:MerchandisingMember; us-gaap:StatementBusinessSegmentsAxis=tgt:ReportableSegmentMember
+7. fact_id=F-TGT-0099 concept=CostOfGoodsAndServicesSold value=7870000000 unit=iso4217:USD period=duration:2022-01-30/2023-01-28 dimensions=srt:ProductOrServiceAxis=tgt:SupplyChainAndDigitalFulfillmentCostsMember; us-gaap:StatementBusinessSegmentsAxis=tgt:ReportableSegmentMember
+8. fact_id=F-TGT-0067 concept=CostOfGoodsAndServicesSoldDecreaseDueToReclassification value=77000000 unit=iso4217:USD period=duration:2022-01-30/2023-01-28 dimensions=none
+
+Relation paths:
+1. path_id=X-TGT-0034 relation_type=presentation source=us-gaap:InventoryDisclosureAbstract (Inventory Disclosure [Abstract]) -> target=us-gaap:InventoryLIFOReservePeriodCharge (Inventory, LIFO Reserve, Period Charge) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://corporate.target.com/role/InventoryNarrativeDetails
+2. path_id=X-TGT-0078 relation_type=definition source=us-gaap:CostOfGoodsAndServicesSoldAbstract (Cost of Goods and Services Sold [Abstract]) -> target=us-gaap:CostOfGoodsAndServicesSold (Cost of Goods and Services Sold) arcrole=http://xbrl.org/int/dim/arcrole/domain-member role=http://corporate.target.com/role/SegmentReportingScheduleofBusinessSegmentResultsDetails
+3. path_id=X-TGT-0046 relation_type=presentation source=us-gaap:CostOfGoodsAndServicesSoldAbstract (Cost of Goods and Services Sold [Abstract]) -> target=us-gaap:CostOfGoodsAndServicesSold (Cost of Goods and Services Sold) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://corporate.target.com/role/SegmentReportingScheduleofBusinessSegmentResultsDetails
+4. path_id=X-TGT-0007 relation_type=presentation source=us-gaap:InventoryDisclosureAbstract (Inventory Disclosure [Abstract]) -> target=us-gaap:InventoryDisclosureTextBlock (Inventory Disclosure [Text Block]) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://corporate.target.com/role/Inventory
+5. path_id=X-TGT-0033 relation_type=presentation source=tgt:CostOfSalesAndSellingGeneralAndAdministrativeExpensesAbstract (label unavailable) -> target=tgt:CostOfGoodsAndServicesSoldDecreaseDueToReclassification (label unavailable) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://corporate.target.com/role/CostofSalesandSellingGeneralandAdministrativeExpensesDetails
+6. path_id=X-TGT-0032 relation_type=presentation source=tgt:CostOfSalesAndSellingGeneralAndAdministrativeExpensesAbstract (label unavailable) -> target=tgt:CostOfGoodsAndServicesSoldIncreaseDueToReclassification (label unavailable) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://corporate.target.com/role/CostofSalesandSellingGeneralandAdministrativeExpensesDetails
+
+Output format:
+- Claim:
+  - Claim type:
+  - Support used:
+  - Limitation:

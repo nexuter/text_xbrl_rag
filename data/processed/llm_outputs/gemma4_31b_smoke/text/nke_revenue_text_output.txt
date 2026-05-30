@@ -1,0 +1,24 @@
+- Claim: Revenues decreased on a currency-neutral basis across all reported regions, including Asia Pacific & Latin America (3%), North America (8%), EMEA (10%), and Greater China (12%).
+  - Claim type: Factual claim
+  - Support used: [Text Chunk 1], [Text Chunk 3], [Text Chunk 4], [Text Chunk 5]
+  - Limitation: This claim is limited to the specific regions and the currency-neutral metric provided in the text.
+
+- Claim: Digital sales declined across all reported regions, with decreases of 9% in APLA, 19% in North America, 30% in EMEA, and 22% in Greater China.
+  - Claim type: Factual claim
+  - Support used: [Text Chunk 1], [Text Chunk 3], [Text Chunk 4], [Text Chunk 5]
+  - Limitation: This claim is limited to the digital sales channel within the specified regions.
+
+- Claim: The risk that failure to provide reliable, secure, and user-friendly digital commerce platforms could result in the loss of digital commerce and sales serves as a risk cue for the occurrence and accuracy of digital revenue.
+  - Claim type: Risk-cue or assertion-mapping claim
+  - Support used: [Text Chunk 2]
+  - Limitation: The context identifies this as a business risk; the mapping to audit assertions (occurrence/accuracy) is an inference based on the potential loss of sales.
+
+- Claim: The requirement for increasing technical infrastructure to scale digital platforms to accommodate consumer demand is a risk cue for the accuracy and completeness of revenue recording.
+  - Claim type: Risk-cue or assertion-mapping claim
+  - Support used: [Text Chunk 2]
+  - Limitation: The context does not provide details on current infrastructure failures, only the need for scaling to avoid potential business impact.
+
+- Claim: The consistent decline in wholesale revenues across all reported regions (APLA -3%, North America -5%, EMEA -6%, Greater China -13%) is a risk cue for the occurrence and accuracy of wholesale revenue.
+  - Claim type: Risk-cue or assertion-mapping claim
+  - Support used: [Text Chunk 1], [Text Chunk 3], [Text Chunk 4], [Text Chunk 5]
+  - Limitation: The context provides the percentage decreases but does not provide the underlying causes for the wholesale decline, which would be necessary to refine the risk cue.

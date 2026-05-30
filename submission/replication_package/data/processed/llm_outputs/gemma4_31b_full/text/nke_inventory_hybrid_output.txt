@@ -1,0 +1,27 @@
+- Claim: Nike values inventories at the lower of cost and net realizable value, utilizing either an average or a specific identification cost basis.
+  - Claim type: Factual
+  - Support used: Text Chunk 3
+  - Limitation: This claim is limited to the accounting policies disclosed in the provided text for the period ended 2025-05-31.
+
+- Claim: As of May 31, 2025, the Company's inventory reserve was $233 million, an increase from $155 million as of May 31, 2024.
+  - Claim type: Factual
+  - Support used: Text Chunk 2, F-NKE-0026, F-NKE-0027
+  - Limitation: This claim is limited to the reported figures provided in the text and XBRL facts for the specific dates mentioned.
+
+- Claim: The use of ongoing estimates for net realizable value (NRV) based on assumptions regarding future demand, market conditions, sales trends, and historical experience creates a risk to the inventory valuation assertion.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: Text Chunk 1
+  - Inferential bridge: Because the NRV is derived from management's subjective assumptions about future market behavior rather than purely objective historical costs, there is a risk that the estimates may be inaccurate or biased, leading to a potential misvaluation of inventory.
+  - Limitation: The provided context does not detail the specific controls used to review these assumptions or the data sources used for "historical experience."
+
+- Claim: The increase in the inventory reserve from $155 million (2024) to $233 million (2025) serves as a risk cue for the adequacy of the valuation reserve.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: Text Chunk 2, F-NKE-0026, F-NKE-0027
+  - Inferential bridge: A significant increase in the reserve suggests a higher proportion of inventory is estimated to be impaired; this requires audit verification to ensure the reserve is sufficient to cover the decline in NRV and is not understated.
+  - Limitation: The context does not provide the specific drivers or reasons for the increase in the reserve.
+
+- Claim: The practice of shipping products directly from suppliers to customers, where inventory and cost of sales are recognized on a specific identification basis, introduces a risk to the accuracy of inventory valuation and cost allocation.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: Text Chunk 3
+  - Inferential bridge: Direct shipping bypasses standard warehouse receipt processes, meaning the valuation relies on a different costing method (specific identification) than the general average cost basis, increasing the complexity of the audit trail and the risk of recording errors.
+  - Limitation: The context does not provide information on the internal controls or systems used to track and verify these direct-shipment transactions.

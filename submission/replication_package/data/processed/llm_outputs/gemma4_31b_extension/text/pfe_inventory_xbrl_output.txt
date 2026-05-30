@@ -1,0 +1,27 @@
+- Claim: As of 2024-12-31, Inventory Finished Goods Net of Reserves was valued at 3,775,000,000 USD.
+  - Claim type: Factual
+  - Support used: F-PFE-0116
+  - Limitation: This claim is limited to the measurement as of the specific instant 2024-12-31 and is reported net of reserves.
+
+- Claim: As of 2023-12-14, Pfizer recognized 3,273,000,000 USD in inventory acquired through the business combination with Seagen.
+  - Claim type: Factual
+  - Support used: F-PFE-0037
+  - Limitation: This claim is limited to the acquisition date of 2023-12-14 and the specific business acquisition axis member (Seagen).
+
+- Claim: The return of 6.5 million treatment courses of Paxlovid EUA Labeled inventory (as of 2023-12-31) and the subsequent favorable adjustment of 771,000,000 USD (for the period 2024-01-01 to 2024-03-31) creates a risk regarding the valuation of returned goods.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-PFE-0134, F-PFE-0169
+  - Inferential bridge: Large volumes of returned inventory, specifically those with "Emergency Use Authorization" (EUA) labeling, may have restricted resale utility or shorter remaining shelf lives, which could necessitate write-downs to net realizable value.
+  - Limitation: Missing information regarding the expiration dates of the returned EUA-labeled inventory and the company's policy for repurposing returned government stock.
+
+- Claim: The recognition of 3,273,000,000 USD in inventory from the Seagen acquisition requires consideration for subsequent valuation adjustments.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-PFE-0037
+  - Inferential bridge: Inventory acquired in a business combination is initially recorded at fair value; there is a risk that the carrying value may exceed the net realizable value in subsequent periods.
+  - Limitation: Missing the initial fair value assessment documentation and any subsequent impairment testing performed on the Seagen inventory.
+
+- Claim: The reporting of finished goods "Net of Reserves" indicates a reliance on management estimates for inventory valuation.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-PFE-0116
+  - Inferential bridge: The use of reserves to arrive at the net value of finished goods implies the application of management judgment to estimate obsolescence or slow-moving stock, which is a primary area of risk for the valuation assertion.
+  - Limitation: Missing the specific methodology used to calculate the reserves and the underlying inventory aging reports.

@@ -1,0 +1,36 @@
+TEXT RETRIEVAL CONTEXT
+
+[Text Chunk 1]
+chunk_id: T-WMT-REVENUE_INVENTORY-020
+source_file: wmt-20260131.htm
+construct_tag: revenue_inventory
+ranking_score: 18
+text: Operating, selling, general and administrative expenses include all operating costs of the Company (except cost of sales, as described above), which comprise substantially all labor-related, depreciation and amortization, maintenance and repairs, utilities, and other general operating costs incurred in stores, clubs and other facilities. The majority of the cost of warehousing and occupancy for the Walmart U.S. and Walmart International segments' distribution facilities is included in operating, selling, general and administrative expenses. Because the Company only includes a portion of the cost of its Walmart U.S. and Walmart International segments' distribution facilities in cost of sales, its gross profit and gross profit as a percentage of net sales may not be comparable to those of other retailers that may include all costs related to their distribution facilities in cost of sales and in the calculation of gross profit.
+
+[Text Chunk 2]
+chunk_id: T-WMT-INVENTORY-015
+source_file: wmt-20260131.htm
+construct_tag: inventory
+ranking_score: 9
+text: The Company utilizes various inventory methods to account for and value its inventories depending upon the nature of the store formats and businesses in each of its segments, resulting in inventories that are recorded at the lower of cost or market or net realizable value, as appropriate.
+
+[Text Chunk 3]
+chunk_id: T-WMT-INVENTORY-016
+source_file: wmt-20260131.htm
+construct_tag: inventory
+ranking_score: 9
+text: • Walmart U.S. Segment - Inventories are primarily accounted for under the retail inventory method of accounting ("RIM") to determine inventory cost, using the last-in, first-out ("LIFO") valuation method. RIM generally results in inventory being valued at the lower of cost or market as permanent markdowns are immediately recorded as a reduction of the retail value of inventory.
+
+[Text Chunk 4]
+chunk_id: T-WMT-REVENUE_INVENTORY-010
+source_file: wmt-20260131.htm
+construct_tag: revenue_inventory
+ranking_score: 7
+text: Gross profit as a percentage of net sales ("gross profit rate") increased 8 and 40 basis points for fiscal 2026 and 2025, respectively, when compared to the previous fiscal year. The increase in fiscal 2026 was primarily driven by the Walmart U.S. segment, due to disciplined inventory management, as well as growth in higher margin businesses globally. The increase in fiscal 2025 was primarily driven by the Walmart U.S. segment, due to managing prices aligned to our competitive historic price gaps, as well as growth in higher margin businesses globally. In both years, the increases were partially offset by mix shifts into lower margin merchandise categories across segments, as well as ongoing channel and format mix shifts in the Walmart International segment.
+
+[Text Chunk 5]
+chunk_id: T-WMT-REVENUE_INVENTORY-004
+source_file: wmt-20260131.htm
+construct_tag: revenue_inventory
+ranking_score: 6
+text: consumer credit, higher consumer debt levels, changes in consumer spending and shopping patterns, fluctuations in currency exchange rates, higher tax rates, imposition of new taxes or other changes in tax laws, changes in healthcare laws, other regulatory changes, the imposition of export and import restrictions, tariffs, trade barriers or other measures that create barriers to or increase the costs associated with international trade, overall economic slowdown or recession and other economic factors in the U.S., or in any of the other markets in which we operate, could adversely affect consumer demand for the products and services we sell in the U.S. or such other markets, change the mix of products we sell to any one or more markets with a lower average gross margin, cause a slowdown in discretionary purchases of goods, adversely affect our net sales, growth rates, operating income and result in slower inventory turnover and greater markdowns of inventory, or otherwise materially adversely affect our operations and operating results and could result in impairment charges to intangible assets, goodwill or other long-lived assets.

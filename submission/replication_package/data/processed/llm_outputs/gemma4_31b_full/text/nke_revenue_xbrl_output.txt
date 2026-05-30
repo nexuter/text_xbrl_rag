@@ -1,0 +1,26 @@
+- Claim: The increase in the current refund liability from $799 million as of 2024-05-31 to $1.277 billion as of 2025-05-31 serves as a risk cue for the valuation assertion of revenue.
+  - Claim type: risk-cue or assertion-mapping
+  - Support used: F-NKE-0253, F-NKE-0252
+  - Inferential bridge: A significant increase in the liability for refunds suggests a higher volume of expected returns or a change in estimation methodology, which directly impacts the amount of revenue that can be recognized as earned.
+  - Limitation: Missing the company's specific accounting policy for estimating refund liabilities and historical return rate data to evaluate the reasonableness of the increase.
+
+- Claim: The simultaneous increase in net accounts receivable (from $4.427 billion to $4.717 billion) and decrease in the allowance for doubtful accounts (from $35 million to $27 million) between 2024-05-31 and 2025-05-31 indicates a risk cue for the valuation assertion of revenue and receivables.
+  - Claim type: risk-cue or assertion-mapping
+  - Support used: F-NKE-0011, F-NKE-0010, F-NKE-0024, F-NKE-0023
+  - Inferential bridge: Typically, an increase in the total receivables balance would be expected to correlate with an increase or stability in the allowance for doubtful accounts; a decrease in the allowance while the asset grows may suggest an underestimation of credit risk.
+  - Limitation: Missing the accounts receivable aging schedule and the specific credit loss model used to calculate the allowance.
+
+- Claim: As of May 31, 2025, Nike, Inc. reported a current contract with customer refund liability of $1,277,000,000.
+  - Claim type: factual
+  - Support used: F-NKE-0252
+  - Limitation: This is a point-in-time measurement as of 2025-05-31 and does not provide the trajectory of the liability throughout the fiscal year.
+
+- Claim: Net accounts receivable as of May 31, 2025, was $4,717,000,000.
+  - Claim type: factual
+  - Support used: F-NKE-0010
+  - Limitation: This is a net measurement, which aggregates the gross receivables and the allowance for doubtful accounts.
+
+- Claim: The increase in accounts receivable for the period from 2024-06-01 to 2025-05-31 was $257,000,000.
+  - Claim type: factual
+  - Support used: F-NKE-0014
+  - Limitation: This is a duration-based measurement for the 2025 fiscal year and does not provide a breakdown of the increase by geographic segment or product line.

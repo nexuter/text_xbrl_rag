@@ -1,0 +1,26 @@
+- Claim: Inventory valuation reserves as of 2025-05-31 were $233,000,000.
+  - Claim type: Factual
+  - Support used: F-NKE-0026
+  - Limitation: This claim is limited to the reported value for the specific instant of 2025-05-31.
+
+- Claim: Inventory valuation reserves as of 2024-05-31 were $155,000,000.
+  - Claim type: Factual
+  - Support used: F-NKE-0027
+  - Limitation: This claim is limited to the reported value for the specific instant of 2024-05-31.
+
+- Claim: The increase in inventory valuation reserves from $155 million in 2024 to $233 million in 2025 serves as a risk cue for the inventory valuation assertion.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-NKE-0026, F-NKE-0027
+  - Inferential bridge: An increase in valuation reserves typically indicates that the entity has identified a higher risk of inventory obsolescence or a decline in net realizable value, necessitating a higher provision to ensure inventory is not overstated.
+  - Limitation: Missing detailed documentation on the specific drivers of the reserve increase (e.g., specific product categories or regional economic factors) and the controls governing the reserve calculation.
+
+- Claim: The absence of 2025 segment-level data for finished goods inventory (with only 2023 data available) creates a limitation in mapping valuation risks to specific geographic operating segments.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-NKE-0353, F-NKE-0354, F-NKE-0355, F-NKE-0026
+  - Inferential bridge: Valuation risks often vary by region due to local market demand and economic conditions; without current segment-level balances, the auditor cannot determine if the increase in reserves is appropriately aligned with the inventory concentrations in specific regions.
+  - Limitation: Missing 2024 and 2025 segment-level inventory balances for North America, EMEA, and Greater China.
+
+- Claim: As of 2023-05-31, finished goods inventory net of reserves was $3,806,000,000 for North America, $2,167,000,000 for Europe, Middle East and Africa, and $973,000,000 for Greater China.
+  - Claim type: Factual
+  - Support used: F-NKE-0353, F-NKE-0354, F-NKE-0355
+  - Limitation: This data is restricted to the period ended 2023-05-31 and does not provide current measurement for the 2025 fiscal year.

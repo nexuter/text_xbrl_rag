@@ -1,0 +1,24 @@
+**Claim 1: Digital Commerce Dependence and Complexity**
+- Claim type: Risk-cue
+- Support used: Text Chunk 2 (T-NKE-REVENUE-021) states that consumers frequently use mobile-based devices and applications, and the company's failure to provide attractive, reliable, and secure digital commerce platforms could materially impact growth and sales.
+- Limitation: The context identifies the operational risk associated with digital platforms but does not provide specific details on the revenue recognition policies or controls related to digital services or platform usage.
+
+**Claim 2: Contract Liability Assessment**
+- Claim type: Assertion-mapping consideration
+- Support used: XBRL Fact F-NKE-0252 reports a ContractWithCustomerRefundLiabilityCurrent value of $1,277,000,000 for the period ended 2025-05-31.
+- Limitation: The context provides the current balance of the refund liability but does not provide supporting documentation or details regarding the calculation methodology, estimate assumptions, or completeness of the liability.
+
+**Claim 3: Accounts Receivable Valuation**
+- Claim type: Risk-cue
+- Support used: XBRL Fact F-NKE-0010 reports AccountsReceivableNetCurrent value of $4,717,000,000 for the period ended 2025-05-31.
+- Limitation: The context provides the net balance of Accounts Receivable but does not provide the allowance for doubtful accounts or any information regarding the collectability assessment process, making it difficult to assess the valuation assertion.
+
+**Claim 4: Segment and Channel Revenue Volatility**
+- Claim type: Risk-cue
+- Support used: Text Chunk 1 (T-NKE-REVENUE-071) and Text Chunk 3 (T-NKE-REVENUE-062) both report multiple significant revenue decreases across various segments and channels (e.g., Wholesale revenues decreased 3% (T-NKE-REVENUE-071) and 5% (T-NKE-REVENUE-062); NIKE Direct revenues decreased 3% (T-NKE-REVENUE-071) and 12% (T-NKE-REVENUE-062)).
+- Limitation: The context highlights multiple declines, which increases the risk of revenue overstatement or collectability issues, but does not provide the underlying reasons or controls related to these declines.
+
+**Claim 5: Revenue Recognition Timing and Components**
+- Claim type: Assertion-mapping consideration
+- Support used: The context details multiple revenue components (Wholesale, NIKE Direct, Jordan Brand, Men's, Women's, etc.) and their respective declines, indicating complex revenue streams.
+- Limitation: While the context identifies the components of revenue, it does not provide sufficient information regarding the specific performance obligations, transfer of control criteria, or timing of revenue recognition for these diverse components.

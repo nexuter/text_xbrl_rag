@@ -1,0 +1,36 @@
+TEXT RETRIEVAL CONTEXT
+
+[Text Chunk 1]
+chunk_id: T-CAT-INVENTORY-016
+source_file: cat-20251231.htm
+construct_tag: inventory
+ranking_score: 9
+text: We state inventories at the lower of cost or net realizable value. We principally determine cost using the last-in, first-out (LIFO) method. The value of inventories on the LIFO basis represented about 70 percent and 65 percent of total inventories at December 31, 2025 and 2024, respectively.
+
+[Text Chunk 2]
+chunk_id: T-CAT-INVENTORY-008
+source_file: cat-20251231.htm
+construct_tag: inventory
+ranking_score: 6
+text: Restructuring costs also include other exit-related costs, which may consist of accelerated depreciation, inventory write-downs, building demolition, equipment relocation and project management costs and LIFO inventory decrement benefits from inventory liquidations at closed facilities, all of which are primarily included in Cost of goods sold.
+
+[Text Chunk 3]
+chunk_id: T-CAT-INVENTORY-023
+source_file: cat-20251231.htm
+construct_tag: inventory
+ranking_score: 6
+text: • Restructuring income/costs: May include costs for employee separation, long-lived asset impairments, contract terminations and (gains)/losses on divestitures. These costs are included in Other operating (income) expenses except for defined-benefit plan curtailment losses and special termination benefits, which are included in Other income (expense). Restructuring costs also include other exit-related costs, which may consist of accelerated depreciation, inventory write-downs, building demolition, equipment relocation and project management costs and LIFO inventory decrement benefits from inventory liquidations at closed facilities, all of which are primarily included in Cost of goods sold. See Note 24 for more information.
+
+[Text Chunk 4]
+chunk_id: T-CAT-REVENUE_INVENTORY-003
+source_file: cat-20251231.htm
+construct_tag: revenue_inventory
+ranking_score: 6
+text: We sell finished products primarily through an independent dealer network and directly to OEMs and are subject to risks relating to their inventory management decisions and operational and sourcing practices. Both carry inventories of finished products as part of ongoing operations and adjust those inventories based on their assessments of future needs and market conditions, including levels of used equipment inventory and machine rental usage rates. Such adjustments may impact our results positively or negatively. If the inventory levels of our dealers and OEM customers are higher than they desire, they may postpone product purchases from us, which could cause our sales to be lower than the end-user demand for our products and negatively impact our results. Similarly, our results could be negatively impacted through the loss of time-sensitive sales if our dealers and OEM customers do not maintain inventory levels sufficient to meet customer demand.
+
+[Text Chunk 5]
+chunk_id: T-CAT-INVENTORY-011
+source_file: cat-20251231.htm
+construct_tag: inventory
+ranking_score: 5
+text: Product liability and insurance loss reserve — We determine these reserves based upon reported claims in process of settlement and actuarial estimates for losses incurred but not reported. Loss reserves, including incurred but not reported reserves, are based on estimates, and ultimate settlements may vary significantly from such estimates due to increased claims frequency or severity over historical levels. The amount of these reserves totaled $1.6 billion and $1.5 billion at December 31, 2025 and 2024, respectively. The majority of the balance in both 2025 and 2024 consisted of unearned insurance premiums.

@@ -1,0 +1,27 @@
+- Claim: In 2024, Target Corporation changed the presentation of revenue in the Consolidated Statements of Operations from a three-line format (Sales, Other Revenue, and Total Revenue) to a single line labeled "Net Sales."
+  - Claim type: Factual
+  - Support used: [Text Chunk 4]
+  - Limitation: This claim is limited to the 2024 reporting period as described in the provided text.
+
+- Claim: As of February 1, 2025, and February 3, 2024, the liability for estimated returns was $172 million and $170 million, respectively.
+  - Claim type: Factual
+  - Support used: [Text Chunk 3]
+  - Limitation: Measurement is limited to the specific snapshot dates of February 1, 2025, and February 3, 2024.
+
+- Claim: The estimation of expected returns for merchandise sales presents a risk related to the Accuracy and Valuation assertions.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 3]
+  - Inferential bridge: The text states that sales are recognized net of expected returns estimated using "historical return patterns and our expectation of future returns"; the reliance on management's subjective expectations of future behavior to determine a liability amount introduces estimation uncertainty.
+  - Limitation: The provided context lacks the specific quantitative methodology or the frequency of updates for the "historical return patterns" used in the estimate.
+
+- Claim: The recognition of gift card breakage revenue presents a risk related to the Accuracy and Cut-off assertions.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 2]
+  - Inferential bridge: Revenue from breakage is recognized "over time in proportion to actual gift card redemptions" based on a "small and relatively stable percentage" of cards that will never be redeemed; this proportional recognition requires an ongoing estimate of the breakage rate.
+  - Limitation: The context does not provide the specific percentage used to define "breakage" or the controls used to monitor changes in redemption stability.
+
+- Claim: The timing of revenue recognition for digitally originated sales presents a risk related to the Cut-off and Occurrence assertions.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 1], [Text Chunk 3]
+  - Inferential bridge: While revenue is recorded upon delivery or pickup [Text Chunk 3], the fulfillment process is fragmented across stores, distribution centers, vendors, and other third parties [Text Chunk 1], increasing the complexity of verifying the exact moment of delivery to trigger recognition.
+  - Limitation: The context is insufficient regarding the internal controls or third-party data feeds used to confirm delivery dates for sales fulfilled by vendors or other third parties.

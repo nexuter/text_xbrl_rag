@@ -1,0 +1,27 @@
+- Claim: Inventories are stated at the lower of cost (primarily moving average cost) or net realizable value.
+  - Claim type: Factual
+  - Support used: T-SBUX-INVENTORY-015
+  - Limitation: This claim is limited to the accounting policy disclosed in the provided text for the fiscal year ended September 28, 2025.
+
+- Claim: As of September 28, 2025, inventory reserves were $56.6 million.
+  - Claim type: Factual
+  - Support used: T-SBUX-INVENTORY-015, F-SBUX-0034
+  - Limitation: This is a point-in-time measurement as of the specific period end date of 2025-09-28.
+
+- Claim: The reliance on "obsolescence trends" and "historical experience" to determine inventory reserves for obsolete and slow-moving inventory presents a risk to the valuation assertion.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-SBUX-INVENTORY-015
+  - Inferential bridge: Because the valuation of inventory reserves depends on subjective inputs (trends and historical experience) rather than purely objective data, there is a risk that the reserves may not accurately reflect the net realizable value.
+  - Limitation: The provided context lacks detail on the specific controls used to validate these trends or the quantitative criteria for "slow-moving" inventory.
+
+- Claim: The possibility of "excess inventory" and "increased inventory markdowns" creates a risk that inventory may be overstated relative to its net realizable value.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-SBUX-INVENTORY-008
+  - Inferential bridge: The company explicitly identifies "excess inventory" and "increased inventory markdowns" as potential outcomes that could adversely affect financial condition, which directly maps to the valuation assertion's requirement to record inventory at the lower of cost or NRV.
+  - Limitation: The context does not provide the specific operational causes of the excess inventory or the magnitude of the potential markdowns.
+
+- Claim: The use of "estimated shrinkage" between physical inventory counts introduces a risk to the valuation assertion.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-SBUX-INVENTORY-015
+  - Inferential bridge: Since shrinkage is recorded as an "estimated" reserve rather than a known quantity between physical counts, there is a risk that the estimate may deviate from actual physical losses.
+  - Limitation: The context is insufficient regarding the frequency of physical inventory counts or the specific formula used to calculate the shrinkage estimate.

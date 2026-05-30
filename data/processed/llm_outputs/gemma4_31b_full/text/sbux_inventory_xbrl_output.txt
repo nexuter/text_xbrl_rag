@@ -1,0 +1,27 @@
+- Claim: As of 2025-09-28, Starbucks Corporation reported Inventory, Net of $2,185,600,000.
+  - Claim type: Factual
+  - Support used: F-SBUX-0015
+  - Limitation: This claim is limited to the reported value for the specific instant 2025-09-28 as provided in the XBRL facts.
+
+- Claim: As of 2025-09-28, Starbucks Corporation reported Inventory Valuation Reserves of $56,600,000.
+  - Claim type: Factual
+  - Support used: F-SBUX-0034
+  - Limitation: This claim is limited to the reported value for the specific instant 2025-09-28 as provided in the XBRL facts.
+
+- Claim: The existence of Inventory Valuation Reserves ($56,600,000 as of 2025-09-28) indicates a risk cue for the inventory valuation assertion.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-SBUX-0034
+  - Inferential bridge: The use of a valuation reserve account explicitly acknowledges that inventory may be subject to impairment or obsolescence, requiring the auditor to verify that the reserve is adequate to bring the inventory to its lower of cost or net realizable value.
+  - Limitation: Missing the specific accounting policy or methodology used to determine the reserve amount.
+
+- Claim: The increase in total Inventory, Net from $1,777,300,000 (2024-09-29) to $2,185,600,000 (2025-09-28), coupled with a decrease in Inventory Valuation Reserves from $58,000,000 (2024-09-29) to $56,600,000 (2025-09-28), presents a risk cue for the valuation assertion.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-SBUX-0016, F-SBUX-0015, F-SBUX-0035, F-SBUX-0034
+  - Inferential bridge: Typically, an increase in the volume of inventory held increases the exposure to obsolescence; a simultaneous decrease in the reserve for that inventory may indicate that the valuation reserve is not scaling with the asset growth, potentially leading to an overstatement of inventory.
+  - Limitation: Missing inventory turnover ratios or aging reports to determine if the increase in inventory is aligned with sales growth.
+
+- Claim: The increase in Roasted Coffee Inventory from $251,900,000 (2024-09-29) to $342,000,000 (2025-09-28) requires specific valuation mapping.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-SBUX-0049, F-SBUX-0048
+  - Inferential bridge: A significant increase in a specific inventory category increases the risk that the carrying value may exceed the net realizable value if the increase in stock is not matched by a corresponding increase in demand.
+  - Limitation: Missing data regarding the expiration dates or shelf-life of the roasted coffee inventory.

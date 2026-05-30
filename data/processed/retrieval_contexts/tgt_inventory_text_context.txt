@@ -1,0 +1,36 @@
+TEXT RETRIEVAL CONTEXT
+
+[Text Chunk 1]
+chunk_id: T-TGT-REVENUE_INVENTORY-012
+source_file: tgt-20250201.htm
+construct_tag: revenue_inventory
+ranking_score: 21
+text: Inventory and cost of sales: The vast majority of our inventory is accounted for under the retail inventory accounting method using the last-in, first-out method (LIFO). Our inventory is valued at the lower of LIFO cost or market. We reduce inventory for estimated losses related to shrink and markdowns. Our shrink estimate is based on historical losses and is adjusted to reflect results of actual physical inventory counts. We generally perform counts at each location annually, with counts taking place throughout the year. A 10 percent increase or decrease in our 2024 year-end inventory shrink reserve would impact our cost of sales by approximately $150 million. Historically, our actual physical inventory count results have shown our estimates to be reasonably accurate. Market adjustments for markdowns are recorded when the salability of the merchandise has diminished. Salability can be impacted by consumer preferences and seasonality, among other factors. We believe the risk of inventory obsolescence is largely mitigated because our inventory typically turns in less than three months. Inventory was $12.7 billion and $11.9 billion as of February 1, 2025, and February 3, 2024, respectively, and is further described in Note 8 to the Financial Statements.
+
+[Text Chunk 2]
+chunk_id: T-TGT-REVENUE_INVENTORY-008
+source_file: tgt-20250201.htm
+construct_tag: revenue_inventory
+ranking_score: 15
+text: Note: Gross margin is calculated as Net Sales less Cost of Sales. All rates are calculated by dividing the applicable amount by Net Sales. Previously our gross margin rate was calculated based only on Merchandise Sales. The calculation change aligns with our 2024 transition to a single-line revenue presentation on our Consolidated Statements of Operations, with prior period amounts updated to conform to the current year presentation. We also updated prior period gross margin rates to conform to the current year calculations, which resulted in an approximate 1 percentage point increase in our gross margin rate for both 2023 and 2022.
+
+[Text Chunk 3]
+chunk_id: T-TGT-INVENTORY-020
+source_file: tgt-20250201.htm
+construct_tag: inventory
+ranking_score: 11
+text: Under RIM, inventory cost and the resulting gross margins are calculated by applying a cost-to-retail ratio to the inventory retail value. RIM is an averaging method that has been widely used in the retail industry due to its practicality. The use of RIM will result in inventory being valued at the lower of cost or market because permanent markdowns are taken as a reduction of the retail value of inventory.
+
+[Text Chunk 4]
+chunk_id: T-TGT-INVENTORY-019
+source_file: tgt-20250201.htm
+construct_tag: inventory
+ranking_score: 8
+text: The vast majority of our inventory is accounted for under the retail inventory accounting method (RIM) using the last-in, first-out (LIFO) method. Inventory is stated at the lower of LIFO cost or market. Inventory cost includes the amount we pay to our suppliers to acquire inventory, freight costs incurred to deliver product to our distribution centers and stores, and import costs, reduced by vendor income and cash discounts. Supply chain operating costs, including compensation and benefits, are expensed in the period incurred. Inventory is also reduced for estimated losses related to shrink and markdowns. The LIFO provision is calculated based on inventory levels, markup rates, and internally measured retail price indices, and was $ 183 million and $ 153 million as of February 1, 2025, and February 3, 2024, respectively.
+
+[Text Chunk 5]
+chunk_id: T-TGT-REVENUE_INVENTORY-001
+source_file: tgt-20250201.htm
+construct_tag: revenue_inventory
+ranking_score: 6
+text: A large part of our business is dependent on our ability to make trend-right decisions in a broad range of merchandise categories and offer those products at affordable prices. If we do not accurately predict consumer demand and quickly respond to changing consumer preferences and spending patterns, we may experience lower sales, spoilage, and increased inventory markdowns, which could adversely affect our results of operations. Our ability to accurately predict consumer demand and adapt to changing consumer preferences depends on many factors, including obtaining accurate and relevant data on guest preferences, successfully implementing new technologies and capabilities (including artificial intelligence), emphasizing relevant merchandise categories, effectively managing our inventory levels, and implementing competitive and effective pricing and promotion strategies. We have not always been able to accurately predict consumer demand or rapid changes in consumer preferences and spending patterns, which has previously resulted in insufficient or excess inventory, increased inventory markdowns, higher costs (including for storage, transportation, labor, and other expenses), and adverse impacts on our results of operations. If we are unable to accurately predict consumer demand and effectively adapt to future changes in consumer preferences and spending patterns, our results of operations and financial condition could be adversely affected.

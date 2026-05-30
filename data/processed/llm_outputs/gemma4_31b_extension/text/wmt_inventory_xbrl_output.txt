@@ -1,0 +1,26 @@
+- Claim: As of 2026-01-31, the InventoryNet value for Walmart Inc. was 58,851,000,000 USD.
+  - Claim type: Factual
+  - Support used: F-WMT-0012
+  - Limitation: This claim is limited to the reported balance for the specific instant of 2026-01-31.
+
+- Claim: As of 2025-01-31, the InventoryNet value for Walmart Inc. was 56,435,000,000 USD.
+  - Claim type: Factual
+  - Support used: F-WMT-0013
+  - Limitation: This claim is limited to the reported balance for the specific instant of 2025-01-31.
+
+- Claim: For the period from 2025-02-01 to 2026-01-31, the IncreaseDecreaseInRetailRelatedInventories was 1,443,000,000 USD.
+  - Claim type: Factual
+  - Support used: F-WMT-0017
+  - Limitation: This claim is limited to the measurement provided in the cash flow context for the specified duration.
+
+- Claim: The increase in InventoryNet from 56,435,000,000 USD (2025-01-31) to 58,851,000,000 USD (2026-01-31), combined with a positive increase in retail-related inventories of 1,443,000,000 USD for the 2026 period, indicates an accumulation of inventory.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-WMT-0012, F-WMT-0013, F-WMT-0017
+  - Inferential bridge: An increase in total inventory levels and positive cash flow adjustments for inventory growth can increase the risk of inventory obsolescence or slow-moving stock, which directly impacts the valuation assertion (ensuring inventory is recorded at the lower of cost or net realizable value).
+  - Limitation: Missing inventory aging reports, turnover ratios, and detailed policies regarding the calculation of obsolescence reserves.
+
+- Claim: The CostOfRevenueSellingGeneralAndAdministrativeExpensesForFuelSales for Sam's Club US has shown a sequential decline from 10,600,000,000 USD (2024) to 9,900,000,000 USD (2025) and 8,700,000,000 USD (2026).
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-WMT-0074, F-WMT-0073, F-WMT-0072
+  - Inferential bridge: A consistent downward trend in the cost of revenue for fuel sales may reflect declining market prices or reduced volume; if market prices have dropped, there is a risk that fuel inventory is valued above its net realizable value.
+  - Limitation: Missing specific fuel inventory balances, current market price benchmarks for fuel, and evidence of fuel-specific valuation adjustments.

@@ -1,0 +1,65 @@
+You are assisting with an auditing research task. Use only the information provided in the context.
+
+Task:
+Identify audit-relevant risk cues or assertion-mapping considerations for inventory valuation assertion mapping for Nike, Inc., fiscal year 2025, period ended 2025-05-31, accession 0000320187-25-000047, based on the provided context.
+
+Instructions:
+1. Provide no more than five audit-relevant claims.
+2. Distinguish factual claims from risk-cue or assertion-mapping claims.
+3. Do not conclude that a misstatement exists.
+4. State when the provided context is insufficient.
+5. Avoid treating reported XBRL relationships as independent audit evidence.
+6. Do not use general company knowledge outside the provided context.
+7. For each risk-cue or assertion-mapping claim, state the inferential bridge from the source evidence to the audit consideration.
+8. Do not write "Limitation: None" for risk-cue or assertion-mapping claims; identify at least one missing audit evidence item, missing control detail, or source-bound limitation.
+9. For factual claims, state any period, source, or measurement limitation rather than treating the claim as unrestricted.
+
+Context:
+TEXT RETRIEVAL CONTEXT
+
+[Text Chunk 1]
+chunk_id: T-NKE-REVENUE_INVENTORY-016
+source_file: nke-20250531.htm
+construct_tag: revenue_inventory
+ranking_score: 20
+text: We make ongoing estimates relating to the net realizable value of inventories based upon our assumptions about future demand, market conditions, existing inventory levels, sales trends and historical experience with similar products. If we estimate the net realizable value of our inventory is less than the cost of the inventory, we record a reserve equal to the difference between the cost of the inventory and the estimated net realizable value. If changes in market conditions result in reductions to the estimated net realizable value of our inventory below our previous estimate, we would increase our reserve in the period in which such a determination is made.
+
+[Text Chunk 2]
+chunk_id: T-NKE-REVENUE_INVENTORY-023
+source_file: nke-20250531.htm
+construct_tag: revenue_inventory
+ranking_score: 16
+text: If the net realizable value of inventory is estimated to be less than the cost of the inventory, a reserve is recorded equal to the difference between the cost of the inventory and the estimated net realizable value. This reserve is recorded as a charge to Cost of sales. As of May 31, 2025, the Company's inventory reserve was $ 233 million compared to $ 155 million as of May 31, 2024.
+
+[Text Chunk 3]
+chunk_id: T-NKE-REVENUE_INVENTORY-022
+source_file: nke-20250531.htm
+construct_tag: revenue_inventory
+ranking_score: 12
+text: Inventory costs primarily consist of product cost from the Company's suppliers, as well as inbound freight, import duties, taxes, insurance, logistics and other handling fees. Inventories, substantially all of which are finished goods, are stated at lower of cost and net realizable value and valued on either an average or a specific identification cost basis. In some instances, the Company ships products directly from its suppliers to the customer, with the related inventory and cost of sales recognized on a specific identification basis.
+
+XBRL RELATIONAL RETRIEVAL CONTEXT
+
+Facts:
+1. fact_id=F-NKE-0353 concept=InventoryFinishedGoodsNetOfReserves value=3806000000 unit=iso4217:USD period=instant:2023-05-31 dimensions=srt:ConsolidationItemsAxis=us-gaap:OperatingSegmentsMember; us-gaap:StatementBusinessSegmentsAxis=nke:NIKEBrandMember; us-gaap:SubsegmentsAxis=nke:NorthAmericaSegmentMember
+2. fact_id=F-NKE-0354 concept=InventoryFinishedGoodsNetOfReserves value=2167000000 unit=iso4217:USD period=instant:2023-05-31 dimensions=srt:ConsolidationItemsAxis=us-gaap:OperatingSegmentsMember; us-gaap:StatementBusinessSegmentsAxis=nke:NIKEBrandMember; us-gaap:SubsegmentsAxis=nke:EuropeMiddleEastAndAfricaSegmentMember
+3. fact_id=F-NKE-0355 concept=InventoryFinishedGoodsNetOfReserves value=973000000 unit=iso4217:USD period=instant:2023-05-31 dimensions=srt:ConsolidationItemsAxis=us-gaap:OperatingSegmentsMember; us-gaap:StatementBusinessSegmentsAxis=nke:NIKEBrandMember; us-gaap:SubsegmentsAxis=nke:GreaterChinaSegmentMember
+4. fact_id=F-NKE-0027 concept=InventoryValuationReserves value=155000000 unit=iso4217:USD period=instant:2024-05-31 dimensions=none
+5. fact_id=F-NKE-0026 concept=InventoryValuationReserves value=233000000 unit=iso4217:USD period=instant:2025-05-31 dimensions=none
+6. fact_id=F-NKE-0009 concept=GrossProfit value=22292000000 unit=iso4217:USD period=duration:2022-06-01/2023-05-31 dimensions=none
+7. fact_id=F-NKE-0344 concept=GrossProfit value=9111000000 unit=iso4217:USD period=duration:2022-06-01/2023-05-31 dimensions=srt:ConsolidationItemsAxis=us-gaap:OperatingSegmentsMember; us-gaap:StatementBusinessSegmentsAxis=nke:NIKEBrandMember; us-gaap:SubsegmentsAxis=nke:NorthAmericaSegmentMember
+8. fact_id=F-NKE-0345 concept=GrossProfit value=6078000000 unit=iso4217:USD period=duration:2022-06-01/2023-05-31 dimensions=srt:ConsolidationItemsAxis=us-gaap:OperatingSegmentsMember; us-gaap:StatementBusinessSegmentsAxis=nke:NIKEBrandMember; us-gaap:SubsegmentsAxis=nke:EuropeMiddleEastAndAfricaSegmentMember
+
+Relation paths:
+1. path_id=X-NKE-0053 relation_type=calculation source=us-gaap:GrossProfit (Gross Profit) -> target=us-gaap:CostOfGoodsAndServicesSold (Cost of Goods and Services Sold) arcrole=http://www.xbrl.org/2003/arcrole/summation-item role=http://www.nike.com/role/CONSOLIDATEDSTATEMENTSOFINCOME
+2. path_id=X-NKE-0056 relation_type=calculation source=us-gaap:AssetsCurrent (Assets, Current) -> target=us-gaap:InventoryFinishedGoodsNetOfReserves (Inventory, Finished Goods, Net of Reserves) arcrole=http://www.xbrl.org/2003/arcrole/summation-item role=http://www.nike.com/role/CONSOLIDATEDBALANCESHEETS
+3. path_id=X-NKE-0060 relation_type=calculation source=us-gaap:DeferredTaxAssetsGross (Deferred Tax Assets, Gross) -> target=us-gaap:DeferredTaxAssetsInventory (Deferred Tax Assets, Inventory) arcrole=http://www.xbrl.org/2003/arcrole/summation-item role=http://www.nike.com/role/INCOMETAXESDeferredIncomeTaxAssetsandLiabilitiesDetails
+4. path_id=X-NKE-0058 relation_type=calculation source=us-gaap:NetCashProvidedByUsedInOperatingActivities (Net Cash Provided by (Used in) Operating Activities) -> target=us-gaap:IncreaseDecreaseInInventories (Increase (Decrease) in Inventories) arcrole=http://www.xbrl.org/2003/arcrole/summation-item role=http://www.nike.com/role/CONSOLIDATEDSTATEMENTSOFCASHFLOWS
+5. path_id=X-NKE-0067 relation_type=definition source=nke:SignificantAccountingPoliciesLineItems (label unavailable) -> target=us-gaap:InventoryValuationReserves (Inventory Valuation Reserves) arcrole=http://xbrl.org/int/dim/arcrole/domain-member role=http://www.nike.com/role/SUMMARYOFSIGNIFICANTACCOUNTINGPOLICIESDetails
+6. path_id=X-NKE-0065 relation_type=definition source=us-gaap:AssetsCurrentAbstract (Assets, Current [Abstract]) -> target=us-gaap:InventoryFinishedGoodsNetOfReserves (Inventory, Finished Goods, Net of Reserves) arcrole=http://xbrl.org/int/dim/arcrole/domain-member role=http://www.nike.com/role/CONSOLIDATEDBALANCESHEETS
+
+Output format:
+- Claim:
+  - Claim type:
+  - Support used:
+  - Limitation:

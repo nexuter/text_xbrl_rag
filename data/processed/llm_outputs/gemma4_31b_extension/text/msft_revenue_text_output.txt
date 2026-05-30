@@ -1,0 +1,27 @@
+- Claim: Revenue for Microsoft 365 Commercial products and cloud services increased by $10.8 billion, or 14%.
+  - Claim type: Factual
+  - Support used: [Text Chunk 4]
+  - Limitation: This measurement is limited to the specific reporting period and figures provided in the source file (msft-20250630.htm).
+
+- Claim: The determination of standalone selling price (SSP), variable consideration, and the nature and timing of satisfaction of performance obligations relies on management estimates and assumptions.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 1]
+  - Inferential bridge: Because these elements are based on subjective management estimates rather than fixed values, there is an inherent risk regarding the Accuracy and Valuation assertions of recognized revenue.
+  - Limitation: The provided context lacks detail on the specific controls or validation methodologies used to verify the reasonableness of these estimates.
+
+- Claim: Revenue for multi-year on-premises licenses is recognized upfront, while invoicing for these licenses generally occurs annually.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 2], [Text Chunk 3]
+  - Inferential bridge: The discrepancy between the timing of revenue recognition (upfront) and the timing of cash collection/invoicing (annual) creates a risk related to the Cut-off and Existence assertions for the associated receivables.
+  - Limitation: There is no provided evidence regarding the process for verifying the "unconditional right to invoice" required to record the receivable.
+
+- Claim: Unearned revenue related to volume licensing programs, including cloud services and Software Assurance, is recognized ratably over the coverage period.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 5]
+  - Inferential bridge: The requirement to spread revenue ratably over a multi-year period requires precise tracking of service periods, posing a risk to the Cut-off and Accuracy assertions.
+  - Limitation: The context does not provide information on the systems or controls used to track the start and end dates of coverage periods for ratable recognition.
+
+- Claim: Microsoft records a receivable when revenue is recognized prior to invoicing, and records unearned revenue when revenue is recognized subsequent to invoicing.
+  - Claim type: Factual
+  - Support used: [Text Chunk 2]
+  - Limitation: This claim is limited to the descriptive accounting policy provided in the text and does not include the actual account balances for the period ended 2025-06-30.

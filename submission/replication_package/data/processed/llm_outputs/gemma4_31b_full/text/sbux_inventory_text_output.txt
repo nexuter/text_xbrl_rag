@@ -1,0 +1,22 @@
+- Claim: As of September 28, 2025, Starbucks Corporation's inventory reserves were $56.6 million, and inventories are stated at the lower of cost (primarily moving average cost) or net realizable value.
+  - Claim type: Factual
+  - Support used: T-SBUX-INVENTORY-015
+  - Limitation: This claim is limited to the specific reporting dates of September 28, 2025, and September 29, 2024, as disclosed in source file sbux-20250928.htm.
+
+- Claim: The reliance on management estimates and assumptions to determine inventory reserves for obsolescence and shrinkage presents a risk to the inventory valuation assertion.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-SBUX-INVENTORY-015, T-SBUX-REVENUE_INVENTORY-006
+  - Inferential bridge: Because inventory reserves are derived from subjective inputs such as "obsolescence trends" and "historical experience," there is an inherent risk that these estimates may not accurately reflect the actual net realizable value of the inventory.
+  - Limitation: The provided context does not detail the specific internal controls or validation processes used to verify the accuracy of the "historical experience" data.
+
+- Claim: The potential for "excess inventory" and "increased inventory markdowns" serves as a risk cue that inventory may be carried above its net realizable value.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-SBUX-INVENTORY-008
+  - Inferential bridge: Excess inventory and the need for markdowns are indicators that the cost of certain inventory items may exceed their recoverable amount, which directly impacts the valuation assertion under the "lower of cost or net realizable value" principle.
+  - Limitation: The context does not provide quantitative data on the volume of excess inventory or the specific product lines most affected by markdowns.
+
+- Claim: Uncertainty in the current economic environment may adversely affect the accuracy of the estimates used for inventory reserves.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-SBUX-REVENUE_INVENTORY-006
+  - Inferential bridge: Management explicitly states that actual results may differ from estimates due to "uncertainty in the current economic environment," suggesting that external economic volatility could render existing inventory reserve assumptions obsolete.
+  - Limitation: The context does not specify which economic variables (e.g., inflation, currency fluctuations, or consumer spending) are the primary drivers of this uncertainty.

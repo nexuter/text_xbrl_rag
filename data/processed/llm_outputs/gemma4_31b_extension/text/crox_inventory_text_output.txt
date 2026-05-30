@@ -1,0 +1,27 @@
+- Claim: Inventories consist of finished goods and are valued at the lower of cost or net realizable value (NRV) using the first-in-first-out (FIFO) costing method.
+  - Claim type: Factual
+  - Support used: [Text Chunk 1]
+  - Limitation: This claim is limited to the accounting policies disclosed in the filing for the period ended 2025-12-31.
+
+- Claim: The valuation of inventory is subject to risk due to the reliance on management estimates regarding historical sales trends, market trends, economic conditions, and future demand forecasts.
+  - Claim type: Risk-cue / Assertion-mapping
+  - Support used: [Text Chunk 1], [Text Chunk 3]
+  - Inferential bridge: Because NRV is determined through subjective forecasts and external market analyses rather than fixed values, there is a risk that the carrying value of inventory may not accurately reflect its recoverable amount if these estimates are biased or inaccurate.
+  - Limitation: The provided context lacks detail on the specific internal controls or validation processes used to review the accuracy of the demand forecasts and market trend analyses.
+
+- Claim: Competitive pricing pressures and the potential need to mark down prices to maintain customers may impact inventory valuation.
+  - Claim type: Risk-cue / Assertion-mapping
+  - Support used: [Text Chunk 5]
+  - Inferential bridge: If competitors substantially lower prices, Crocs may be forced to reduce its own selling prices; if these reduced prices (minus costs to sell) fall below the carrying cost, a write-down to NRV is required.
+  - Limitation: The context does not provide data on the current volume of inventory held in "end-of-life" status or the specific pricing delta between Crocs and its competitors.
+
+- Claim: Supply chain constraints, raw material shortages, and increased freight and material costs may influence the cost basis of inventory.
+  - Claim type: Risk-cue / Assertion-mapping
+  - Support used: [Text Chunk 5], [Text Chunk 2], [Text Chunk 4]
+  - Inferential bridge: Increased input costs (e.g., duties, freight, and raw materials) increase the carrying value of inventory; if these costs cannot be passed to consumers via price increases, the gap between cost and NRV may widen, increasing the risk of valuation impairment.
+  - Limitation: The context does not provide the specific magnitude of raw material cost increases relative to the current retail price points of the finished goods.
+
+- Claim: Consolidated gross margin decreased from 58.8% in 2024 to 58.3% in 2025, driven primarily by incremental duties and higher freight and fulfillment costs.
+  - Claim type: Factual
+  - Support used: [Text Chunk 2]
+  - Limitation: This is a high-level percentage measurement and does not provide the absolute dollar value of inventory or a granular breakdown of costs per product line.

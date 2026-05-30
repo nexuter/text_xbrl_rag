@@ -1,0 +1,27 @@
+- Claim: Walmart utilizes various inventory methods based on store formats and businesses, recording inventories at the lower of cost or market or net realizable value, as appropriate.
+  - Claim type: Factual
+  - Support used: [Text Chunk 2]
+  - Limitation: This claim is limited to the general accounting policy descriptions provided in the filing for the period ended 2026-01-31 and does not specify which methods are applied to which specific store formats.
+
+- Claim: The Walmart U.S. segment primarily uses the retail inventory method (RIM) for cost determination and the last-in, first-out (LIFO) valuation method.
+  - Claim type: Factual
+  - Support used: [Text Chunk 3]
+  - Limitation: This claim is restricted to the Walmart U.S. segment as described in the provided context for the fiscal year 2026.
+
+- Claim: The reliance on the retail inventory method (RIM) in the Walmart U.S. segment, where permanent markdowns are recorded immediately to achieve a lower of cost or market valuation, presents a risk to the valuation assertion.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 3]
+  - Inferential bridge: Because the valuation of inventory under RIM is directly dependent on the immediate recording of permanent markdowns, any failure or delay in identifying and recording these markdowns would lead to an overstatement of inventory value.
+  - Limitation: The provided context lacks detail regarding the internal controls or systemic triggers used to distinguish "permanent" markdowns from temporary ones.
+
+- Claim: External economic pressures, including consumer debt levels, recession, and trade barriers, may lead to slower inventory turnover and increased markdowns, impacting inventory valuation.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 5]
+  - Inferential bridge: Slower turnover and increased markdowns are primary indicators that the market value or net realizable value of inventory may have fallen below its cost, necessitating write-downs to satisfy the lower of cost or market/NRV requirement.
+  - Limitation: The context identifies these as potential risks but does not provide current inventory turnover ratios or the actual volume of markdowns occurring in the 2026 period.
+
+- Claim: The increase in the gross profit rate for fiscal 2026, attributed in part to "disciplined inventory management," suggests a risk area for the valuation assertion.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 4]
+  - Inferential bridge: Management's attribution of margin growth to "disciplined inventory management" indicates a focus on optimizing inventory levels and costs, which may create an incentive to avoid recording necessary valuation write-downs that would otherwise decrease the gross profit rate.
+  - Limitation: The context does not provide the specific metrics or definitions of "disciplined inventory management" used by the company to justify the 8 basis point increase.
