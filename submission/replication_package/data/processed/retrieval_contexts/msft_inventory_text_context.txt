@@ -1,0 +1,36 @@
+TEXT RETRIEVAL CONTEXT
+
+[Text Chunk 1]
+chunk_id: T-MSFT-INVENTORY-005
+source_file: msft-20250630.htm
+construct_tag: inventory
+ranking_score: 6
+text: • Gross margin increased $11.2 billion or 13% driven by growth in Microsoft 365 Commercial cloud. Gross margin percentage decreased slightly primarily driven by the impact of scaling our AI infrastructure, offset in part by efficiency gains in Microsoft 365 Commercial cloud.
+
+[Text Chunk 2]
+chunk_id: T-MSFT-INVENTORY-006
+source_file: msft-20250630.htm
+construct_tag: inventory
+ranking_score: 6
+text: • Gross margin increased $8.2 billion or 14% driven by growth in Azure. Gross margin percentage decreased driven by the impact of scaling our AI infrastructure, offset in part by efficiency gains in Azure.
+
+[Text Chunk 3]
+chunk_id: T-MSFT-INVENTORY-007
+source_file: msft-20250630.htm
+construct_tag: inventory
+ranking_score: 6
+text: • Gross margin increased $3.5 billion or 13% with growth across all businesses. Gross margin percentage increased with improvement across all businesses.
+
+[Text Chunk 4]
+chunk_id: T-MSFT-INVENTORY-001
+source_file: msft-20250630.htm
+construct_tag: inventory
+ranking_score: 3
+text: The long-term effects of climate change on the global economy and the IT industry in particular are unclear. Environmental regulations or changes in the supply, demand, or available sources of energy or other resources may affect the availability or cost of goods and services, including natural resources, necessary to run our business. Changes in climate where we operate may increase the costs of powering and cooling computer hardware we use to develop software and provide cloud-based services.
+
+[Text Chunk 5]
+chunk_id: T-MSFT-INVENTORY-002
+source_file: msft-20250630.htm
+construct_tag: inventory
+ranking_score: 3
+text: Gross margin increased $22.9 billion or 13% with growth across each of our segments.

@@ -8,9 +8,10 @@ This log validates completeness, parseability, source traceability, and coding s
 
 | Sample Role | Condition | Prompt/Context Count |
 |---|---|---|
-| bounded_extension | hybrid | 6 |
-| bounded_extension | text | 6 |
-| bounded_extension | xbrl | 6 |
+| bounded_extension | hybrid | 12 |
+| bounded_extension | llm_only | 12 |
+| bounded_extension | text | 12 |
+| bounded_extension | xbrl | 12 |
 | main_deep_case | hybrid | 6 |
 | main_deep_case | llm_only | 6 |
 | main_deep_case | text | 6 |
@@ -55,43 +56,48 @@ This log validates completeness, parseability, source traceability, and coding s
 
 | Metric | Value |
 |---|---|
-| Expected output files | 18 |
-| Text output files | 18 |
-| Raw JSON files | 18 |
-| Parsed/coded claims | 88 |
-| Short output files under 25 words | 0 |
+| Expected output files | 48 |
+| Text output files | 48 |
+| Raw JSON files | 48 |
+| Parsed/coded claims | 187 |
+| Short output files under 25 words | 9 |
 | Invalid source references | 0 |
-| Manual-review-required claims | 88 |
+| Manual-review-required claims | 187 |
 
 ### Run Manifest Status Counts
 
 | Status | Count |
 |---|---|
-| completed | 8 |
-| skipped_existing | 10 |
+| skipped_existing | 48 |
 
 ### Claim Counts by Filer and Condition
 
 | Ticker | Condition | Claims |
 |---|---|---|
-| CAT | hybrid | 5 |
-| CAT | text | 4 |
-| CAT | xbrl | 5 |
-| CROX | hybrid | 5 |
-| CROX | text | 5 |
-| CROX | xbrl | 5 |
-| HD | hybrid | 5 |
-| HD | text | 5 |
-| HD | xbrl | 5 |
-| MSFT | hybrid | 5 |
-| MSFT | text | 5 |
-| MSFT | xbrl | 4 |
-| PFE | hybrid | 5 |
-| PFE | text | 5 |
-| PFE | xbrl | 5 |
-| WMT | hybrid | 5 |
-| WMT | text | 5 |
-| WMT | xbrl | 5 |
+| CAT | hybrid | 10 |
+| CAT | llm_only | 2 |
+| CAT | text | 9 |
+| CAT | xbrl | 10 |
+| CROX | hybrid | 10 |
+| CROX | llm_only | 2 |
+| CROX | text | 10 |
+| CROX | xbrl | 10 |
+| HD | hybrid | 10 |
+| HD | llm_only | 2 |
+| HD | text | 10 |
+| HD | xbrl | 10 |
+| MSFT | hybrid | 9 |
+| MSFT | llm_only | 2 |
+| MSFT | text | 10 |
+| MSFT | xbrl | 8 |
+| PFE | hybrid | 10 |
+| PFE | llm_only | 2 |
+| PFE | text | 10 |
+| PFE | xbrl | 10 |
+| WMT | hybrid | 10 |
+| WMT | llm_only | 2 |
+| WMT | text | 10 |
+| WMT | xbrl | 9 |
 
 ## Source Reference Validation
 

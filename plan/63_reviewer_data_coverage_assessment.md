@@ -1,5 +1,7 @@
 # Reviewer Assessment: Does The Data Sufficiently Support The Claimed Contributions?
 
+Revision note: This assessment was superseded by the full-scale extension revision in `plan/89_demonstration_scope_and_validation_revision_log.md`. The current submission package uses 72 outputs, 48 extension outputs, 281 preliminary coded claims, and 464 retrieval-log rows.
+
 ## Purpose
 
 This memo evaluates whether the paper's claimed contributions are sufficiently covered by the actual data, outputs, coding, and reproducibility artifacts. The stance is that of a critical AJPT reviewer asking:

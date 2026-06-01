@@ -1,0 +1,91 @@
+ticker,company,sample_role,construct,variant_group,variant,baseline_count,variant_count,retained_count,added_count,removed_count,jaccard,retained_share,note
+NKE,"Nike, Inc.",main_deep_case,revenue,text,text_top3,5,3,3,0,2,0.600,0.600,Implemented text top-5 varied to top-3.
+NKE,"Nike, Inc.",main_deep_case,revenue,text,text_top8,5,8,5,3,0,0.625,1.000,Implemented text top-5 varied to top-8.
+NKE,"Nike, Inc.",main_deep_case,revenue,xbrl,xbrl_fact_only,22,12,12,0,10,0.545,0.545,Relation paths removed; fact budget unchanged.
+NKE,"Nike, Inc.",main_deep_case,revenue,xbrl,xbrl_fact_top8_paths_current,22,18,18,0,4,0.818,0.818,Fact budget reduced from 12 to 8; relation-path budget unchanged.
+NKE,"Nike, Inc.",main_deep_case,revenue,xbrl,xbrl_expanded_fact16_path15,22,27,22,5,0,0.815,1.000,Fact budget expanded to 16 and relation-path budget expanded to 15 when available.
+NKE,"Nike, Inc.",main_deep_case,inventory,text,text_top3,5,3,3,0,2,0.600,0.600,Implemented text top-5 varied to top-3.
+NKE,"Nike, Inc.",main_deep_case,inventory,text,text_top8,5,8,5,3,0,0.625,1.000,Implemented text top-5 varied to top-8.
+NKE,"Nike, Inc.",main_deep_case,inventory,xbrl,xbrl_fact_only,22,12,12,0,10,0.545,0.545,Relation paths removed; fact budget unchanged.
+NKE,"Nike, Inc.",main_deep_case,inventory,xbrl,xbrl_fact_top8_paths_current,22,18,18,0,4,0.818,0.818,Fact budget reduced from 12 to 8; relation-path budget unchanged.
+NKE,"Nike, Inc.",main_deep_case,inventory,xbrl,xbrl_expanded_fact16_path15,22,29,22,7,0,0.759,1.000,Fact budget expanded to 16 and relation-path budget expanded to 15 when available.
+SBUX,Starbucks Corporation,main_deep_case,revenue,text,text_top3,5,3,3,0,2,0.600,0.600,Implemented text top-5 varied to top-3.
+SBUX,Starbucks Corporation,main_deep_case,revenue,text,text_top8,5,8,5,3,0,0.625,1.000,Implemented text top-5 varied to top-8.
+SBUX,Starbucks Corporation,main_deep_case,revenue,xbrl,xbrl_fact_only,22,12,12,0,10,0.545,0.545,Relation paths removed; fact budget unchanged.
+SBUX,Starbucks Corporation,main_deep_case,revenue,xbrl,xbrl_fact_top8_paths_current,22,18,18,0,4,0.818,0.818,Fact budget reduced from 12 to 8; relation-path budget unchanged.
+SBUX,Starbucks Corporation,main_deep_case,revenue,xbrl,xbrl_expanded_fact16_path15,22,31,22,9,0,0.710,1.000,Fact budget expanded to 16 and relation-path budget expanded to 15 when available.
+SBUX,Starbucks Corporation,main_deep_case,inventory,text,text_top3,5,3,3,0,2,0.600,0.600,Implemented text top-5 varied to top-3.
+SBUX,Starbucks Corporation,main_deep_case,inventory,text,text_top8,5,8,5,3,0,0.625,1.000,Implemented text top-5 varied to top-8.
+SBUX,Starbucks Corporation,main_deep_case,inventory,xbrl,xbrl_fact_only,22,12,12,0,10,0.545,0.545,Relation paths removed; fact budget unchanged.
+SBUX,Starbucks Corporation,main_deep_case,inventory,xbrl,xbrl_fact_top8_paths_current,22,18,18,0,4,0.818,0.818,Fact budget reduced from 12 to 8; relation-path budget unchanged.
+SBUX,Starbucks Corporation,main_deep_case,inventory,xbrl,xbrl_expanded_fact16_path15,22,31,22,9,0,0.710,1.000,Fact budget expanded to 16 and relation-path budget expanded to 15 when available.
+TGT,Target Corporation,main_deep_case,revenue,text,text_top3,5,3,3,0,2,0.600,0.600,Implemented text top-5 varied to top-3.
+TGT,Target Corporation,main_deep_case,revenue,text,text_top8,5,8,5,3,0,0.625,1.000,Implemented text top-5 varied to top-8.
+TGT,Target Corporation,main_deep_case,revenue,xbrl,xbrl_fact_only,22,12,12,0,10,0.545,0.545,Relation paths removed; fact budget unchanged.
+TGT,Target Corporation,main_deep_case,revenue,xbrl,xbrl_fact_top8_paths_current,22,18,18,0,4,0.818,0.818,Fact budget reduced from 12 to 8; relation-path budget unchanged.
+TGT,Target Corporation,main_deep_case,revenue,xbrl,xbrl_expanded_fact16_path15,22,31,22,9,0,0.710,1.000,Fact budget expanded to 16 and relation-path budget expanded to 15 when available.
+TGT,Target Corporation,main_deep_case,inventory,text,text_top3,5,3,3,0,2,0.600,0.600,Implemented text top-5 varied to top-3.
+TGT,Target Corporation,main_deep_case,inventory,text,text_top8,5,8,5,3,0,0.625,1.000,Implemented text top-5 varied to top-8.
+TGT,Target Corporation,main_deep_case,inventory,xbrl,xbrl_fact_only,22,12,12,0,10,0.545,0.545,Relation paths removed; fact budget unchanged.
+TGT,Target Corporation,main_deep_case,inventory,xbrl,xbrl_fact_top8_paths_current,22,18,18,0,4,0.818,0.818,Fact budget reduced from 12 to 8; relation-path budget unchanged.
+TGT,Target Corporation,main_deep_case,inventory,xbrl,xbrl_expanded_fact16_path15,22,29,22,7,0,0.759,1.000,Fact budget expanded to 16 and relation-path budget expanded to 15 when available.
+WMT,Walmart Inc.,bounded_extension,revenue,text,text_top3,5,3,3,0,2,0.600,0.600,Implemented text top-5 varied to top-3.
+WMT,Walmart Inc.,bounded_extension,revenue,text,text_top8,5,8,5,3,0,0.625,1.000,Implemented text top-5 varied to top-8.
+WMT,Walmart Inc.,bounded_extension,revenue,xbrl,xbrl_fact_only,22,12,12,0,10,0.545,0.545,Relation paths removed; fact budget unchanged.
+WMT,Walmart Inc.,bounded_extension,revenue,xbrl,xbrl_fact_top8_paths_current,22,18,18,0,4,0.818,0.818,Fact budget reduced from 12 to 8; relation-path budget unchanged.
+WMT,Walmart Inc.,bounded_extension,revenue,xbrl,xbrl_expanded_fact16_path15,22,31,22,9,0,0.710,1.000,Fact budget expanded to 16 and relation-path budget expanded to 15 when available.
+WMT,Walmart Inc.,bounded_extension,inventory,text,text_top3,5,3,3,0,2,0.600,0.600,Implemented text top-5 varied to top-3.
+WMT,Walmart Inc.,bounded_extension,inventory,text,text_top8,5,8,5,3,0,0.625,1.000,Implemented text top-5 varied to top-8.
+WMT,Walmart Inc.,bounded_extension,inventory,xbrl,xbrl_fact_only,21,11,11,0,10,0.524,0.524,Relation paths removed; fact budget unchanged.
+WMT,Walmart Inc.,bounded_extension,inventory,xbrl,xbrl_fact_top8_paths_current,21,18,18,0,3,0.857,0.857,Fact budget reduced from 12 to 8; relation-path budget unchanged.
+WMT,Walmart Inc.,bounded_extension,inventory,xbrl,xbrl_expanded_fact16_path15,21,25,21,4,0,0.840,1.000,Fact budget expanded to 16 and relation-path budget expanded to 15 when available.
+HD,"Home Depot, Inc.",bounded_extension,revenue,text,text_top3,5,3,3,0,2,0.600,0.600,Implemented text top-5 varied to top-3.
+HD,"Home Depot, Inc.",bounded_extension,revenue,text,text_top8,5,8,5,3,0,0.625,1.000,Implemented text top-5 varied to top-8.
+HD,"Home Depot, Inc.",bounded_extension,revenue,xbrl,xbrl_fact_only,22,12,12,0,10,0.545,0.545,Relation paths removed; fact budget unchanged.
+HD,"Home Depot, Inc.",bounded_extension,revenue,xbrl,xbrl_fact_top8_paths_current,22,18,18,0,4,0.818,0.818,Fact budget reduced from 12 to 8; relation-path budget unchanged.
+HD,"Home Depot, Inc.",bounded_extension,revenue,xbrl,xbrl_expanded_fact16_path15,22,31,22,9,0,0.710,1.000,Fact budget expanded to 16 and relation-path budget expanded to 15 when available.
+HD,"Home Depot, Inc.",bounded_extension,inventory,text,text_top3,5,3,3,0,2,0.600,0.600,Implemented text top-5 varied to top-3.
+HD,"Home Depot, Inc.",bounded_extension,inventory,text,text_top8,5,8,5,3,0,0.625,1.000,Implemented text top-5 varied to top-8.
+HD,"Home Depot, Inc.",bounded_extension,inventory,xbrl,xbrl_fact_only,22,12,12,0,10,0.545,0.545,Relation paths removed; fact budget unchanged.
+HD,"Home Depot, Inc.",bounded_extension,inventory,xbrl,xbrl_fact_top8_paths_current,22,18,18,0,4,0.818,0.818,Fact budget reduced from 12 to 8; relation-path budget unchanged.
+HD,"Home Depot, Inc.",bounded_extension,inventory,xbrl,xbrl_expanded_fact16_path15,22,31,22,9,0,0.710,1.000,Fact budget expanded to 16 and relation-path budget expanded to 15 when available.
+CAT,Caterpillar Inc.,bounded_extension,revenue,text,text_top3,5,3,3,0,2,0.600,0.600,Implemented text top-5 varied to top-3.
+CAT,Caterpillar Inc.,bounded_extension,revenue,text,text_top8,5,8,5,3,0,0.625,1.000,Implemented text top-5 varied to top-8.
+CAT,Caterpillar Inc.,bounded_extension,revenue,xbrl,xbrl_fact_only,22,12,12,0,10,0.545,0.545,Relation paths removed; fact budget unchanged.
+CAT,Caterpillar Inc.,bounded_extension,revenue,xbrl,xbrl_fact_top8_paths_current,22,18,18,0,4,0.818,0.818,Fact budget reduced from 12 to 8; relation-path budget unchanged.
+CAT,Caterpillar Inc.,bounded_extension,revenue,xbrl,xbrl_expanded_fact16_path15,22,31,22,9,0,0.710,1.000,Fact budget expanded to 16 and relation-path budget expanded to 15 when available.
+CAT,Caterpillar Inc.,bounded_extension,inventory,text,text_top3,5,3,3,0,2,0.600,0.600,Implemented text top-5 varied to top-3.
+CAT,Caterpillar Inc.,bounded_extension,inventory,text,text_top8,5,8,5,3,0,0.625,1.000,Implemented text top-5 varied to top-8.
+CAT,Caterpillar Inc.,bounded_extension,inventory,xbrl,xbrl_fact_only,22,12,12,0,10,0.545,0.545,Relation paths removed; fact budget unchanged.
+CAT,Caterpillar Inc.,bounded_extension,inventory,xbrl,xbrl_fact_top8_paths_current,22,18,18,0,4,0.818,0.818,Fact budget reduced from 12 to 8; relation-path budget unchanged.
+CAT,Caterpillar Inc.,bounded_extension,inventory,xbrl,xbrl_expanded_fact16_path15,22,31,22,9,0,0.710,1.000,Fact budget expanded to 16 and relation-path budget expanded to 15 when available.
+PFE,Pfizer Inc.,bounded_extension,revenue,text,text_top3,5,3,3,0,2,0.600,0.600,Implemented text top-5 varied to top-3.
+PFE,Pfizer Inc.,bounded_extension,revenue,text,text_top8,5,8,5,3,0,0.625,1.000,Implemented text top-5 varied to top-8.
+PFE,Pfizer Inc.,bounded_extension,revenue,xbrl,xbrl_fact_only,22,12,12,0,10,0.545,0.545,Relation paths removed; fact budget unchanged.
+PFE,Pfizer Inc.,bounded_extension,revenue,xbrl,xbrl_fact_top8_paths_current,22,18,18,0,4,0.818,0.818,Fact budget reduced from 12 to 8; relation-path budget unchanged.
+PFE,Pfizer Inc.,bounded_extension,revenue,xbrl,xbrl_expanded_fact16_path15,22,31,22,9,0,0.710,1.000,Fact budget expanded to 16 and relation-path budget expanded to 15 when available.
+PFE,Pfizer Inc.,bounded_extension,inventory,text,text_top3,5,3,3,0,2,0.600,0.600,Implemented text top-5 varied to top-3.
+PFE,Pfizer Inc.,bounded_extension,inventory,text,text_top8,5,8,5,3,0,0.625,1.000,Implemented text top-5 varied to top-8.
+PFE,Pfizer Inc.,bounded_extension,inventory,xbrl,xbrl_fact_only,22,12,12,0,10,0.545,0.545,Relation paths removed; fact budget unchanged.
+PFE,Pfizer Inc.,bounded_extension,inventory,xbrl,xbrl_fact_top8_paths_current,22,18,18,0,4,0.818,0.818,Fact budget reduced from 12 to 8; relation-path budget unchanged.
+PFE,Pfizer Inc.,bounded_extension,inventory,xbrl,xbrl_expanded_fact16_path15,22,31,22,9,0,0.710,1.000,Fact budget expanded to 16 and relation-path budget expanded to 15 when available.
+MSFT,Microsoft Corp.,bounded_extension,revenue,text,text_top3,5,3,3,0,2,0.600,0.600,Implemented text top-5 varied to top-3.
+MSFT,Microsoft Corp.,bounded_extension,revenue,text,text_top8,5,8,5,3,0,0.625,1.000,Implemented text top-5 varied to top-8.
+MSFT,Microsoft Corp.,bounded_extension,revenue,xbrl,xbrl_fact_only,12,12,12,0,0,1.000,1.000,Relation paths removed; fact budget unchanged.
+MSFT,Microsoft Corp.,bounded_extension,revenue,xbrl,xbrl_fact_top8_paths_current,12,8,8,0,4,0.667,0.667,Fact budget reduced from 12 to 8; relation-path budget unchanged.
+MSFT,Microsoft Corp.,bounded_extension,revenue,xbrl,xbrl_expanded_fact16_path15,12,16,12,4,0,0.750,1.000,Fact budget expanded to 16 and relation-path budget expanded to 15 when available.
+MSFT,Microsoft Corp.,bounded_extension,inventory,text,text_top3,5,3,3,0,2,0.600,0.600,Implemented text top-5 varied to top-3.
+MSFT,Microsoft Corp.,bounded_extension,inventory,text,text_top8,5,8,5,3,0,0.625,1.000,Implemented text top-5 varied to top-8.
+MSFT,Microsoft Corp.,bounded_extension,inventory,xbrl,xbrl_fact_only,11,11,11,0,0,1.000,1.000,Relation paths removed; fact budget unchanged.
+MSFT,Microsoft Corp.,bounded_extension,inventory,xbrl,xbrl_fact_top8_paths_current,11,8,8,0,3,0.727,0.727,Fact budget reduced from 12 to 8; relation-path budget unchanged.
+MSFT,Microsoft Corp.,bounded_extension,inventory,xbrl,xbrl_expanded_fact16_path15,11,11,11,0,0,1.000,1.000,Fact budget expanded to 16 and relation-path budget expanded to 15 when available.
+CROX,"Crocs, Inc.",bounded_extension,revenue,text,text_top3,5,3,3,0,2,0.600,0.600,Implemented text top-5 varied to top-3.
+CROX,"Crocs, Inc.",bounded_extension,revenue,text,text_top8,5,8,5,3,0,0.625,1.000,Implemented text top-5 varied to top-8.
+CROX,"Crocs, Inc.",bounded_extension,revenue,xbrl,xbrl_fact_only,22,12,12,0,10,0.545,0.545,Relation paths removed; fact budget unchanged.
+CROX,"Crocs, Inc.",bounded_extension,revenue,xbrl,xbrl_fact_top8_paths_current,22,18,18,0,4,0.818,0.818,Fact budget reduced from 12 to 8; relation-path budget unchanged.
+CROX,"Crocs, Inc.",bounded_extension,revenue,xbrl,xbrl_expanded_fact16_path15,22,31,22,9,0,0.710,1.000,Fact budget expanded to 16 and relation-path budget expanded to 15 when available.
+CROX,"Crocs, Inc.",bounded_extension,inventory,text,text_top3,5,3,3,0,2,0.600,0.600,Implemented text top-5 varied to top-3.
+CROX,"Crocs, Inc.",bounded_extension,inventory,text,text_top8,5,8,5,3,0,0.625,1.000,Implemented text top-5 varied to top-8.
+CROX,"Crocs, Inc.",bounded_extension,inventory,xbrl,xbrl_fact_only,22,12,12,0,10,0.545,0.545,Relation paths removed; fact budget unchanged.
+CROX,"Crocs, Inc.",bounded_extension,inventory,xbrl,xbrl_fact_top8_paths_current,22,18,18,0,4,0.818,0.818,Fact budget reduced from 12 to 8; relation-path budget unchanged.
+CROX,"Crocs, Inc.",bounded_extension,inventory,xbrl,xbrl_expanded_fact16_path15,22,29,22,7,0,0.759,1.000,Fact budget expanded to 16 and relation-path budget expanded to 15 when available.

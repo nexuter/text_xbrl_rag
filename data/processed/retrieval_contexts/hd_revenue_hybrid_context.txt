@@ -1,0 +1,42 @@
+TEXT RETRIEVAL CONTEXT
+
+[Text Chunk 1]
+chunk_id: T-HD-REVENUE-056
+source_file: hd-20260201.htm
+construct_tag: revenue
+ranking_score: 25
+text: We further record deferred revenue for the sale of gift cards and recognize the associated revenue upon the redemption of those gift cards, which generally occurs within six months of gift card issuance. As of both February 1, 2026 and February 2, 2025, our performance obligations for unredeemed gift cards were $ 1.1 billion. Gift card breakage income, which is our estimate of the portion of our outstanding gift card balance not expected to be redeemed, is recognized in net sales and was immaterial in fiscal 2025, fiscal 2024, and fiscal 2023.
+
+[Text Chunk 2]
+chunk_id: T-HD-REVENUE-042
+source_file: hd-20260201.htm
+construct_tag: revenue
+ranking_score: 11
+text: Comparable Sales. Comparable sales is a measure that highlights the performance of our existing locations and websites by measuring the change in net sales for a period over the comparable prior period of equivalent length. Comparable sales includes sales at locations, physical and online, open greater than 52 weeks (including remodels and relocations) and excludes closed stores. Acquisitions are typically included in comparable sales after they have been owned for more than 52 weeks. For our calculation of comparable sales in fiscal 2025, we compare weeks 1 through 52 in fiscal 2025 against weeks 2 through 53 in fiscal 2024. Comparable sales is intended only as supplemental information and is not a substitute for net sales presented in accordance with GAAP. The method of calculating comparable sales varies across the retail industry. As a result, our method of calculating comparable sales may not be the same as similarly titled measures reported by other companies.
+
+[Text Chunk 3]
+chunk_id: T-HD-REVENUE-015
+source_file: hd-20260201.htm
+construct_tag: revenue
+ranking_score: 9
+text: Through our technology infrastructure we are able to provide an improved overall shopping and interconnected experience that empowers our customers to shop and interact with us from a variety of electronic devices and digital platforms at each stage of their shopping journey. We use our digital platforms as sales channels for our products and services as methods of providing inspiration and as sources of product project and other relevant information to our customers to help drive sales. In addition to supporting our DIY and DIFM customers we make other resources available that are designed to serve the needs of Pros including those working on complex projects. We also have multiple online communities digital platforms and knowledge centers that allow us to inform assist and interact with our customers. The retail industry is continually evolving and expanding with a significant increase in sales initiated online and via mobile applications in recent years. We may not be successful at managing this increased ...
+
+XBRL RELATIONAL RETRIEVAL CONTEXT
+
+Facts:
+1. fact_id=F-HD-0009 concept=RevenueFromContractWithCustomerExcludingAssessedTax value=152669000000 unit=iso4217:USD period=duration:2023-01-30/2024-01-28 dimensions=none
+2. fact_id=F-HD-0050 concept=RevenueFromContractWithCustomerExcludingAssessedTax value=152669000000 unit=iso4217:USD period=duration:2023-01-30/2024-01-28 dimensions=us-gaap:StatementBusinessSegmentsAxis=hd:PrimarySegmentMember
+3. fact_id=F-HD-0070 concept=RevenueFromContractWithCustomerExcludingAssessedTax value=52572000000 unit=iso4217:USD period=duration:2023-01-30/2024-01-28 dimensions=srt:ConsolidationItemsAxis=us-gaap:OperatingSegmentsMember; srt:ProductOrServiceAxis=hd:MajorProductLineBuildingMaterialsMember; us-gaap:StatementBusinessSegmentsAxis=hd:PrimarySegmentMember
+4. fact_id=F-HD-0044 concept=ContractWithCustomerLiabilityAverageRedemptionPeriod value=P6M unit= period=duration:2025-02-03/2026-02-01 dimensions=none
+5. fact_id=F-HD-0042 concept=ContractWithCustomerLiabilityCurrent value=1500000000 unit=iso4217:USD period=instant:2025-02-02 dimensions=none
+6. fact_id=F-HD-0043 concept=ContractWithCustomerLiabilityCurrent value=1500000000 unit=iso4217:USD period=instant:2026-02-01 dimensions=none
+7. fact_id=F-HD-0006 concept=DeferredRevenueCurrent value=2610000000 unit=iso4217:USD period=instant:2025-02-02 dimensions=none
+8. fact_id=F-HD-0005 concept=DeferredRevenueCurrent value=2575000000 unit=iso4217:USD period=instant:2026-02-01 dimensions=none
+
+Relation paths:
+1. path_id=X-HD-0130 relation_type=definition source=us-gaap:EntityWideInformationRevenueFromExternalCustomerLineItems (Revenue from External Customer [Line Items]) -> target=us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax (Revenue from Contract with Customer, Excluding Assessed Tax) arcrole=http://xbrl.org/int/dim/arcrole/domain-member role=http://www.homedepot.com/role/SEGMENTREPORTINGANDNETSALESSignificantExpenseUsedByOurCODMDetails
+2. path_id=X-HD-0164 relation_type=definition source=us-gaap:EntityWideInformationRevenueFromExternalCustomerLineItems (Revenue from External Customer [Line Items]) -> target=us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax (Revenue from Contract with Customer, Excluding Assessed Tax) arcrole=http://xbrl.org/int/dim/arcrole/domain-member role=http://www.homedepot.com/role/SEGMENTREPORTINGANDNETSALESRevenuefromExternalCustomersbyProductsandServicesDetails
+3. path_id=X-HD-0148 relation_type=definition source=us-gaap:RevenuesFromExternalCustomersAndLongLivedAssetsLineItems (Revenues from External Customers and Long-Lived Assets [Line Items]) -> target=us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax (Revenue from Contract with Customer, Excluding Assessed Tax) arcrole=http://xbrl.org/int/dim/arcrole/domain-member role=http://www.homedepot.com/role/SEGMENTREPORTINGANDNETSALESScheduleofLongLivedAssetsbyGeographicAreasDetails
+4. path_id=X-HD-0156 relation_type=definition source=us-gaap:RevenuesFromExternalCustomersAndLongLivedAssetsLineItems (Revenues from External Customers and Long-Lived Assets [Line Items]) -> target=us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax (Revenue from Contract with Customer, Excluding Assessed Tax) arcrole=http://xbrl.org/int/dim/arcrole/domain-member role=http://www.homedepot.com/role/SEGMENTREPORTINGANDNETSALESScheduleofNetSalesByMajorProductLineDetails
+5. path_id=X-HD-0168 relation_type=definition source=us-gaap:RevenuesFromExternalCustomersAndLongLivedAssetsLineItems (Revenues from External Customers and Long-Lived Assets [Line Items]) -> target=us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax (Revenue from Contract with Customer, Excluding Assessed Tax) arcrole=http://xbrl.org/int/dim/arcrole/domain-member role=http://www.homedepot.com/role/SEGMENTREPORTINGANDNETSALESScheduleofProductsandServicesDetails
+6. path_id=X-HD-0041 relation_type=presentation source=us-gaap:EntityWideInformationRevenueFromExternalCustomerLineItems (Revenue from External Customer [Line Items]) -> target=us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax (Revenue from Contract with Customer, Excluding Assessed Tax) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.homedepot.com/role/SEGMENTREPORTINGANDNETSALESSignificantExpenseUsedByOurCODMDetails

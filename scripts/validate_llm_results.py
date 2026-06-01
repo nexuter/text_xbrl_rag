@@ -19,7 +19,7 @@ RUNS = [
     {
         "label": "gemma4_31b_extension",
         "role": "bounded_extension",
-        "expected_outputs": 18,
+        "expected_outputs": 48,
         "coding_file": PROCESSED / "coding" / "claim_level_coding_gemma4_31b_extension.csv",
     },
 ]

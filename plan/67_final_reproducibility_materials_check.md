@@ -1,5 +1,7 @@
 # Final Reproducibility Materials Check
 
+Revision note: This reproducibility check was superseded by the full-scale extension revision in `plan/89_demonstration_scope_and_validation_revision_log.md`. The current replication package uses 72 outputs, 48 extension outputs, 281 preliminary coded claims, 464 retrieval-log rows, and 383 checksum rows.
+
 ## Purpose
 
 This memo evaluates whether the project's reproducibility materials are strong enough for an AJPT Methodological Papers submission.

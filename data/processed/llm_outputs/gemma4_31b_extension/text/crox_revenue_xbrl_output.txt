@@ -1,0 +1,27 @@
+- Claim: As of December 31, 2025, the contract refund liability was $37,960,000.
+  - Claim type: Factual
+  - Support used: F-CROX-0053
+  - Limitation: This claim is limited to the reported balance at the specific snapshot date of 2025-12-31.
+
+- Claim: As of December 31, 2025, Crocs, Inc. utilized two distribution channels.
+  - Claim type: Factual
+  - Support used: F-CROX-0051
+  - Limitation: This claim is limited to the reported count at the specific snapshot date of 2025-12-31.
+
+- Claim: The reported refund liability of $37,960,000 as of 2025-12-31 suggests a risk related to the "Accuracy" assertion for revenue recognition.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-CROX-0053
+  - Inferential bridge: The existence of a refund liability implies that revenue is recognized net of estimated returns; any errors in the estimation process for these returns would directly impact the accuracy of the reported revenue.
+  - Limitation: Missing the specific estimation methodology or historical return rate data used to calculate the refund liability.
+
+- Claim: The operation of two distinct distribution channels as of 2025-12-31 creates a risk cue for the "Cut-off" and "Accuracy" assertions of revenue.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-CROX-0051
+  - Inferential bridge: Different distribution channels typically involve different shipping terms (e.g., FOB shipping point vs. destination) and payment terms, which increases the risk of revenue being recorded in the incorrect accounting period or at an incorrect amount.
+  - Limitation: Missing the detailed revenue recognition policies and shipping terms associated with each specific channel.
+
+- Claim: The tracking of "Cumulative Catch-up Adjustment to Revenue Change in Estimate of Transaction Price" for the wholesale channel (reported as 0 for 2023, 2024, and 2025) indicates a risk related to the "Valuation" assertion of revenue.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-CROX-0048, F-CROX-0050, F-CROX-0049
+  - Inferential bridge: The reporting of this specific metric indicates that the company's revenue recognition framework allows for adjustments based on changes in transaction price estimates, a process that requires significant management judgment and is susceptible to valuation errors.
+  - Limitation: Missing the underlying criteria, triggers, or internal controls that determine when a non-zero adjustment should be recorded.

@@ -1,0 +1,27 @@
+- Claim: Total sales and revenues for 2025 were $67.589 billion.
+  - Claim type: Factual
+  - Support used: [Text Chunk 4]
+  - Limitation: This figure is limited to the total reported for the 2025 fiscal year as provided in the source text.
+
+- Claim: Trade receivables from dealers and end users were $9,402 million as of December 31, 2025.
+  - Claim type: Factual
+  - Support used: [Text Chunk 3]
+  - Limitation: This measurement is limited to the specific balance reported as of the December 31, 2025, reporting date.
+
+- Claim: The reliance on dealer inventory levels and seasonal inventory builds to drive sales volume may impact the timing of revenue recognition.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 2]
+  - Inferential bridge: The text states that sales growth is driven by "the impact from changes in dealer inventories" and "seasonal dealer inventory build," which suggests a risk regarding the Cutoff and Occurrence assertions if revenue is recognized upon shipment to dealers regardless of end-user demand.
+  - Limitation: Missing the company's specific revenue recognition policy regarding the transfer of control to dealers and the controls used to monitor dealer inventory levels.
+
+- Claim: The inclusion of inter-segment sales in segment profit calculations creates a risk regarding the accuracy of consolidated revenue.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 1]
+  - Inferential bridge: Because the text explicitly mentions that "the impact of sales volume on segment profit includes inter-segment sales," there is an inherent risk that these internal transactions may not be fully eliminated during consolidation, affecting the Accuracy and Occurrence of total revenue.
+  - Limitation: Missing the specific accounting procedures or automated controls used to identify and eliminate inter-segment transactions during the consolidation process.
+
+- Claim: The provision of wholesale inventory financing by Cat Financial for dealer purchases may affect the determination of when revenue is recognized.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 3]
+  - Inferential bridge: The text notes that trade receivables include "amounts due from wholesale inventory financing provided by Cat Financial for a dealer's purchase of inventory," which suggests that the financing terms could potentially influence the transfer of risks and rewards, impacting the Occurrence and Accuracy of revenue.
+  - Limitation: Missing the specific terms and conditions of the financing agreements to determine if any arrangements exist that would require the deferral of revenue recognition.

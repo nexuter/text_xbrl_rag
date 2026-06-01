@@ -10,6 +10,7 @@ submission/figures/*.html
 ~$*.docx
 *.tmp
 *.bak
+.codex/
 
 # Python cache.
 __pycache__/

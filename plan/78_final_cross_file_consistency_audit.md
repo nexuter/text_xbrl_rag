@@ -1,5 +1,7 @@
 # Final Cross-File Consistency Audit
 
+Revision note: This consistency audit was superseded by the full-scale extension revision in `plan/89_demonstration_scope_and_validation_revision_log.md`. The current submission package uses 72 outputs, 48 extension outputs, 281 preliminary coded claims, 464 retrieval-log rows, and 383 checksum rows.
+
 ## Purpose
 
 This memo audits consistency across the final submission-facing materials:

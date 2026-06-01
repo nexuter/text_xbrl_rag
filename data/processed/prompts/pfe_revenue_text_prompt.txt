@@ -1,0 +1,59 @@
+You are assisting with an auditing research task. Use only the information provided in the context.
+
+Task:
+Identify audit-relevant risk cues or assertion-mapping considerations for revenue recognition risk cue identification for Pfizer Inc., fiscal year 2025, period ended 2025-12-31, accession 0000078003-26-000026, based on the provided context.
+
+Instructions:
+1. Provide no more than five audit-relevant claims.
+2. Distinguish factual claims from risk-cue or assertion-mapping claims.
+3. Do not conclude that a misstatement exists.
+4. State when the provided context is insufficient.
+5. Avoid treating reported XBRL relationships as independent audit evidence.
+6. Do not use general company knowledge outside the provided context.
+7. For each risk-cue or assertion-mapping claim, state the inferential bridge from the source evidence to the audit consideration.
+8. Do not write "Limitation: None" for risk-cue or assertion-mapping claims; identify at least one missing audit evidence item, missing control detail, or source-bound limitation.
+9. For factual claims, state any period, source, or measurement limitation rather than treating the claim as unrestricted.
+
+Context:
+TEXT RETRIEVAL CONTEXT
+
+[Text Chunk 1]
+chunk_id: T-PFE-REVENUE-141
+source_file: pfe-20251231.htm
+construct_tag: revenue
+ranking_score: 37
+text: Deferred Revenues Our deferred revenues primarily relate to advance payments received or receivable from various government or government sponsored customers for supply of Paxlovid and Comirnaty. The deferred revenues related to Paxlovid and Comirnaty totaled $ 1.5 billion as of December 31 2025 with $ 689 million and $ 826 million recorded in current liabilities and noncurrent liabilities respectively. The deferred revenues related to Paxlovid and Comirnaty totaled $ 2.2 billion as of December 31 2024 with $ 1.4 billion and $ 785 million recorded in current liabilities and noncurrent liabilities respectively. The decrease in Paxlovid and Comirnaty deferred revenues during 2025 was primarily driven by amounts recognized in Product revenues as we delivered the products to our customers. During 2025 we recognized revenue of approximately $ 771 million that was included in the balance of Paxlovid and Comirnaty deferred revenues as of December 31 2024. The Paxlovid and Comirnaty deferred revenues as of December 31 2025 will be recognized in Product revenues proportionately as we transfer control of the products to our customers and satisfy our performance obligations under the contracts with the amounts included in current liabilities expected to be recognized in Product revenues within the next 12 months and the amounts included in noncurrent liabilities expected to be recognized in Product revenues primarily from December 2026 which ...
+
+[Text Chunk 2]
+chunk_id: T-PFE-REVENUE-066
+source_file: pfe-20251231.htm
+construct_tag: revenue
+ranking_score: 10
+text: Our gross product revenues are subject to a variety of deductions which generally are estimated and recorded in the same period that the revenues are recognized. Such variable consideration represents chargebacks rebates sales allowances and sales returns. These deductions represent estimates of the related obligations and as such knowledge and judgment are required when estimating the impact of these revenue deductions on gross sales for a reporting period. Historically adjustments to these estimates to reflect actual results or updated expectations have not been material to our overall business and generally have been less than 1% of revenues. Product-specific rebates however can have a significant impact on year-over-year individual product revenue growth trends. If any of our ratios factors assessments experiences or judgments are not indicative or accurate estimates of our future experience our results could be materially affected. The potential of our estimates to vary sensitivity differs by program product type of customer and geographic location. However estimates associated with U.S. Medicare Medicaid and performance-based contract rebates are most at risk for material adjustment because of the extensive time delay between the recording of the accrual and its ultimate settlement an interval that can generally range up to one year. Because of this lag our recording of adjustments to reflect actual amounts can incorporate revisions of several prior quarters. Rebate ...
+
+[Text Chunk 3]
+chunk_id: T-PFE-REVENUE-093
+source_file: pfe-20251231.htm
+construct_tag: revenue
+ranking_score: 9
+text: Provisions for pharmaceutical sales returns–– Provisions are based on a calculation for each market that incorporates the following, as appropriate: local returns policies and practices; historical returns as a percentage of sales; an understanding of the reasons for past returns; estimated shelf life by product; an estimate of the amount of time between shipment and return or lag time; and any other factors that could impact the estimate of future returns, such as patent-based expirations or loss of regulatory exclusivity, product recalls or a changing competitive environment. Generally, returned products are destroyed, and customers are refunded the sales price in the form of a credit.
+
+[Text Chunk 4]
+chunk_id: T-PFE-REVENUE-016
+source_file: pfe-20251231.htm
+construct_tag: revenue
+ranking_score: 8
+text: Revenues from operations outside the U.S. of $25.5 billion, $24.9 billion and $31.4 billion accounted for 41%, 39% and 53% of Total revenues in 2025, 2024 and 2023, respectively. Revenues exceeded $500 million in each of 12, 11 and 14 countries outside the U.S. in 2025, 2024 and 2023, respectively. As a percentage of Total revenues , China was our largest market outside the U.S. in 2025 and 2024 (representing 5% and 4% of total revenues, respectively), and Japan was our largest market in 2023 (representing 6% of total revenues). For a geographic breakdown of Total revenues , see the Total Revenues by Geography section within MD&A and Note 17B .
+
+[Text Chunk 5]
+chunk_id: T-PFE-REVENUE-031
+source_file: pfe-20251231.htm
+construct_tag: revenue
+ranking_score: 8
+text: We recorded revenues of more than $1 billion for each of 12 products that collectively accounted for 65% of Total revenues in 2025. For example Eliquis accounted for 13% of Total revenues in 2025. See N otes 1 and 17 . If these products or any of our other major products were to or continue to if applicable experience loss of patent protection if applicable changes in prescription or vaccination purchasing or growth rates reduced product demand material product liability litigation unexpected side effects or safety concerns regulatory proceedings or investigations lower governmental and or regulatory confidence negative publicity affecting doctor or patient confidence pressure from competitive products changes in recommendations and coverage changes in labeling pricing and access pressures including those related to the IRA and MFN or supply shortages or if a new more effective product should be introduced the adverse impact on our revenues could be significant and our revenue forecasts and expectations could prove to be inaccurate and we may fail to meet these expectations. In particular certain of our products have experienced patent-based expirations or loss of regulatory exclusivity in certain markets in the last few years and we expect certain products to face new or increased generic competition over the next few years. We anticipate a significant reduction of revenue from patent-based or regulatory ...
+
+Output format:
+- Claim:
+  - Claim type:
+  - Support used:
+  - Limitation:

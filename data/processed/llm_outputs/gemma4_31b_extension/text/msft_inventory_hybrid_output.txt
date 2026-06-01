@@ -1,0 +1,21 @@
+- Claim: As of 2025-06-30, the net inventory (InventoryNet) was $938,000,000.
+  - Claim type: Factual
+  - Support used: F-MSFT-0026
+  - Limitation: This claim is limited to the reported XBRL value for the specific instant of 2025-06-30.
+
+- Claim: As of 2024-06-30, the net inventory (InventoryNet) was $1,246,000,000.
+  - Claim type: Factual
+  - Support used: F-MSFT-0027
+  - Limitation: This claim is limited to the reported XBRL value for the specific instant of 2024-06-30.
+
+- Claim: The scaling of AI infrastructure may present a risk to the valuation assertion of inventory due to potential technological obsolescence.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-MSFT-INVENTORY-005, T-MSFT-INVENTORY-006
+  - Inferential bridge: The text notes that gross margin percentages decreased primarily due to the "impact of scaling our AI infrastructure." Rapid scaling of AI infrastructure typically involves high-velocity technological turnover, which increases the risk that existing hardware inventory may become obsolete and require write-downs to net realizable value.
+  - Limitation: The provided context does not include an inventory composition breakdown (e.g., hardware vs. software) or specific details on the types of AI infrastructure components held in inventory.
+
+- Claim: The decrease in the net inventory balance between 2024-06-30 and 2025-06-30 requires assessment to determine if valuation adjustments were made.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-MSFT-0026, F-MSFT-0027
+  - Inferential bridge: There is a decrease in InventoryNet from $1,246,000,000 to $938,000,000. A significant reduction in the carrying value of inventory can be an indicator of valuation write-downs or impairments, necessitating a review of the valuation assertion.
+  - Limitation: The context lacks a detailed inventory aging report or a schedule of inventory write-offs and write-downs for the fiscal year 2025.

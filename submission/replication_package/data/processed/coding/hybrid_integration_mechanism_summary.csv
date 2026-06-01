@@ -1,0 +1,4 @@
+mechanism,definition,claims,share_of_hybrid_claims
+integrated_text_xbrl_bridge,Claim uses both text and XBRL evidence with an inferential bridge.,8,9.0%
+text_only_within_hybrid,"Hybrid prompt was available, but the claim used narrative text only.",61,68.5%
+xbrl_only_within_hybrid,"Hybrid prompt was available, but the claim used XBRL facts or paths only.",20,22.5%

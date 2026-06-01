@@ -1,0 +1,26 @@
+- Claim: Trade receivables from dealers and end users were $9,402 million as of December 31, 2025.
+  - Claim type: Factual
+  - Support used: T-CAT-REVENUE_INVENTORY-021
+  - Limitation: This claim is limited to the specific reporting date of December 31, 2025.
+
+- Claim: For the period from January 1, 2025, to December 31, 2025, the company recorded a Contract With Customer Liability Cumulative Catch-Up Adjustment to Revenue Change in Estimate of Transaction Price of -$497 million.
+  - Claim type: Factual
+  - Support used: F-CAT-0052
+  - Limitation: This claim is limited to the measurement provided in the XBRL fact for the 2025 fiscal year.
+
+- Claim: The recording of a significant negative cumulative catch-up adjustment to revenue due to changes in transaction price estimates suggests a risk related to the Accuracy assertion of revenue recognition.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-CAT-0052
+  - Inferential bridge: The necessity of a "catch-up adjustment" based on a "change in estimate" indicates that the initial transaction price used to recognize revenue was subject to revision, which points to a risk that the original revenue amounts were not accurately measured.
+  - Limitation: Missing the specific internal control details regarding how transaction price estimates are initially determined and subsequently reviewed.
+
+- Claim: The anticipation of sales growth driven by "changes in dealer inventories" and "seasonal dealer inventory build" suggests a risk related to the Occurrence assertion of revenue.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-CAT-REVENUE_INVENTORY-006
+  - Inferential bridge: Revenue growth attributed to dealer inventory builds rather than end-user demand increases the risk of "channel stuffing," where revenue is recognized upon shipment to dealers before the risks and rewards of ownership have effectively transferred to the end customer.
+  - Limitation: Missing the company's specific revenue recognition policy for dealer sales, specifically whether revenue is recognized upon shipment or delivery.
+
+- Claim: As of December 31, 2025, the Contract With Customer Liability was $4,678 million.
+  - Claim type: Factual
+  - Support used: F-CAT-0062
+  - Limitation: This claim is limited to the snapshot balance as of the period end date of December 31, 2025.

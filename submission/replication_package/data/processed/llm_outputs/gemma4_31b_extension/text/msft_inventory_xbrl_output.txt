@@ -1,0 +1,21 @@
+- Claim: As of June 30, 2025, Microsoft Corp.'s net inventory was $938,000,000.
+  - Claim type: Factual
+  - Support used: F-MSFT-0026
+  - Limitation: This is a point-in-time measurement as of 2025-06-30 and does not reflect intra-period fluctuations.
+
+- Claim: Net inventory decreased from $1,246,000,000 on June 30, 2024, to $938,000,000 on June 30, 2025.
+  - Claim type: Factual
+  - Support used: F-MSFT-0027, F-MSFT-0026
+  - Limitation: This claim is limited to the comparison of two specific reporting dates provided in the context.
+
+- Claim: The decrease in net inventory (from $1.246 billion to $938 million) and the reported "IncreaseDecreaseInInventories" of -$309,000,000 for the period ending 2025-06-30 indicate a need to evaluate the inventory valuation assertion to determine if the reduction is attributable to normal sales or to write-downs for obsolescence.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-MSFT-0027, F-MSFT-0026, F-MSFT-0035
+  - Inferential bridge: A significant reduction in inventory balances can be driven by either operational consumption or valuation adjustments (e.g., writing inventory down to net realizable value). To ensure the valuation assertion is met, the auditor must distinguish between these drivers.
+  - Limitation: Missing detailed inventory aging reports and documentation regarding the company's inventory obsolescence and write-down policies.
+
+- Claim: The lack of Cost of Goods and Services Sold (COGS) data for the 2024-2025 period (with data only provided for 2022-2023) limits the ability to perform a current-year gross margin analysis to identify potential valuation risks associated with specific product lines.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-MSFT-0012, F-MSFT-0015, F-MSFT-0018, F-MSFT-0019
+  - Inferential bridge: Comparing current-year COGS and gross profit trends against inventory levels allows auditors to identify slow-moving or underperforming product segments, which serves as a cue for potential inventory overvaluation.
+  - Limitation: Missing COGS data for the fiscal year 2025.

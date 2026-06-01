@@ -1,5 +1,7 @@
 # Accept-Level Reviewer Assessment
 
+Revision note: This accept-level assessment was superseded by the full-scale extension revision in `plan/89_demonstration_scope_and_validation_revision_log.md`. The current submission package uses 72 outputs, 48 extension outputs, 281 preliminary coded claims, and 464 retrieval-log rows.
+
 ## Purpose
 
 This memo evaluates whether the manuscript is strong enough for an AJPT reviewer to give an accept-level recommendation. The assessment incorporates:

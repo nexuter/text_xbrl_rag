@@ -1,0 +1,65 @@
+You are assisting with an auditing research task. Use only the information provided in the context.
+
+Task:
+Identify audit-relevant risk cues or assertion-mapping considerations for revenue recognition risk cue identification for Crocs, Inc., fiscal year 2025, period ended 2025-12-31, accession 0001334036-26-000006, based on the provided context.
+
+Instructions:
+1. Provide no more than five audit-relevant claims.
+2. Distinguish factual claims from risk-cue or assertion-mapping claims.
+3. Do not conclude that a misstatement exists.
+4. State when the provided context is insufficient.
+5. Avoid treating reported XBRL relationships as independent audit evidence.
+6. Do not use general company knowledge outside the provided context.
+7. For each risk-cue or assertion-mapping claim, state the inferential bridge from the source evidence to the audit consideration.
+8. Do not write "Limitation: None" for risk-cue or assertion-mapping claims; identify at least one missing audit evidence item, missing control detail, or source-bound limitation.
+9. For factual claims, state any period, source, or measurement limitation rather than treating the claim as unrestricted.
+
+Context:
+TEXT RETRIEVAL CONTEXT
+
+[Text Chunk 1]
+chunk_id: T-CROX-REVENUE_INVENTORY-015
+source_file: crox-20251231.htm
+construct_tag: revenue_inventory
+ranking_score: 22
+text: While our revenue recognition does not involve significant judgment it does represent a key accounting policy as it is important to our results of operations. Revenues are recognized in the amount expected to be received when control of the product transfers to customers. Revenues are reported net of various promotions which range from contractually-fixed percentage price reductions to sales returns discounts rebates and other incentives that may vary in amount must be estimated and are reported as a reduction in revenues. An area of judgment affecting our reported revenues and net income involves estimating reserves for sales returns and allowances which represent a portion of revenues not expected to be realized. Revenues in our direct-to-consumer channels are reduced by an estimate of returns. We may also accept returns from our wholesale customers on an exception basis to ensure that our products are merchandised in the proper assortments and may provide markdown allowances at our sole discretion to key wholesalers and ...
+
+[Text Chunk 2]
+chunk_id: T-CROX-REVENUE-090
+source_file: crox-20251231.htm
+construct_tag: revenue
+ranking_score: 17
+text: Contract liabilities consist of advance cash deposits received from wholesale customers to secure product orders in connection with selling seasons and payments received in advance of delivery. As products are shipped and control transfers, we recognize the deferred revenue in ‘Revenues’ in the consolidated statements of operations. At December 31, 2025, we did not record any deferred revenues, and at December 31, 2024, we recorded an insignificant amount of deferred revenues associated with advance customer deposits in ‘Accrued expenses and other liabilities’ in the consolidated balance sheets.
+
+[Text Chunk 3]
+chunk_id: T-CROX-REVENUE_INVENTORY-028
+source_file: crox-20251231.htm
+construct_tag: revenue_inventory
+ranking_score: 12
+text: For the majority of wholesale customers, control transfers and revenues are recognized when the product is shipped or delivered from a manufacturing facility or distribution center to the wholesale customer. In certain cases, control of the product transfers and revenues are recognized when the customer receives the product at the designated delivery point. For certain customers, primarily in international markets, cash payment is required in advance of delivery and revenues continue to be recognized upon the transfer of control to the customer. We may accept returns from our wholesale customers, on an exception basis, to ensure that our products are merchandised in the proper assortments and may provide markdown allowances at our sole discretion to key wholesalers and distributors to facilitate sales of slower moving products. Wholesale revenues are reduced by estimates of returns and allowances based on historical experience, and adjustments to our estimates are made when the expected value changes.
+
+XBRL RELATIONAL RETRIEVAL CONTEXT
+
+Facts:
+1. fact_id=F-CROX-0003 concept=RevenueFromContractWithCustomerExcludingAssessedTax value=3962347000 unit=iso4217:USD period=duration:2023-01-01/2023-12-31 dimensions=none
+2. fact_id=F-CROX-0059 concept=RevenueFromContractWithCustomerExcludingAssessedTax value=652943000 unit=iso4217:USD period=duration:2023-01-01/2023-12-31 dimensions=srt:StatementGeographicalAxis=srt:NorthAmericaMember; us-gaap:ContractWithCustomerSalesChannelAxis=crox:SalesChannelThroughIntermediaryWholesaleMember; us-gaap:StatementBusinessSegmentsAxis=crox:CrocsBrandSegmentMember
+3. fact_id=F-CROX-0062 concept=RevenueFromContractWithCustomerExcludingAssessedTax value=1124942000 unit=iso4217:USD period=duration:2023-01-01/2023-12-31 dimensions=srt:StatementGeographicalAxis=srt:NorthAmericaMember; us-gaap:ContractWithCustomerSalesChannelAxis=us-gaap:SalesChannelDirectlyToConsumerMember; us-gaap:StatementBusinessSegmentsAxis=crox:CrocsBrandSegmentMember
+4. fact_id=F-CROX-0051 concept=RevenueFromContractWithCustomerNumberOfDistributionChannels value=2 unit=crox:distribution_channel period=instant:2025-12-31 dimensions=none
+5. fact_id=F-CROX-0049 concept=ContractWithCustomerLiabilityCumulativeCatchUpAdjustmentToRevenueChangeInEstimateOfTransactionPrice value=0 unit=iso4217:USD period=duration:2023-01-01/2023-12-31 dimensions=us-gaap:ChangeInAccountingEstimateByTypeAxis=crox:ChangeInEstimateOfProductTransfersMember; us-gaap:ContractWithCustomerSalesChannelAxis=crox:SalesChannelThroughIntermediaryWholesaleMember
+6. fact_id=F-CROX-0050 concept=ContractWithCustomerLiabilityCumulativeCatchUpAdjustmentToRevenueChangeInEstimateOfTransactionPrice value=0 unit=iso4217:USD period=duration:2024-01-01/2024-12-31 dimensions=us-gaap:ChangeInAccountingEstimateByTypeAxis=crox:ChangeInEstimateOfProductTransfersMember; us-gaap:ContractWithCustomerSalesChannelAxis=crox:SalesChannelThroughIntermediaryWholesaleMember
+7. fact_id=F-CROX-0048 concept=ContractWithCustomerLiabilityCumulativeCatchUpAdjustmentToRevenueChangeInEstimateOfTransactionPrice value=0 unit=iso4217:USD period=duration:2025-01-01/2025-12-31 dimensions=us-gaap:ChangeInAccountingEstimateByTypeAxis=crox:ChangeInEstimateOfProductTransfersMember; us-gaap:ContractWithCustomerSalesChannelAxis=crox:SalesChannelThroughIntermediaryWholesaleMember
+8. fact_id=F-CROX-0100 concept=ContractWithCustomerLiabilityCurrent value=34300000 unit=iso4217:USD period=instant:2024-12-31 dimensions=us-gaap:FairValueByLiabilityClassAxis=crox:RefundLiabilityMember
+
+Relation paths:
+1. path_id=X-CROX-0013 relation_type=presentation source=us-gaap:RevenueFromContractWithCustomerAbstract (Revenue from Contract with Customer [Abstract]) -> target=us-gaap:RevenueFromContractWithCustomerTextBlock (Revenue from Contract with Customer [Text Block]) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.crocs.com/role/REVENUES
+2. path_id=X-CROX-0048 relation_type=presentation source=us-gaap:RevenueFromContractWithCustomerAbstract (Revenue from Contract with Customer [Abstract]) -> target=us-gaap:ScheduleOfEntityWideInformationRevenueFromExternalCustomersByProductsAndServicesTable (Segment Reporting, Revenue from External Customer, Product and Service [Table]) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.crocs.com/role/REVENUESNarrativeDetails
+3. path_id=X-CROX-0097 relation_type=definition source=us-gaap:EntityWideInformationRevenueFromExternalCustomerLineItems (Revenue from External Customer [Line Items]) -> target=us-gaap:ScheduleOfEntityWideInformationRevenueFromExternalCustomersByProductsAndServicesTable (Segment Reporting, Revenue from External Customer, Product and Service [Table]) arcrole=http://xbrl.org/int/dim/arcrole/all role=http://www.crocs.com/role/REVENUESNarrativeDetails
+4. path_id=X-CROX-0051 relation_type=presentation source=us-gaap:ScheduleOfEntityWideInformationRevenueFromExternalCustomersByProductsAndServicesTable (Segment Reporting, Revenue from External Customer, Product and Service [Table]) -> target=us-gaap:EntityWideInformationRevenueFromExternalCustomerLineItems (Revenue from External Customer [Line Items]) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.crocs.com/role/REVENUESNarrativeDetails
+5. path_id=X-CROX-0096 relation_type=definition source=us-gaap:DisaggregationOfRevenueLineItems (Disaggregation of Revenue [Line Items]) -> target=us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax (Revenue from Contract with Customer, Excluding Assessed Tax) arcrole=http://xbrl.org/int/dim/arcrole/domain-member role=http://www.crocs.com/role/REVENUESRevenuesbyReportableOperatingSegmentandbyChannelDetails
+6. path_id=X-CROX-0100 relation_type=definition source=us-gaap:EntityWideInformationRevenueFromExternalCustomerLineItems (Revenue from External Customer [Line Items]) -> target=us-gaap:ContractWithCustomerLiabilityCurrent (Contract with Customer, Liability, Current) arcrole=http://xbrl.org/int/dim/arcrole/domain-member role=http://www.crocs.com/role/REVENUESNarrativeDetails
+
+Output format:
+- Claim:
+  - Claim type:
+  - Support used:
+  - Limitation:

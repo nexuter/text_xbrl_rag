@@ -594,6 +594,10 @@ The central contribution is **retrieval-environment validity**. All other compon
 - [x] Apply the final repository or submission-system policy for raw SEC files in the replication package.
 - [x] Prepare separate figure graphics files if the submission system requires them.
 - [x] Convert SVG figure files to PNG/PDF upload formats.
+- [x] Assess whether the descriptive demonstration is sufficient under AJPT methodological-paper precedents.
+- [x] Assess whether the current experimental design is sufficient for model validation under AJPT precedents.
+- [x] Revise the submission manuscript and supplement to frame the demonstration as protocol validation and add Tier 2 model-validation guidance.
+- [x] Revise the demonstration-scope language to present the evidence as a nine-filer protocol-validation package.
 
 ### Deliverables
 
@@ -670,7 +674,21 @@ The central contribution is **retrieval-environment validity**. All other compon
 - [x] `plan/84_ajpt_docx_submission_format_build.md`
 - [x] `plan/85_replication_package_raw_sec_policy.md`
 - [x] `plan/86_separate_figure_graphics_package.md`
+- [x] `plan/87_descriptive_demonstration_acceptability_assessment.md`
+- [x] `plan/88_model_validation_experimental_design_assessment.md`
+- [x] `plan/89_demonstration_scope_and_validation_revision_log.md`
+- [x] Full-scale bounded-extension rerun: six extension filers now use the same two-construct, four-condition grid as the main cases, producing 48 extension outputs and 187 extension coded claims.
+- [x] Full nine-filer package reconciled: 72 retrieval-conditioned outputs, 281 preliminary coded claims, 464 retrieval-log rows, and 387 processed-package checksum rows.
+- [x] `plan/90_full_scale_revision_critical_reviewer_assessment.md`
+- [x] `plan/91_pre_reviewer_feedback_sanity_check.md`
+- [x] `plan/92_two_reviewer_reports_comprehensive_revise_plan.md`
+- [x] `plan/93_phase7_authoritative_replication_package_index.md`
+- [x] `plan/94_phase1_conceptual_distinctiveness_revision.md`
+- [x] `plan/95_phase2_independent_coding_validation_package.md`
+- [x] `plan/96_coder_package_preparation.md`
+- [x] `plan/97_independent_coding_completion_and_reliability.md`
 - [x] `scripts/build_ajpt_submission_docx.ps1`
+- [x] `scripts/check_docx_revision.ps1`
 - [x] `scripts/export_submission_figures_edge.ps1`
 - [x] Submission-ready manuscript.
 - [x] Cover letter template.

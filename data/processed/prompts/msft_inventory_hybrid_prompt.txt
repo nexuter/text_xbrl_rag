@@ -1,0 +1,60 @@
+You are assisting with an auditing research task. Use only the information provided in the context.
+
+Task:
+Identify audit-relevant risk cues or assertion-mapping considerations for inventory valuation assertion mapping for Microsoft Corp., fiscal year 2025, period ended 2025-06-30, accession 0000950170-25-100235, based on the provided context.
+
+Instructions:
+1. Provide no more than five audit-relevant claims.
+2. Distinguish factual claims from risk-cue or assertion-mapping claims.
+3. Do not conclude that a misstatement exists.
+4. State when the provided context is insufficient.
+5. Avoid treating reported XBRL relationships as independent audit evidence.
+6. Do not use general company knowledge outside the provided context.
+7. For each risk-cue or assertion-mapping claim, state the inferential bridge from the source evidence to the audit consideration.
+8. Do not write "Limitation: None" for risk-cue or assertion-mapping claims; identify at least one missing audit evidence item, missing control detail, or source-bound limitation.
+9. For factual claims, state any period, source, or measurement limitation rather than treating the claim as unrestricted.
+
+Context:
+TEXT RETRIEVAL CONTEXT
+
+[Text Chunk 1]
+chunk_id: T-MSFT-INVENTORY-005
+source_file: msft-20250630.htm
+construct_tag: inventory
+ranking_score: 6
+text: • Gross margin increased $11.2 billion or 13% driven by growth in Microsoft 365 Commercial cloud. Gross margin percentage decreased slightly primarily driven by the impact of scaling our AI infrastructure, offset in part by efficiency gains in Microsoft 365 Commercial cloud.
+
+[Text Chunk 2]
+chunk_id: T-MSFT-INVENTORY-006
+source_file: msft-20250630.htm
+construct_tag: inventory
+ranking_score: 6
+text: • Gross margin increased $8.2 billion or 14% driven by growth in Azure. Gross margin percentage decreased driven by the impact of scaling our AI infrastructure, offset in part by efficiency gains in Azure.
+
+[Text Chunk 3]
+chunk_id: T-MSFT-INVENTORY-007
+source_file: msft-20250630.htm
+construct_tag: inventory
+ranking_score: 6
+text: • Gross margin increased $3.5 billion or 13% with growth across all businesses. Gross margin percentage increased with improvement across all businesses.
+
+XBRL RELATIONAL RETRIEVAL CONTEXT
+
+Facts:
+1. fact_id=F-MSFT-0027 concept=InventoryNet value=1246000000 unit=iso4217:USD period=instant:2024-06-30 dimensions=none
+2. fact_id=F-MSFT-0026 concept=InventoryNet value=938000000 unit=iso4217:USD period=instant:2025-06-30 dimensions=none
+3. fact_id=F-MSFT-0021 concept=GrossProfit value=146052000000 unit=iso4217:USD period=duration:2022-07-01/2023-06-30 dimensions=none
+4. fact_id=F-MSFT-0020 concept=GrossProfit value=171008000000 unit=iso4217:USD period=duration:2023-07-01/2024-06-30 dimensions=none
+5. fact_id=F-MSFT-0019 concept=GrossProfit value=193893000000 unit=iso4217:USD period=duration:2024-07-01/2025-06-30 dimensions=none
+6. fact_id=F-MSFT-0012 concept=CostOfGoodsAndServicesSold value=17804000000 unit=iso4217:USD period=duration:2022-07-01/2023-06-30 dimensions=srt:ProductOrServiceAxis=us-gaap:ProductMember
+7. fact_id=F-MSFT-0015 concept=CostOfGoodsAndServicesSold value=48059000000 unit=iso4217:USD period=duration:2022-07-01/2023-06-30 dimensions=srt:ProductOrServiceAxis=us-gaap:ServiceOtherMember
+8. fact_id=F-MSFT-0018 concept=CostOfGoodsAndServicesSold value=65863000000 unit=iso4217:USD period=duration:2022-07-01/2023-06-30 dimensions=none
+
+Relation paths:
+No selected XBRL relation paths.
+
+Output format:
+- Claim:
+  - Claim type:
+  - Support used:
+  - Limitation:

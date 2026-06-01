@@ -1,0 +1,27 @@
+- Claim: As of February 1, 2026, and February 2, 2025, deferred revenue for products and services was $1.5 billion.
+  - Claim type: Factual
+  - Support used: [Text Chunk 5]
+  - Limitation: This claim is limited to the specific reporting dates provided in the source text (February 1, 2026, and February 2, 2025).
+
+- Claim: As of February 1, 2026, and February 2, 2025, performance obligations for unredeemed gift cards were $1.1 billion.
+  - Claim type: Factual
+  - Support used: [Text Chunk 1]
+  - Limitation: This claim is limited to the specific reporting dates provided in the source text (February 1, 2026, and February 2, 2025).
+
+- Claim: The estimation of sales return liabilities and return assets presents a risk to the accuracy and valuation of revenue.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 4]
+  - Inferential bridge: The company recognizes revenue net of "expected returns" and estimates a liability based on "historical return levels and our expectation of future returns." Because these figures rely on management's subjective expectations and historical assessments rather than fixed values, there is a risk regarding the Accuracy and Valuation assertions.
+  - Limitation: The provided context does not detail the specific controls used to validate the "expectation of future returns" or the quantitative methodology for calculating historical return levels.
+
+- Claim: The recognition of gift card breakage income introduces a risk to the accuracy of net sales.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 1]
+  - Inferential bridge: The text states that breakage income is an "estimate of the portion of our outstanding gift card balance not expected to be redeemed." Any error in this estimation process would directly impact the amount of revenue recognized in net sales, mapping to the Accuracy assertion.
+  - Limitation: The context does not provide the specific criteria or the time-based threshold used to determine when a gift card balance is considered "not expected to be redeemed."
+
+- Claim: Increased volume of online and mobile sales and potential interruptions in delivery options may create risks regarding the cut-off of revenue.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 3], [Text Chunk 4]
+  - Inferential bridge: Revenue is recognized when the "customer takes possession of merchandise" [Text Chunk 4]. However, the company notes a "significant increase in sales initiated online" and admits they "may not be successful at managing this increased volume and related delivery options without interruption" [Text Chunk 3]. Interruptions or delays in delivery could lead to revenue being recognized in the wrong accounting period, mapping to the Cut-off assertion.
+  - Limitation: The context lacks information regarding the specific shipping terms (e.g., FOB destination vs. shipping point) and the internal controls used to verify the exact date of customer possession for digital channel sales.

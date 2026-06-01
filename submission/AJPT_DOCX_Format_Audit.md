@@ -31,9 +31,9 @@ The files were opened through Microsoft Word automation, repaginated, and checke
 
 | File | Pages | Words | Normal Font | Normal Size | Line Rule | Margins | Word Tables |
 |---|---:|---:|---|---:|---:|---|---:|
-| `AJPT_Cover_Letter.docx` | 3 | 566 | Times New Roman | 12 | 2 | 1 inch | 0 |
-| `AJPT_Main_Manuscript.docx` | 31 | 7,617 | Times New Roman | 12 | 2 | 1 inch | 7 |
-| `AJPT_Online_Supplement.docx` | 13 | 3,210 | Times New Roman | 12 | 2 | 1 inch | 21 |
+| `AJPT_Cover_Letter.docx` | 3 | 621 | Times New Roman | 12 | 2 | 1 inch | 0 |
+| `AJPT_Main_Manuscript.docx` | 38 | 9,456 | Times New Roman | 12 | 2 | 1 inch | 8 |
+| `AJPT_Online_Supplement.docx` | 19 | 4,778 | Times New Roman | 12 | 2 | 1 inch | 27 |
 | `AJPT_Title_Page.docx` | 2 | 205 | Times New Roman | 12 | 2 | 1 inch | 0 |
 
 Line Rule 2 is Word's double-spacing rule. Margins were checked as 72 points on the top and left margins, corresponding to 1 inch; the builder applies 72 points on all four margins.
@@ -45,10 +45,30 @@ Automated text extraction from the DOCX files found:
 - No `Insert Table` or `Insert Figure` callouts.
 - No internal labels such as `Submission-Ready Manuscript Draft v3`.
 - Main manuscript order confirmed as `REFERENCES`, `FIGURE CAPTIONS`, `TABLES`, `APPENDIX`.
+- New Table 2 on retrieval-environment validity versus adjacent validity concepts confirmed in the main manuscript.
+- Revised conceptual distinctiveness language confirmed in the main manuscript, including the retrieval-specific diagnostic lens framing and fatal/fixable/reporting-gap decision rules.
+- Completed independent coding reliability evidence confirmed in the main manuscript and online supplement.
+- Hybrid integration mechanism diagnostic confirmed in the main manuscript and online supplement.
+- Context-volume and source-environment perturbation diagnostics confirmed in the main manuscript and online supplement.
+- Revised protocol-validation language confirmed in the main manuscript, online supplement, and cover letter.
+- Tier 2 model-validation design language confirmed in the main manuscript, online supplement, and cover letter.
+- Nine-filer protocol-validation package language confirmed in the main manuscript, online supplement, and cover letter.
+- Full-scale extension language confirmed in the main manuscript, online supplement, and cover letter.
+- Updated count language confirmed in the main manuscript, online supplement, and cover letter: 48 extension outputs, 72 total retrieval-conditioned outputs, and 281 preliminary coded claims.
+- Reviewer-risk revisions confirmed: the main manuscript clarifies the inspectable table-based XBRL fact/path prototype, the hybrid-heavy 120-claim validation sample rationale, the independent-coding boundary, source-ID resolvability, and the limited stability evidence.
+- Post-review polish confirmed: the abstract reports the nine-filer, 72-output, 281-claim, and 120-claim independent-coding evidence package; the contribution paragraph uses preliminary audit-valid boundary language; and replication documentation clarifies processed-only raw SEC reconstruction.
+- Integrated-correctness language confirmed as bridge-based coding rather than an average-score performance claim; one-source hybrid claims are treated as non-integrated rather than partially integrated.
+- Online supplement and replication documentation use the verified retrieval-log row count of 464.
+- Reviewer-risk revisions confirmed: aggregate appendix tables no longer report audit-valid means, extension filer constructs are labeled as revenue and inventory, and main-text language describes limited applicability evidence rather than generalized scalability.
 
-## Visual Render QA Limitation
+## Visual Render QA
 
-The documents skill's DOCX-to-PNG renderer was attempted, but the local renderer environment is missing the Python `pdf2image` dependency. Therefore, PNG-based visual QA could not be completed in this environment. As a fallback, the files were opened and repaginated through Microsoft Word automation, and structural formatting properties were checked directly in Word.
+The documents skill's DOCX-to-PNG renderer was attempted after installing `pdf2image`, but the local renderer environment does not have LibreOffice/soffice in PATH. A later fallback attempt to export the revised main manuscript through Microsoft Word automation timed out in the local environment. The current final QA therefore relies on Microsoft Word structural checks plus DOCX XML content checks rather than a completed latest-render PNG pass.
+
+- Latest structurally checked file: `submission/AJPT_Main_Manuscript.docx`
+- Latest structural page count: 38
+- Latest structural word count: 9,456
+- Result: Word COM structural QA passed for page count, word count, table count, margins, double spacing, and required content markers. Latest PNG visual render QA remains unavailable in this environment.
 
 ## Remaining Manual Items
 

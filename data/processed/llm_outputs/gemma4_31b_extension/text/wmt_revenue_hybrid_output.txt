@@ -1,0 +1,27 @@
+- Claim: The recognition of gift card breakage income involves management estimation risk.
+  - Claim type: Risk-cue/assertion-mapping
+  - Support used: Text Chunk 1 ("Management estimates unredeemed balances and recognizes gift card breakage income for these amounts... over the expected redemption period.")
+  - Inferential bridge: The reliance on management's estimation of unredeemed balances and the determination of the "expected redemption period" introduces a risk of estimation error or bias, impacting the Accuracy and Valuation assertions for both the breakage income and the deferred revenue liability.
+  - Limitation: The provided context does not disclose the specific historical data or actuarial methodology used to determine the expected redemption period.
+
+- Claim: The deferral of revenue for gift card purchases until redemption presents a cut-off risk.
+  - Claim type: Risk-cue/assertion-mapping
+  - Support used: Text Chunk 1 ("Customer purchases of gift cards are not recognized as sales until the card is redeemed... thus a liability for deferred gift card revenue is recorded within accrued liabilities")
+  - Inferential bridge: Because revenue recognition is contingent upon the event of redemption rather than the point of sale, there is a risk that revenue could be recognized prematurely or that the liability is not properly updated, impacting the Cut-off assertion.
+  - Limitation: The context lacks detail regarding the system controls that trigger the transition from a liability to revenue upon the redemption of a gift card.
+
+- Claim: The calculation of "comparable sales" involves complex inclusions (e.g., omnichannel and advertising net sales) that may impact the Accuracy assertion.
+  - Claim type: Risk-cue/assertion-mapping
+  - Support used: Text Chunk 2 ("We measure the eCommerce sales impact by including all sales initiated digitally, including omnichannel transactions... as well as certain other business offerings... such as our advertising net sales.")
+  - Inferential bridge: The inclusion of diverse and potentially overlapping revenue streams (such as advertising and omnichannel transactions) into a single performance metric increases the risk of inconsistent application of the metric's definition or classification errors.
+  - Limitation: The context does not provide the specific operational criteria used to distinguish "omnichannel transactions" from standard eCommerce or in-store sales.
+
+- Claim: Net sales for the Sam's Club U.S. segment increased by $2.8 billion (3.1%) for fiscal 2026.
+  - Claim type: Factual
+  - Support used: Text Chunk 3
+  - Limitation: This is a summary aggregate figure for the full fiscal year 2026 and is not provided with a monthly or quarterly breakdown.
+
+- Claim: Lower fuel prices negatively impacted comparable sales by 1.9% in fiscal 2026.
+  - Claim type: Factual
+  - Support used: Text Chunk 3
+  - Limitation: This claim represents management's attribution of the cause of the decrease in sales rather than a raw measurement of fuel price volatility.

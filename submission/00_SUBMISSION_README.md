@@ -60,8 +60,12 @@ The current package uses the separate-file format. An integrated manuscript shou
 ## Boundary Statements To Preserve
 
 - The manuscript is a research-methodology paper, not an audit-practice system.
-- The demonstration is descriptive and methodological, not a model-performance benchmark.
+- The evidence package is a full-scale nine-filer protocol-validation demonstration: three deep source-tracing cases plus six bounded-extension cases, with two constructs and four retrieval conditions across all filers.
+- The demonstration is a methodological protocol-validation exercise, not a model-performance benchmark.
 - XBRL is management-reported structured accounting data, not audit evidence or ground truth.
 - Hybrid retrieval is construct-specific, not universally superior.
-- Audit-valid and integrated scores are preliminary author-coded diagnostics unless independently reviewed.
+- Audit-valid scores remain preliminary diagnostics unless independently reviewed by audit-domain experts.
+- Evidence-use type and integrated correctness have independent coding reliability evidence in the 120-claim validation sample.
 - The core evidence claim is claim-level evidence-use divergence.
+- Hybrid integration failure is decomposed through a mechanism diagnostic, but those mechanism counts remain protocol diagnostics rather than model-performance frequencies.
+- Context-volume and source-environment perturbation diagnostics support retrieval-stage transparency, not output-level robustness claims.

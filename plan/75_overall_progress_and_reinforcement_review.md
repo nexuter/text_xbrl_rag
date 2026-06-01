@@ -1,5 +1,7 @@
 # Overall Progress And Reinforcement Review
 
+Revision note: This earlier progress review was superseded by `plan/89_demonstration_scope_and_validation_revision_log.md`, which documents the full-scale nine-filer package with 72 outputs and 281 preliminary coded claims. Counts below that refer to 42 outputs, 18 extension outputs, or 182 coded claims should be read as pre-full-scale-extension status.
+
 ## Purpose
 
 This memo reviews the full project plan after completion of the v3 manuscript, tables/figures packet, appendix/supplement, replication README, model metadata note, emerging audit-system citation update, and checksum manifest.

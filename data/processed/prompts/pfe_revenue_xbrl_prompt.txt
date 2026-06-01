@@ -1,0 +1,50 @@
+You are assisting with an auditing research task. Use only the information provided in the context.
+
+Task:
+Identify audit-relevant risk cues or assertion-mapping considerations for revenue recognition risk cue identification for Pfizer Inc., fiscal year 2025, period ended 2025-12-31, accession 0000078003-26-000026, based on the provided context.
+
+Instructions:
+1. Provide no more than five audit-relevant claims.
+2. Distinguish factual claims from risk-cue or assertion-mapping claims.
+3. Do not conclude that a misstatement exists.
+4. State when the provided context is insufficient.
+5. Avoid treating reported XBRL relationships as independent audit evidence.
+6. Do not use general company knowledge outside the provided context.
+7. For each risk-cue or assertion-mapping claim, state the inferential bridge from the source evidence to the audit consideration.
+8. Do not write "Limitation: None" for risk-cue or assertion-mapping claims; identify at least one missing audit evidence item, missing control detail, or source-bound limitation.
+9. For factual claims, state any period, source, or measurement limitation rather than treating the claim as unrestricted.
+
+Context:
+XBRL RELATIONAL RETRIEVAL CONTEXT
+
+Facts:
+1. fact_id=F-PFE-0167 concept=ConcentrationRiskRevenues500000000orMoreNumberofCountries value=14 unit=pfe:country period=instant:2023-12-31 dimensions=srt:StatementGeographicalAxis=pfe:NonUnitedStatesMember; us-gaap:ConcentrationRiskByBenchmarkAxis=us-gaap:RevenueFromContractWithCustomerMember; us-gaap:ConcentrationRiskByTypeAxis=us-gaap:GeographicConcentrationRiskMember
+2. fact_id=F-PFE-0166 concept=ConcentrationRiskRevenues500000000orMoreNumberofCountries value=11 unit=pfe:country period=instant:2024-12-31 dimensions=srt:StatementGeographicalAxis=pfe:NonUnitedStatesMember; us-gaap:ConcentrationRiskByBenchmarkAxis=us-gaap:RevenueFromContractWithCustomerMember; us-gaap:ConcentrationRiskByTypeAxis=us-gaap:GeographicConcentrationRiskMember
+3. fact_id=F-PFE-0165 concept=ConcentrationRiskRevenues500000000orMoreNumberofCountries value=12 unit=pfe:country period=instant:2025-12-31 dimensions=srt:StatementGeographicalAxis=pfe:NonUnitedStatesMember; us-gaap:ConcentrationRiskByBenchmarkAxis=us-gaap:RevenueFromContractWithCustomerMember; us-gaap:ConcentrationRiskByTypeAxis=us-gaap:GeographicConcentrationRiskMember
+4. fact_id=F-PFE-0006 concept=RevenueFromCollaborativeArrangementExcludingRevenueFromContractWithCustomer value=7582000000 unit=iso4217:USD period=duration:2023-01-01/2023-12-31 dimensions=none
+5. fact_id=F-PFE-0057 concept=RevenueFromCollaborativeArrangementExcludingRevenueFromContractWithCustomer value=7582000000 unit=iso4217:USD period=duration:2023-01-01/2023-12-31 dimensions=us-gaap:TypeOfArrangementAxis=us-gaap:CollaborativeArrangementMember
+6. fact_id=F-PFE-0317 concept=RevenueFromCollaborativeArrangementExcludingRevenueFromContractWithCustomer value=7582000000 unit=iso4217:USD period=duration:2023-01-01/2023-12-31 dimensions=srt:ProductOrServiceAxis=pfe:TotalAllianceBiopharmaceuticalsMember
+7. fact_id=F-PFE-0003 concept=RevenueFromContractWithCustomerExcludingAssessedTax value=50914000000 unit=iso4217:USD period=duration:2023-01-01/2023-12-31 dimensions=srt:ProductOrServiceAxis=us-gaap:ProductMember
+8. fact_id=F-PFE-0009 concept=RevenueFromContractWithCustomerExcludingAssessedTax value=1058000000 unit=iso4217:USD period=duration:2023-01-01/2023-12-31 dimensions=srt:ProductOrServiceAxis=us-gaap:RoyaltyMember
+9. fact_id=F-PFE-0054 concept=RevenueFromContractWithCustomerExcludingAssessedTax value=212000000 unit=iso4217:USD period=duration:2023-01-01/2023-12-31 dimensions=srt:ProductOrServiceAxis=us-gaap:ProductMember; us-gaap:TypeOfArrangementAxis=us-gaap:CollaborativeArrangementMember
+10. fact_id=F-PFE-0012 concept=Revenues value=59553000000 unit=iso4217:USD period=duration:2023-01-01/2023-12-31 dimensions=none
+11. fact_id=F-PFE-0045 concept=Revenues value=7845000000 unit=iso4217:USD period=duration:2023-01-01/2023-12-31 dimensions=us-gaap:EquityMethodInvestmentNonconsolidatedInvesteeAxis=pfe:ViivHealthcareLimitedMember
+12. fact_id=F-PFE-0063 concept=Revenues value=8400000000 unit=iso4217:USD period=duration:2023-01-01/2023-12-31 dimensions=us-gaap:TypeOfArrangementAxis=us-gaap:CollaborativeArrangementMember
+
+Relation paths:
+1. path_id=X-PFE-0261 relation_type=definition source=us-gaap:EntityWideInformationRevenueFromExternalCustomerLineItems (Revenue from External Customer [Line Items]) -> target=us-gaap:RevenueFromCollaborativeArrangementExcludingRevenueFromContractWithCustomer (Revenue from Collaborative Arrangement, Excluding Revenue from Contract with Customer) arcrole=http://xbrl.org/int/dim/arcrole/domain-member role=http://www.pfizer.com/role/SegmentGeographicandOtherRevenueInformationRevenuesbyProductDetail
+2. path_id=X-PFE-0123 relation_type=presentation source=us-gaap:EntityWideInformationRevenueFromExternalCustomerLineItems (Revenue from External Customer [Line Items]) -> target=us-gaap:RevenueFromCollaborativeArrangementExcludingRevenueFromContractWithCustomer (Revenue from Collaborative Arrangement, Excluding Revenue from Contract with Customer) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.pfizer.com/role/SegmentGeographicandOtherRevenueInformationRevenuesbyProductDetail
+3. path_id=X-PFE-0138 relation_type=calculation source=us-gaap:Revenues (Revenues) -> target=us-gaap:RevenueFromCollaborativeArrangementExcludingRevenueFromContractWithCustomer (Revenue from Collaborative Arrangement, Excluding Revenue from Contract with Customer) arcrole=http://www.xbrl.org/2003/arcrole/summation-item role=http://www.pfizer.com/role/ConsolidatedStatementsofOperations
+4. path_id=X-PFE-0262 relation_type=definition source=us-gaap:EntityWideInformationRevenueFromExternalCustomerLineItems (Revenue from External Customer [Line Items]) -> target=us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax (Revenue from Contract with Customer, Excluding Assessed Tax) arcrole=http://xbrl.org/int/dim/arcrole/domain-member role=http://www.pfizer.com/role/SegmentGeographicandOtherRevenueInformationRevenuesbyProductDetail
+5. path_id=X-PFE-0269 relation_type=definition source=us-gaap:EntityWideInformationRevenueFromExternalCustomerLineItems (Revenue from External Customer [Line Items]) -> target=us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax (Revenue from Contract with Customer, Excluding Assessed Tax) arcrole=http://xbrl.org/int/dim/arcrole/domain-member role=http://www.pfizer.com/role/SegmentGeographicandOtherRevenueInformationRevenuesbyProductFootnotesDetails
+6. path_id=X-PFE-0124 relation_type=presentation source=us-gaap:EntityWideInformationRevenueFromExternalCustomerLineItems (Revenue from External Customer [Line Items]) -> target=us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax (Revenue from Contract with Customer, Excluding Assessed Tax) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.pfizer.com/role/SegmentGeographicandOtherRevenueInformationRevenuesbyProductDetail
+7. path_id=X-PFE-0132 relation_type=presentation source=us-gaap:EntityWideInformationRevenueFromExternalCustomerLineItems (Revenue from External Customer [Line Items]) -> target=us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax (Revenue from Contract with Customer, Excluding Assessed Tax) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.pfizer.com/role/SegmentGeographicandOtherRevenueInformationRevenuesbyProductFootnotesDetails
+8. path_id=X-PFE-0255 relation_type=definition source=us-gaap:EntityWideInformationRevenueFromExternalCustomerLineItems (Revenue from External Customer [Line Items]) -> target=us-gaap:ScheduleOfEntityWideInformationRevenueFromExternalCustomersByProductsAndServicesTable (Segment Reporting, Revenue from External Customer, Product and Service [Table]) arcrole=http://xbrl.org/int/dim/arcrole/all role=http://www.pfizer.com/role/SegmentGeographicandOtherRevenueInformationRevenuesbyProductDetail
+9. path_id=X-PFE-0263 relation_type=definition source=us-gaap:EntityWideInformationRevenueFromExternalCustomerLineItems (Revenue from External Customer [Line Items]) -> target=us-gaap:ScheduleOfEntityWideInformationRevenueFromExternalCustomersByProductsAndServicesTable (Segment Reporting, Revenue from External Customer, Product and Service [Table]) arcrole=http://xbrl.org/int/dim/arcrole/all role=http://www.pfizer.com/role/SegmentGeographicandOtherRevenueInformationRevenuesbyProductFootnotesDetails
+10. path_id=X-PFE-0244 relation_type=definition source=us-gaap:RevenuesFromExternalCustomersAndLongLivedAssetsLineItems (Revenues from External Customers and Long-Lived Assets [Line Items]) -> target=us-gaap:ScheduleOfRevenuesFromExternalCustomersAndLongLivedAssetsTable (Schedule of Revenues from External Customers and Long-Lived Assets [Table]) arcrole=http://xbrl.org/int/dim/arcrole/all role=http://www.pfizer.com/role/SegmentGeographicandOtherRevenueInformationRevenuesbyGeographicAreaDetail
+
+Output format:
+- Claim:
+  - Claim type:
+  - Support used:
+  - Limitation:

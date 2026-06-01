@@ -1,5 +1,7 @@
 # Final Tables And Figures Check
 
+Revision note: This tables-and-figures check was superseded by the full-scale extension revision in `plan/89_demonstration_scope_and_validation_revision_log.md`. The current submission package uses 72 outputs, 48 extension outputs, 281 preliminary coded claims, and hybrid evidence-use counts of 8/89 both-source, 61/89 text-only, and 20/89 XBRL-only.
+
 ## Purpose
 
 This memo finalizes the table and figure strategy for the AJPT Methodological Papers submission. The review stance is that of an AJPT reviewer asking:

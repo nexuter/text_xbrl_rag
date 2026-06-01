@@ -1,0 +1,27 @@
+- Claim: As of February 1, 2026, and February 2, 2025, performance obligations for unredeemed gift cards were $1.1 billion.
+  - Claim type: Factual
+  - Support used: T-HD-REVENUE-056
+  - Limitation: This claim is limited to the specific snapshot dates provided in the text.
+
+- Claim: Revenue from contracts with customers (excluding assessed tax) for the period from 2023-01-30 to 2024-01-28 was $152,669,000,000.
+  - Claim type: Factual
+  - Support used: F-HD-0009
+  - Limitation: This measurement pertains to the prior fiscal period and not the current fiscal year 2025 period ended 2026-02-01.
+
+- Claim: The recognition of gift card breakage income is based on an estimate of the portion of outstanding gift card balances not expected to be redeemed.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-HD-REVENUE-056
+  - Inferential bridge: The use of management estimates to determine breakage income introduces subjectivity into the net sales calculation, which may impact the accuracy and valuation assertions for revenue.
+  - Limitation: The provided context does not disclose the specific estimation methodology or the controls used to monitor and update the breakage rate.
+
+- Claim: Revenue for gift cards is recognized upon redemption, which generally occurs within six months of issuance.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-HD-REVENUE-056, F-HD-0044
+  - Inferential bridge: Because revenue recognition is triggered by a specific event (redemption) rather than a fixed date, there is a risk regarding the cut-off assertion, specifically whether redemptions are recorded in the correct accounting period.
+  - Limitation: The context lacks detail on the automated controls or reconciliation processes used to ensure redemptions are captured in real-time.
+
+- Claim: There has been a significant increase in sales initiated online and via mobile applications.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-HD-REVENUE-015
+  - Inferential bridge: An increase in the volume and complexity of digital sales channels increases the risk that system errors or integration failures could lead to incomplete or inaccurate recording of revenue (Completeness and Accuracy assertions).
+  - Limitation: The provided text does not provide information regarding the IT general controls (ITGCs) or application controls governing the digital sales infrastructure.

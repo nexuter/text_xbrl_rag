@@ -1,0 +1,27 @@
+- Claim: Gross margin increased $22.9 billion or 13% with growth across each of the company's segments.
+  - Claim type: Factual
+  - Support used: [Text Chunk 5]
+  - Limitation: This claim is limited to the reporting period ended 2025-06-30 as presented in source file msft-20250630.htm.
+
+- Claim: The scaling of AI infrastructure may create a risk regarding the valuation of inventory due to potential technological obsolescence.
+  - Claim type: Risk-cue/Assertion-mapping
+  - Support used: [Text Chunk 1], [Text Chunk 2]
+  - Inferential bridge: The text notes that gross margin percentages decreased in Microsoft 365 Commercial cloud and Azure due to the impact of scaling AI infrastructure; because AI hardware evolves rapidly, the rapid scaling of new infrastructure may render existing hardware inventory obsolete, necessitating a write-down to net realizable value.
+  - Limitation: The provided context does not include the company's inventory aging reports or the specific accounting policy used for hardware obsolescence.
+
+- Claim: Environmental regulations or changes in the supply and demand of resources may affect the cost of goods and services.
+  - Claim type: Risk-cue/Assertion-mapping
+  - Support used: [Text Chunk 4]
+  - Inferential bridge: Changes in the availability or cost of natural resources and energy necessary to run the business can directly impact the cost basis of inventory; if costs increase significantly or supply chains are disrupted, it may affect the valuation of inventory held.
+  - Limitation: The context does not specify which particular resources are most critical to inventory valuation or provide quantitative data on cost fluctuations.
+
+- Claim: Gross margin percentage decreased in the Microsoft 365 Commercial cloud and Azure segments, primarily driven by the impact of scaling AI infrastructure.
+  - Claim type: Factual
+  - Support used: [Text Chunk 1], [Text Chunk 2]
+  - Limitation: This claim is limited to the specific segments mentioned and the reporting period ended 2025-06-30 in source file msft-20250630.htm.
+
+- Claim: Climate-related changes in powering and cooling computer hardware may impact the cost structure of the company's infrastructure.
+  - Claim type: Risk-cue/Assertion-mapping
+  - Support used: [Text Chunk 4]
+  - Inferential bridge: Increased costs associated with powering and cooling hardware due to climate changes may increase the total cost of ownership and operational expenses, which could influence the valuation of hardware assets/inventory if the cost to maintain them exceeds their utility.
+  - Limitation: The context lacks information regarding the geographic distribution of the hardware or the specific controls in place to mitigate climate-related cost increases.

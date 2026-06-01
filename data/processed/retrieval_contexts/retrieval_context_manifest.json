@@ -267,6 +267,50 @@
     "ticker": "WMT",
     "company": "Walmart Inc.",
     "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "condition": "text",
+    "condition_label": "Text-based contextual retrieval",
+    "context_file": "data/processed/retrieval_contexts/wmt_revenue_text_context.txt",
+    "prompt_file": "data/processed/prompts/wmt_revenue_text_prompt.txt",
+    "context_word_count": 720
+  },
+  {
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "condition": "xbrl",
+    "condition_label": "XBRL-based relational retrieval",
+    "context_file": "data/processed/retrieval_contexts/wmt_revenue_xbrl_context.txt",
+    "prompt_file": "data/processed/prompts/wmt_revenue_xbrl_prompt.txt",
+    "context_word_count": 653
+  },
+  {
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "condition": "hybrid",
+    "condition_label": "Hybrid retrieval",
+    "context_file": "data/processed/retrieval_contexts/wmt_revenue_hybrid_context.txt",
+    "prompt_file": "data/processed/prompts/wmt_revenue_hybrid_prompt.txt",
+    "context_word_count": 925
+  },
+  {
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "condition": "llm_only",
+    "condition_label": "LLM-only diagnostic baseline",
+    "context_file": "data/processed/retrieval_contexts/wmt_revenue_llm_only_context.txt",
+    "prompt_file": "data/processed/prompts/wmt_revenue_llm_only_prompt.txt",
+    "context_word_count": 10
+  },
+  {
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
     "construct": "inventory",
     "condition": "text",
     "condition_label": "Text-based contextual retrieval",
@@ -295,6 +339,61 @@
     "context_file": "data/processed/retrieval_contexts/wmt_inventory_hybrid_context.txt",
     "prompt_file": "data/processed/prompts/wmt_inventory_hybrid_prompt.txt",
     "context_word_count": 676
+  },
+  {
+    "ticker": "WMT",
+    "company": "Walmart Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "condition": "llm_only",
+    "condition_label": "LLM-only diagnostic baseline",
+    "context_file": "data/processed/retrieval_contexts/wmt_inventory_llm_only_context.txt",
+    "prompt_file": "data/processed/prompts/wmt_inventory_llm_only_prompt.txt",
+    "context_word_count": 10
+  },
+  {
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "condition": "text",
+    "condition_label": "Text-based contextual retrieval",
+    "context_file": "data/processed/retrieval_contexts/hd_revenue_text_context.txt",
+    "prompt_file": "data/processed/prompts/hd_revenue_text_prompt.txt",
+    "context_word_count": 742
+  },
+  {
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "condition": "xbrl",
+    "condition_label": "XBRL-based relational retrieval",
+    "context_file": "data/processed/retrieval_contexts/hd_revenue_xbrl_context.txt",
+    "prompt_file": "data/processed/prompts/hd_revenue_xbrl_prompt.txt",
+    "context_word_count": 631
+  },
+  {
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "condition": "hybrid",
+    "condition_label": "Hybrid retrieval",
+    "context_file": "data/processed/retrieval_contexts/hd_revenue_hybrid_context.txt",
+    "prompt_file": "data/processed/prompts/hd_revenue_hybrid_prompt.txt",
+    "context_word_count": 857
+  },
+  {
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "condition": "llm_only",
+    "condition_label": "LLM-only diagnostic baseline",
+    "context_file": "data/processed/retrieval_contexts/hd_revenue_llm_only_context.txt",
+    "prompt_file": "data/processed/prompts/hd_revenue_llm_only_prompt.txt",
+    "context_word_count": 10
   },
   {
     "ticker": "HD",
@@ -330,6 +429,61 @@
     "context_word_count": 807
   },
   {
+    "ticker": "HD",
+    "company": "Home Depot, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "condition": "llm_only",
+    "condition_label": "LLM-only diagnostic baseline",
+    "context_file": "data/processed/retrieval_contexts/hd_inventory_llm_only_context.txt",
+    "prompt_file": "data/processed/prompts/hd_inventory_llm_only_prompt.txt",
+    "context_word_count": 10
+  },
+  {
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "condition": "text",
+    "condition_label": "Text-based contextual retrieval",
+    "context_file": "data/processed/retrieval_contexts/cat_revenue_text_context.txt",
+    "prompt_file": "data/processed/prompts/cat_revenue_text_prompt.txt",
+    "context_word_count": 800
+  },
+  {
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "condition": "xbrl",
+    "condition_label": "XBRL-based relational retrieval",
+    "context_file": "data/processed/retrieval_contexts/cat_revenue_xbrl_context.txt",
+    "prompt_file": "data/processed/prompts/cat_revenue_xbrl_prompt.txt",
+    "context_word_count": 664
+  },
+  {
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "condition": "hybrid",
+    "condition_label": "Hybrid retrieval",
+    "context_file": "data/processed/retrieval_contexts/cat_revenue_hybrid_context.txt",
+    "prompt_file": "data/processed/prompts/cat_revenue_hybrid_prompt.txt",
+    "context_word_count": 870
+  },
+  {
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "condition": "llm_only",
+    "condition_label": "LLM-only diagnostic baseline",
+    "context_file": "data/processed/retrieval_contexts/cat_revenue_llm_only_context.txt",
+    "prompt_file": "data/processed/prompts/cat_revenue_llm_only_prompt.txt",
+    "context_word_count": 10
+  },
+  {
     "ticker": "CAT",
     "company": "Caterpillar Inc.",
     "sample_role": "bounded_extension",
@@ -361,6 +515,61 @@
     "context_file": "data/processed/retrieval_contexts/cat_inventory_hybrid_context.txt",
     "prompt_file": "data/processed/prompts/cat_inventory_hybrid_prompt.txt",
     "context_word_count": 579
+  },
+  {
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "condition": "llm_only",
+    "condition_label": "LLM-only diagnostic baseline",
+    "context_file": "data/processed/retrieval_contexts/cat_inventory_llm_only_context.txt",
+    "prompt_file": "data/processed/prompts/cat_inventory_llm_only_prompt.txt",
+    "context_word_count": 10
+  },
+  {
+    "ticker": "PFE",
+    "company": "Pfizer Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "condition": "text",
+    "condition_label": "Text-based contextual retrieval",
+    "context_file": "data/processed/retrieval_contexts/pfe_revenue_text_context.txt",
+    "prompt_file": "data/processed/prompts/pfe_revenue_text_prompt.txt",
+    "context_word_count": 962
+  },
+  {
+    "ticker": "PFE",
+    "company": "Pfizer Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "condition": "xbrl",
+    "condition_label": "XBRL-based relational retrieval",
+    "context_file": "data/processed/retrieval_contexts/pfe_revenue_xbrl_context.txt",
+    "prompt_file": "data/processed/prompts/pfe_revenue_xbrl_prompt.txt",
+    "context_word_count": 672
+  },
+  {
+    "ticker": "PFE",
+    "company": "Pfizer Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "condition": "hybrid",
+    "condition_label": "Hybrid retrieval",
+    "context_file": "data/processed/retrieval_contexts/pfe_revenue_hybrid_context.txt",
+    "prompt_file": "data/processed/prompts/pfe_revenue_hybrid_prompt.txt",
+    "context_word_count": 901
+  },
+  {
+    "ticker": "PFE",
+    "company": "Pfizer Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "condition": "llm_only",
+    "condition_label": "LLM-only diagnostic baseline",
+    "context_file": "data/processed/retrieval_contexts/pfe_revenue_llm_only_context.txt",
+    "prompt_file": "data/processed/prompts/pfe_revenue_llm_only_prompt.txt",
+    "context_word_count": 10
   },
   {
     "ticker": "PFE",
@@ -396,6 +605,17 @@
     "context_word_count": 772
   },
   {
+    "ticker": "PFE",
+    "company": "Pfizer Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "condition": "llm_only",
+    "condition_label": "LLM-only diagnostic baseline",
+    "context_file": "data/processed/retrieval_contexts/pfe_inventory_llm_only_context.txt",
+    "prompt_file": "data/processed/prompts/pfe_inventory_llm_only_prompt.txt",
+    "context_word_count": 10
+  },
+  {
     "ticker": "MSFT",
     "company": "Microsoft Corp.",
     "sample_role": "bounded_extension",
@@ -429,6 +649,105 @@
     "context_word_count": 555
   },
   {
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "condition": "llm_only",
+    "condition_label": "LLM-only diagnostic baseline",
+    "context_file": "data/processed/retrieval_contexts/msft_revenue_llm_only_context.txt",
+    "prompt_file": "data/processed/prompts/msft_revenue_llm_only_prompt.txt",
+    "context_word_count": 10
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "condition": "text",
+    "condition_label": "Text-based contextual retrieval",
+    "context_file": "data/processed/retrieval_contexts/msft_inventory_text_context.txt",
+    "prompt_file": "data/processed/prompts/msft_inventory_text_prompt.txt",
+    "context_word_count": 269
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "condition": "xbrl",
+    "condition_label": "XBRL-based relational retrieval",
+    "context_file": "data/processed/retrieval_contexts/msft_inventory_xbrl_context.txt",
+    "prompt_file": "data/processed/prompts/msft_inventory_xbrl_prompt.txt",
+    "context_word_count": 203
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "condition": "hybrid",
+    "condition_label": "Hybrid retrieval",
+    "context_file": "data/processed/retrieval_contexts/msft_inventory_hybrid_context.txt",
+    "prompt_file": "data/processed/prompts/msft_inventory_hybrid_prompt.txt",
+    "context_word_count": 298
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "condition": "llm_only",
+    "condition_label": "LLM-only diagnostic baseline",
+    "context_file": "data/processed/retrieval_contexts/msft_inventory_llm_only_context.txt",
+    "prompt_file": "data/processed/prompts/msft_inventory_llm_only_prompt.txt",
+    "context_word_count": 10
+  },
+  {
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "condition": "text",
+    "condition_label": "Text-based contextual retrieval",
+    "context_file": "data/processed/retrieval_contexts/crox_revenue_text_context.txt",
+    "prompt_file": "data/processed/prompts/crox_revenue_text_prompt.txt",
+    "context_word_count": 698
+  },
+  {
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "condition": "xbrl",
+    "condition_label": "XBRL-based relational retrieval",
+    "context_file": "data/processed/retrieval_contexts/crox_revenue_xbrl_context.txt",
+    "prompt_file": "data/processed/prompts/crox_revenue_xbrl_prompt.txt",
+    "context_word_count": 639
+  },
+  {
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "condition": "hybrid",
+    "condition_label": "Hybrid retrieval",
+    "context_file": "data/processed/retrieval_contexts/crox_revenue_hybrid_context.txt",
+    "prompt_file": "data/processed/prompts/crox_revenue_hybrid_prompt.txt",
+    "context_word_count": 881
+  },
+  {
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "revenue",
+    "condition": "llm_only",
+    "condition_label": "LLM-only diagnostic baseline",
+    "context_file": "data/processed/retrieval_contexts/crox_revenue_llm_only_context.txt",
+    "prompt_file": "data/processed/prompts/crox_revenue_llm_only_prompt.txt",
+    "context_word_count": 10
+  },
+  {
     "ticker": "CROX",
     "company": "Crocs, Inc.",
     "sample_role": "bounded_extension",
@@ -460,5 +779,16 @@
     "context_file": "data/processed/retrieval_contexts/crox_inventory_hybrid_context.txt",
     "prompt_file": "data/processed/prompts/crox_inventory_hybrid_prompt.txt",
     "context_word_count": 761
+  },
+  {
+    "ticker": "CROX",
+    "company": "Crocs, Inc.",
+    "sample_role": "bounded_extension",
+    "construct": "inventory",
+    "condition": "llm_only",
+    "condition_label": "LLM-only diagnostic baseline",
+    "context_file": "data/processed/retrieval_contexts/crox_inventory_llm_only_context.txt",
+    "prompt_file": "data/processed/prompts/crox_inventory_llm_only_prompt.txt",
+    "context_word_count": 10
   }
 ]

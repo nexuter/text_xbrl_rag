@@ -1,0 +1,27 @@
+- Claim: As of December 31, 2025, deferred revenues related to Paxlovid and Comirnaty totaled $1.5 billion, consisting of $689 million in current liabilities and $826 million in noncurrent liabilities.
+  - Claim type: Factual
+  - Support used: T-PFE-REVENUE-141
+  - Limitation: This measurement is limited to the specific products Paxlovid and Comirnaty for the period ended December 31, 2025.
+
+- Claim: The estimation of variable consideration, specifically U.S. Medicare, Medicaid, and performance-based contract rebates, presents a risk of material adjustment to revenue.
+  - Claim type: Risk-cue/assertion-mapping
+  - Support used: T-PFE-REVENUE-066
+  - Inferential bridge: The text states these estimates are "most at risk for material adjustment" due to an "extensive time delay" (up to one year) between accrual and settlement, which directly impacts the Accuracy and Cut-off assertions for revenue.
+  - Limitation: The provided context lacks detail regarding the specific internal controls or validation processes used to monitor the lag between accrual and settlement.
+
+- Claim: The provision for pharmaceutical sales returns involves significant estimation risk based on subjective factors.
+  - Claim type: Risk-cue/assertion-mapping
+  - Support used: T-PFE-REVENUE-093
+  - Inferential bridge: Because the provision is based on a variety of estimates—including "understanding of the reasons for past returns," "estimated shelf life," and "changing competitive environment"—there is a risk regarding the Valuation assertion of revenue net of returns.
+  - Limitation: The context does not provide the quantitative historical return percentages or the specific "local returns policies" used to calculate the provisions.
+
+- Claim: The timing of revenue recognition for Paxlovid and Comirnaty deferred revenues is contingent upon the transfer of control and satisfaction of performance obligations.
+  - Claim type: Risk-cue/assertion-mapping
+  - Support used: T-PFE-REVENUE-141
+  - Inferential bridge: The requirement to recognize revenue "proportionately as we transfer control" creates a risk related to the Occurrence and Cut-off assertions if the point of transfer is not precisely determined.
+  - Limitation: The context does not define the specific "performance obligations" or the contractual criteria that trigger the transfer of control.
+
+- Claim: In 2025, revenues from operations outside the U.S. totaled $25.5 billion (41% of total revenues), with China representing the largest non-U.S. market at 5% of total revenues.
+  - Claim type: Factual
+  - Support used: T-PFE-REVENUE-016
+  - Limitation: This claim is limited to the high-level geographic breakdown provided for the 2025 fiscal year and does not include product-level revenue granularity for these regions.

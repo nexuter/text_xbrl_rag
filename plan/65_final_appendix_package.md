@@ -1,5 +1,7 @@
 # Final Reviewer-Facing Appendix Package
 
+Revision note: This appendix package was superseded by the current supplement in `submission/Online_Supplement_Appendix.md` and by `plan/89_demonstration_scope_and_validation_revision_log.md`. The current submission package uses 72 outputs, 48 extension outputs, 281 preliminary coded claims, and 464 retrieval-log rows.
+
 ## Purpose
 
 This package converts the prior project-log appendix materials into a reviewer-facing appendix structure for the AJPT Methodological Papers submission.

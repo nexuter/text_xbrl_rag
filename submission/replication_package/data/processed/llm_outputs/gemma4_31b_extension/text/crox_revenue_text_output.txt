@@ -1,0 +1,27 @@
+- Claim: Digital sales in 2025 represented 37.8% of consolidated revenues.
+  - Claim type: Factual
+  - Support used: [Text Chunk 4]
+  - Limitation: This measurement is limited to the reported percentage for the 2025 fiscal year as provided in the text.
+
+- Claim: As of December 31, 2025, the company did not record any deferred revenues.
+  - Claim type: Factual
+  - Support used: [Text Chunk 2]
+  - Limitation: This claim is limited to the specific reporting date of December 31, 2025, as stated in the provided context.
+
+- Claim: The estimation of reserves for sales returns and allowances for direct-to-consumer and wholesale channels involves judgment and reliance on historical experience.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 1], [Text Chunk 3], [Text Chunk 5]
+  - Inferential bridge: Because the company must estimate a portion of revenues not expected to be realized to determine net revenue, there is a risk related to the Accuracy and Valuation assertions of the reported revenue.
+  - Limitation: The provided context does not detail the specific historical data sets used for these estimates or the controls in place to monitor changes in return patterns.
+
+- Claim: Revenue recognition for wholesale customers occurs at different points, either when the product is shipped/delivered from a facility or when the customer receives the product at a designated delivery point.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 3]
+  - Inferential bridge: The existence of multiple triggers for the transfer of control (shipped vs. received) creates a risk regarding the Cut-off assertion, as revenue could be recognized in the incorrect accounting period.
+  - Limitation: The context does not provide the volume of transactions subject to "receipt" versus "shipment" terms, nor the evidence used to verify the actual date of receipt for the latter.
+
+- Claim: Revenues are reported net of various promotions, including rebates and other incentives that vary in amount and must be estimated.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 1]
+  - Inferential bridge: The requirement to estimate variable incentives and promotions to arrive at the net revenue figure introduces subjectivity, which maps to a risk regarding the Accuracy assertion of revenue.
+  - Limitation: The context is insufficient regarding the specific methodology used to estimate these variable incentives or the frequency of retrospective adjustments.

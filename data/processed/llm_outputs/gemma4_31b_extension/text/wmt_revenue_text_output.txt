@@ -1,0 +1,27 @@
+- Claim: The Company recognizes sales revenue at the time of sale or provision of services, net of sales taxes and estimated sales returns, while eCommerce sales are recorded upon delivery to the customer.
+  - Claim type: Factual
+  - Support used: [Text Chunk 4]
+  - Limitation: This claim is limited to the accounting policies disclosed in the provided text for the period ended 2026-01-31.
+
+- Claim: The estimation of gift card breakage income presents a risk related to the accuracy and valuation of "membership and other income."
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 1]
+  - Inferential bridge: Management must estimate unredeemed balances and recognize breakage income over an "expected redemption period"; the use of management estimates for income recognition typically introduces risk regarding the accuracy of the amount and the timing of the recognition.
+  - Limitation: The provided context does not disclose the specific quantitative methodology or historical data used to determine the expected redemption period.
+
+- Claim: The use of estimated sales returns to determine net sales creates a risk regarding the accuracy and valuation of reported revenue.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 4]
+  - Inferential bridge: Because revenue is recognized net of "estimated sales returns" based on "expected returns," any error in the estimation process would directly impact the reported net sales figure.
+  - Limitation: The context lacks detail on the controls or data sources used to calculate the "expected returns" estimate.
+
+- Claim: The requirement to record eCommerce sales "upon delivery to the customer" introduces a risk regarding the cut-off assertion for revenue.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: [Text Chunk 4]
+  - Inferential bridge: Since revenue recognition is triggered by the event of delivery rather than the order date, there is a risk that revenue could be recorded in the incorrect accounting period if delivery dates are not precisely tracked.
+  - Limitation: The provided text does not describe the internal controls or evidence (e.g., shipping logs) used to verify the exact date of delivery.
+
+- Claim: Net sales for the Sam's Club U.S. segment increased by $2.8 billion (3.1%) for fiscal 2026 and $4.1 billion (4.7%) for fiscal 2025 compared to their respective previous years.
+  - Claim type: Factual
+  - Support used: [Text Chunk 3]
+  - Limitation: This measurement is limited to the Sam's Club U.S. segment and does not represent the consolidated net sales of Walmart Inc.

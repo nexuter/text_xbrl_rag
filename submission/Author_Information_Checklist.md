@@ -71,4 +71,4 @@ Replication materials are available at [repository name/link].
 
 ## Reviewer-Facing Caution
 
-Do not weaken the core boundary statements during final formatting. The title page, cover letter, manuscript, supplement, and replication README should remain consistent that the paper is a research-methodology contribution, the demonstration is descriptive, XBRL is management-reported data rather than audit evidence, and audit-valid scores are preliminary author-coded diagnostics unless independently reviewed.
+Do not weaken the core boundary statements during final formatting. The title page, cover letter, manuscript, supplement, and replication README should remain consistent that the paper is a research-methodology contribution, the demonstration is a methodological protocol-validation exercise rather than a model-performance benchmark, XBRL is management-reported data rather than audit evidence, and audit-valid scores are preliminary author-coded diagnostics unless independently reviewed.

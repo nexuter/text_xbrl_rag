@@ -1,0 +1,27 @@
+- Claim: Deferred revenue decreased by $61,000,000 for the period 2025-02-03 to 2026-02-01.
+  - Claim type: Factual
+  - Support used: F-HD-0022
+  - Limitation: This claim is limited to the specific duration period provided in the source data.
+
+- Claim: The current contract liability balance was $1,500,000,000 as of 2026-02-01.
+  - Claim type: Factual
+  - Support used: F-HD-0043
+  - Limitation: This is a point-in-time measurement and does not provide information on the volatility of the balance throughout the fiscal year.
+
+- Claim: The consistent decrease in deferred revenue over three consecutive periods (F-HD-0024, F-HD-0023, F-HD-0022) is a risk cue for the "Cut-off" assertion.
+  - Claim type: Risk-cue
+  - Support used: F-HD-0024, F-HD-0023, F-HD-0022
+  - Inferential bridge: A sustained downward trend in deferred revenue suggests that revenue is being recognized faster than new obligations are being created, which increases the risk that revenue may be recognized in the current period before the associated performance obligations are fully satisfied.
+  - Limitation: Missing the specific revenue recognition policies and the nature of the contracts contributing to the deferred revenue balances.
+
+- Claim: The identical balance of contract liabilities ($1,500,000,000) reported on 2025-02-02 and 2026-02-01 (F-HD-0042, F-HD-0043) is a risk cue for the "Valuation" assertion.
+  - Claim type: Risk-cue
+  - Support used: F-HD-0042, F-HD-0043
+  - Inferential bridge: In a retail environment, it is atypical for a significant liability account to remain exactly the same to the dollar over a full fiscal year; this suggests a potential lack of periodic adjustments or updates to the liability.
+  - Limitation: Missing the detailed transaction ledger or the internal controls used to update and reconcile the contract liability account.
+
+- Claim: The reported average redemption period of 6 months for contract liabilities (F-HD-0044) maps to the "Accuracy" assertion for revenue recognition.
+  - Claim type: Assertion-mapping
+  - Support used: F-HD-0044
+  - Inferential bridge: The redemption period is a critical estimate used to determine when a contract liability is converted into revenue; if this estimate is inaccurate, the resulting revenue recognized in the financial statements will be inaccurate.
+  - Limitation: Missing the historical actual redemption data or the methodology used to derive the 6-month average.

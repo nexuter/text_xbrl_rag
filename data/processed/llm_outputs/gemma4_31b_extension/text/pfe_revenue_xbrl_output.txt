@@ -1,0 +1,28 @@
+The provided context is insufficient to identify revenue totals or specific collaborative arrangement values for the fiscal year 2025.
+
+- Claim: As of 2025-12-31, Pfizer Inc. had 12 countries (excluding the United States) with revenue from contracts with customers of $500 million or more.
+  - Claim type: Factual
+  - Support used: F-PFE-0165
+  - Limitation: This is a point-in-time measurement as of 2025-12-31 and does not provide the aggregate revenue amount for these countries.
+
+- Claim: The concentration of revenue in 12 non-US countries exceeding $500 million each (as of 2025-12-31) constitutes a risk cue for the Accuracy and Cut-off assertions of revenue.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-PFE-0165
+  - Inferential bridge: High revenue concentration in a limited number of foreign jurisdictions increases the risk that local regulatory requirements, economic instability, or currency translation errors could affect the timing and valuation of recognized revenue.
+  - Limitation: The context does not identify the specific countries involved or the internal controls used to monitor foreign revenue recognition.
+
+- Claim: For the period 2023-01-01 to 2023-12-31, revenue from collaborative arrangements excluding revenue from contracts with customers was $7,582,000,000.
+  - Claim type: Factual
+  - Support used: F-PFE-0006, F-PFE-0057, F-PFE-0317
+  - Limitation: This measurement is restricted to the 2023 fiscal period and does not provide data for 2024 or 2025.
+
+- Claim: The existence of significant revenue from collaborative arrangements (as evidenced in 2023) serves as a risk cue for the Occurrence and Accuracy assertions.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-PFE-0006, F-PFE-0057, F-PFE-0317
+  - Inferential bridge: Collaborative arrangements typically involve complex contractual terms and revenue-sharing mechanisms that are more prone to error or misinterpretation than standard sales contracts, increasing the risk of incorrect recognition.
+  - Limitation: The context lacks the underlying contractual terms and the specific accounting policies applied to these arrangements for the 2025 period.
+
+- Claim: Total revenues for the period 2023-01-01 to 2023-12-31 were $59,553,000,000.
+  - Claim type: Factual
+  - Support used: F-PFE-0012
+  - Limitation: This measurement is limited to the 2023 duration and does not include subsequent fiscal years.

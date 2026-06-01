@@ -1,0 +1,36 @@
+TEXT RETRIEVAL CONTEXT
+
+[Text Chunk 1]
+chunk_id: T-WMT-REVENUE-060
+source_file: wmt-20260131.htm
+construct_tag: revenue
+ranking_score: 30
+text: Customer purchases of gift cards are not recognized as sales until the card is redeemed and the customer purchases merchandise using the gift card, thus a liability for deferred gift card revenue is recorded within accrued liabilities in the Consolidated Balance Sheets. Refer to Note 4 . Gift cards in the U.S. and some countries do not carry an expiration date; therefore, customers and members can redeem their gift cards for merchandise and services indefinitely. Gift cards in some countries where the Company does business have expiration dates. While gift cards are generally redeemed within 12 months, a certain number of gift cards, both with and without expiration dates, will not be fully redeemed. Management estimates unredeemed balances and recognizes gift card breakage income for these amounts in membership and other income in the Company's Consolidated Statements of Income over the expected redemption period.
+
+[Text Chunk 2]
+chunk_id: T-WMT-REVENUE-033
+source_file: wmt-20260131.htm
+construct_tag: revenue
+ranking_score: 14
+text: Comparable sales is a metric that indicates the performance of our existing stores and clubs by measuring the change in sales for such stores and clubs, including eCommerce sales, for a particular period over the corresponding period in the previous year. Walmart's definition of comparable sales includes sales from stores and clubs open for the previous 12 months, including remodels, relocations, expansions and conversions, as well as eCommerce sales. We measure the eCommerce sales impact by including all sales initiated digitally, including omnichannel transactions which are fulfilled through our stores and clubs as well as certain other business offerings that are part of our ecosystem, such as our advertising net sales. Comparable sales are also referred to as "same-store" sales by others within the retail industry. The method of calculating comparable sales varies across the retail industry. As a result, our calculation of comparable sales is not necessarily comparable to similarly titled measures reported by other companies.
+
+[Text Chunk 3]
+chunk_id: T-WMT-REVENUE-052
+source_file: wmt-20260131.htm
+construct_tag: revenue
+ranking_score: 11
+text: Net sales for the Sam's Club U.S. segment increased $2.8 billion or 3.1% and $4.1 billion or 4.7% for fiscal 2026 and 2025, respectively, when compared to the previous fiscal year. The increases in net sales were primarily due to increases in comparable sales, including fuel, of 2.9% and 4.7% for fiscal 2026 and 2025, respectively. Comparable sales in fiscal 2026 were driven by growth in unit volumes and transactions, reflecting strong sales in grocery, health and wellness and general merchandise. Comparable sales in fiscal 2025 were driven by growth in transactions and unit volumes, with strong sales in grocery and health and wellness. Additionally, fiscal 2026 and 2025 growth was partially offset by lower fuel sales, negatively impacting comparable sales by 1.9% and 1.5%, respectively, primarily due to lower fuel prices. Sam's Club U.S. eCommerce sales positively contributed approximately 3.3% and 2.3% to comparable sales for fiscal 2026 and 2025, respectively, which reflects continued strength in member engagement with omnichannel offerings.
+
+[Text Chunk 4]
+chunk_id: T-WMT-REVENUE-057
+source_file: wmt-20260131.htm
+construct_tag: revenue
+ranking_score: 10
+text: The Company recognizes sales revenue, net of sales taxes and estimated sales returns, at the time it sells merchandise or provides services to the customer. eCommerce sales include shipping revenue and are recorded upon delivery to the customer. Estimated sales returns are calculated based on expected returns.
+
+[Text Chunk 5]
+chunk_id: T-WMT-REVENUE-037
+source_file: wmt-20260131.htm
+construct_tag: revenue
+ranking_score: 9
+text: Sam's Club U.S. comparable sales increased 2.9% and 4.7% in fiscal 2026 and 2025, respectively. For fiscal 2026, comparable sales were driven by growth in unit volumes and transactions, reflecting strong sales in grocery, health and wellness and general merchandise. For fiscal 2025, comparable sales were driven by growth in transactions and unit volumes, with strong sales in grocery and health and wellness. Additionally, fiscal 2026 and 2025 growth was partially offset by lower fuel sales, negatively impacting comparable sales by 1.9% and 1.5%, respectively, primarily due to lower fuel prices. Sam's Club U.S. eCommerce sales positively contributed approximately 3.3% and 2.3% to comparable sales for fiscal 2026 and 2025, respectively, which reflects continued strength in member engagement with omnichannel offerings.

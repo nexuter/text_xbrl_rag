@@ -1,0 +1,5 @@
+condition,n_contexts,context_words_mean,context_words_median,context_words_min,context_words_max,prompt_words_mean,text_chunks_mean,xbrl_facts_mean,xbrl_paths_mean
+hybrid,18,691.3,718.5,278,885,862.9,5.0,11.9,8.9
+llm_only,18,10.0,10.0,10,10,181.6,0.0,0.0,0.0
+text,18,602.6,594.0,249,929,774.2,5.0,0.0,0.0
+xbrl,18,524.2,542.5,192,666,695.8,0.0,11.9,8.9

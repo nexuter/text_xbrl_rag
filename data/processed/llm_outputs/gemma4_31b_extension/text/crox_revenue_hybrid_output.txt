@@ -1,0 +1,27 @@
+- Claim: Crocs recognizes revenue when control of the product transfers to customers, reported net of promotions, discounts, rebates, and other incentives.
+  - Claim type: Factual
+  - Support used: Text Chunk 1
+  - Limitation: This claim is limited to the company's stated accounting policy as described in the provided text for the period ended 2025-12-31.
+
+- Claim: The estimation of reserves for sales returns and allowances, particularly for direct-to-consumer channels and wholesale exceptions, involves significant judgment.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: Text Chunk 1
+  - Inferential bridge: Because the company explicitly identifies the estimation of reserves for sales returns and allowances as an "area of judgment," there is a risk regarding the Accuracy and Valuation assertions of reported revenue and the related refund liability.
+  - Limitation: The provided context does not detail the specific quantitative methodology used to calculate these reserves or the internal controls used to validate the estimates.
+
+- Claim: Revenue recognition for wholesale customers occurs either when the product is shipped/delivered from a facility or when the customer receives the product at a designated delivery point.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: Text Chunk 3
+  - Inferential bridge: The use of different triggers for revenue recognition (shipping vs. delivery) creates a risk regarding the Cut-off assertion, as revenue may be recorded in the incorrect fiscal period if the transfer of control is not precisely timed.
+  - Limitation: The context does not provide the percentage of wholesale contracts tied to each delivery term or the evidence used to verify the date of receipt at designated delivery points.
+
+- Claim: Markdown allowances are provided to key wholesalers and distributors at the company's sole discretion to facilitate the sale of slower-moving products.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: Text Chunk 1, Text Chunk 3
+  - Inferential bridge: Since these allowances are granted at "sole discretion," there is a risk that the reduction of revenue may be inconsistently applied or estimated, impacting the Accuracy and Completeness of revenue contra-accounts.
+  - Limitation: The context lacks information regarding the authorization process for these discretionary allowances or the criteria used to identify "slower moving products."
+
+- Claim: As of December 31, 2025, the company recorded no deferred revenues associated with advance customer deposits.
+  - Claim type: Factual
+  - Support used: Text Chunk 2
+  - Limitation: This is a point-in-time measurement limited to the balance sheet date of 2025-12-31.

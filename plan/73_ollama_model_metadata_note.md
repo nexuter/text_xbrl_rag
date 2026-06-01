@@ -18,6 +18,7 @@ Observed metadata:
 |---|---|
 | Provider | Ollama |
 | Model | `gemma4:31b` |
+| Ollama list ID | `6316f0629137` |
 | Architecture | `gemma4` |
 | Parameters | 31.3B |
 | Context length | 262,144 |
@@ -37,7 +38,7 @@ The demonstration scripts overrode the model's default temperature by setting te
 | Run Label | Role | Expected Outputs | Output Status |
 |---|---|---:|---|
 | `gemma4_31b_full` | Main deep cases | 24 | 24 completed |
-| `gemma4_31b_extension` | Bounded extension | 18 | 18 archived outputs; run manifest includes completed and skipped-existing statuses |
+| `gemma4_31b_extension` | Bounded extension | 48 | 48 archived outputs; run manifest records skipped-existing statuses for preserved outputs |
 
 Main run summary:
 
@@ -54,22 +55,22 @@ Extension run summary:
 - Base URL: `http://localhost:11434`
 - Model: `gemma4:31b`
 - Temperature: `0.0`
-- Access time UTC: `2026-05-29T15:57:47.190725+00:00`
-- Status counts in run manifest: 8 completed, 10 skipped existing
-- Interpretation: the archive contains the expected 18 extension outputs; skipped-existing rows reflect reuse of already generated output files rather than missing runs.
+- Access time UTC: `2026-05-31T03:09:49.154110+00:00`
+- Status counts in run manifest: 48 skipped existing
+- Interpretation: the archive contains the expected 48 full-scale extension outputs; skipped-existing rows reflect reuse of already generated output files rather than missing runs.
 
 ## Reviewer-Facing Interpretation
 
 This metadata is sufficient for a Tier 1 methodological demonstration because the paper does not claim model-performance superiority or exact third-party determinism. The replication package preserves prompts, retrieval contexts, raw JSON outputs, text outputs, model name, provider, base URL, and temperature.
 
-The metadata is not sufficient for a model benchmark or exact deterministic replication claim. Exact output replication may still vary across local Ollama builds, hardware, inference libraries, quantization releases, and serving settings.
+The metadata is not sufficient for a model benchmark or exact deterministic replication claim. The local `ollama list` command reported model ID `6316f0629137`, but the captured `ollama show gemma4:31b` output did not expose a full model digest or local model-file hash. Exact output replication may still vary across local Ollama builds, hardware, inference libraries, quantization releases, and serving settings.
 
 ## Recommended Manuscript Or Supplement Language
 
 Use the following sentence in the final data availability or supplement note:
 
-> The local LLM outputs were generated using Ollama with `gemma4:31b` at temperature 0. The local model reported a 31.3B-parameter `gemma4` architecture with Q4_K_M quantization and a 262,144-token context length. Because local Ollama builds and serving environments may differ, exact output replication should be interpreted with caution unless the model digest and environment are frozen.
+> The local LLM outputs were generated using Ollama with `gemma4:31b` at temperature 0. The local model reported Ollama list ID `6316f0629137`, a 31.3B-parameter `gemma4` architecture, Q4_K_M quantization, and a 262,144-token context length. Because local Ollama builds and serving environments may differ, exact output replication should be interpreted with caution unless the model digest and environment are frozen.
 
 ## Remaining Reproducibility Improvement
 
-Before public release, capture any available model digest or local model file hash if Ollama exposes it in the installed environment. If a digest cannot be captured, preserve this metadata note and the raw output archive as the reproducibility basis.
+Before public release, capture any available full model digest or local model-file hash if Ollama exposes it in the installed environment. The current package preserves the available Ollama list ID, model metadata note, prompts, contexts, and raw output archive as the reproducibility basis.

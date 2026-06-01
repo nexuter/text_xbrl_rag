@@ -1,5 +1,7 @@
 # Pre-Manuscript Revision Audit
 
+Revision note: This pre-manuscript audit was superseded by the full-scale extension revision in `plan/89_demonstration_scope_and_validation_revision_log.md`. The current manuscript and supplement use 72 outputs, 48 extension outputs, 281 preliminary coded claims, and 464 retrieval-log rows.
+
 ## Purpose
 
 This memo checks whether any revisions or improvements should be completed before drafting the submission-ready v3 manuscript.

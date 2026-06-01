@@ -351,8 +351,8 @@ def write_text(path: Path, content: str) -> None:
     path.write_text(content, encoding="utf-8")
 
 
-def selected_constructs(filer: dict) -> list[str]:
-    if filer.get("sample_role") == "bounded_extension":
+def selected_constructs(filer: dict, extension_all_constructs: bool) -> list[str]:
+    if filer.get("sample_role") == "bounded_extension" and not extension_all_constructs:
         return [filer.get("extension_primary_construct") or "inventory"]
     return list(CONSTRUCTS)
 
@@ -368,6 +368,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--manifest", default="config/filer_manifest.json")
     parser.add_argument("--roles", nargs="+", default=sorted(DEFAULT_ROLES))
     parser.add_argument("--include-extension-baseline", action="store_true")
+    parser.add_argument(
+        "--extension-all-constructs",
+        action="store_true",
+        help="Generate both revenue and inventory constructs for bounded-extension filers.",
+    )
     return parser.parse_args()
 
 
@@ -385,7 +390,7 @@ def build() -> None:
     manifest_rows = []
 
     for ticker, filer in filers.items():
-        for construct in selected_constructs(filer):
+        for construct in selected_constructs(filer, args.extension_all_constructs):
             selected_text = select_text_rows(text_rows, ticker, construct, limit=5)
             selected_facts = select_fact_rows(fact_rows, ticker, construct, limit=12)
             selected_paths = select_path_rows(path_rows, ticker, construct, limit=10)

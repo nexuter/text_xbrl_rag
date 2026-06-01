@@ -1,0 +1,27 @@
+- Claim: As of December 31, 2025, deferred revenues for Paxlovid and Comirnaty totaled $1.5 billion, comprising $689 million in current liabilities and $826 million in noncurrent liabilities.
+  - Claim type: Factual
+  - Support used: T-PFE-REVENUE-141
+  - Limitation: This measurement is limited to the specific product lines of Paxlovid and Comirnaty and does not encompass all possible deferred revenue streams for the company.
+
+- Claim: The estimation of variable consideration—including chargebacks, rebates, sales allowances, and sales returns—presents a risk to the accuracy of reported net revenues.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-PFE-REVENUE-066
+  - Inferential bridge: The text explicitly states that these deductions are estimated, require "knowledge and judgment," and that inaccurate estimates could "materially affect" results, which maps to the Accuracy and Valuation assertions.
+  - Limitation: The provided context does not detail the specific internal controls or the quantitative thresholds used to determine if adjustments to these estimates are "material."
+
+- Claim: The process for calculating provisions for pharmaceutical sales returns involves multiple subjective variables that may impact the valuation of revenue.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-PFE-REVENUE-093
+  - Inferential bridge: The reliance on diverse and subjective inputs—such as "estimated shelf life," "lag time," and "changing competitive environment"—introduces estimation uncertainty, mapping to the Valuation assertion.
+  - Limitation: The context does not provide the specific data sources or the frequency with which these market-specific calculations are updated.
+
+- Claim: The recognition of revenue from the balance of deferred revenues for Paxlovid and Comirnaty presents a risk regarding the timing of revenue recognition.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: T-PFE-REVENUE-141
+  - Inferential bridge: Because revenue is recognized as products are delivered to government or government-sponsored customers, the transition from a liability to revenue depends on the verification of delivery, mapping to the Cut-off and Occurrence assertions.
+  - Limitation: The context lacks information regarding the specific delivery documentation or the contractual triggers required to move funds from deferred revenue to recognized revenue.
+
+- Claim: For the period ended December 31, 2025, there were 12 countries where revenue from contracts with customers was $500 million or more.
+  - Claim type: Factual
+  - Support used: F-PFE-0165
+  - Limitation: This is a point-in-time measurement that does not identify the specific countries involved or the exact revenue totals for each.

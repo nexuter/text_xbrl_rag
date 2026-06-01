@@ -20,19 +20,18 @@ It is not evidence of audit validity, retrieval performance, model performance, 
 
 | Field | Value |
 |---|---|
-| Generated at UTC | `2026-05-29T23:06:41.944725+00:00` |
+| Generated at UTC | `2026-05-31T22:13:12.339530+00:00` |
 | Hash algorithm | SHA-256 |
-| Total files hashed | 1,379 |
+| Total files hashed | 394 |
 
 ## Counts By Category
 
 | Category | Files | Size Bytes |
 |---|---:|---:|
-| config | 1 | 3,982 |
-| processed | 251 | 15,210,952 |
-| raw_sec | 1,119 | 360,410,274 |
-| root | 1 | 8,230 |
-| script | 7 | 89,384 |
+| config | 1 | 4,128 |
+| processed | 380 | 17,115,088 |
+| root | 1 | 10,170 |
+| script | 12 | 124,866 |
 
 ## Reviewer-Facing Interpretation
 

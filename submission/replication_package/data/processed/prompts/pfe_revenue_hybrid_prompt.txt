@@ -1,0 +1,65 @@
+You are assisting with an auditing research task. Use only the information provided in the context.
+
+Task:
+Identify audit-relevant risk cues or assertion-mapping considerations for revenue recognition risk cue identification for Pfizer Inc., fiscal year 2025, period ended 2025-12-31, accession 0000078003-26-000026, based on the provided context.
+
+Instructions:
+1. Provide no more than five audit-relevant claims.
+2. Distinguish factual claims from risk-cue or assertion-mapping claims.
+3. Do not conclude that a misstatement exists.
+4. State when the provided context is insufficient.
+5. Avoid treating reported XBRL relationships as independent audit evidence.
+6. Do not use general company knowledge outside the provided context.
+7. For each risk-cue or assertion-mapping claim, state the inferential bridge from the source evidence to the audit consideration.
+8. Do not write "Limitation: None" for risk-cue or assertion-mapping claims; identify at least one missing audit evidence item, missing control detail, or source-bound limitation.
+9. For factual claims, state any period, source, or measurement limitation rather than treating the claim as unrestricted.
+
+Context:
+TEXT RETRIEVAL CONTEXT
+
+[Text Chunk 1]
+chunk_id: T-PFE-REVENUE-141
+source_file: pfe-20251231.htm
+construct_tag: revenue
+ranking_score: 37
+text: Deferred Revenues Our deferred revenues primarily relate to advance payments received or receivable from various government or government sponsored customers for supply of Paxlovid and Comirnaty. The deferred revenues related to Paxlovid and Comirnaty totaled $ 1.5 billion as of December 31 2025 with $ 689 million and $ 826 million recorded in current liabilities and noncurrent liabilities respectively. The deferred revenues related to Paxlovid and Comirnaty totaled $ 2.2 billion as of December 31 2024 with $ 1.4 billion and $ 785 million recorded in current liabilities and noncurrent liabilities respectively. The decrease in Paxlovid and Comirnaty deferred revenues during 2025 was primarily driven by amounts recognized in Product revenues as we delivered the products to our customers. During 2025 we recognized revenue of approximately $ 771 million that was included in the balance of Paxlovid and Comirnaty deferred revenues as of December 31 2024. The Paxlovid and Comirnaty deferred revenues as of December 31 2025 will be recognized ...
+
+[Text Chunk 2]
+chunk_id: T-PFE-REVENUE-066
+source_file: pfe-20251231.htm
+construct_tag: revenue
+ranking_score: 10
+text: Our gross product revenues are subject to a variety of deductions which generally are estimated and recorded in the same period that the revenues are recognized. Such variable consideration represents chargebacks rebates sales allowances and sales returns. These deductions represent estimates of the related obligations and as such knowledge and judgment are required when estimating the impact of these revenue deductions on gross sales for a reporting period. Historically adjustments to these estimates to reflect actual results or updated expectations have not been material to our overall business and generally have been less than 1% of revenues. Product-specific rebates however can have a significant impact on year-over-year individual product revenue growth trends. If any of our ratios factors assessments experiences or judgments are not indicative or accurate estimates of our future experience our results could be materially affected. The potential of our estimates to vary sensitivity differs by program product type of customer and geographic location. However estimates associated with ...
+
+[Text Chunk 3]
+chunk_id: T-PFE-REVENUE-093
+source_file: pfe-20251231.htm
+construct_tag: revenue
+ranking_score: 9
+text: Provisions for pharmaceutical sales returns–– Provisions are based on a calculation for each market that incorporates the following, as appropriate: local returns policies and practices; historical returns as a percentage of sales; an understanding of the reasons for past returns; estimated shelf life by product; an estimate of the amount of time between shipment and return or lag time; and any other factors that could impact the estimate of future returns, such as patent-based expirations or loss of regulatory exclusivity, product recalls or a changing competitive environment. Generally, returned products are destroyed, and customers are refunded the sales price in the form of a credit.
+
+XBRL RELATIONAL RETRIEVAL CONTEXT
+
+Facts:
+1. fact_id=F-PFE-0167 concept=ConcentrationRiskRevenues500000000orMoreNumberofCountries value=14 unit=pfe:country period=instant:2023-12-31 dimensions=srt:StatementGeographicalAxis=pfe:NonUnitedStatesMember; us-gaap:ConcentrationRiskByBenchmarkAxis=us-gaap:RevenueFromContractWithCustomerMember; us-gaap:ConcentrationRiskByTypeAxis=us-gaap:GeographicConcentrationRiskMember
+2. fact_id=F-PFE-0166 concept=ConcentrationRiskRevenues500000000orMoreNumberofCountries value=11 unit=pfe:country period=instant:2024-12-31 dimensions=srt:StatementGeographicalAxis=pfe:NonUnitedStatesMember; us-gaap:ConcentrationRiskByBenchmarkAxis=us-gaap:RevenueFromContractWithCustomerMember; us-gaap:ConcentrationRiskByTypeAxis=us-gaap:GeographicConcentrationRiskMember
+3. fact_id=F-PFE-0165 concept=ConcentrationRiskRevenues500000000orMoreNumberofCountries value=12 unit=pfe:country period=instant:2025-12-31 dimensions=srt:StatementGeographicalAxis=pfe:NonUnitedStatesMember; us-gaap:ConcentrationRiskByBenchmarkAxis=us-gaap:RevenueFromContractWithCustomerMember; us-gaap:ConcentrationRiskByTypeAxis=us-gaap:GeographicConcentrationRiskMember
+4. fact_id=F-PFE-0006 concept=RevenueFromCollaborativeArrangementExcludingRevenueFromContractWithCustomer value=7582000000 unit=iso4217:USD period=duration:2023-01-01/2023-12-31 dimensions=none
+5. fact_id=F-PFE-0057 concept=RevenueFromCollaborativeArrangementExcludingRevenueFromContractWithCustomer value=7582000000 unit=iso4217:USD period=duration:2023-01-01/2023-12-31 dimensions=us-gaap:TypeOfArrangementAxis=us-gaap:CollaborativeArrangementMember
+6. fact_id=F-PFE-0317 concept=RevenueFromCollaborativeArrangementExcludingRevenueFromContractWithCustomer value=7582000000 unit=iso4217:USD period=duration:2023-01-01/2023-12-31 dimensions=srt:ProductOrServiceAxis=pfe:TotalAllianceBiopharmaceuticalsMember
+7. fact_id=F-PFE-0003 concept=RevenueFromContractWithCustomerExcludingAssessedTax value=50914000000 unit=iso4217:USD period=duration:2023-01-01/2023-12-31 dimensions=srt:ProductOrServiceAxis=us-gaap:ProductMember
+8. fact_id=F-PFE-0009 concept=RevenueFromContractWithCustomerExcludingAssessedTax value=1058000000 unit=iso4217:USD period=duration:2023-01-01/2023-12-31 dimensions=srt:ProductOrServiceAxis=us-gaap:RoyaltyMember
+
+Relation paths:
+1. path_id=X-PFE-0261 relation_type=definition source=us-gaap:EntityWideInformationRevenueFromExternalCustomerLineItems (Revenue from External Customer [Line Items]) -> target=us-gaap:RevenueFromCollaborativeArrangementExcludingRevenueFromContractWithCustomer (Revenue from Collaborative Arrangement, Excluding Revenue from Contract with Customer) arcrole=http://xbrl.org/int/dim/arcrole/domain-member role=http://www.pfizer.com/role/SegmentGeographicandOtherRevenueInformationRevenuesbyProductDetail
+2. path_id=X-PFE-0123 relation_type=presentation source=us-gaap:EntityWideInformationRevenueFromExternalCustomerLineItems (Revenue from External Customer [Line Items]) -> target=us-gaap:RevenueFromCollaborativeArrangementExcludingRevenueFromContractWithCustomer (Revenue from Collaborative Arrangement, Excluding Revenue from Contract with Customer) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.pfizer.com/role/SegmentGeographicandOtherRevenueInformationRevenuesbyProductDetail
+3. path_id=X-PFE-0138 relation_type=calculation source=us-gaap:Revenues (Revenues) -> target=us-gaap:RevenueFromCollaborativeArrangementExcludingRevenueFromContractWithCustomer (Revenue from Collaborative Arrangement, Excluding Revenue from Contract with Customer) arcrole=http://www.xbrl.org/2003/arcrole/summation-item role=http://www.pfizer.com/role/ConsolidatedStatementsofOperations
+4. path_id=X-PFE-0262 relation_type=definition source=us-gaap:EntityWideInformationRevenueFromExternalCustomerLineItems (Revenue from External Customer [Line Items]) -> target=us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax (Revenue from Contract with Customer, Excluding Assessed Tax) arcrole=http://xbrl.org/int/dim/arcrole/domain-member role=http://www.pfizer.com/role/SegmentGeographicandOtherRevenueInformationRevenuesbyProductDetail
+5. path_id=X-PFE-0269 relation_type=definition source=us-gaap:EntityWideInformationRevenueFromExternalCustomerLineItems (Revenue from External Customer [Line Items]) -> target=us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax (Revenue from Contract with Customer, Excluding Assessed Tax) arcrole=http://xbrl.org/int/dim/arcrole/domain-member role=http://www.pfizer.com/role/SegmentGeographicandOtherRevenueInformationRevenuesbyProductFootnotesDetails
+6. path_id=X-PFE-0124 relation_type=presentation source=us-gaap:EntityWideInformationRevenueFromExternalCustomerLineItems (Revenue from External Customer [Line Items]) -> target=us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax (Revenue from Contract with Customer, Excluding Assessed Tax) arcrole=http://www.xbrl.org/2003/arcrole/parent-child role=http://www.pfizer.com/role/SegmentGeographicandOtherRevenueInformationRevenuesbyProductDetail
+
+Output format:
+- Claim:
+  - Claim type:
+  - Support used:
+  - Limitation:

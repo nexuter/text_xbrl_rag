@@ -219,8 +219,10 @@ def code_integrated(condition: str, has_text: str, has_xbrl: str, audit_score: s
         return "NA", "Integrated correctness is primarily assessed for hybrid retrieval in this demonstration."
     if has_text == "1" and has_xbrl == "1" and audit_score == "1":
         return "1", "Claim integrates text, XBRL, and qualified audit reasoning."
-    if (has_text == "1" or has_xbrl == "1") and audit_score in {"1", "0.5"}:
-        return "0.5", "Hybrid context is available, but this claim uses only one evidence layer or only partially reconciles layers."
+    if has_text == "1" and has_xbrl == "1":
+        return "0.5", "Text and XBRL both appear, but integration is incomplete, mostly juxtaposed, or weakly connected."
+    if has_text == "1" or has_xbrl == "1":
+        return "0", "Hybrid context is available, but this claim uses only one evidence layer and is not integrated."
     return "0", "Hybrid claim lacks traceable evidence-layer integration."
 
 
@@ -327,8 +329,6 @@ def summarize(rows: list[dict]) -> list[dict]:
     layers = [
         "text_supported_prelim",
         "graph_valid_prelim",
-        "audit_valid_prelim",
-        "integrated_prelim",
     ]
     for row in rows:
         key = (row["condition"], row["construct"])
@@ -349,6 +349,31 @@ def summarize(rows: list[dict]) -> list[dict]:
             values = [value for value in values if value is not None]
             summary[f"{layer}_mean"] = f"{sum(values) / len(values):.2f}" if values else "NA"
             summary[f"{layer}_n"] = len(values)
+        if condition == "hybrid":
+            integrated_bridge_claims = sum(1 for row in group if row["integrated_prelim"] == "1")
+            weak_or_juxtaposed_claims = sum(1 for row in group if row["integrated_prelim"] == "0.5")
+            text_only_hybrid_claims = sum(
+                1 for row in group if row["has_text_source"] == "1" and row["has_xbrl_source"] != "1"
+            )
+            xbrl_only_hybrid_claims = sum(
+                1 for row in group if row["has_xbrl_source"] == "1" and row["has_text_source"] != "1"
+            )
+            no_source_hybrid_claims = sum(
+                1 for row in group if row["has_text_source"] != "1" and row["has_xbrl_source"] != "1"
+            )
+            summary["integrated_bridge_claims"] = integrated_bridge_claims
+            summary["integrated_bridge_share"] = f"{integrated_bridge_claims / len(group):.2f}" if group else "NA"
+            summary["weak_or_juxtaposed_claims"] = weak_or_juxtaposed_claims
+            summary["text_only_hybrid_claims"] = text_only_hybrid_claims
+            summary["xbrl_only_hybrid_claims"] = xbrl_only_hybrid_claims
+            summary["no_source_hybrid_claims"] = no_source_hybrid_claims
+        else:
+            summary["integrated_bridge_claims"] = "NA"
+            summary["integrated_bridge_share"] = "NA"
+            summary["weak_or_juxtaposed_claims"] = "NA"
+            summary["text_only_hybrid_claims"] = "NA"
+            summary["xbrl_only_hybrid_claims"] = "NA"
+            summary["no_source_hybrid_claims"] = "NA"
         summary_rows.append(summary)
     return summary_rows
 
@@ -410,19 +435,20 @@ def build_markdown_summary(rows: list[dict], summary_rows: list[dict], run_label
     lines.append("")
     lines.append(
         "The scores are preliminary author codes generated from the structured LLM outputs. "
-        "Audit-valid and integrated correctness require expert review before being treated as manuscript evidence."
+        "The aggregate table reports source-support and integration diagnostics only; audit-valid coding remains "
+        "claim-level and requires expert review before being treated as audit-judgment evidence."
     )
     lines.append("")
     lines.append("## Summary by Condition and Construct")
     lines.append("")
-    lines.append("| Condition | Construct | Claims | Factual | Risk/Assertion | Insufficient Context | Text Mean | Graph Mean | Audit Mean | Integrated Mean |")
+    lines.append("| Condition | Construct | Claims | Factual | Risk/Assertion | Insufficient Context | Text Mean | Graph Mean | Integrated Bridge Claims | Integrated Bridge Share |")
     lines.append("|---|---|---:|---:|---:|---:|---:|---:|---:|---:|")
     for row in summary_rows:
         lines.append(
             f"| {row['condition']} | {row['construct']} | {row['claims']} | "
             f"{row['factual_claims']} | {row['risk_or_assertion_claims']} | {row['insufficient_context_claims']} | "
             f"{row['text_supported_prelim_mean']} | {row['graph_valid_prelim_mean']} | "
-            f"{row['audit_valid_prelim_mean']} | {row['integrated_prelim_mean']} |"
+            f"{row['integrated_bridge_claims']} | {row['integrated_bridge_share']} |"
         )
     lines.append("")
     lines.append("## Output Files")

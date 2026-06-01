@@ -1,0 +1,26 @@
+- Claim: As of 2025-12-31, the Contract With Customer Liability was $4,678,000,000.
+  - Claim type: Factual
+  - Support used: F-CAT-0062
+  - Limitation: This claim is limited to the reported balance at the specific instant of 2025-12-31.
+
+- Claim: For the period 2025-01-01 to 2025-12-31, there was a cumulative catch-up adjustment to revenue resulting from a change in the estimate of the transaction price amounting to -$497,000,000.
+  - Claim type: Factual
+  - Support used: F-CAT-0052
+  - Limitation: This claim is limited to the aggregate reported value for the 2025 fiscal year.
+
+- Claim: The negative cumulative catch-up adjustment of $497 million in 2025 represents a risk cue for the accuracy and occurrence assertions of revenue recognition.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-CAT-0052
+  - Inferential bridge: A cumulative catch-up adjustment indicates that a change in the estimated transaction price required a retrospective adjustment to revenue, suggesting that previous revenue recognition was based on estimates that have since been revised.
+  - Limitation: Missing the specific qualitative reasons for the change in estimate and the internal controls used to validate the revised transaction price.
+
+- Claim: The increase in Contract With Customer Liability from $2,745,000,000 (2024-12-31) to $4,678,000,000 (2025-12-31) constitutes a risk cue for the cut-off assertion.
+  - Claim type: Risk-cue or assertion-mapping
+  - Support used: F-CAT-0063, F-CAT-0062
+  - Inferential bridge: A significant increase in contract liabilities indicates a higher volume of deferred revenue; if the timing of the satisfaction of performance obligations is not accurately tracked, there is a risk that revenue is recognized in the incorrect accounting period.
+  - Limitation: Missing a detailed breakdown of the performance obligations associated with the liability increase or the specific contracts driving the growth.
+
+- Claim: Revenue recognized from contract liabilities during the period 2025-01-01 to 2025-12-31 was $1,894,000,000.
+  - Claim type: Factual
+  - Support used: F-CAT-0065
+  - Limitation: This claim is limited to the reported total for the 2025 duration period.

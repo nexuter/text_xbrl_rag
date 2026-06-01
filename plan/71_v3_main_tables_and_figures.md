@@ -12,13 +12,14 @@ The packet is designed to resolve the v3 reviewer stress-test concern that the m
 |---|---|---|
 | Figure 1 | Retrieval-Environment Validity Framework | Section III |
 | Table 1 | Fixed Information Set Versus Dynamic Retrieval | Section III |
-| Table 2 | Five Dimensions of Retrieval-Environment Validity | Section III |
-| Table 3 | Retrieval Typology for LLM-Based Audit Research | Section IV |
-| Table 4 | Construct-to-Retrieval Mapping | Section IV |
-| Table 5 | Claim Correctness Layers | Section V |
-| Table 6 | Tiered Reporting Standard | Section VI |
+| Table 2 | Retrieval-Environment Validity Versus Adjacent Validity Concepts | Section III |
+| Table 3 | Five Dimensions of Retrieval-Environment Validity | Section III |
+| Table 4 | Retrieval Typology for LLM-Based Audit Research | Section IV |
+| Table 5 | Construct-to-Retrieval Mapping | Section IV |
+| Table 6 | Claim Correctness Layers | Section V |
+| Table 7 | Tiered Reporting Standard | Section VI |
 | Figure 2 | Methodological Demonstration Pipeline | Section VII |
-| Table 7 | Selected Claim-Level Demonstration Examples | Section VII |
+| Table 8 | Selected Claim-Level Demonstration Examples | Section VII |
 
 ## Figure 1. Retrieval-Environment Validity Framework
 
@@ -63,7 +64,24 @@ Note:
 
 This table motivates why retrieval requires methodological treatment. In dynamic retrieval designs, the prompt and model do not fully define the information environment observed by the LLM.
 
-## Table 2. Five Dimensions of Retrieval-Environment Validity
+## Table 2. Retrieval-Environment Validity Versus Adjacent Validity Concepts
+
+| Adjacent Concept | What It Already Covers | What It Misses In Dynamic Retrieval | Retrieval-Specific Failure | Consequence For LLM Audit Inference |
+|---|---|---|---|---|
+| Construct validity | Whether the study operationalizes the intended audit construct | Whether runtime retrieval actually supplies construct-relevant evidence | Construct-relevant source evidence exists but is not retrieved | Output differences may be misattributed to model reasoning rather than retrieval-created construct drift |
+| Measurement validity | Whether variables measure the intended phenomenon | Whether retrieved evidence units preserve meaning after chunking, filtering, or rendering | Text chunks, XBRL contexts, periods, units, or relation paths are distorted | Claim-level variables may code model output against a misrepresented evidence environment |
+| Internal validity | Whether causal inferences are separated from confounds | Whether retrieval effects are separable from model, prompt, token-budget, ordering, and salience effects | Retrieval condition differs in evidence type and information volume | A study may claim a retrieval effect when it observes context-budget or formatting effects |
+| Audit evidence sufficiency | Whether evidence is enough to support an audit conclusion | Whether management-reported filing data are being overread as audit evidence | XBRL facts or disclosures are treated as audit truth | Graph-valid or text-supported claims may be incorrectly interpreted as audit-valid conclusions |
+| Audit documentation | Whether evidence and conclusions are documented | Whether each LLM claim can be traced to the retrieved information actually shown to the model | Output claims lack source IDs or cite unavailable evidence | Reviewers cannot distinguish source-supported claims from unsupported model assertions |
+| Textual-analysis preprocessing validation | Whether text is cleaned, tokenized, and measured appropriately | Whether query-time retrieval selects the right text units for the construct | Relevant chunks are omitted or severed from context | Text-based RAG output may appear construct-aligned while relying on generic or incomplete disclosure text |
+| RAG system evaluation | Whether a retrieval system performs well on retrieval or QA metrics | Whether retrieved materials support the audit-research inference rather than generic answer quality | High retrieval relevance does not map to audit construct relevance | A technically strong RAG system may still create invalid audit-research inferences |
+| Reproducibility | Whether another researcher can rerun or inspect the study | Whether the dynamic evidence environment can be reconstructed at the claim level | Corpus, index, ranking rule, or returned evidence is not preserved | Prompt and model replication is insufficient because the model's information set is unknown |
+
+Note:
+
+Retrieval-environment validity is not a replacement for these adjacent concepts. It identifies the retrieval-specific mechanism through which they can fail when the model's information set is dynamically constructed at runtime.
+
+## Table 3. Five Dimensions of Retrieval-Environment Validity
 
 | Dimension | Audit/Method Anchor | Core Question | Observable Evidence | Failure Mode |
 |---|---|---|---|---|
@@ -77,7 +95,7 @@ Note:
 
 The dimensions adapt established audit and research-design concerns to the retrieval setting. They are diagnostic criteria for evaluating whether the retrieved information environment supports the intended audit-research inference.
 
-## Table 3. Retrieval Typology for LLM-Based Audit Research
+## Table 4. Retrieval Typology for LLM-Based Audit Research
 
 | Retrieval Design | Primary Source | Unit of Retrieval | Retrieval Operator | Best-Suited Audit-Research Use | Main Risk |
 |---|---|---|---|---|---|
@@ -90,7 +108,7 @@ Note:
 
 The table distinguishes retrieval designs by source, unit, operator, construct fit, and validity risk. Hybrid retrieval is treated as construct-specific, not universally superior.
 
-## Table 4. Construct-to-Retrieval Mapping
+## Table 5. Construct-to-Retrieval Mapping
 
 | Intended Construct | Most Appropriate Retrieval Design | Why | What Not To Claim |
 |---|---|---|---|
@@ -104,7 +122,7 @@ Note:
 
 This table links retrieval design to construct definition and explicitly marks claims that the retrieval design does not support.
 
-## Table 5. Claim Correctness Layers
+## Table 6. Claim Correctness Layers
 
 | Layer | Applies To | Question Answered | Example Evidence | Reviewer Concern Addressed |
 |---|---|---|---|---|
@@ -117,7 +135,7 @@ Note:
 
 Audit-valid correctness is not objective ground truth. Strong audit-validity claims require audit-domain expert judgment, coder independence, and reliability procedures appropriate to the study's claims.
 
-## Table 6. Tiered Reporting Standard
+## Table 7. Tiered Reporting Standard
 
 | Study Type | Intended Use | Minimum Reporting | Required Validity Evidence | Claims The Study Should Avoid |
 |---|---|---|---|---|
@@ -164,25 +182,25 @@ Evidence-use divergence assessment
 
 Caption:
 
-Demonstration pipeline used to illustrate how different retrieval designs create different information environments for the same filer-construct task. The main cases support deep claim-level illustration, while the bounded extension checks whether the protocol remains applicable across varied reporting environments. The demonstration is a methodological illustration of source-to-context-to-output-to-claim traceability. It is not designed to evaluate model performance, retrieval-method superiority, or population-level failure-mode prevalence.
+Demonstration pipeline used to illustrate how different retrieval designs create different information environments for the same filer-construct task. The full-scale nine-filer package combines three deep cases for claim-level illustration with six bounded-extension cases that apply the same two-construct, four-condition grid across varied reporting environments. The demonstration is a methodological illustration of source-to-context-to-output-to-claim traceability. It is not designed to evaluate model performance, retrieval-method superiority, or population-level failure-mode prevalence.
 
 Alt text:
 
 Flow diagram showing SEC 10-K and Inline XBRL sources feeding a two-layer case design, text and XBRL extraction, retrieval conditions, controlled LLM prompts, claim-level coding, and evidence-use divergence assessment.
 
-## Table 7. Selected Claim-Level Demonstration Examples
+## Table 8. Selected Claim-Level Demonstration Examples
 
-| Example | Claim ID | Filer | Construct | Condition | Claim Summary | Text Source | XBRL Source | Text Support | Graph Validity | Audit Diagnostic | Integrated Diagnostic | Inference Consequence |
+| Example | Claim ID | Filer | Construct | Condition | Claim Summary | Text Source | XBRL Source | Text Support | Graph Validity | Audit Boundary Diagnostic | Integrated Diagnostic | Inference Consequence |
 |---|---|---|---|---|---|---|---|---:|---:|---:|---:|---|
 | E01 | C058 | Starbucks | Inventory | Hybrid | Inventory reserves were $56.6 million as of September 28, 2025. | T-SBUX-INVENTORY-015 | F-SBUX-0034 | 1 | 1 | 1 | 1 | Hybrid retrieval supports direct narrative-XBRL corroboration for a bounded factual claim. |
-| E02 | C013 | Nike | Revenue | Hybrid | Refund liability increased from $799 million to $1.277 billion and may be a revenue valuation risk cue. | None | F-NKE-0253; F-NKE-0252 | 0 | 0.5 | 1 prelim. | 0.5 | The claim is graph-grounded but effectively XBRL-only despite the hybrid condition. |
-| E03 | C014 | Nike | Revenue | Hybrid | Digital commerce platform failure risk may map to revenue completeness and occurrence. | T-NKE-REVENUE-021 | None | 0.5 | NA | 1 prelim. | 0.5 | The claim is text-supported but does not use XBRL despite the hybrid condition. |
+| E02 | C013 | Nike | Revenue | Hybrid | Refund liability increased from $799 million to $1.277 billion and may be a revenue valuation risk cue. | None | F-NKE-0253; F-NKE-0252 | 0 | 0.5 | 1 prelim. | 0 | The claim is graph-grounded but effectively XBRL-only despite the hybrid condition. |
+| E03 | C014 | Nike | Revenue | Hybrid | Digital commerce platform failure risk may map to revenue completeness and occurrence. | T-NKE-REVENUE-021 | None | 0.5 | NA | 1 prelim. | 0 | The claim is text-supported but does not use XBRL despite the hybrid condition. |
 | E04 | C016 | Nike | Revenue | LLM-only | Context is insufficient to identify filing-specific revenue risk cues. | None | None | NA | NA | 1 prelim. | NA | The no-context baseline supports traceability diagnosis rather than performance comparison. |
-| E05 | C090 | Target | Inventory | Hybrid | Net inventory was $12.740 billion as of February 1, 2025. | None | F-TGT-0007 | 0 | 1 | 1 prelim. | 0.5 | The claim is graph-grounded but does not integrate the available Target inventory narrative context. |
+| E05 | C090 | Target | Inventory | Hybrid | Net inventory was $12.740 billion as of February 1, 2025. | None | F-TGT-0007 | 0 | 1 | 1 prelim. | 0 | The claim is graph-grounded but does not integrate the available Target inventory narrative context. |
 
 Note:
 
-Examples are selected from the full 182-claim coding archive and are included to illustrate correctness layers and evidence-use types. Scores are preliminary author-coded diagnostics used to illustrate the claim-level correctness protocol. They are not final expert audit-validity evidence and should not be interpreted as model-performance measures. Audit-valid and integrated diagnostics require audit-domain expert review before being used for stronger audit-judgment claims.
+Examples are selected from the full 281-claim coding archive and are included to illustrate correctness layers and evidence-use types. Scores are preliminary author-coded diagnostics used to illustrate the claim-level correctness protocol. They are not final expert audit-validity evidence and should not be interpreted as model-performance measures. Audit-valid diagnostics require audit-domain expert review before being used for stronger audit-judgment claims; evidence-use type and integrated correctness are separately evaluated for protocol reliability in the independent coding sample.
 
 ## Submission Use
 

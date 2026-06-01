@@ -1,7 +1,9 @@
-condition,construct,claims,factual_claims,risk_or_assertion_claims,insufficient_context_claims,text_supported_prelim_mean,text_supported_prelim_n,graph_valid_prelim_mean,graph_valid_prelim_n,audit_valid_prelim_mean,audit_valid_prelim_n,integrated_prelim_mean,integrated_prelim_n
-hybrid,inventory,25,12,13,0,0.50,25,0.85,10,1.00,25,0.58,25
-hybrid,revenue,5,2,3,0,0.50,5,1.00,1,1.00,5,0.50,5
-text,inventory,24,10,14,0,0.71,24,NA,0,1.00,24,NA,0
-text,revenue,5,2,3,0,0.70,5,NA,0,1.00,5,NA,0
-xbrl,inventory,25,11,14,0,NA,0,0.72,25,1.00,25,NA,0
-xbrl,revenue,4,2,2,0,NA,0,0.75,4,1.00,4,NA,0
+condition,construct,claims,factual_claims,risk_or_assertion_claims,insufficient_context_claims,text_supported_prelim_mean,text_supported_prelim_n,graph_valid_prelim_mean,graph_valid_prelim_n,integrated_bridge_claims,integrated_bridge_share,weak_or_juxtaposed_claims,text_only_hybrid_claims,xbrl_only_hybrid_claims,no_source_hybrid_claims
+hybrid,inventory,29,14,15,0,0.45,29,0.85,13,4,0.14,0,16,9,0
+hybrid,revenue,30,13,17,0,0.53,30,0.86,7,1,0.03,0,23,6,0
+llm_only,inventory,6,0,0,6,NA,0,NA,0,NA,NA,NA,NA,NA,NA
+llm_only,revenue,6,0,0,6,NA,0,NA,0,NA,NA,NA,NA,NA,NA
+text,inventory,29,12,17,0,0.71,29,NA,0,NA,NA,NA,NA,NA,NA
+text,revenue,30,12,18,0,0.70,30,NA,0,NA,NA,NA,NA,NA,NA
+xbrl,inventory,29,13,16,0,NA,0,0.72,29,NA,NA,NA,NA,NA,NA
+xbrl,revenue,28,14,14,0,NA,0,0.75,28,NA,NA,NA,NA,NA,NA

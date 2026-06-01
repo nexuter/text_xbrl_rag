@@ -1,0 +1,23 @@
+The provided context is insufficient to identify risk cues based on actual revenue totals or segment-specific revenue for the fiscal year 2026, as these data points are not provided.
+
+- Claim: Deferred Gift Card Revenue Current as of 2026-01-31 was $2,941,000,000.
+  - Claim type: Factual
+  - Support used: F-WMT-0030
+  - Limitation: Measurement is limited to the balance at the specific instant of 2026-01-31.
+
+- Claim: Cost of Revenue, Selling, General and Administrative Expenses for Fuel Sales for the Sam's Club US Member for the period ended 2026-01-31 was $8,700,000,000.
+  - Claim type: Factual
+  - Support used: F-WMT-0072
+  - Limitation: Period is limited to the duration 2025-02-01 to 2026-01-31.
+
+- Claim: The balance of $2,941,000,000 in Deferred Gift Card Revenue as of 2026-01-31 represents a risk cue for revenue recognition.
+  - Claim type: Risk-cue / Assertion-mapping
+  - Support used: F-WMT-0030
+  - Inferential bridge: The existence of a significant deferred revenue liability for gift cards implies that revenue recognition is dependent on redemption or expiration. This creates a risk regarding the Accuracy and Cut-off assertions, specifically concerning the estimation of "breakage" (the portion of gift cards that will never be redeemed).
+  - Limitation: Missing the company's specific accounting policy for gift card breakage and the internal controls used to monitor redemption patterns.
+
+- Claim: The downward trend in Cost of Revenue for Fuel Sales for the Sam's Club US Member (from $10.6B in 2024 to $8.7B in 2026) is a risk cue for revenue recognition.
+  - Claim type: Risk-cue / Assertion-mapping
+  - Support used: F-WMT-0074, F-WMT-0073, F-WMT-0072
+  - Inferential bridge: A significant decrease in costs associated with a specific revenue stream (fuel sales) serves as a proxy for activity levels. If the corresponding revenue recognition for this segment does not mirror this trend or is not properly aligned, it may indicate a risk of misstatement regarding the Accuracy or Cut-off of revenue for that segment.
+  - Limitation: Missing the corresponding revenue figures for fuel sales for the 2026 period to perform a margin analysis or validate the cost trend.
