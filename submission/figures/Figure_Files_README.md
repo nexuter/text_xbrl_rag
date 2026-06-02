@@ -9,10 +9,13 @@ This folder contains separate figure graphics for the AJPT submission package.
 | File | Manuscript Figure | Caption Location |
 |---|---|---|
 | `Figure_1_Retrieval_Environment_Validity.svg` | Figure 1. Retrieval-Environment Validity Framework | `AJPT_Main_Manuscript.docx`, Figure Captions section |
+| `Figure_1A_Claim_Correctness_Layers.svg` | Figure 1A. Compact Example of Claim Correctness Layers | `AJPT_Main_Manuscript.docx`, Figure Captions section |
 | `Figure_2_Methodological_Demonstration_Pipeline.svg` | Figure 2. Methodological Demonstration Pipeline | `AJPT_Main_Manuscript.docx`, Figure Captions section |
 | `Figure_1_Retrieval_Environment_Validity.png` | Figure 1 upload-ready PNG | `AJPT_Main_Manuscript.docx`, Figure Captions section |
+| `Figure_1A_Claim_Correctness_Layers.png` | Figure 1A upload-ready PNG | `AJPT_Main_Manuscript.docx`, Figure Captions section |
 | `Figure_2_Methodological_Demonstration_Pipeline.png` | Figure 2 upload-ready PNG | `AJPT_Main_Manuscript.docx`, Figure Captions section |
 | `Figure_1_Retrieval_Environment_Validity.pdf` | Figure 1 PDF alternative | `AJPT_Main_Manuscript.docx`, Figure Captions section |
+| `Figure_1A_Claim_Correctness_Layers.pdf` | Figure 1A PDF alternative | `AJPT_Main_Manuscript.docx`, Figure Captions section |
 | `Figure_2_Methodological_Demonstration_Pipeline.pdf` | Figure 2 PDF alternative | `AJPT_Main_Manuscript.docx`, Figure Captions section |
 
 ## Submission Note

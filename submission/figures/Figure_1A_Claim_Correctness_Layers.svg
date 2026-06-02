@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3600" height="2400" viewBox="0 0 3600 2400">
+  <rect width="3600" height="2400" fill="#ffffff"/>
+  <style>
+    .title { font-family: Arial, Helvetica, sans-serif; font-size: 86px; font-weight: 700; fill: #111111; }
+    .label { font-family: Arial, Helvetica, sans-serif; font-size: 52px; font-weight: 700; fill: #111111; }
+    .text { font-family: Arial, Helvetica, sans-serif; font-size: 46px; fill: #111111; }
+    .small { font-family: Arial, Helvetica, sans-serif; font-size: 38px; fill: #111111; }
+    .box { fill: #ffffff; stroke: #111111; stroke-width: 5; rx: 0; }
+    .line { stroke: #111111; stroke-width: 5; fill: none; marker-end: url(#arrow); }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="18" markerHeight="18" refX="15" refY="9" orient="auto">
+      <path d="M0,0 L18,9 L0,18 Z" fill="#111111"/>
+    </marker>
+  </defs>
+
+  <text x="1800" y="135" text-anchor="middle" class="title">Compact Example of Claim Correctness Layers</text>
+
+  <rect x="145" y="230" width="1510" height="415" class="box"/>
+  <text x="205" y="305" class="label">Retrieved public filing text</text>
+  <text x="205" y="390" class="text">"Inventory reserves increased during the year."</text>
+  <text x="205" y="485" class="small">Source role: narrative disclosure / policy support</text>
+  <text x="205" y="555" class="small">Evidence boundary: public filing support</text>
+
+  <rect x="1995" y="230" width="1460" height="415" class="box"/>
+  <text x="2055" y="305" class="label">Retrieved XBRL fact/path</text>
+  <text x="2055" y="390" class="text">InventoryValuationReserves = 233 million USD</text>
+  <text x="2055" y="485" class="small">Period = FY2025; Unit = USD</text>
+  <text x="2055" y="555" class="small">Relation path preserved</text>
+
+  <line x1="900" y1="645" x2="1550" y2="875" class="line"/>
+  <line x1="2730" y1="645" x2="2070" y2="875" class="line"/>
+
+  <rect x="670" y="875" width="2260" height="260" class="box"/>
+  <text x="1800" y="970" text-anchor="middle" class="label">LLM claim</text>
+  <text x="1800" y="1060" text-anchor="middle" class="text">"The reserve increase is relevant to inventory valuation risk."</text>
+
+  <line x1="1800" y1="1135" x2="1800" y2="1280" class="line"/>
+
+  <rect x="220" y="1280" width="3160" height="720" class="box"/>
+  <text x="300" y="1370" class="label">Correctness-layer reading</text>
+
+  <text x="330" y="1485" class="text">Text-supported?</text>
+  <text x="1120" y="1485" class="text">Yes, if the text states the reserve change.</text>
+
+  <text x="330" y="1600" class="text">Graph-valid?</text>
+  <text x="1120" y="1600" class="text">Yes for the reported amount, period, unit, and relation path.</text>
+
+  <text x="330" y="1715" class="text">Assertion-relevant?</text>
+  <text x="1120" y="1715" class="text">Yes, as a valuation-risk cue from public reporting data.</text>
+
+  <text x="330" y="1830" class="text">Integrated?</text>
+  <text x="1120" y="1830" class="text">Yes only if the claim uses both text and XBRL together.</text>
+
+  <text x="330" y="1945" class="text">Audit conclusion?</text>
+  <text x="1120" y="1945" class="text">No. Reserve adequacy or fair valuation requires additional audit evidence.</text>
+
+  <rect x="520" y="2110" width="2560" height="150" fill="#ffffff" stroke="#111111" stroke-width="4"/>
+  <text x="1800" y="2165" text-anchor="middle" class="small">Source support and XBRL graph validity can support assertion-relevant diagnostics.</text>
+  <text x="1800" y="2225" text-anchor="middle" class="small">They do not establish audit evidence sufficiency.</text>
+</svg>

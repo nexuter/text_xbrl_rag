@@ -5,6 +5,7 @@ $files = @(
     "submission/AJPT_Cover_Letter.docx",
     "submission/AJPT_Main_Manuscript.docx",
     "submission/AJPT_Online_Supplement.docx",
+    "submission/AJPT_Response_to_Reviewers_Second_Revision.docx",
     "submission/AJPT_Title_Page.docx"
 )
 

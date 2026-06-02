@@ -9,7 +9,7 @@
 
 ## Important Limitation
 
-The scores are preliminary author codes generated from the structured LLM outputs. The aggregate table reports source-support and integration diagnostics only; audit-valid coding remains claim-level and requires expert review before being treated as audit-judgment evidence.
+The scores are preliminary author codes generated from the structured LLM outputs. The aggregate table reports source-support and integration diagnostics only; audit-boundary coding remains claim-level and requires expert review before being treated as audit-judgment evidence.
 
 ## Summary by Condition and Construct
 

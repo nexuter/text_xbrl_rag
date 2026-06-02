@@ -17,6 +17,12 @@ $figures = @(
         Height = 2940
     },
     @{
+        Svg = "Figure_1A_Claim_Correctness_Layers.svg"
+        Stem = "Figure_1A_Claim_Correctness_Layers"
+        Width = 3600
+        Height = 2400
+    },
+    @{
         Svg = "Figure_2_Methodological_Demonstration_Pipeline.svg"
         Stem = "Figure_2_Methodological_Demonstration_Pipeline"
         Width = 4200

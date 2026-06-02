@@ -1,0 +1,19 @@
+ticker,company,sample_role,construct,hybrid_text_xbrl_word_imbalance_ratio,minimum_source_set_jaccard,fact_only_jaccard,n_variants_reviewed,separability_attention_band,interpretive_boundary
+CAT,Caterpillar Inc.,bounded_extension,inventory,1.460,0.545,0.545,5,high_separability_attention,Retrieval-stage sensitivity diagnostic only; not output-level robustness or model-performance evidence.
+CAT,Caterpillar Inc.,bounded_extension,revenue,1.030,0.545,0.545,5,high_separability_attention,Retrieval-stage sensitivity diagnostic only; not output-level robustness or model-performance evidence.
+CROX,"Crocs, Inc.",bounded_extension,inventory,1.030,0.545,0.545,5,high_separability_attention,Retrieval-stage sensitivity diagnostic only; not output-level robustness or model-performance evidence.
+CROX,"Crocs, Inc.",bounded_extension,revenue,1.200,0.545,0.545,5,high_separability_attention,Retrieval-stage sensitivity diagnostic only; not output-level robustness or model-performance evidence.
+HD,"Home Depot, Inc.",bounded_extension,inventory,1.030,0.545,0.545,5,high_separability_attention,Retrieval-stage sensitivity diagnostic only; not output-level robustness or model-performance evidence.
+HD,"Home Depot, Inc.",bounded_extension,revenue,1.000,0.545,0.545,5,high_separability_attention,Retrieval-stage sensitivity diagnostic only; not output-level robustness or model-performance evidence.
+MSFT,Microsoft Corp.,bounded_extension,inventory,1.450,0.600,1.000,5,moderate_separability_attention,Retrieval-stage sensitivity diagnostic only; not output-level robustness or model-performance evidence.
+MSFT,Microsoft Corp.,bounded_extension,revenue,1.730,0.600,1.000,5,high_separability_attention,Retrieval-stage sensitivity diagnostic only; not output-level robustness or model-performance evidence.
+NKE,"Nike, Inc.",main_deep_case,inventory,2.150,0.545,0.545,5,high_separability_attention,Retrieval-stage sensitivity diagnostic only; not output-level robustness or model-performance evidence.
+NKE,"Nike, Inc.",main_deep_case,revenue,1.560,0.545,0.545,5,high_separability_attention,Retrieval-stage sensitivity diagnostic only; not output-level robustness or model-performance evidence.
+PFE,Pfizer Inc.,bounded_extension,inventory,1.210,0.545,0.545,5,high_separability_attention,Retrieval-stage sensitivity diagnostic only; not output-level robustness or model-performance evidence.
+PFE,Pfizer Inc.,bounded_extension,revenue,1.460,0.545,0.545,5,high_separability_attention,Retrieval-stage sensitivity diagnostic only; not output-level robustness or model-performance evidence.
+SBUX,Starbucks Corporation,main_deep_case,inventory,1.440,0.545,0.545,5,high_separability_attention,Retrieval-stage sensitivity diagnostic only; not output-level robustness or model-performance evidence.
+SBUX,Starbucks Corporation,main_deep_case,revenue,2.090,0.545,0.545,5,high_separability_attention,Retrieval-stage sensitivity diagnostic only; not output-level robustness or model-performance evidence.
+TGT,Target Corporation,main_deep_case,inventory,1.070,0.545,0.545,5,high_separability_attention,Retrieval-stage sensitivity diagnostic only; not output-level robustness or model-performance evidence.
+TGT,Target Corporation,main_deep_case,revenue,1.430,0.545,0.545,5,high_separability_attention,Retrieval-stage sensitivity diagnostic only; not output-level robustness or model-performance evidence.
+WMT,Walmart Inc.,bounded_extension,inventory,1.190,0.524,0.524,5,high_separability_attention,Retrieval-stage sensitivity diagnostic only; not output-level robustness or model-performance evidence.
+WMT,Walmart Inc.,bounded_extension,revenue,1.140,0.545,0.545,5,high_separability_attention,Retrieval-stage sensitivity diagnostic only; not output-level robustness or model-performance evidence.

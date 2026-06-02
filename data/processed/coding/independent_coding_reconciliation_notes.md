@@ -39,5 +39,5 @@ The coders agreed that text-only, XBRL-only, LLM-only, and hybrid-but-one-source
 
 ## Manuscript Implication
 
-The recoded evidence supports the manuscript's claim that the measurement protocol is reliably applicable by independent coders for the paper's core retrieval-validity variables. It does not convert the demonstration into a model-performance test or final audit-validity study.
+The recoded evidence supports the manuscript's claim that the measurement protocol is reliably applicable by independent coders for the paper's core retrieval-validity variables. It does not convert the demonstration into a model-performance test or final audit-judgment study.
 

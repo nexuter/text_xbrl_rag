@@ -19,7 +19,12 @@ The package also contains older pilot, smoke, and dry-run artifacts for provenan
 | Main deep-case coded claims | `data/processed/coding/claim_level_coding_gemma4_31b.csv` | 94 |
 | Bounded-extension coded claims | `data/processed/coding/claim_level_coding_gemma4_31b_extension.csv` | 187 |
 | Total coded claims | Main plus extension coding files | 281 |
-| Checksum manifest rows | `data/processed/checksums/checksum_manifest.csv` | 408 |
+| Independent coding validation sample | `data/processed/coding/independent_coding_sample.csv` | 120 |
+| Hybrid-condition mechanism claims | `data/processed/coding/hybrid_integration_mechanisms.csv` | 89 |
+| XBRL construct-coverage cells | `data/processed/xbrl_coverage/construct_coverage_by_filer.csv` | 18 |
+| Retrieval perturbation rows | `data/processed/sensitivity/retrieval_perturbation_diagnostics.csv` | 90 |
+| Bounded sensitivity decision-matrix cells | `data/processed/sensitivity/bounded_sensitivity_decision_matrix_by_cell.csv` | 18 |
+| Checksum manifest rows | `data/processed/checksums/checksum_manifest.csv` | 418 |
 
 ## Authoritative Pipeline Inputs
 
@@ -35,6 +40,11 @@ The package also contains older pilot, smoke, and dry-run artifacts for provenan
 | Context-volume summary | `data/processed/retrieval_contexts/context_volume_summary_by_condition.csv` | Reports condition-level context-volume diagnostics for separability transparency |
 | Retrieval perturbation diagnostics | `data/processed/sensitivity/retrieval_perturbation_diagnostics.csv` | Reports deterministic source-set perturbations by filer/construct/variant |
 | Retrieval perturbation summary | `data/processed/sensitivity/retrieval_perturbation_summary_by_variant.csv` | Reports source-environment stability summary by variant |
+| Bounded sensitivity decision matrix | `data/processed/sensitivity/bounded_sensitivity_decision_matrix_by_cell.csv` | Classifies filer-construct cells by retrieval-stage separability attention |
+| Bounded sensitivity variant decisions | `data/processed/sensitivity/bounded_sensitivity_variant_decisions.csv` | Classifies source-set variants by decision band |
+| XBRL construct coverage by filer | `data/processed/xbrl_coverage/construct_coverage_by_filer.csv` | Maps retrieved XBRL facts and paths to ex ante construct families by filer/construct |
+| XBRL construct coverage by family | `data/processed/xbrl_coverage/construct_coverage_by_family.csv` | Reports concept-family coverage across filers |
+| NKE XBRL worked example | `data/processed/xbrl_coverage/xbrl_worked_example_nke_inventory.md` | Links raw facts, relation paths, rendered context, LLM claims, and coding outcomes |
 
 ## Authoritative LLM Runs
 
@@ -73,6 +83,8 @@ The bounded extension is full scale: six additional filers, two constructs, and 
 | `scripts/build_retrieval_contexts.py` | Build retrieval contexts and prompts |
 | `scripts/analyze_context_diagnostics.py` | Build context-volume diagnostics |
 | `scripts/analyze_retrieval_perturbation_diagnostics.py` | Build source-environment perturbation diagnostics |
+| `scripts/analyze_bounded_sensitivity_decision_matrix.py` | Build reviewer-facing bounded sensitivity decision matrix |
+| `scripts/analyze_xbrl_construct_coverage.py` | Build ex ante XBRL construct-family coverage diagnostics |
 | `scripts/run_llm_prompts.py` | Run local Ollama prompts |
 | `scripts/code_llm_claims.py` | Segment and preliminarily code claims |
 | `scripts/analyze_hybrid_integration_mechanisms.py` | Build hybrid integration mechanism diagnostics |
@@ -88,6 +100,9 @@ For manuscript verification, reviewers should start with this file, then inspect
 3. `data/processed/llm_outputs/gemma4_31b_extension/run_manifest.csv`
 4. `data/processed/coding/claim_level_coding_gemma4_31b.csv`
 5. `data/processed/coding/claim_level_coding_gemma4_31b_extension.csv`
-6. `data/processed/checksums/checksum_manifest.csv`
+6. `data/processed/coding/intercoder_reliability_summary.md`
+7. `data/processed/xbrl_coverage/construct_coverage_by_filer.csv`
+8. `data/processed/sensitivity/bounded_sensitivity_decision_summary.md`
+9. `data/processed/checksums/checksum_manifest.csv`
 
 Files listed in `DEPRECATED_OR_PILOT_ARTIFACTS.md` should not be used to verify manuscript counts, tables, or claims.

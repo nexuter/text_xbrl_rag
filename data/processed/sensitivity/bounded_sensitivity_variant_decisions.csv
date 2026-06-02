@@ -1,0 +1,6 @@
+variant,variant_group,n_cells,mean_jaccard,median_jaccard,minimum_jaccard,mean_retained_share,cells_below_0_60,decision_band,reviewer_use
+text_top3,text,18,0.600,0.600,0.600,0.600,0,moderate_source_environment_change,Use to evaluate source-environment sensitivity before interpreting LLM outputs.
+text_top8,text,18,0.625,0.625,0.625,1.000,0,moderate_source_environment_change,Use to evaluate source-environment sensitivity before interpreting LLM outputs.
+xbrl_expanded_fact16_path15,xbrl,18,0.750,0.710,0.710,1.000,0,moderate_source_environment_change,Use to evaluate source-environment sensitivity before interpreting LLM outputs.
+xbrl_fact_only,xbrl,18,0.594,0.545,0.524,0.594,16,material_source_environment_change,Use to evaluate source-environment sensitivity before interpreting LLM outputs.
+xbrl_fact_top8_paths_current,xbrl,18,0.807,0.818,0.667,0.807,0,bounded_source_environment_change,Use to evaluate source-environment sensitivity before interpreting LLM outputs.

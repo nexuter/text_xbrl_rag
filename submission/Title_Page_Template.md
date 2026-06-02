@@ -2,7 +2,7 @@
 
 ## Manuscript Title
 
-Retrieval as Research Design in LLM-Based Audit Research: Retrieval-Environment Validity and XBRL-Augmented Retrieval
+Retrieval as Research Design in LLM-Based Audit Research: Retrieval-Environment Validity and XBRL Relational Retrieval
 
 ## Authors
 

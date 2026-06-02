@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This protocol converts the preliminary author-coded claim archive into an independent coding instrument. It is designed for reviewer-evaluable validation of the measurement protocol used in the methodological demonstration. It should not be used to claim final audit-valid correctness unless coders have appropriate audit-domain expertise and the study reports reliability and reconciliation evidence.
+This protocol converts the preliminary author-coded claim archive into an independent coding instrument. It is designed for reviewer-evaluable validation of the measurement protocol used in the methodological demonstration. It should not be used to claim final audit-judgment correctness unless coders have appropriate audit-domain expertise and the study reports reliability and reconciliation evidence.
 
 ## Coding Sample
 
@@ -24,7 +24,7 @@ A claim is an independently assessable assertion in an LLM output. Coders should
 1. Split factual amount, date, period, or account-balance statements from audit-risk interpretations.
 2. Split causal explanations from factual premises when they require different evidence.
 3. Split multi-account or multi-assertion sentences when source requirements differ.
-4. Preserve caveats and limitations as part of the claim when they determine the audit-valid boundary.
+4. Preserve caveats and limitations as part of the claim when they determine the audit-boundary assessment.
 5. Code insufficient-context statements as claims only when they make a source-boundary assertion, such as stating that the supplied context is insufficient to identify a filing-specific risk.
 
 ## Variables To Code
@@ -98,7 +98,7 @@ Examples:
 
 ### Audit Boundary Note
 
-Audit-valid correctness should be coded qualitatively unless coders are audit-domain experts and the study reports reliability evidence. Coders should note whether the claim:
+Audit-boundary assessment should be coded qualitatively unless coders are audit-domain experts and the study reports reliability evidence for stronger audit-judgment claims. Coders should note whether the claim:
 
 - stays within source-supported or graph-valid boundaries;
 - overreads management-reported XBRL as audit evidence;
@@ -116,8 +116,8 @@ Report:
 - weighted agreement or Krippendorff's alpha for ordinal correctness variables where feasible;
 - reconciliation procedures and examples of ambiguous claims.
 
-Do not report audit-valid means as model-performance evidence unless audit-domain expert coding, reliability evidence, and reconciliation procedures are completed.
+Do not report audit-boundary means as model-performance or audit-judgment evidence unless audit-domain expert coding, reliability evidence, and reconciliation procedures are completed.
 
 ## Current Status
 
-The coding instrument has been completed by two independent coders for a 120-claim validation sample. The completed results and reliability summary are reported in the independent coding results file and intercoder reliability summary. The results support use of the claim-level coding protocol as a methodological diagnostic, while preserving the boundary that the demonstration is not a model-performance validation or final audit-validity study.
+The coding instrument has been completed by two independent coders for a 120-claim validation sample. The completed results and reliability summary are reported in the independent coding results file and intercoder reliability summary. The results support use of the claim-level coding protocol as a methodological diagnostic, while preserving the boundary that the demonstration is not a model-performance validation or final audit-judgment study.

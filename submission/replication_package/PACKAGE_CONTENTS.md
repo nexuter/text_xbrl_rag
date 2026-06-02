@@ -4,7 +4,7 @@
 
 This folder is the submission-facing replication package for:
 
-**Retrieval as Research Design in LLM-Based Audit Research: Retrieval-Environment Validity and XBRL-Augmented Retrieval**
+**Retrieval as Research Design in LLM-Based Audit Research: Retrieval-Environment Validity and XBRL Relational Retrieval**
 
 The package includes processed retrieval artifacts, scripts, model metadata, checksums, and documentation. It excludes the full raw SEC archive by default because raw filings are public and the local raw archive is approximately 360 MB.
 
@@ -14,6 +14,7 @@ The package includes processed retrieval artifacts, scripts, model metadata, che
 |---|---|
 | `README_REPLICATION.md` | End-to-end reproduction instructions |
 | `AUTHORITATIVE_FILES.md` | Identifies manuscript-evidence files and counts |
+| `REVIEWER_FILE_MAP.md` | Maps manuscript claims and tables to evidence files |
 | `DEPRECATED_OR_PILOT_ARTIFACTS.md` | Identifies pilot, smoke, dry-run, and non-authoritative artifacts |
 | `RAW_SEC_RECONSTRUCTION_NOTE.md` | Explains raw SEC exclusion and reconstruction |
 | `config/filer_manifest.json` | Filer sample and accession/source manifest |
@@ -40,7 +41,9 @@ The package includes processed retrieval artifacts, scripts, model metadata, che
 | Independent coder rows | 240 |
 | Independent coding disagreement records | 22 |
 | Hybrid integration mechanism rows | 89 |
-| Checksum manifest rows | 408 |
+| XBRL construct-coverage filer-construct rows | 18 |
+| Bounded sensitivity decision-matrix rows | 18 |
+| Checksum manifest rows | 418 |
 
 ## Raw SEC Archive Policy
 

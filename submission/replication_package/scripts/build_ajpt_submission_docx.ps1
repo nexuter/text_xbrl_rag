@@ -192,7 +192,7 @@ function Extract-MainManuscriptBody {
             $skipNextTitleText = $false
             continue
         }
-        if ($line -match "^\[Insert (Table|Figure) \d+ about here\]") { continue }
+        if ($line -match "^\[Insert (Table|Figure) [0-9A-Za-z]+ about here\]") { continue }
         $out.Add($line)
     }
     return $out.ToArray()
@@ -264,7 +264,7 @@ function Get-FigureCaptions {
     param([string[]]$Lines)
     $items = @()
     for ($i = 0; $i -lt $Lines.Count; $i++) {
-        if ($Lines[$i] -match "^## Figure (\d+)\.\s*(.+)$") {
+        if ($Lines[$i] -match "^## Figure ([0-9A-Za-z]+)\.\s*(.+)$") {
             $num = $Matches[1]
             $title = $Matches[2]
             $caption = ""
@@ -319,7 +319,7 @@ function Build-TitlePage {
     $doc = New-AjptDoc $Word
     $doc.Activate()
     $sel = $Word.Selection
-    Add-Para $sel "Retrieval as Research Design in LLM-Based Audit Research: Retrieval-Environment Validity and XBRL-Augmented Retrieval" "Title"
+    Add-Para $sel "Retrieval as Research Design in LLM-Based Audit Research: Retrieval-Environment Validity and XBRL Relational Retrieval" "Title"
     Add-Blank $sel
     Add-Para $sel "[Author 1 Name]" "Body"
     Add-Para $sel "[Affiliation]" "Body"
@@ -364,7 +364,7 @@ function Build-MainManuscript {
     $manuscriptLines = Extract-MainManuscriptBody $sourceManuscriptLines
     $appendixLines = Extract-AppendixSummary $sourceManuscriptLines
     $tableLines = Get-Content (Join-Path $Submission "Tables_and_Figures.md")
-    Add-Para $sel "Retrieval as Research Design in LLM-Based Audit Research: Retrieval-Environment Validity and XBRL-Augmented Retrieval" "Title"
+    Add-Para $sel "Retrieval as Research Design in LLM-Based Audit Research: Retrieval-Environment Validity and XBRL Relational Retrieval" "Title"
     Add-MarkdownContent $doc $sel $manuscriptLines -SkipTopH1 -TableFontSize 9
     Add-Para $sel "FIGURE CAPTIONS" "Heading1"
     foreach ($fig in (Get-FigureCaptions $tableLines)) {
@@ -403,6 +403,16 @@ function Build-OnlineSupplement {
     Save-Doc $doc (Join-Path $Submission "AJPT_Online_Supplement.docx")
 }
 
+function Build-ResponseToReviewers {
+    param([object]$Word)
+    $doc = New-AjptDoc $Word
+    $doc.Activate()
+    $sel = $Word.Selection
+    $lines = Get-Content (Join-Path $Submission "Response_to_Reviewers_Second_Revision.md")
+    Add-MarkdownContent $doc $sel $lines -TableFontSize 9
+    Save-Doc $doc (Join-Path $Submission "AJPT_Response_to_Reviewers_Second_Revision.docx")
+}
+
 $word = New-Object -ComObject Word.Application
 $word.Visible = $false
 $word.DisplayAlerts = 0
@@ -411,6 +421,7 @@ try {
     Build-CoverLetter $word
     Build-MainManuscript $word
     Build-OnlineSupplement $word
+    Build-ResponseToReviewers $word
 }
 finally {
     $word.Quit()

@@ -122,7 +122,7 @@ def main() -> int:
             "",
             "## Interpretation",
             "",
-            "The manifest supports archival integrity checks for the replication package. It does not validate audit evidence, audit-valid coding, retrieval performance, or exact LLM output determinism.",
+            "The manifest supports archival integrity checks for the replication package. It does not validate audit evidence, audit-boundary coding, retrieval performance, or exact LLM output determinism.",
         ]
     )
     OUTPUT_MD.write_text("\n".join(lines), encoding="utf-8")

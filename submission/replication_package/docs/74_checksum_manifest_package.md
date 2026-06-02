@@ -20,24 +20,24 @@ It is not evidence of audit validity, retrieval performance, model performance, 
 
 | Field | Value |
 |---|---|
-| Generated at UTC | `2026-05-31T22:13:12.339530+00:00` |
+| Generated at UTC | `2026-06-01T21:58:17.433054+00:00` |
 | Hash algorithm | SHA-256 |
-| Total files hashed | 394 |
+| Total files hashed | 418 |
 
 ## Counts By Category
 
 | Category | Files | Size Bytes |
 |---|---:|---:|
 | config | 1 | 4,128 |
-| processed | 380 | 17,115,088 |
-| root | 1 | 10,170 |
-| script | 12 | 124,866 |
+| processed | 399 | 17,225,408 |
+| root | 1 | 13,962 |
+| script | 17 | 174,956 |
 
 ## Reviewer-Facing Interpretation
 
 The checksum manifest strengthens the reproducibility package by adding a file-integrity layer. A reviewer can verify whether the archive used to build the manuscript evidence trail has changed since the manifest was generated.
 
-The checksum manifest does not address the paper's substantive validity boundaries. It does not validate whether XBRL is audit evidence, whether preliminary audit-valid scores are correct, whether retrieval improves LLM reasoning, or whether `gemma4:31b` outputs can be exactly reproduced on another machine.
+The checksum manifest does not address the paper's substantive validity boundaries. It does not validate whether XBRL is audit evidence, whether preliminary audit-boundary diagnostics are correct, whether retrieval improves LLM reasoning, or whether `gemma4:31b` outputs can be exactly reproduced on another machine.
 
 ## How To Rebuild
 

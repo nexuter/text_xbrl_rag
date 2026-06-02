@@ -8,4 +8,4 @@
 | E04 | C016 | Nike | Revenue | LLM-only | Context is insufficient to identify filing-specific revenue risk cues. | None | None | NA | NA | 1 | NA | The no-context baseline supports traceability diagnosis rather than performance comparison. |
 | E05 | C090 | Target | Inventory | Hybrid | Net inventory was $12.740 billion as of February 1, 2025. | None | F-TGT-0007 | 0 | 1 | 1 prelim. | 0 | The claim is graph-grounded but does not integrate the available Target inventory narrative context. |
 
-Note: Audit-valid scores marked preliminary require expert review before final audit-judgment claims. Evidence-use type and integrated correctness are separately evaluated for protocol reliability in the independent coding sample.
+Note: Audit-boundary diagnostics marked preliminary require expert review before final audit-judgment claims. Evidence-use type and integrated correctness are separately evaluated for protocol reliability in the independent coding sample.
